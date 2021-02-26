@@ -1,11 +1,57 @@
+@charset "UTF-8";
+/* CSS Document */
 
-body {
-background-color: #eeefea;
-color: #2f2f30; 
-font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+body{
+	background-color: #EDEEE9;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #BD906E;
 }
 
-ul{
-	font-style: normal;
-	color: #2f2f30;
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    color:#2C2B2C;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+
+}
+
+
+td a {
+    text-decoration: underline;
+    text-align: left;
+}
+
+.active {
+    background-color: #6B4C33;
+	color: white;
+}
+
+.Nav li a:hover {
+    background-color: #946D46;
+	color: white;
+}
+
+h1 {
+font-size: 60px;
+color:#2C2B2C ;
+font-weight: 400;
+text-align: center;
+font-family: 'Cinzel', serif;
+}
+
+.source {
+	background-color: #EDEEE9;
+	text-decoration: underline;
 }
