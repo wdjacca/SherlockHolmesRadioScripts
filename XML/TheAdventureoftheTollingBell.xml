@@ -1,4 +1,4 @@
-<ln><speaker>Series</speaker> Sherlock Holmes </ln>
+<ln><speaker>Series</speaker> <sherlockHolmes>Sherlock Holmes</sherlockHolmes> </ln>
 <ln><speaker>Show</speaker> The Adventure of the Tolling Bell </ln>
 <ln><speaker>Date</speaker> Apr 07 1947 </ln>
 <ln> CAST </ln>
@@ -10,11 +10,11 @@
 <ln> Mrs. Michol </ln>
 <ln> Gillian (pronounced Gil'-ee-an) </ln>
 
-<ln> MUSIC INTRO </ln>
+<music> INTRO </music>
 
-<ln><speaker>ANNOUNCER</speaker> Cramel Hair Tonic and Cramel Shampoo present the new adventures of Sherlock Holmes, starring Nigel Bruce as Dr. Watson, and Tom Conway as Sherlock Holmes. </ln>
+<ln><speaker>ANNOUNCER</speaker> Cramel Hair Tonic and Cramel Shampoo present the new adventures of <sherlockHolmes>Sherlock Holmes</sherlockHolmes>, starring Nigel Bruce as Dr. Watson, and Tom Conway as <sherlockHolmes>Sherlock Holmes</sherlockHolmes>. </ln>
 
-<ln> MUSIC UP AND UNDER </ln>
+<music> UP AND UNDER </music>
 
 <ln><speaker>ANNOUNCER</speaker> Now once again it's time to keep that weekly appointment with our good friend and host, Dr. Watson. Good evening, Dr. Watson. </ln>
 
@@ -30,11 +30,11 @@
 
 <ln><speaker>BELL</speaker> Those stories sound pretty intriguing, Dr. Watson.  </ln>
 
-<ln><speaker>WATSON</speaker> I shall tell them to you some other evening, Mr. Bell. Tonight, I'm going to recount an adventure that took place in the heart of the beautiful English countryside. I call it, "The Adventure of the Tolling Bell." (NARRATING) Well that story began in a small country village of Conforth. Holmes had recently brought to a successful conclusion the affair of the Barrow and Furnace Wheelchair Murders. And we decided a few days rest in nearby Conforth would do us good before returning to our arduous life on Baker Street. We were staying in a small, but comfortable Inn. Only on the morning of the third day, I remember, Holmes and I were in our bedroom waiting for those two essentials without which an English country gentleman could not start his day -- an early morning cup of tea and a jug of hot water for shaving. As we sat there at the open window a nearby church bell was tolling a funeral nell.  </ln>
+<ln><speaker>WATSON</speaker> I shall tell them to you some other evening, Mr. Bell. Tonight, I'm going to recount an adventure that took place in the heart of the beautiful English countryside. I call it, "The Adventure of the Tolling Bell." (NARRATING) Well that story began in a small country village of Conforth.<sherlockHolmes> Holmes</sherlockHolmes> had recently brought to a successful conclusion the affair of the Barrow and Furnace Wheelchair Murders. And we decided a few days rest in nearby Conforth would do us good before returning to our arduous life on Baker Street. We were staying in a small, but comfortable Inn. Only on the morning of the third day, I remember,<sherlockHolmes> Holmes</sherlockHolmes> and I were in our bedroom waiting for those two essentials without which an English country gentleman could not start his day -- an early morning cup of tea and a jug of hot water for shaving. As we sat there at the open window a nearby church bell was tolling a funeral nell.  </ln>
 
-<ln><speaker>F/X</speaker> Bell tolling in distance </ln>
+<fx> Bell tolling in distance </fx>
 
-<ln><speaker>WATSON</speaker> There must be a funeral in the village, Holmes. </ln>
+<ln><speaker>WATSON</speaker> There must be a funeral in the village,<sherlockHolmes> Holmes</sherlockHolmes>. </ln>
 
 <ln><speaker>HOLMES</speaker> An astonishing deduction, Watson. </ln>
 
@@ -50,7 +50,7 @@
 
 <ln><speaker>HOLMES</speaker> Yes, Watson. It's a fascinating subject. </ln>
 
-<ln><speaker>F/X</speaker> KNOCK at DOOR </ln>
+<fx> KNOCK at DOOR </fx>
 
 <ln><speaker>WATSON</speaker> Come in, come in. Good morning, my dear. </ln>
 
@@ -60,7 +60,7 @@
 
 <ln><speaker>MARY</speaker> (on the verge of tears) That I do, sir. I wish it was me. It will be my turn soon. </ln>
 
-<ln><speaker>F/X</speaker> Door CLOSES </ln>
+<fx> Door CLOSES </fx>
 
 <ln><speaker>WATSON</speaker> Poor little thing. I wonder what's the matter with her? </ln>
 
@@ -70,9 +70,9 @@
 
 <ln><speaker>HOLMES</speaker> Watson, you have the sentimental imagination of the true storyteller. But we've come here for a holiday. You must give your imagination a rest, too. So, drink your tea, remove your whiskers, and we'll go downstairs and investigate those kippers. </ln>
 
-<ln> MUSIC UP AND OUT </ln>
+<music> UP AND OUT </music>
 
-<ln><speaker>F/X</speaker> CUPS, SAUCERS and general BREAKFAST NOISES under the following. </ln>
+<fx> CUPS, SAUCERS and general BREAKFAST NOISES under the following. </fx>
 
 <ln><speaker>MRS. MICHOL</speaker> You like your kippers, gentlemen? </ln>
 
@@ -90,13 +90,13 @@
 
 <ln><speaker>HOLMES</speaker> Thank you.  </ln>
 
-<ln><speaker>WATSON</speaker> Shocking! So the peaceful countryside is not as peaceful as it's made out to be, Holmes. </ln>
+<ln><speaker>WATSON</speaker> Shocking! So the peaceful countryside is not as peaceful as it's made out to be,<sherlockHolmes> Holmes</sherlockHolmes>. </ln>
 
 <ln><speaker>HOLMES</speaker> Thank that I frequently had occasion to point out to you, Watson. Has the morning post arrived yet, Mrs. Michol? </ln>
 
 <ln><speaker>MRS. MICHOL</speaker> Here comes ol' Gilly up the path with it now. I'll see if he's got anything for you. </ln>
 
-<ln><speaker>WATSON</speaker> A murder. What do you make of it, Holmes? </ln>
+<ln><speaker>WATSON</speaker> A murder. What do you make of it,<sherlockHolmes> Holmes</sherlockHolmes>? </ln>
 
 <ln><speaker>HOLMES</speaker> What is there to make of it, Watson? A jealous husband murders a faithfuless wife and then commits suicide. A tragic story, but a simple one. </ln>
 
@@ -104,9 +104,9 @@
 
 <ln><speaker>HOLMES</speaker> Good morning, Gillian. Any letters for me today? </ln>
 
-<ln><speaker>GILLIAN</speaker> Aye, Mr. Holmes, two letters. One of them's got some newspaper clippings in it I think. And you got a postcard from a Mr. Lestrade, he wants you back in London bad Mr. Holmes. There you are.  </ln>
+<ln><speaker>GILLIAN</speaker> Aye, Mr.<sherlockHolmes> Holmes</sherlockHolmes>, two letters. One of them's got some newspaper clippings in it I think. And you got a postcard from a Mr. Lestrade, he wants you back in London bad Mr.<sherlockHolmes> Holmes</sherlockHolmes>. There you are.  </ln>
 
-<ln><speaker>WATSON</speaker> Pardon myself, Gilly, you've been reading Mr. Holmes private correspondence. </ln>
+<ln><speaker>WATSON</speaker> Pardon myself, Gilly, you've been reading Mr.<sherlockHolmes> Holmes</sherlockHolmes> private correspondence. </ln>
 
 <ln><speaker>GILLIAN</speaker> Bless your heart, Dr. Watson. If I didn't read other people's correspondence, how would I know what's going on in the village? </ln>
 
@@ -130,7 +130,7 @@
 
 <ln><speaker>GILLIAN</speaker> Young Saint Perry is marrying the Slater girl. And you might say I'm responsible for bringing them together. Got some of their letters mixed up I did. They looked each other up to exchange them, and, presto, before you know what's happening, they're getting married. Regular cupid you might say I am. </ln>
 
-<ln><speaker>MRS. MICHOL</speaker> Be off with you, Gilly. Other people want their letters. Mr. Holmes doesn't want his kippers spoiled with your idle chatter. </ln>
+<ln><speaker>MRS. MICHOL</speaker> Be off with you, Gilly. Other people want their letters. Mr.<sherlockHolmes> Holmes</sherlockHolmes> doesn't want his kippers spoiled with your idle chatter. </ln>
 
 <ln><speaker>GILLIAN</speaker> All right, Mrs. Crab-Apples-and-Vinegar.  </ln>
 
@@ -138,7 +138,7 @@
 
 <ln><speaker>GILLIAN</speaker> One of these fine days you'll smile, and the world will come to an end. Good day, gentlemen. </ln>
 
-<ln><speaker>MRS. MICHOL</speaker> Talkative ol' busybody he is. Oh, Mr. Holmes, Mrs. Lakland's in the hall. The poor old lady is most anxious to talk to you. </ln>
+<ln><speaker>MRS. MICHOL</speaker> Talkative ol' busybody he is. Oh, Mr.<sherlockHolmes> Holmes</sherlockHolmes>, Mrs. Lakland's in the hall. The poor old lady is most anxious to talk to you. </ln>
 
 <ln><speaker>HOLMES</speaker> Mrs. Lakland? </ln>
 
@@ -146,19 +146,19 @@
 
 <ln><speaker>WATSON</speaker> Oh, but my friend's here for a rest, Mrs. Michol. </ln>
 
-<ln><speaker>MRS. MICHOL</speaker> I told her that Dr, but she won't go away without seeing Mr. Holmes. </ln>
+<ln><speaker>MRS. MICHOL</speaker> I told her that Dr, but she won't go away without seeing Mr.<sherlockHolmes> Holmes</sherlockHolmes>. </ln>
 
 <ln><speaker>HOLMES</speaker> Oh, very well. Ask her to come in, please, Mrs. Michol. </ln>
 
-<ln><speaker>MRS. MICHOL</speaker> Yes, Mr. Holmes. </ln>
+<ln><speaker>MRS. MICHOL</speaker> Yes, Mr.<sherlockHolmes> Holmes</sherlockHolmes>. </ln>
 
-<ln><speaker>WATSON</speaker> Oh, I do bother to see her, Holmes. Sounds like a trivial matter.  </ln>
+<ln><speaker>WATSON</speaker> Oh, I do bother to see her,<sherlockHolmes> Holmes</sherlockHolmes>. Sounds like a trivial matter.  </ln>
 
 <ln><speaker>HOLMES</speaker> The disappearance of an only son can never be a trivial matter. </ln>
 
 <ln><speaker>WATSON</speaker> Well, I meant trivial for you, not for her. </ln>
 
-<ln><speaker>MICHOL</speaker> This is Mr. Holmes, and Doctor Watson, dear. </ln>
+<ln><speaker>MICHOL</speaker> This is Mr.<sherlockHolmes> Holmes</sherlockHolmes>, and Doctor Watson, dear. </ln>
 
 <ln><speaker>MRS. LAKLAND</speaker> Thank you, Emmy. Good morning, sirs. </ln>
 
@@ -174,7 +174,7 @@
 
 <ln><speaker>HOLMES</speaker> Have you any idea of his reason for leaving the village, Mrs. Lakland? </ln>
 
-<ln><speaker>MRS. LAKLAND</speaker> None, sir. He was a good boy and he worked hard, and he didn't fool around with those flibbity gibbit girls in the village. I think he's met with foul play gentlemen, and I want you to find out about him for me, Mr. Holmes. I've heard say in the village that you're the greatest detective in England. </ln>
+<ln><speaker>MRS. LAKLAND</speaker> None, sir. He was a good boy and he worked hard, and he didn't fool around with those flibbity gibbit girls in the village. I think he's met with foul play gentlemen, and I want you to find out about him for me, Mr.<sherlockHolmes> Holmes</sherlockHolmes>. I've heard say in the village that you're the greatest detective in England. </ln>
 
 <ln><speaker>HOLMES</speaker> Mrs. Lakland, I'd be glad to help you, but you've given me no clues to work with. I'm afraid that I . . . </ln>
 
@@ -182,11 +182,11 @@
 
 <ln><speaker>HOLMES</speaker> Mrs. Lakland, I wouldn't dream of accepting a fee. However I shall give your problem some thought. If I arrive at any conclusions, I'll get in touch with you at once. </ln>
 
-<ln><speaker>MRS. LAKLAND</speaker> God bless you, Mr. Holmes. Good morning to you, sirs. </ln>
+<ln><speaker>MRS. LAKLAND</speaker> God bless you, Mr.<sherlockHolmes> Holmes</sherlockHolmes>. Good morning to you, sirs. </ln>
 
 <ln><speaker>HOLMES</speaker> Good day. </ln>
 
-<ln><speaker>WATSON</speaker> Good morning, Mrs. Lakland. Poor old thing. I don't see how you can help her, Holmes. </ln>
+<ln><speaker>WATSON</speaker> Good morning, Mrs. Lakland. Poor old thing. I don't see how you can help her,<sherlockHolmes> Holmes</sherlockHolmes>. </ln>
 
 <ln><speaker>HOLMES</speaker> Nor do I -- at the moment. But a young man who has grown up in a small village like this may have led a life that his mother is totally unaware of. You said that you have to work on one of your stories today, Watson. </ln>
 
@@ -194,13 +194,13 @@
 
 <ln><speaker>HOLMES</speaker> Splendid! Then you must stay at the Inn and work on your latest masterpiece, while I scour the village to see what may be found out about the missing young man. </ln>
 
-<ln> MUSIC UP AND OUT </ln>
+<music> UP AND OUT </music>
 
-<ln><speaker>F/X</speaker> Bells TOLLING in B/G </ln>
+<fx> Bells TOLLING in B/G </fx>
 
-<ln><speaker>F/X</speaker> DOOR OPENS </ln>
+<fx> DOOR OPENS </fx>
 
-<ln><speaker>WATSON</speaker> There you are, Holmes! I was beginning to think you got lost. </ln>
+<ln><speaker>WATSON</speaker> There you are,<sherlockHolmes> Holmes</sherlockHolmes>! I was beginning to think you got lost. </ln>
 
 <ln><speaker>HOLMES</speaker> Hello, Watson. I trust you had a profitable session with pen and paper? </ln>
 
@@ -216,11 +216,11 @@
 
 <ln><speaker>HOLMES</speaker> No it's her half-day off and I was unable to find her. But I shall question her when she brings our tea tomorrow morning. </ln>
 
-<ln> MUSIC UP AND OUT </ln>
+<music> UP AND OUT </music>
 
-<ln><speaker>F/X</speaker> KNOCK AT DOOR </ln>
+<fx> KNOCK AT DOOR </fx>
 
-<ln><speaker>F/X</speaker> DOOR OPENS </ln>
+<fx> DOOR OPENS </fx>
 
 <ln><speaker>HOLMES</speaker> Come in, Mary.  </ln>
 
@@ -252,9 +252,9 @@
 
 <ln><speaker>HOLMES</speaker> To see the maid, Mary. I'm anxious to talk to her before another funeral bell begins to toll. </ln>
 
-<ln> MUSIC UP AND OUT </ln>
+<music> UP AND OUT </music>
 
-<ln><speaker>F/X</speaker> CARRIAGE PULLING UP </ln>
+<fx> CARRIAGE PULLING UP </fx>
 
 <ln><speaker>WATSON</speaker> This must be the cottage home. They said it was the one with honeysuckle over the gate. </ln>
 
@@ -264,7 +264,7 @@
 
 <ln><speaker>HOLMES</speaker> Good morning, Mary. I'm sorry you're not feeling well. </ln>
 
-<ln><speaker>MARY</speaker> Mr. Holmes, Dr. Watson. Why've you come here? Not to ask about my health? Why should a servant girl matter to gentlemen like you? </ln>
+<ln><speaker>MARY</speaker> Mr.<sherlockHolmes> Holmes</sherlockHolmes>, Dr. Watson. Why've you come here? Not to ask about my health? Why should a servant girl matter to gentlemen like you? </ln>
 
 <ln><speaker>WATSON</speaker> Oh, you misjudged us, my dear. I assure you that we . . . </ln>
 
@@ -278,9 +278,9 @@
 
 <ln><speaker>HOLMES</speaker> Yes, Tom Lakland. I thought you might be able to help me, Marian. </ln>
 
-<ln><speaker>MARY</speaker> If I could help you, Mr. Holmes, I'd be helping myself too. Here comes Gilly, the postman.  </ln>
+<ln><speaker>MARY</speaker> If I could help you, Mr.<sherlockHolmes> Holmes</sherlockHolmes>, I'd be helping myself too. Here comes Gilly, the postman.  </ln>
 
-<ln><speaker>F/X</speaker> FOOTSTEPS on DIRT  </ln>
+<fx> FOOTSTEPS on DIRT  </fx>
 
 <ln><speaker>MARY</speaker> Gilly, Gilly, is there a letter for me today? </ln>
 
@@ -288,7 +288,7 @@
 
 <ln><speaker>MARY</speaker> There must, be Gilly, there must be there. </ln>
 
-<ln><speaker>GILLIAN</speaker> No, lass. If the letter would come, I'd bring it to you as fast as me legs would carry me, you know that. Morning, Mr. Holmes, Dr. Watson. Left some letters at the Inn for you, Doctor. You had a letter from a lady. </ln>
+<ln><speaker>GILLIAN</speaker> No, lass. If the letter would come, I'd bring it to you as fast as me legs would carry me, you know that. Morning, Mr.<sherlockHolmes> Holmes</sherlockHolmes>, Dr. Watson. Left some letters at the Inn for you, Doctor. You had a letter from a lady. </ln>
 
 <ln><speaker>WATSON</speaker> How did you know it was from a lady? </ln>
 
@@ -332,7 +332,7 @@
 
 <ln><speaker>HOLMES</speaker> We're going to the town of Berry, in search of this young lady's husband. </ln>
 
-<ln><speaker>MARY</speaker> What makes you think Tom might be in Berry, Mr. Holmes? </ln>
+<ln><speaker>MARY</speaker> What makes you think Tom might be in Berry, Mr.<sherlockHolmes> Holmes</sherlockHolmes>? </ln>
 
 <ln><speaker>HOLMES</speaker> Because the famous Fortune Cotton Mills are in Berry. It would seem possible that when your husband joked of burying his fortune, he was talking of going to the mills there. </ln>
 
@@ -340,11 +340,11 @@
 
 <ln><speaker>WATSON</speaker> Now, now, now, now, don't talk like that, my dear. Remember you have friends, Mrs. Lakland. </ln>
 
-<ln> MUSIC UP AND OUT </ln>
+<music> UP AND OUT </music>
 
-<ln><speaker>F/X</speaker> FACTORY WHISTLE </ln>
+<fx> FACTORY WHISTLE </fx>
 
-<ln><speaker>WATSON</speaker> How much longer is Holmes going to be? He leaves me standing outside the factory gates as if I were a blasted coachman. Ah there he is, there he is! Holmes! Holmes! </ln>
+<ln><speaker>WATSON</speaker> How much longer is<sherlockHolmes> Holmes</sherlockHolmes> going to be? He leaves me standing outside the factory gates as if I were a blasted coachman. Ah there he is, there he is!<sherlockHolmes> Holmes</sherlockHolmes>!<sherlockHolmes> Holmes</sherlockHolmes>! </ln>
 
 <ln><speaker>HOLMES</speaker> Hello, Watson. Permit me to introduce you to Mr. Tom Lakland. Tom, this is Dr. Watson. </ln>
 
@@ -362,39 +362,39 @@
 
 <ln><speaker>HOLMES</speaker> No let's waste time on being acrimonious Watson. Let's get back to the station as fast as we can. The return of the prodigal is long overdue. We must give them every opportunity to kill the fatted calf. </ln>
 
-<ln> MUSIC UP AND OUT </ln>
+<music> UP AND OUT </music>
 
 <ln><speaker>TOM</speaker> Ah, there's Mary's house, I'm dying to see her. </ln>
 
 <ln><speaker>HOLMES</speaker> And after this reunion, Tom, I suggest that you both go over and see your mother. I'm sure she'll forgive you.  </ln>
 
-<ln><speaker>TOM</speaker> Yes, Mr. Holmes, I'll do that. </ln>
+<ln><speaker>TOM</speaker> Yes, Mr.<sherlockHolmes> Holmes</sherlockHolmes>, I'll do that. </ln>
 
 <ln><speaker>WATSON</speaker> Perhaps we should've warned her. Your sudden appearance may be something of a shock. </ln>
 
 <ln><speaker>TOM</speaker> I think it's a shock that Mary can handle.  </ln>
 
-<ln><speaker>F/X</speaker> KNOCKING at DOOR </ln>
+<fx> KNOCKING at DOOR </fx>
 
 <ln><speaker>TOM</speaker> She must be out. The door's locked. </ln>
 
 <ln><speaker>WATSON</speaker> Knock again if you don't mind. She may be asleep.  </ln>
 
-<ln><speaker>F/X</speaker> MORE KNOCKING </ln>
+<fx> MORE KNOCKING </fx>
 
-<ln><speaker>F/X</speaker> GUNSHOT  </ln>
+<fx> GUNSHOT  </fx>
 
 <ln><speaker>WATSON</speaker> Great heavens, that was a revolver shot! </ln>
 
 <ln><speaker>HOLMES</speaker> Come on Watson! Help me break in the door! </ln>
 
-<ln><speaker>F/X</speaker> DOOR BEING BROKEN DOWN </ln>
+<fx> DOOR BEING BROKEN DOWN </fx>
 
-<ln> MUSIC UP AND OUT </ln>
+<music> UP AND OUT </music>
 
 <ln><speaker>BELL</speaker> Now, Dr. Watson, that was a fine place to break off your story. You left me right on the edge of a cliff. Had the young girl shot herself? </ln>
 
-<ln><speaker>WATSON</speaker> She'd shot at herself, Mr. Bell, but fortunately her last minute lack of courage had made her shot go wild. Homes and I and the young bridegroom burst into the house and rescued the smoking revolver from her hand. I must confess the reunion between the two young lovers was a touching sight. In fact, I felt considerably older than I was as Holmes and I stood there listening to Tom reassuring her. </ln>
+<ln><speaker>WATSON</speaker> She'd shot at herself, Mr. Bell, but fortunately her last minute lack of courage had made her shot go wild. Homes and I and the young bridegroom burst into the house and rescued the smoking revolver from her hand. I must confess the reunion between the two young lovers was a touching sight. In fact, I felt considerably older than I was as<sherlockHolmes> Holmes</sherlockHolmes> and I stood there listening to Tom reassuring her. </ln>
 
 <ln><speaker>TOM</speaker> Mary, darling, it's all right. I'm here. </ln>
 
@@ -428,11 +428,11 @@
 
 <ln><speaker>HOLMES</speaker> Precisely! Surely the whole terrible pattern begins to take shape. Tom? </ln>
 
-<ln><speaker>TOM</speaker> Yes, Mr. Holmes. </ln>
+<ln><speaker>TOM</speaker> Yes, Mr.<sherlockHolmes> Holmes</sherlockHolmes>. </ln>
 
 <ln><speaker>HOLMES</speaker> I'm going to lay a trap. To spring it I shall need your assistance. </ln>
 
-<ln><speaker>TOM</speaker> Of course, Mr. Holmes, I'll do anything.  </ln>
+<ln><speaker>TOM</speaker> Of course, Mr.<sherlockHolmes> Holmes</sherlockHolmes>, I'll do anything.  </ln>
 
 <ln><speaker>HOLMES</speaker> Wait here with Mary until darkness falls. Then muffle yourselves up and go to your mother's house. Wait there in hiding and let no outsiders see you until you hear from me. </ln>
 
@@ -440,17 +440,17 @@
 
 <ln><speaker>HOLMES</speaker> Quiet, Watson. You understand, Tom? </ln>
 
-<ln><speaker>TOM</speaker> Yes, Mr. Holmes. </ln>
+<ln><speaker>TOM</speaker> Yes, Mr.<sherlockHolmes> Holmes</sherlockHolmes>. </ln>
 
 <ln><speaker>HOLMES</speaker> Good. Come on, Watson. </ln>
 
-<ln><speaker>WATSON</speaker> What's your plan, Holmes? </ln>
+<ln><speaker>WATSON</speaker> What's your plan,<sherlockHolmes> Holmes</sherlockHolmes>? </ln>
 
 <ln><speaker>HOLMES</speaker> I'll tell you as we go. One thing I can promise you. Before the sun is very high tomorrow I shall free this village from one of the most subtly evil powers I've ever come in contact with. </ln>
 
-<ln> MUSIC UP AND OUT </ln>
+<music> UP AND OUT </music>
 
-<ln><speaker>MICHOL</speaker> Good Morning, Dr. Watson. Mr. Holmes. </ln>
+<ln><speaker>MICHOL</speaker> Good Morning, Dr. Watson. Mr.<sherlockHolmes> Holmes</sherlockHolmes>. </ln>
 
 <ln><speaker>WATSON</speaker> Good morning, Mrs. Michol. </ln>
 
@@ -464,15 +464,15 @@
 
 <ln><speaker>MICHOL</speaker> Well, I'll be getting into the church. </ln>
 
-<ln><speaker>WATSON</speaker> Holmes this farce is beginning to get on my nerves. What are we accomplishing by burying an empty coffin? </ln>
+<ln><speaker>WATSON</speaker><sherlockHolmes> Holmes</sherlockHolmes> this farce is beginning to get on my nerves. What are we accomplishing by burying an empty coffin? </ln>
 
 <ln><speaker>HOLMES</speaker> You'll soon see, old chap. Come on. Let's slip into the vestry. This way. </ln>
 
-<ln><speaker>F/X</speaker> BELLS TOLLING throughout </ln>
+<fx> BELLS TOLLING throughout </fx>
 
-<ln><speaker>F/X</speaker> DOOR OPENS </ln>
+<fx> DOOR OPENS </fx>
 
-<ln><speaker>F/X</speaker> TWO SETS of FOOTSTEPS </ln>
+<fx> TWO SETS of FOOTSTEPS </fx>
 
 <ln><speaker>WATSON</speaker> Where're we going, Homes? </ln>
 
@@ -486,15 +486,15 @@
 
 <ln><speaker>HOLMES</speaker> Obviously. That's why his power must be destroyed. This door apparently leads to the belfry. Keep your wits about you Watson. </ln>
 
-<ln><speaker>F/X</speaker> SQUEAKY DOOR OPENS </ln>
+<fx> SQUEAKY DOOR OPENS </fx>
 
-<ln><speaker>F/X</speaker> BELLS GET LOUDER as they enter the belfry </ln>
+<fx> BELLS GET LOUDER as they enter the belfry </fx>
 
 <ln> [they all shout over the bells] </ln>
 
 <ln><speaker>HOLMES</speaker> Good morning, Gilly. </ln>
 
-<ln><speaker>GILLIAN</speaker> Mr. Holmes, Dr. Watson. You've come to see me at work. That's nice of ya. Not often I get company up here.  </ln>
+<ln><speaker>GILLIAN</speaker> Mr.<sherlockHolmes> Holmes</sherlockHolmes>, Dr. Watson. You've come to see me at work. That's nice of ya. Not often I get company up here.  </ln>
 
 <ln><speaker>HOLMES</speaker> We haven't come up here to see you at work, Gilly. We know your diabolical work only too well. </ln>
 
@@ -516,7 +516,7 @@
 
 <ln><speaker>HOLMES</speaker> Your reign is over Gillian. You'll never toll a bell again. The only one you'll hear will be a prison bell. </ln>
 
-<ln><speaker>GILLIAN</speaker> You can't touch me, Mr. Holmes. You've got no proof. There's nothing you can do. </ln>
+<ln><speaker>GILLIAN</speaker> You can't touch me, Mr.<sherlockHolmes> Holmes</sherlockHolmes>. You've got no proof. There's nothing you can do. </ln>
 
 <ln><speaker>HOLMES</speaker> Don't be too sure. I have enough influence to take your job away. </ln>
 
@@ -534,9 +534,9 @@
 
 <ln><speaker>HOLMES</speaker> Is full of stone. You'll be the laughing stock of the village, Gilly. </ln>
 
-<ln><speaker>GILLIAN</speaker> They'll never laugh at Gilly. (fade off mic) You can't catch me, Mr. Holmes. I'm beyond you still! </ln>
+<ln><speaker>GILLIAN</speaker> They'll never laugh at Gilly. (fade off mic) You can't catch me, Mr.<sherlockHolmes> Holmes</sherlockHolmes>. I'm beyond you still! </ln>
 
-<ln><speaker>F/X</speaker> Gilly running up a SQUEAKY LADDER </ln>
+<fx> Gilly running up a SQUEAKY LADDER </fx>
 
 <ln><speaker>WATSON</speaker> He's running up the ladder leading to the bell tower. </ln>
 
@@ -546,7 +546,7 @@
 
 <ln><speaker>HOLMES</speaker> Quite. </ln>
 
-<ln><speaker>WATSON</speaker> What's he going to do up there? He might set fire to the steeple. Could make any madness. I'm going to fetch him, Holmes. </ln>
+<ln><speaker>WATSON</speaker> What's he going to do up there? He might set fire to the steeple. Could make any madness. I'm going to fetch him,<sherlockHolmes> Holmes</sherlockHolmes>. </ln>
 
 <ln><speaker>HOLMES</speaker> No, Watson. He drew a knife as he fled. And with that rickety staircase and the narrow opening leading into the bell chamber you'd never stand a chance. He'd get you on the first ledge. </ln>
 
@@ -554,7 +554,7 @@
 
 <ln><speaker>HOLMES</speaker> There's only one way. He's in a tiny loft containing his beloved bells. We'll see how much he loves them at close quarters. I doubt if even he can stand the noise in that confined space. Where's that bell rope? </ln>
 
-<ln><speaker>F/X</speaker> BELLS begin to TOLL LOUDLY </ln>
+<fx> BELLS begin to TOLL LOUDLY </fx>
 
 <ln><speaker>WATSON</speaker> Come down, Gilly. Come down from there. </ln>
 
@@ -568,24 +568,24 @@
 
 <ln><speaker>GILLIAN</speaker> I'm coming! [Gilly screams as he jumps from the tower] </ln>
 
-<ln><speaker>F/X</speaker> BODY THUD TO GROUND </ln>
+<fx> BODY THUD TO GROUND </fx>
 
-<ln><speaker>WATSON</speaker> Great Heavens, he hurled himself out of the belfry. Holmes, he hasn't the chance of surviving that fall. </ln>
+<ln><speaker>WATSON</speaker> Great Heavens, he hurled himself out of the belfry.<sherlockHolmes> Holmes</sherlockHolmes>, he hasn't the chance of surviving that fall. </ln>
 
 <ln><speaker>HOLMES</speaker> I had no intention of causing that unhappy man to jump to his death, Watson. Though I can't help but feel that his poor, demented mind may find a happier oblivion this way rather than in the confines of an asylum. </ln>
 
-<ln><speaker>WATSON</speaker> Yes, you're probably right, Holmes. </ln>
+<ln><speaker>WATSON</speaker> Yes, you're probably right,<sherlockHolmes> Holmes</sherlockHolmes>. </ln>
 
 <ln><speaker>HOLMES</speaker> It's been a shocking case, Watson. Shocking. And once again it proves the old saying that "violence does intrude recoil upon the violent." And, "the schemer falls into the pit which he digs for another." </ln>
 
-<ln> MUSIC UP AND OUT </ln>
+<music> UP AND OUT </music>
 
 <ln><speaker>BELL</speaker> Now, Dr. Watson, what about next week? </ln>
 
-<ln><speaker>WATSON</speaker> Well, now let me see, what's left in here. Next week I'll tell you a rather gruesome story about how Sherlock Holmes saved the life and the sanity of a certain Count Ramanea. I call it "The Adventure of the Carpethean Horror." </ln>
+<ln><speaker>WATSON</speaker> Well, now let me see, what's left in here. Next week I'll tell you a rather gruesome story about how <sherlockHolmes>Sherlock Holmes</sherlockHolmes> saved the life and the sanity of a certain Count Ramanea. I call it "The Adventure of the Carpethean Horror." </ln>
 
-<ln> MUSIC UP AND OUT </ln>
+<music> UP AND OUT </music>
 
-<ln><speaker>ANNOUNCER</speaker> Tonight's new Sherlock Holmes adventure was suggested by an incident in Sir Arthur Conan Doyle's story, The Golden Pince Nez. The Sherlock Holmes's series is produced by Tom McNight with original music composed and conducted by Alex Steiner. This is Joseph Bell speaking for Cramel Hair Tonic and Cramel Shampoo, and inviting you to be with us next week at this same time when Dr. Watson will tell us . . .  </ln>
+<ln><speaker>ANNOUNCER</speaker> Tonight's new <sherlockHolmes>Sherlock Holmes</sherlockHolmes> adventure was suggested by an incident in Sir Arthur Conan Doyle's story, The Golden Pince Nez. The <sherlockHolmes>Sherlock Holmes</sherlockHolmes>'s series is produced by Tom McNight with original music composed and conducted by Alex Steiner. This is Joseph Bell speaking for Cramel Hair Tonic and Cramel Shampoo, and inviting you to be with us next week at this same time when Dr. Watson will tell us . . .  </ln>
 
 <ln><speaker>WATSON</speaker> The Adventure of the Carpethean Horror. </ln>
