@@ -682,7 +682,7 @@ WATSON: (AMUSED) Great Scott! She was much more clever than you thought, Holmes!
 
 KING: (IMPATIENT) Ja, ja, go on. What else does it say?
 
-HOLMES: (CLEARS THROAT, READS) "My husband and I both thought that the best recourse was flight, so you will find the nest empty. As to the photograph of the King and myself, his Majesty may rest in peace." (TO HIMSELF) Oh, thank goodness for that. (READS) "I love and am loved by a better man than he. I leave another photograph, however, that he might care to possess; and I remain, dear Mr. Sherlock Holmes, very truly yours, Irene Norton, née Adler." (IMPRESSED, EXCITED) What a woman, Watson; what a woman; what a magnificent woman! She fooled me completely! (CATCHES HIMSELF) But-- Oh. I, uh-- I'm sorry, your Majesty, I - I've been unable to bring your business to a more successful conclusion.
+HOLMES: (CLEARS THROAT, READS) "My husband and I both thought that the best recourse was flight, so you will find the nest empty. As to the photograph of the King and myself, his Majesty may rest in peace." (TO HIMSELF) Oh, thank goodness for that. (READS) "I love and am loved by a better man than he. I leave another photograph, however, that he might care to possess; and I remain, dear Mr. Sherlock Holmes, very truly yours, Irene Norton, ne Adler." (IMPRESSED, EXCITED) What a woman, Watson; what a woman; what a magnificent woman! She fooled me completely! (CATCHES HIMSELF) But-- Oh. I, uh-- I'm sorry, your Majesty, I - I've been unable to bring your business to a more successful conclusion.
 
 KING: On the contrary, my dear sir. Nothing could be more successful. I know that Irene's word is inviolate. The incriminating photograph is now as safe as if it were in the fire.
 

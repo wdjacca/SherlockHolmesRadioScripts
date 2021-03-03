@@ -1,7 +1,7 @@
 Series: Sherlock Holmes
 Show: Murder in the Casbah
-Date: Dec 03 1945
-CAST:
+Date: Dec 0
+3 1945CAST:
 ANNOUNCER, Harry Bartell
 SHERLOCK HOLMES
 DR. WATSON

@@ -1,0 +1,16 @@
+start = element xml {metadata, scene}
+metadata = element metadata {series, show, date, castList}
+series = element series {text}
+show = element show {text}
+date = element date {when, text}
+when = attribute when {xsd:date}
+castList = element castList {text,cast+}
+cast = element cast {ref,text}
+ref = attribute ref {text}
+scene = element scene {(music*|ln+|fx*)*}
+music = element music {text}
+ln = element ln {speaker*,mixed{(mention*|expression*)*}}
+mention = element mention {ref,text}
+speaker = element speaker {text}
+fx = element fx {text}
+expression = element expression {text}

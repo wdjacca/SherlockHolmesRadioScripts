@@ -13,4 +13,10 @@
     Replace: '<music>\1</music>'
 
 5 Find: 'Sherlock Holmes' (6 matches) # trying to tag up how many times it has been mentioned
+  Find: 'Holmes' (manual checking to ensure no overlapping of tags)
+
     Replace: '<sherlockHolmes>\0</sherlockHolmes>'
+  
+6 Find: 'Dr. Watson' (16 matches)
+  Find: 'Watson' (manual checking to ensure no overlapping of tags)
+    Replace: '<watson>\0</watson>'
