@@ -62,7 +62,7 @@ When you are threatened with a cold remember this: Bromo Quinine tablets are mad
 And now, here we are, seated once more in Doctor Watson's study. The good doctor is wandering aimlessly about the room - tidying objects on his desk - straightening a row of books. Well, Dr. Watson - you certainly have a passion for law and order.</ln>
 
 <ln><speaker>WATSON</speaker> A place for everything, and everything in it, place, I always say. I do hate a mess. Holmes on the contrary was one of the untidiest men that ever drove a fellow lodger to desperation. When I find a man who keeps his cigars in the coal scuttle -- his tobacco in the end of a Persian slipper -- and his unanswered correspondence transfixed by a jack-knife in the very center of the wooden mantelpiece, then I begin to give myself virtuous airs.</ln>
-<ln><speaker>MANNING</speaker> (Laughs) And or course that annoyed Sherlock Holmes. </ln>
+<ln><speaker>MANNING</speaker> <expression>Laughs</expression> And or course that annoyed Sherlock Holmes. </ln>
 <ln><speaker>WATSON</speaker> He never even noticed it. Well, now let me see - last time I think I promised that this week's story would be the "The Musgrave Ritual."</ln>
 <ln><speaker>MANNING</speaker> "The Musgrave Ritual" -- what was that? </ln>
 <ln><speaker>WATSON</speaker> Patience, Mr. Manning - patience. Well, as I was saying, Holmes was very untidy. Our chambers were always full of chemicals and criminal relics -- but his papers were my greatest trial. He had a horror of destroying documents. Once a year or so, I would browbeat him into docketing and cataloguing them. One winter night, as we sat together by the fire -- Holmes playing casual chords on his violin -- I ventured to suggest that he might spend his time more profitably by making our sitting room a little more habitable.</ln>
@@ -73,17 +73,17 @@ And now, here we are, seated once more in Doctor Watson's study. The good doctor
 <music> VIOLIN CONTINUES</music>
 
 <ln><speaker>WATSON</speaker> Oh -- stop that racket -- why don=t you do something worth while -- instead of lolling around like that?</ln>
-VIOLIN STOPS
+<music>VIOLIN STOPS</music>
 
 <ln><speaker>HOLMES</speaker> For instance ?</ln>
 <ln><speaker>WATSON</speaker> Well -- ah - -well you could straighten up this room. It looks more like a pig sty every day.</ln>
-<ln><speaker>HOLMES</speaker> Oh, very well - (yawns)</ln>
+<ln><speaker>HOLMES</speaker> Oh, very well - <expression>yawns</expression></ln>
 <ln><speaker>SOUND FX</speaker> FOOTSTEPS FADING </ln>
 
 <ln><speaker>WATSON </speaker> Now where are you going?</ln>
 <ln><speaker>SOUND FX</speaker> DOOR OPENS AND SLAMS</ln>
-<ln><speaker>WATSON</speaker> Look at the place - papers on the table - papers on the</ln>
-floor - papers on all the chairs -- papers ...
+<ln><speaker>WATSON</speaker> Look at the place - papers on the table - papers on the
+    floor - papers on all the chairs -- papers ...</ln>
 
 <ln><speaker>SOUND FX</speaker> DOOR OPENS</ln>
 <ln><speaker>SOUND FX</speaker> TRUNK PULLED ACROSS THE FLOOR AND SET DOWN WITH A THUD</ln>
@@ -91,7 +91,7 @@ floor - papers on all the chairs -- papers ...
 <ln><speaker>HOLMES</speaker> House cleaning -- the key? Oh yes...</ln>
 <ln><speaker>SOUND FX</speaker> BOX UNLOCKED</ln>
 <ln><speaker>WATSON</speaker> What have you got in there?</ln>
-<ln><speaker>HOLMES</speaker> Cases - records of some of my earlier cases -- done -- ah -- prematurely. (Laughs) -- before I had such a competent biographer. I think if you knew what I had in this box, you'd ask me to pull some out, instead of putting others in. </ln>
+<ln><speaker>HOLMES</speaker> Cases - records of some of my earlier cases -- done -- ah -- prematurely. <expression>Laughs</expression> -- before I had such a competent biographer. I think if you knew what I had in this box, you'd ask me to pull some out, instead of putting others in. </ln>
 <ln><speaker>WATSON</speaker> It's no use, Holmes - you can't get 'round me like that. You might just as well begin putting your stuff away.</ln>
 <ln><speaker>HOLMES</speaker> Hmm -- here=s the record of the Tarleton murders...the case of Varnberry --</ln>
 <ln><speaker>WATSON</speaker> Hmph --</ln>
@@ -110,17 +110,17 @@ floor - papers on all the chairs -- papers ...
 <ln><speaker>WATSON</speaker> Hmph -- I suspected these relics had a history.</ln>
 <ln><speaker>HOLMES</speaker> They are history, my dear Watson - they are history.</ln>
 <ln><speaker>WATSON</speaker> What was it about?</ln>
-<ln><speaker>HOLMES</speaker> These are all I have left to remind me of the Musgrave Ritual - fascinating </ln>
-case -- fascinating. Heigh ho -- well, I guess I'd better be getting on with my work.
+<ln><speaker>HOLMES</speaker> These are all I have left to remind me of the Musgrave Ritual - fascinating 
+    case -- fascinating. Heigh ho -- well, I guess I'd better be getting on with my work.</ln>
 
 <ln><speaker>WATSON</speaker> Er- - what was the Musgrave Ritual?</ln>
 <ln><speaker>HOLMES</speaker> You want to interrupt my labors with a silly story -- dear, dear -- and leave all this litter as it is reprehensible, my dear Watson - thoroughly reprehensible.</ln>
 <ln><speaker>WATSON</speaker> Oh -- get on with the story.</ln>
 <ln><speaker>HOLMES</speaker> Very well -- it was one of my first cases -- when I was making a most precarious living out of my sleuthing. It had to do with Reginald Musgrave -- a scion of one of the oldest families in the Kingdom. Well, I hadn't seen Reginald Musgrave for several years -- until one morning I received a note from him. Here it is.</ln>
-<ln><speaker>WATSON: (Reads) "My dear Sherlock</speaker> I hear that you are turning to practical ends these powers with which you used to analyze us. Could you spare time to visit us at Hurlstone? I can promise you a problem which will tax even your nimble wits. Hopefully yours, Reggie Musgrave."</ln>
+<ln><speaker>WATSON</speaker> <expression>Reads</expression> "My dear Sherlock: I hear that you are turning to practical ends these powers with which you used to analyze us. Could you spare time to visit us at Hurlstone? I can promise you a problem which will tax even your nimble wits. Hopefully yours, Reggie Musgrave."</ln>
 <ln><speaker>HOLMES</speaker> You can imagine my eagerness. In my innermost heart, I believed that I could succeed where others had failed. </ln>
-<ln><speaker>WATSON</speaker> Conceit.</ln>
-HOLMES; Don't interrupt, Watson, don't interrupt. Well, late that night -- I arrived at Hurlstone -- to find myself enthusiastically greeted by mine host.
+<ln><speaker>WATSON</speaker> Conceit.
+    HOLMES; Don't interrupt, Watson, don't interrupt. Well, late that night -- I arrived at Hurlstone -- to find myself enthusiastically greeted by mine host.</ln>
 
 <music> BRIDGE TO NEXT SCENE</music>
 
@@ -187,15 +187,15 @@ HOLMES; Don't interrupt, Watson, don't interrupt. Well, late that night -- I arr
 <ln><speaker>MUSGRAVE</speaker> I'll run up and have a look. </ln>
 <ln><speaker>SOUND FX</speaker> STEPS UP STAIRS, RECEDING</ln>
 <ln><speaker>HOLMES</speaker> Be careful -- my dear fellow -- be careful. </ln>
-<ln><speaker>MUSGRAVE</speaker> (In distance) No -- there's no one here.</ln>
+<ln><speaker>MUSGRAVE</speaker> <expression>In distance</expression> No -- there's no one here.</ln>
 <ln><speaker>HOLMES</speaker> Strange -- I would have sworn I heard footsteps.</ln>
 <ln><speaker>SOUND FX</speaker> STEPS DOWN STAIRS, APPROACHING</ln>
 <ln><speaker>MUSGRAVE</speaker> Must have been the old stairs creaking. This is the library and this is the desk where I keep my private papers. </ln>
 <ln><speaker>HOLMES</speaker> How private? I mean -- is there anything there that would benefit anyone else?</ln>
 <ln><speaker>MUSGRAVE</speaker> Good heavens - no.</ln>
 <ln><speaker>HOLMES</speaker> Nothing that might lead to blackmail?</ln>
-<ln><speaker>MUSGRAVE</speaker> (Laughs) No -- sorry to disappoint you, Holmes. But I've led a very tame and uninteresting life.</ln>
-<ln><speaker>HOLMES</speaker> (Laughs) I see one of the drawers was broken into -- very amateurish -- I'm afraid Brunton had very little experience</ln>
+<ln><speaker>MUSGRAVE</speaker> <expression>Laughs</expression> No -- sorry to disappoint you, Holmes. But I've led a very tame and uninteresting life.</ln>
+<ln><speaker>HOLMES</speaker> <expression>Laughs</expression> I see one of the drawers was broken into -- very amateurish -- I'm afraid Brunton had very little experience</ln>
 <ln><speaker>MUSGRAVE</speaker> Yes - that lock is completely damaged. I've moved everything to this side of the desk. Just a minute till I find my key. Ah -- yes --</ln>
 <ln><speaker>SOUND FX</speaker> DRAWER OPENS</ln>
 <ln><speaker>MUSGRAVE</speaker> And here is the Musgrave Ritual.</ln>
@@ -227,13 +227,13 @@ HOLMES; Don't interrupt, Watson, don't interrupt. Well, late that night -- I arr
 <ln><speaker>HOLMES</speaker> Yes -- quite a patriarch.</ln>
 <ln><speaker>MUSGRAVE</speaker> It must have been here when the ritual was drawn up.</ln>
 <ln><speaker>HOLMES</speaker> It was there at the Norman Conquest in all probability. Listen! There is someone in the hall outside -- eavesdropping. I'm sure of it this time.</ln>
-MUSGRAVE; I'll soon find --
+<ln><speaker>MUSGRAVE</speaker> I'll soon find --
 
-<ln><speaker>SOUND FX</speaker> QUICK FOOTSTEPS</ln>
-<ln><speaker>MUSGRAVE</speaker> Hello, why it's Rachel! My dear girl -- whatever are you doing up and</ln>
-about like this? Where's your nurse?
+<fx>SOUND FX</fx> <fx>QUICK FOOTSTEPS</fx></ln>
+<ln><speaker>MUSGRAVE</speaker> Hello, why it's Rachel! My dear girl -- whatever are you doing up and
+    about like this? Where's your nurse?</ln>
 
-<ln><speaker>RACHEL</speaker> (Whispers feverishly) She -- she'=s sleeping -- I fooled her.</ln>
+<ln><speaker>RACHEL</speaker> <expression>Whispers feverishly</expression> She -- she'=s sleeping -- I fooled her.</ln>
 <ln><speaker>MUSGRAVE</speaker> You must go right back to bed.</ln>
 <ln><speaker>RACHEL</speaker> Yes, I must go right back. He's gone.</ln>
 <ln><speaker>MUSGRAVE</speaker> Yes, of course.</ln>
@@ -243,19 +243,19 @@ about like this? Where's your nurse?
 <ln><speaker>HOLMES</speaker> Yes?</ln>
 <ln><speaker>RACHEL</speaker> He's gone where he belongs.</ln>
 <ln><speaker>HOLMES</speaker> Where is that?</ln>
-<ln><speaker>RACHEL</speaker> To hell -- he's gone to hell - (laughs)</ln>
+<ln><speaker>RACHEL</speaker> To hell -- he's gone to hell - <expression>laughs</expression></ln>
 <ln><speaker>MUSGRAVE</speaker> I say -- she's delirious -- help me to get her upstairs, will you? We'll have to postpone our talk I'm afraid.</ln>
 <ln><speaker>HOLMES</speaker> Yes -- there's nothing more to do until tomorrow morning in any case.</ln>
 <ln><speaker>MUSGRAVE</speaker> What do you mean tomorrow morning?</ln>
 <ln><speaker>HOLMES</speaker> When the sun is over the oak.</ln>
-<ln><speaker>RACHEL</speaker> That's what he said -- and now he's gone -- gone. (LAUGHS)</ln>
+<ln><speaker>RACHEL</speaker> That's what he said -- and now he's gone -- gone. <expression>LAUGHS</expression></ln>
 <music> THEME UP AND PLAY TO END.</music>
 
-<ln><speaker>MANNING</speaker> In just a moment we will rejoin Sherlock Holmes as he endeavors to solve the mystery of the Musgrave Ritual. </ln>
+<ln><speaker>MANNING</speaker> In just a moment we will rejoin Sherlock Holmes as he endeavors to solve the mystery of the Musgrave Ritual. 
 A cold, even a so-called slight cold, is something to be concerned about. For any cold, as you very well know, may quickly take a more serious turn. Be serious in your treatment of a cold. At the very first symptom, take a serious and proven preparation.
 
 Bromo Quinine cold tablets have been on the market for years and their merit fully established. They really go to work on a cold's misery. They relieve the headaches and other pains that go with a cold. They relieve the stuffy and depressed feeling that accompanies a cold. They help reduce the fever that goes with a cold. They give you that multiple action you want. Don't fool around when you feel a cold coming on. Take warning at the first symptom and take Bromo Quinine tablets. Bromo Quinine tablets are sold by all drugstores, a few cents a box. Ask clearly and firmly for Bromo - B R O M O--Quinine -- Q U I N I N E -- Bromo Quinine cold tablets!
-
+</ln>
 <music> THEME UP AND PLAY AS BRIDGE TO SECOND ACT.</music>
 
 <ln><speaker>MUSGRAVE</speaker> Good morning, Holmes - I hope you haven't been too bored prowling around the grounds by yourself. Sorry to have kept you waiting for breakfast. Fact is, I'm a bit upset. There's been another disappearance. Rachel eluded her nurse again last night, and so far, she hasn't been found. </ln>
@@ -264,7 +264,7 @@ Bromo Quinine cold tablets have been on the market for years and their merit ful
 <ln><speaker>HOLMES</speaker> I took the liberty of ordering the drags and grappling hooks at once.</ln>
 <ln><speaker>MUSGRAVE</speaker> Yes. I see the men working. Have you found -- </ln>
 <ln><speaker>HOLMES</speaker> Nothing -- exactly nothing -- hello, there seems to be some excitement now. The drags have caught on something. </ln>
-<ln><speaker>MAN</speaker> (In distance) We've got 'er -- sir -- we've got 'er this time for sure.</ln>
+<ln><speaker>MAN</speaker> <expression>In distance</expression> We've got 'er -- sir -- we've got 'er this time for sure.</ln>
 <ln><speaker>MUSGRAVE</speaker> Pull hard boys --</ln>
 <ln><speaker>SOUND FX</speaker> SLOSH OF WATER</ln>
 <ln><speaker>MUSGRAVE</speaker> That's right -- what a frightful business. Hello -- why, why -- it's not a body!</ln>
@@ -314,7 +314,7 @@ Bromo Quinine cold tablets have been on the market for years and their merit ful
 <ln><speaker>MUSGRAVE</speaker> Very well -- but what are we searching for?</ln>
 <ln><speaker>SOUND FX</speaker> FOOTSTEPS ON STONE</ln>
 <ln><speaker>MUSGRAVE</speaker> Careful -- steps here - it's pretty dark.</ln>
-(Echo On)
+<expression>Echo On</expression>
 
 <ln><speaker>MUSGRAVE</speaker> That's it - this is the cellar - we store wood down here sometimes. Hello - it=' all been moved to the side.</ln>
 <ln><speaker>HOLMES</speaker> What's this - what's this?</ln>
@@ -345,12 +345,12 @@ Bromo Quinine cold tablets have been on the market for years and their merit ful
 <ln><speaker>HOLMES</speaker> Quite. Suffocated, I fancy -- this cubbyhole isn't very large.</ln>
 <ln><speaker>MUSGRAVE</speaker> Yes, but how -- how did it happen?</ln>
 <ln><speaker>HOLMES</speaker> He was murdered on the second night -- after you discovered him in the library. I can reconstruct the scene fairly easily from the data we have on hand -- Rachel's condition -- the bag found in the lake -- the open door -- the muffler -- and the piece of wood used as a prop. It is the last which is particularly significant He had talked Rachel into assisting him -- realizing that the girl was still infatuated They waited until everyone had gone to bed -- then stole down here. It was a stormy night I believe----</ln>
-(Echo Off)
+<expression>Echo Off</expression>
 
 <music> BRIDGE TO NEXT SCENE</music>
 
 <ln><speaker>SOUND FX</speaker> WIND</ln>
-BRUNTON That's it - close the door after you.
+<ln><speaker>BRUNTON</speaker> That's it - close the door after you.</ln>
 
 <ln><speaker>SOUND FX</speaker> DOOR CLOSES</ln>
 <ln><speaker>SOUND FX</speaker> WIND OUT</ln>
@@ -362,7 +362,7 @@ BRUNTON That's it - close the door after you.
 <ln><speaker>BRUNTON</speaker> What's the matter with you? If I'd have known you had no more spunk in you than this - I'd -- I'd have asked someone else. I thought you said you loved me?</ln>
 <ln><speaker>RACHEL</speaker> I do - you know I do! I'd do anything for you!</ln>
 <ln><speaker>BRUNTON</speaker> Well, then come along -- down this stairway -- easy!</ln>
-(Echo on)
+<expression>Echo on</expression>
 
 <ln><speaker>RACHEL</speaker> But it -- it's stealing.</ln>
 <ln><speaker>BRUNTON</speaker> Stealing? To take something a man doesn't even know he has? He'll never miss it.</ln>
@@ -391,17 +391,17 @@ BRUNTON That's it - close the door after you.
 <ln><speaker>RACHEL</speaker> You -- you haven't answered me. </ln>
 <ln><speaker>BRUNTON</speaker> Haven't answered what?</ln>
 <ln><speaker>RACHEL</speaker> You are going to marry me, aren't you?</ln>
-<ln><speaker>BRUNTON</speaker> Marry you -- (laughs) What kind of a fool do you take me for? Marry a girl like you that lets a fellow -- (laughs)</ln>
+    <ln><speaker>BRUNTON</speaker> Marry you -- <expression>laughs</expression> What kind of a fool do you take me for? Marry a girl like you that lets a fellow -- <expression>laughs</expression></ln>
 
 <ln><speaker>RACHEL</speaker> Don't laugh -- don't laugh --</ln>
-<ln><speaker>BRUNTON</speaker> How do I know I'm the only lover you've had! A wench like you -- (laughs)</ln>
+<ln><speaker>BRUNTON</speaker> How do I know I'm the only lover you've had! A wench like you -- <expression>laughs</expression></ln>
 <ln><speaker>RACHEL</speaker> I hate you! I hate you! I hate the sight of you! I don't ever want to see you again!</ln>
 <ln><speaker>BRUNTON</speaker> Here -- what are you doing with that piece of wood? Look out, you fool - you'll pull it out! You'll --</ln>
 <ln><speaker>SOUND FX</speaker> HEAVY SLAM OF STONE SLAB</ln>
 <ln><speaker>RACHEL</speaker> He wouldn't marry me --</ln>
-<ln><speaker>BRUNTON</speaker> (Very muffled) Let me out -- let me out -- I can't breathe -- let me out!</ln>
+<ln><speaker>BRUNTON</speaker> <expression>Very muffled</expression> Let me out -- let me out -- I can't breathe -- let me out!</ln>
 <ln><speaker>RACHEL</speaker> He wouldn't marry me -- he wouldn't marry me!</ln>
-(Echo off)
+<expression>Echo off</expression>
 
 <music> BRIDGE TO NEXT SCENE</music>
 
@@ -420,17 +420,17 @@ BRUNTON That's it - close the door after you.
 <ln><speaker>MANNING</speaker> That's an exciting discovery, Doctor Watson. How did it happen that Charles the Second never recovered his crown? </ln>
 <ln><speaker>WATSON</speaker> That is the one point Holmes was unable to clear up. It is likely that the Musgraves who held the secret died in the interval, and by some oversight left this guide to his descendants without explaining the meaning of it.</ln>
 <ln><speaker>MANNING</speaker> Dr. Watson will be back in just a moment to tell us about next week's adventure. </ln>
-(PAUSE)
+<expression>PAUSE</expression>
 
-<ln><speaker>MANNING: There are all kinds of things being offered for the treatment of colds. But remember this: Bromo Quinine tablets are made solely for the relief of colds. They don't pretend to do half a dozen things. They claim to do only one thing and do it well -- and that is relieve a cold's distress. Furthermore, Bromo Quinine cold tablets are a proven preparation. They have been the standby of millions for years. Use your head when a cold threatens and take a preparation whose merit has been conclusively proven. Don't fall for fly-by-night preparations or medicines that claim the world. Thousands -- yes, millions of men and women endorse your judgment when you take Bromo Quinine cold tablets. Every drugstore in the land sells those famous tablets at a few cents a box. The minute you feel a cold coming On make your way to a drugstore and say</speaker> "Bromo Quinine cold tablets, please."</ln>
-And now, what story are we to have next week, Doctor Watson?
+<ln><speaker>MANNING: There are all kinds of things being offered for the treatment of colds. But remember this: Bromo Quinine tablets are made solely for the relief of colds. They don't pretend to do half a dozen things. They claim to do only one thing and do it well -- and that is relieve a cold's distress. Furthermore, Bromo Quinine cold tablets are a proven preparation. They have been the standby of millions for years. Use your head when a cold threatens and take a preparation whose merit has been conclusively proven. Don't fall for fly-by-night preparations or medicines that claim the world. Thousands -- yes, millions of men and women endorse your judgment when you take Bromo Quinine cold tablets. Every drugstore in the land sells those famous tablets at a few cents a box. The minute you feel a cold coming On make your way to a drugstore and say</speaker> "Bromo Quinine cold tablets, please."
+And now, what story are we to have next week, Doctor Watson?</ln>
 
 <ln><speaker>WATSON</speaker> Suppose I tell you the one Holmes calls "The Adventure Of The Three Garriddebs."</ln>
 <ln><speaker>MANNING</speaker> Garridebs? What on earth are Garridebs?</ln>
-<ln><speaker>WATSON</speaker> (Laughing) It's a family name, Mr. Manning -- and the story is concerned with a gentleman called Garrideb, who wished to find others of the same name -- for rather curious reasons.</ln>
+<ln><speaker>WATSON</speaker> <expression>Laughing</expression> It's a family name, Mr. Manning -- and the story is concerned with a gentleman called Garrideb, who wished to find others of the same name -- for rather curious reasons.</ln>
 <music> UP AND THEN LOWER FOR NEXT PARAGRAPH</music>
 
-<ln><speaker>MANNING</speaker> You have been listening to a Sherlock Holmes adventure adapted from Sir Arthur Conan Doyle's story, "The Musgrave Ritual" with Basil Rathbone as Sherlock Holmes, and Nigel Bruce as Doctor Watson. The dramatization was by Edith Meiser. This program is presented from Hollywood every week at this same time by the makers of Bromo Quinine Cold tablets - quick relief for colds.</ln>
-This is Knox Manning speaking.
+<ln><speaker>MANNING</speaker> You have been listening to a Sherlock Holmes adventure adapted from Sir Arthur Conan Doyle's story, "The Musgrave Ritual" with Basil Rathbone as Sherlock Holmes, and Nigel Bruce as Doctor Watson. The dramatization was by Edith Meiser. This program is presented from Hollywood every week at this same time by the makers of Bromo Quinine Cold tablets - quick relief for colds.
+    This is Knox Manning speaking.</ln>
 
 <music> UP AND PLAY TO END.</music></scene></xml>

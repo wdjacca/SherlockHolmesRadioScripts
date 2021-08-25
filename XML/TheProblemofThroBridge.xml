@@ -1,670 +1,670 @@
-Series: Sherlock Holmes
-Show: The Problem of Thor Bridge
-Date: Oct 01 1945
-CAST:
-ANNOUNCER, Harry Bartell
-SHERLOCK HOLMES
-DR. WATSON
-NEIL GIBSON, wealthy American
-SERGEANT COVENTRY, of the local police
-CESAR, Brazilian servant
-MISS DUNBAR, the chief suspect
-SINGER, of Petri Wine commercial
+<?xml-model href="sherlock.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><metadata><series>Series: Sherlock Holmes</series>
+<show>Show The Problem of Thor Bridge</show>
+<date when="1945-10-01">Date Oct 01 1945</date>
+<castList>CAST
+<cast ref="#bartell">ANNOUNCER, Harry Bartell</cast>
+<cast ref="#holmes">SHERLOCK HOLMES</cast>
+<cast ref="#watson">DR. WATSON</cast>
+<cast ref="#gibson">NEIL GIBSON, wealthy American</cast>
+<cast ref="#coventry">SERGEANT COVENTRY, of the local police</cast>
+<cast ref="#cesar">CESAR, Brazilian servant</cast>
+<cast ref="#dunbar">MISS DUNBAR, the chief suspect</cast>
+<cast ref="#singer">SINGER, of Petri Wine commercial</cast></castList>
+</metadata>
+<scene>
+<ln><speaker>ANNOUNCER</speaker> This episode from the life of Sherlock Holmes will be transmitted to our men and women overseas by short wave and through the worldwide facilities of the Armed Forces Radio Service. Petri Wine brings you--</ln>
 
-ANNOUNCER: This episode from the life of Sherlock Holmes will be transmitted to our men and women overseas by short wave and through the worldwide facilities of the Armed Forces Radio Service. Petri Wine brings you--
+<music>MUSIC FANFARE</music>
 
-MUSIC: FANFARE
+<ln><speaker>ANNOUNCER</speaker> Basil Rathbone and Nigel Bruce in "The New Adventures of Sherlock Holmes."</ln>
+<music>MUSIC FANFARE ... THEN OUT</music>
 
-ANNOUNCER: Basil Rathbone and Nigel Bruce in "The New Adventures of Sherlock Holmes."
+<ln><speaker>ANNOUNCER</speaker> The Petri Family -- "the family that took time / to bring you good wine" -- invites you to listen to Dr. Watson tell us another exciting adventure he shared with his old friend, that master detective, Sherlock Holmes. And, while you're settling back comfortably in your chair, mind if I tell you about something I'd like you to share with me? It's a glass of Petri California sherry. Of course, most people think of Petri California sherry as the one wine that's really swell any time but, personally, I like a glass of that Petri sherry just before dinner. You know, that's the time you're a little on edge, you've just finished your day's work, and you're waiting for your dinner, and-- Well, that's when you want to lean back and take it easy. And, boy, that's the time a glass of Petri sherry tastes like something just too good to be true. Try it. Petri sherry's the perfect before-dinner wine. And, incidentally, if you like your sherry dry -- you
+know, not sweet? -- then you'll find that Petri pale dry sherry is just made for you. The important thing is the Petri label, because when it says "Petri," it always means good wine.</ln>
 
-MUSIC: FANFARE ... THEN OUT
+<music>MUSIC THEME ... THEN OUT</music>
 
-ANNOUNCER: The Petri Family -- "the family that took time / to bring you good wine" -- invites you to listen to Dr. Watson tell us another exciting adventure he shared with his old friend, that master detective, Sherlock Holmes. And, while you're settling back comfortably in your chair, mind if I tell you about something I'd like you to share with me? It's a glass of Petri California sherry. Of course, most people think of Petri California sherry as the one wine that's really swell any time but, personally, I like a glass of that Petri sherry just before dinner. You know, that's the time you're a little on edge, you've just finished your day's work, and you're waiting for your dinner, and-- Well, that's when you want to lean back and take it easy. And, boy, that's the time a glass of Petri sherry tastes like something just too good to be true. Try it. Petri sherry's the perfect before-dinner wine. And, incidentally, if you like your sherry dry -- you
-know, not sweet? -- then you'll find that Petri pale dry sherry is just made for you. The important thing is the Petri label, because when it says "Petri," it always means good wine.
+<ln><speaker>ANNOUNCER</speaker> And now for our weekly visit with our good friend and host, Dr. Watson. Good evening, doctor.</ln>
 
-MUSIC: THEME ... THEN OUT
+<ln><speaker>WATSON</speaker> Good evening, Mr. Bartell. You're a bit late. I've been keeping some dinner hot for you here. Pull up your chair and join me.</ln>
 
-ANNOUNCER: And now for our weekly visit with our good friend and host, Dr. Watson. Good evening, doctor.
+<ln><speaker>ANNOUNCER</speaker> That's very nice of you. Thanks, doctor. Are you all set with tonight's story?</ln>
 
-WATSON: Good evening, Mr. Bartell. You're a bit late. I've been keeping some dinner hot for you here. Pull up your chair and join me.
+<ln><speaker>WATSON</speaker> Yes, my boy. I'm "all set" as you call it. As a matter of fact, I was going over my notes on the case just before you arrived.</ln>
+<ln><speaker>ANNOUNCER</speaker> Last week, you hinted that a beautiful girl figured prominently in your adventure.</ln>
 
-ANNOUNCER: That's very nice of you. Thanks, doctor. Are you all set with tonight's story?
+<ln><speaker>WATSON</speaker> That's quite right, Mr. Bartell. An extremely beautiful girl. In fact, I often used to say to Sherlock Holmes that if I'd been a little younger at the time, I might-- Oh, well, you haven't come here to listen to my personal reminiscences. You want to hear the story that I called "The Problem of Thor Bridge."</ln>
 
-WATSON: Yes, my boy. I'm "all set" as you call it. As a matter of fact, I was going over my notes on the case just before you arrived.
+<ln><speaker>ANNOUNCER</speaker> That's what you promised us, doctor. How did it begin?</ln>
 
-ANNOUNCER: Last week, you hinted that a beautiful girl figured prominently in your adventure.
+<ln><speaker>WATSON</speaker> (NARRATES) On a windy morning in October -- in 1890, it was -- as I was dressing, I observed how the last remaining leaves were being whirled away from the solitary plane tree which graced the yard behind our Baker Street house. I descended to breakfast prepared to find my companion in depressed spirits, for, like all great artists, he was easily impressed by his surroundings. But, to my surprise, he was in an unusually gay mood. As I entered the room, he looked up at me and, with a smile, he spoke.</ln>
 
-WATSON: That's quite right, Mr. Bartell. An extremely beautiful girl. In fact, I often used to say to Sherlock Holmes that if I'd been a little younger at the time, I might-- Oh, well, you haven't come here to listen to my personal reminiscences. You want to hear the story that I called "The Problem of Thor Bridge."
+<ln><speaker>HOLMES</speaker> (CHEERY) Good morning, my dear fellow. I hope you slept well.</ln>
 
-ANNOUNCER: That's what you promised us, doctor. How did it begin?
+<ln><speaker>WATSON</speaker> Splendidly, thanks, Holmes.</ln>
 
-WATSON: (NARRATES) On a windy morning in October -- in 1890, it was -- as I was dressing, I observed how the last remaining leaves were being whirled away from the solitary plane tree which graced the yard behind our Baker Street house. I descended to breakfast prepared to find my companion in depressed spirits, for, like all great artists, he was easily impressed by his surroundings. But, to my surprise, he was in an unusually gay mood. As I entered the room, he looked up at me and, with a smile, he spoke.
+<ln><speaker>HOLMES</speaker> I'm so glad.</ln>
 
-HOLMES: (CHEERY) Good morning, my dear fellow. I hope you slept well.
+<ln><speaker>WATSON</speaker> Well, you're very solicitous this morning. I - I think you must have got a new case. (CHUCKLES) Am I right?</ln>
 
-WATSON: Splendidly, thanks, Holmes.
+<ln><speaker>HOLMES</speaker> The faculty of deduction is certainly contagious. Yes, I have a new case. After a month of trivialities and stagnation, the wheels revolve once more.</ln>
 
-HOLMES: I'm so glad.
+<ln><speaker>WATSON</speaker> Good. Tell me all about it.</ln>
 
-WATSON: Well, you're very solicitous this morning. I - I think you must have got a new case. (CHUCKLES) Am I right?
+<ln><speaker>HOLMES</speaker> Well, as yet, there isn't much to tell. Have you ever heard of Neil Gibson?</ln>
 
-HOLMES: The faculty of deduction is certainly contagious. Yes, I have a new case. After a month of trivialities and stagnation, the wheels revolve once more.
+<ln><speaker>WATSON</speaker> Neil Gibson? Oh, yes, yes, yes. Something to do with gold mining, hasn't he?</ln>
 
-WATSON: Good. Tell me all about it.
+<ln><speaker>HOLMES</speaker> A great deal to do with it, my dear fellow. In fact, he's considered the greatest mining magnate in the world. About five years ago, he bought a large estate in Hampshire. Perhaps you've read of the tragic death of his wife.</ln>
 
-HOLMES: Well, as yet, there isn't much to tell. Have you ever heard of Neil Gibson?
+<ln><speaker>WATSON</speaker> Oh, yes, of course. I remember the case now. She was murdered by a jealous governess who was in her employ, wasn't she?</ln>
 
-WATSON: Neil Gibson? Oh, yes, yes, yes. Something to do with gold mining, hasn't he?
+<ln><speaker>HOLMES</speaker> That point will be decided when the lady in question -- Grace Dunbar, I believe her name is -- comes up for trial at the forthcoming Winchester Assizes. In any case, it's hard to see what I can do for my client at this late date.</ln>
 
-HOLMES: A great deal to do with it, my dear fellow. In fact, he's considered the greatest mining magnate in the world. About five years ago, he bought a large estate in Hampshire. Perhaps you've read of the tragic death of his wife.
+<ln><speaker>WATSON</speaker> Your client?</ln>
 
-WATSON: Oh, yes, of course. I remember the case now. She was murdered by a jealous governess who was in her employ, wasn't she?
+<ln><speaker>HOLMES</speaker> Oh, yes. I forgot I hadn't told you. I'm getting into your involved habit of telling a story backwards. You'd better read this letter; came this morning.</ln>
 
-HOLMES: That point will be decided when the lady in question -- Grace Dunbar, I believe her name is -- comes up for trial at the forthcoming Winchester Assizes. In any case, it's hard to see what I can do for my client at this late date.
+<fx>SOUND: RATTLE OF PAPER</fx>
 
-WATSON: Your client?
+<ln><speaker>WATSON</speaker> Let's have a look. (READS) "Dear Mr. Sherlock Holmes, Miss Dunbar is innocent. I can't see the finest woman in the world go to her death without doing everything possible to save her. I shall call on you at ten-thirty to-morrow morning to discuss the matter. Yours faithfully, Neil Gibson." Good gracious me.</ln>
 
-HOLMES: Oh, yes. I forgot I hadn't told you. I'm getting into your involved habit of telling a story backwards. You'd better read this letter; came this morning.
+<ln><speaker>HOLMES</speaker> There you have it, Watson. That is the gentleman I await. </ln>
 
-SOUND: RATTLE OF PAPER
+<ln><speaker>WATSON</speaker> Do you know anything about his dead wife?</ln>
 
-WATSON: Let's have a look. (READS) "Dear Mr. Sherlock Holmes, Miss Dunbar is innocent. I can't see the finest woman in the world go to her death without doing everything possible to save her. I shall call on you at ten-thirty to-morrow morning to discuss the matter. Yours faithfully, Neil Gibson." Good gracious me.
+<ln><speaker>HOLMES</speaker> Only what I've been reading in the papers. Apparently, she was past her prime, which was the more unfortunate as this Miss Dunbar, who superintended the education of the two young children, is reputed to be a very attractive young lady.</ln>
 
-HOLMES: There you have it, Watson. That is the gentleman I await. 
+<ln><speaker>WATSON</speaker> (CHUCKLES) The eternal triangle, eh? Well, where did the murder take place?</ln>
 
-WATSON: Do you know anything about his dead wife?
+<ln><speaker>HOLMES</speaker> On Gibson's estate in Hampshire. His wife was found on the grounds nearly half a mile from the manor house, late at night, clad in her dinner dress, with a shawl over her shoulders and -- a revolver bullet through her brain. </ln>
 
-HOLMES: Only what I've been reading in the papers. Apparently, she was past her prime, which was the more unfortunate as this Miss Dunbar, who superintended the education of the two young children, is reputed to be a very attractive young lady.
+<ln><speaker>WATSON</speaker> Any weapon found near her?</ln>
 
-WATSON: (CHUCKLES) The eternal triangle, eh? Well, where did the murder take place?
+<ln><speaker>HOLMES</speaker> No, there were no clues found at the scene of the crime.</ln>
 
-HOLMES: On Gibson's estate in Hampshire. His wife was found on the grounds nearly half a mile from the manor house, late at night, clad in her dinner dress, with a shawl over her shoulders and -- a revolver bullet through her brain. 
+<ln><speaker>WATSON</speaker> What made them suspect the governess?</ln>
 
-WATSON: Any weapon found near her?
+<ln><speaker>HOLMES</speaker> Well, in the first place, there was some very incriminating evidence. A revolver with one discharged chamber -- the calibre corresponding with the bullet in the dead woman's head -- was found on the floor in Miss Dunbar's wardrobe.</ln>
 
-HOLMES: No, there were no clues found at the scene of the crime.
+<ln><speaker>WATSON</speaker> Oh, was it? Pretty damaging evidence, Holmes.</ln>
 
-WATSON: What made them suspect the governess?
+<ln><speaker>HOLMES</speaker> Mmm. So the coroner thought. And, to make the case even blacker against Miss Dunbar, the dead woman had a note on her making an appointment at that very spot -- and the note was signed by the governess.</ln>
 
-HOLMES: Well, in the first place, there was some very incriminating evidence. A revolver with one discharged chamber -- the calibre corresponding with the bullet in the dead woman's head -- was found on the floor in Miss Dunbar's wardrobe.
+<ln><speaker>WATSON</speaker> It seems obvious that the girl's guilty. And the motive's clear. Mr. Gibson would be a great catch for a young girl. Love, fortune, power -- all dependent on one life. </ln>
 
-WATSON: Oh, was it? Pretty damaging evidence, Holmes.
+<ln><speaker>HOLMES</speaker> Possibly, Watson, but circumstantial evidence can be very misleading at times.</ln>
 
-HOLMES: Mmm. So the coroner thought. And, to make the case even blacker against Miss Dunbar, the dead woman had a note on her making an appointment at that very spot -- and the note was signed by the governess.
+<ln><speaker>SOUND</speaker> DOOR BELL JANGLES</ln>
 
-WATSON: It seems obvious that the girl's guilty. And the motive's clear. Mr. Gibson would be a great catch for a young girl. Love, fortune, power -- all dependent on one life. 
+<ln><speaker>HOLMES</speaker> Ah, there's the gentleman in question, unless I'm very much mistaken, considerably before his time.</ln>
 
-HOLMES: Possibly, Watson, but circumstantial evidence can be very misleading at times.
+<ln><speaker>WATSON</speaker> (OFF) Well, I can see him from the window here. Formidable-looking fellow. Must be well over six foot tall.</ln>
 
-SOUND: DOOR BELL JANGLES
+<ln><speaker>SOUND</speaker> DOOR BELL JANGLES, LOUDER</ln>
 
-HOLMES: Ah, there's the gentleman in question, unless I'm very much mistaken, considerably before his time.
+<ln><speaker>HOLMES</speaker> (LAUGHS) Judging by the way he's wrenching at that door bell, he's a man with a violent temper.</ln>
 
-WATSON: (OFF) Well, I can see him from the window here. Formidable-looking fellow. Must be well over six foot tall.
+<ln><speaker>WATSON</speaker> (OFF) Mrs. Hudson's opening the door to him now.</ln>
 
-SOUND: DOOR BELL JANGLES, LOUDER
+<ln><speaker>HOLMES</speaker> Ah, meet him on the stairs, will you, old chap? It'll save Mrs. Hudson a journey.</ln>
 
-HOLMES: (LAUGHS) Judging by the way he's wrenching at that door bell, he's a man with a violent temper.
+<ln><speaker>WATSON</speaker> (OFF) Right you are, Holmes.</ln>
 
-WATSON: (OFF) Mrs. Hudson's opening the door to him now.
+<ln><speaker>SOUND</speaker> WATSON'S FOOTSTEPS TO DOOR ... DOOR OPENS</ln>
 
-HOLMES: Ah, meet him on the stairs, will you, old chap? It'll save Mrs. Hudson a journey.
+<ln><speaker>WATSON</speaker> (OFF, CALLS) Up here, sir!</ln>
 
-WATSON: (OFF) Right you are, Holmes.
+<ln><speaker>GIBSON</speaker> (OFF, TO WATSON) Are you Mr. Sherlock Holmes?</ln>
 
-SOUND: WATSON'S FOOTSTEPS TO DOOR ... DOOR OPENS
+<ln><speaker>WATSON</speaker> (OFF) No, no, indeed. I'm his colleague Dr. Watson. Come along in, won't you?</ln>
 
-WATSON: (OFF, CALLS) Up here, sir!
+<ln><speaker>SOUND</speaker> DOOR CLOSES ... FOOTSTEPS IN</ln>
 
-GIBSON: (OFF, TO WATSON) Are you Mr. Sherlock Holmes?
+<ln><speaker>HOLMES</speaker> Mr. Neil Gibson, I presume?</ln>
 
-WATSON: (OFF) No, no, indeed. I'm his colleague Dr. Watson. Come along in, won't you?
+<ln><speaker>GIBSON</speaker> That's right. So you're the great Sherlock Holmes, huh?</ln>
 
-SOUND: DOOR CLOSES ... FOOTSTEPS IN
+<ln><speaker>HOLMES</speaker> (CHUCKLES) The adjective is your own, Mr. Gibson. Sit down, won't you? By the way, you may speak quite freely in front of Dr. Watson.</ln>
 
-HOLMES: Mr. Neil Gibson, I presume?
+<ln><speaker>GIBSON</speaker> Hm. Well, I may as well begin by telling you that money means nothing to me in this case. You can burn it if it's any use to you in lighting the truth. Miss Dunbar is innocent and it's up to you to prove it. Just name your fee.</ln>
 
-GIBSON: That's right. So you're the great Sherlock Holmes, huh?
+<ln><speaker>HOLMES</speaker> Mr. Gibson, my professional charges are on a fixed scale. I don't vary them, except when I omit them altogether.</ln>
 
-HOLMES: (CHUCKLES) The adjective is your own, Mr. Gibson. Sit down, won't you? By the way, you may speak quite freely in front of Dr. Watson.
+<ln><speaker>GIBSON</speaker> Very well. I imagine that you read the newspaper reports of the coroner's inquest.</ln>
 
-GIBSON: Hm. Well, I may as well begin by telling you that money means nothing to me in this case. You can burn it if it's any use to you in lighting the truth. Miss Dunbar is innocent and it's up to you to prove it. Just name your fee.
+<ln><speaker>HOLMES</speaker> Yes, very thoroughly.</ln>
 
-HOLMES: Mr. Gibson, my professional charges are on a fixed scale. I don't vary them, except when I omit them altogether.
+<ln><speaker>GIBSON</speaker> I don't see that I can add anything that'll help you. But if there are any questions you'd like to ask, I'll answer them.</ln>
 
-GIBSON: Very well. I imagine that you read the newspaper reports of the coroner's inquest.
+<ln><speaker>HOLMES</speaker> Well, thank you. First, what were the exact relations between you and Miss Dunbar?</ln>
 
-HOLMES: Yes, very thoroughly.
+<ln><speaker>GIBSON</speaker> (TENSE) I suppose you're within your rights in asking such a question, Mr. Holmes.</ln>
 
-GIBSON: I don't see that I can add anything that'll help you. But if there are any questions you'd like to ask, I'll answer them.
+<ln><speaker>HOLMES</speaker> (CHUCKLES) We will agree to suppose so, shall we?</ln>
 
-HOLMES: Well, thank you. First, what were the exact relations between you and Miss Dunbar?
+<ln><speaker>GIBSON</speaker> (UNCONVINCINGLY) Then I can assure you that my relations with Miss Dunbar were always those of an employer towards a young lady whom he never conversed with, or ever saw, except in the company of his children.</ln>
 
-GIBSON: (TENSE) I suppose you're within your rights in asking such a question, Mr. Holmes.
+<ln><speaker>HOLMES</speaker> (DISGUSTED) Ohh. (DISMISSIVE) I'm rather a busy man, Mr. Gibson, and I've no time or taste for aimless conversation. I wish you good-morning.</ln>
 
-HOLMES: (CHUCKLES) We will agree to suppose so, shall we?
+<ln><speaker>GIBSON</speaker> (ANGRY) What the devil do you mean by this, Mr. Holmes? </ln>
 
-GIBSON: (UNCONVINCINGLY) Then I can assure you that my relations with Miss Dunbar were always those of an employer towards a young lady whom he never conversed with, or ever saw, except in the company of his children.
+<ln><speaker>HOLMES</speaker> My dear sir, the case is difficult enough without your giving me false information.</ln>
 
-HOLMES: (DISGUSTED) Ohh. (DISMISSIVE) I'm rather a busy man, Mr. Gibson, and I've no time or taste for aimless conversation. I wish you good-morning.
+<ln><speaker>GIBSON</speaker> Meaning that I lie, sir?</ln>
 
-GIBSON: (ANGRY) What the devil do you mean by this, Mr. Holmes? 
+<ln><speaker>HOLMES</speaker> I was trying to express it as delicately as possible, but - (CLEARS THROAT) - if you insist on the word I won't contradict you.</ln>
 
-HOLMES: My dear sir, the case is difficult enough without your giving me false information.
+<ln><speaker>GIBSON</speaker> Why, you confounded--!</ln>
 
-GIBSON: Meaning that I lie, sir?
+<ln><speaker>HOLMES</speaker> Don't be noisy, Mr. Gibson. Please, don't be noisy. I find that after breakfast even the smallest argument is unsettling. I suggest that a stroll in the morning air and a little quiet thought will be greatly to your advantage.</ln>
 
-HOLMES: I was trying to express it as delicately as possible, but - (CLEARS THROAT) - if you insist on the word I won't contradict you.
+<ln><speaker>GIBSON</speaker> I suppose I can't make you take the case - but you've done yourself no good this morning, Mr. Holmes! (MOVING OFF) I've broken stronger men than you! No man ever crossed me and was the better for it!</ln>
 
-GIBSON: Why, you confounded--!
+<ln><speaker>SOUND</speaker> GIBSON'S FOOTSTEPS TO DOOR WHICH OPENS</ln>
 
-HOLMES: Don't be noisy, Mr. Gibson. Please, don't be noisy. I find that after breakfast even the smallest argument is unsettling. I suggest that a stroll in the morning air and a little quiet thought will be greatly to your advantage.
+<ln><speaker>HOLMES</speaker> (CALLS) Good-morning, Mr. Gibson. You've a great deal yet to learn.</ln>
 
-GIBSON: I suppose I can't make you take the case - but you've done yourself no good this morning, Mr. Holmes! (MOVING OFF) I've broken stronger men than you! No man ever crossed me and was the better for it!
+<ln><speaker>SOUND</speaker> DOOR SLAMS SHUT</ln>
 
-SOUND: GIBSON'S FOOTSTEPS TO DOOR WHICH OPENS
+<ln><speaker>WATSON</speaker> (CHUCKLES) Upon my soul, Holmes, you were unusually severe with him. (CHUCKLES) </ln>
 
-HOLMES: (CALLS) Good-morning, Mr. Gibson. You've a great deal yet to learn.
+<ln><speaker>HOLMES</speaker> (STERN) I dislike liars, Watson, and I cannot tolerate arrogance -- particularly when it's coupled with great wealth.</ln>
 
-SOUND: DOOR SLAMS SHUT
+<ln><speaker>WATSON</speaker> How did you know about his relations with the governess?</ln>
 
-WATSON: (CHUCKLES) Upon my soul, Holmes, you were unusually severe with him. (CHUCKLES) 
+<ln><speaker>HOLMES</speaker> I didn't. It was pure bluff.</ln>
 
-HOLMES: (STERN) I dislike liars, Watson, and I cannot tolerate arrogance -- particularly when it's coupled with great wealth.
+<ln><speaker>WATSON</speaker> Bluff! (CHUCKLES) Well, it certainly worked. Think he'll come back?</ln>
 
-WATSON: How did you know about his relations with the governess?
+<ln><speaker>HOLMES</speaker> Oh, of course he will. He needs my help too badly. He'll probably change his mind before he's halfway down the stairs.</ln>
 
-HOLMES: I didn't. It was pure bluff.
+<ln><speaker>SOUND</speaker> SIMULTANEOUS KNOCK AT DOOR</ln>
 
-WATSON: Bluff! (CHUCKLES) Well, it certainly worked. Think he'll come back?
+<ln><speaker>HOLMES</speaker> (CALLS) Come in! </ln>
 
-HOLMES: Oh, of course he will. He needs my help too badly. He'll probably change his mind before he's halfway down the stairs.
+<ln><speaker>SOUND</speaker> DOOR OPENS</ln>
 
-SOUND: SIMULTANEOUS KNOCK AT DOOR
+<ln><speaker>HOLMES</speaker> Ah! (CHUCKLES) Mr. Gibson. Just saying to Dr. Watson that I was certain you'd be back.</ln>
 
-HOLMES: (CALLS) Come in! 
+<ln><speaker>SOUND</speaker> DOOR CLOSES ... GIBSON'S FOOTSTEPS IN</ln>
 
-SOUND: DOOR OPENS
+<ln><speaker>GIBSON</speaker> (APPROACHES) I've been thinking it over, Mr. Holmes, and I feel that perhaps I was hasty in taking your remarks amiss. Just the same, I can assure you that the relations between Miss Dunbar and me really don't affect this case.</ln>
 
-HOLMES: Ah! (CHUCKLES) Mr. Gibson. Just saying to Dr. Watson that I was certain you'd be back.
+<ln><speaker>HOLMES</speaker> Surely, that is for me to decide, Mr. Gibson.</ln>
 
-SOUND: DOOR CLOSES ... GIBSON'S FOOTSTEPS IN
+<ln><speaker>WATSON</speaker> You see, Mr. Gibson, my friend is like a doctor. He wants every symptom before he can give his diagnosis.</ln>
 
-GIBSON: (APPROACHES) I've been thinking it over, Mr. Holmes, and I feel that perhaps I was hasty in taking your remarks amiss. Just the same, I can assure you that the relations between Miss Dunbar and me really don't affect this case.
+<ln><speaker>GIBSON</speaker> Fire away, Mr. Holmes. What is it you want to know?</ln>
 
-HOLMES: Surely, that is for me to decide, Mr. Gibson.
+<ln><speaker>HOLMES</speaker> The truth.</ln>
 
-WATSON: You see, Mr. Gibson, my friend is like a doctor. He wants every symptom before he can give his diagnosis.
+<ln><speaker>GIBSON</speaker> I can give it to you in a very few words. To begin with, I met my wife when I was gold-mining in Brazil. </ln>
 
-GIBSON: Fire away, Mr. Holmes. What is it you want to know?
+<ln><speaker>WATSON</speaker> Your wife was Brazilian by birth, wasn't she, sir?</ln>
 
-HOLMES: The truth.
+<ln><speaker>GIBSON</speaker> Yes, doctor, and very beautiful. Well, to make a long story short, I fell in love and married her and brought her to England. After a few years, I realized that we had nothing -- absolutely nothing -- in common. </ln>
 
-GIBSON: I can give it to you in a very few words. To begin with, I met my wife when I was gold-mining in Brazil. 
+<ln><speaker>HOLMES</speaker> And then, I suppose, this young governess, Miss Dunbar, arrived on the scene.</ln>
 
-WATSON: Your wife was Brazilian by birth, wasn't she, sir?
+<ln><speaker>GIBSON</speaker> That's right, Mr. Holmes. Well, the story should be obvious to you from there.</ln>
 
-GIBSON: Yes, doctor, and very beautiful. Well, to make a long story short, I fell in love and married her and brought her to England. After a few years, I realized that we had nothing -- absolutely nothing -- in common. 
+<ln><speaker>WATSON</speaker> You fell in love with this girl, I suppose, sir.</ln>
 
-HOLMES: And then, I suppose, this young governess, Miss Dunbar, arrived on the scene.
+<ln><speaker>GIBSON</speaker> Who could help it?</ln>
 
-GIBSON: That's right, Mr. Holmes. Well, the story should be obvious to you from there.
+<ln><speaker>HOLMES</speaker> Did you suggest marriage to her?</ln>
 
-WATSON: You fell in love with this girl, I suppose, sir.
+<ln><speaker>GIBSON</speaker> Yes. Though I knew that my wife would never divorce me.</ln>
 
-GIBSON: Who could help it?
+<ln><speaker>HOLMES</speaker> I see. Then you made an utterly insincere proposition to her.</ln>
 
-HOLMES: Did you suggest marriage to her?
+<ln><speaker>GIBSON</speaker> Now, look here, Mr. Holmes, I came to you on a question of evidence, not of morals. I'm not asking for your criticism.</ln>
 
-GIBSON: Yes. Though I knew that my wife would never divorce me.
+<ln><speaker>HOLMES</speaker> It's only the young lady's sake that forces me to touch your case at all. Now, tell me, sir. What is your own opinion as to Miss Dunbar's guilt?</ln>
 
-HOLMES: I see. Then you made an utterly insincere proposition to her.
+<ln><speaker>GIBSON</speaker> It's very black against her, I can't deny that. One explanation of the tragedy did come into my head, Mr. Holmes. I give it to you, for what it's worth. </ln>
 
-GIBSON: Now, look here, Mr. Holmes, I came to you on a question of evidence, not of morals. I'm not asking for your criticism.
+<ln><speaker>HOLMES</speaker> Pray continue, Mr. Gibson.</ln>
 
-HOLMES: It's only the young lady's sake that forces me to touch your case at all. Now, tell me, sir. What is your own opinion as to Miss Dunbar's guilt?
+<ln><speaker>GIBSON</speaker> My wife was bitterly jealous. She was half-crazy with hatred. She might have planned to murder Miss Dunbar -- or, we'll say, to threaten the girl with a revolver and so frighten her into leaving us. There might have been a struggle in which the gun exploded and gone off and shot my wife who was holding it.</ln>
 
-GIBSON: It's very black against her, I can't deny that. One explanation of the tragedy did come into my head, Mr. Holmes. I give it to you, for what it's worth. 
+<ln><speaker>HOLMES</speaker> Well, that possibility has already occurred to me. It's the only obvious alternative to deliberate murder.</ln>
 
-HOLMES: Pray continue, Mr. Gibson.
+<ln><speaker>WATSON</speaker> The revolver, Holmes. It was found on the floor of the governess' wardrobe.</ln>
 
-GIBSON: My wife was bitterly jealous. She was half-crazy with hatred. She might have planned to murder Miss Dunbar -- or, we'll say, to threaten the girl with a revolver and so frighten her into leaving us. There might have been a struggle in which the gun exploded and gone off and shot my wife who was holding it.
+<ln><speaker>HOLMES</speaker> Mr. Gibson, I should like to examine your house and the scene of the murder as soon as possible.</ln>
 
-HOLMES: Well, that possibility has already occurred to me. It's the only obvious alternative to deliberate murder.
+<ln><speaker>GIBSON</speaker> Certainly, Mr. Holmes. Sergeant Coventry of the local police is still down there. He'll give you any help you may need.</ln>
 
-WATSON: The revolver, Holmes. It was found on the floor of the governess' wardrobe.
+<ln><speaker>HOLMES</speaker> Excellent! Watson, old fellow -- [?] the timetable! We're catching the next fast train to Winchester!</ln>
 
-HOLMES: Mr. Gibson, I should like to examine your house and the scene of the murder as soon as possible.
+<ln><speaker>MUSIC</speaker> BRIDGE</ln>
 
-GIBSON: Certainly, Mr. Holmes. Sergeant Coventry of the local police is still down there. He'll give you any help you may need.
+<ln><speaker>SOUND</speaker> PASTORAL AMBIANCE -- BIRDS WHISTLE, AN OCCASIONAL DOG BARKS </ln>
 
-HOLMES: Excellent! Watson, old fellow -- [?] the timetable! We're catching the next fast train to Winchester!
+<ln><speaker>SERGEANT</speaker> So if I have to have someone else on the case, I'd rather have you, Mr. 'Olmes. The Yard gets called in, then we local police loses all credit for success; generally gets blamed for the failures. Now, I've heard that you play straight.</ln>
 
-MUSIC: BRIDGE
+<ln><speaker>HOLMES</speaker> (CHUCKLES) I need not appear in the matter at all, Sergeant Coventry. If I can clear it up, I don't ask to even have my name mentioned.</ln>
 
-SOUND: PASTORAL AMBIANCE -- BIRDS WHISTLE, AN OCCASIONAL DOG BARKS 
+<ln><speaker>SERGEANT</speaker> Well, that's handsome of you, I'm sure now. I know your friend, Dr. Watson, can be trusted, too. </ln>
 
-SERGEANT: So if I have to have someone else on the case, I'd rather have you, Mr. 'Olmes. The Yard gets called in, then we local police loses all credit for success; generally gets blamed for the failures. Now, I've heard that you play straight.
+<ln><speaker>WATSON</speaker> (CHUCKLES) Don't worry, my dear fellow. We won't steal any of your thunder.</ln>
 
-HOLMES: (CHUCKLES) I need not appear in the matter at all, Sergeant Coventry. If I can clear it up, I don't ask to even have my name mentioned.
+<ln><speaker>SERGEANT</speaker> Oh, that's nice and friendly of you, doctor. Well, come on, gentlemen, I'll walk you down to the bridge. That's where we found Mrs. Gibson's body. It's not far from the 'ouse 'ere.</ln>
 
-SERGEANT: Well, that's handsome of you, I'm sure now. I know your friend, Dr. Watson, can be trusted, too. 
+<ln><speaker>SOUND</speaker> FOOTSTEPS TRUDGE ON TRAIL</ln>
 
-WATSON: (CHUCKLES) Don't worry, my dear fellow. We won't steal any of your thunder.
+<ln><speaker>WATSON</speaker> Well, I must say, Mr. Gibson has a beautiful estate. It must be sixty or seventy acres.</ln>
 
-SERGEANT: Oh, that's nice and friendly of you, doctor. Well, come on, gentlemen, I'll walk you down to the bridge. That's where we found Mrs. Gibson's body. It's not far from the 'ouse 'ere.
+<ln><speaker>SERGEANT</speaker> Oh, nearly twice that, doctor. The woods back o' the house there belongs to him, too. (BEAT) Mr. 'Olmes?</ln>
 
-SOUND: FOOTSTEPS TRUDGE ON TRAIL
+<ln><speaker>HOLMES</speaker> Yes, sergeant?</ln>
 
-WATSON: Well, I must say, Mr. Gibson has a beautiful estate. It must be sixty or seventy acres.
+<ln><speaker>SERGEANT</speaker> There's a question I'd like to ask you. A question I wouldn't ask anyone else.</ln>
 
-SERGEANT: Oh, nearly twice that, doctor. The woods back o' the house there belongs to him, too. (BEAT) Mr. 'Olmes?
+<ln><speaker>HOLMES</speaker> Then please ask it.</ln>
 
-HOLMES: Yes, sergeant?
+<ln><speaker>SERGEANT</speaker> Don't you think there might be a case against Mr. Gibson hisself, sir?</ln>
 
-SERGEANT: There's a question I'd like to ask you. A question I wouldn't ask anyone else.
+<ln><speaker>HOLMES</speaker> I've been considering that possibility.</ln>
 
-HOLMES: Then please ask it.
+<ln><speaker>SERGEANT</speaker> That there Miss Dunbar's a bit of all right. If y'ask me, he wanted his wife out of the way. And the pistol she was shot with was his pistol, you know.</ln>
 
-SERGEANT: Don't you think there might be a case against Mr. Gibson hisself, sir?
+<ln><speaker>WATSON</speaker> Oh? Was that fact proven?</ln>
 
-HOLMES: I've been considering that possibility.
+<ln><speaker>SERGEANT</speaker> Yes, doctor. It was one of a pair that he had.</ln>
 
-SERGEANT: That there Miss Dunbar's a bit of all right. If y'ask me, he wanted his wife out of the way. And the pistol she was shot with was his pistol, you know.
+<ln><speaker>HOLMES</speaker> One of a pair? Where's the other?</ln>
 
-WATSON: Oh? Was that fact proven?
+<ln><speaker>SERGEANT</speaker> Well, Mr. Gibson has a lot of firearms. We never quite matched that particular pistol -- but the box was made for two.</ln>
 
-SERGEANT: Yes, doctor. It was one of a pair that he had.
+<ln><speaker>WATSON</speaker> Well, if it was one of a pair, surely you'd be able to match it.</ln>
 
-HOLMES: One of a pair? Where's the other?
+<ln><speaker>SERGEANT</speaker> Well, we 'ave 'em all laid out at the house if you want to look 'em over.</ln>
 
-SERGEANT: Well, Mr. Gibson has a lot of firearms. We never quite matched that particular pistol -- but the box was made for two.
+<ln><speaker>HOLMES</speaker> We'll do that later. </ln>
 
-WATSON: Well, if it was one of a pair, surely you'd be able to match it.
+<ln><speaker>SOUND</speaker> WATER RUNS UNDER BRIDGE ... CONTINUES IN BG</ln>
 
-SERGEANT: Well, we 'ave 'em all laid out at the house if you want to look 'em over.
+<ln><speaker>HOLMES</speaker> Ah! This, I presume, is Thor Bridge.</ln>
 
-HOLMES: We'll do that later. 
+<ln><speaker>SERGEANT</speaker> That's right, sir. Found Mrs. Gibson's body lying right here at the approach to the bridge. </ln>
 
-SOUND: WATER RUNS UNDER BRIDGE ... CONTINUES IN BG
+<ln><speaker>HOLMES</speaker> I see. I gathered from the newspaper reports that the shot was fired at very close quarters.</ln>
 
-HOLMES: Ah! This, I presume, is Thor Bridge.
+<ln><speaker>SERGEANT</speaker> Yes, sir, very close.</ln>
 
-SERGEANT: That's right, sir. Found Mrs. Gibson's body lying right here at the approach to the bridge. 
+<ln><speaker>HOLMES</speaker> Near the right temple, wasn't it?</ln>
 
-HOLMES: I see. I gathered from the newspaper reports that the shot was fired at very close quarters.
+<ln><speaker>SERGEANT</speaker> Just behind it, sir.</ln>
 
-SERGEANT: Yes, sir, very close.
+<ln><speaker>WATSON</speaker> How did the body lie, sergeant?</ln>
 
-HOLMES: Near the right temple, wasn't it?
+<ln><speaker>SERGEANT</speaker> Oh, on its back, doctor. No trace of a struggle. No marks. No weapon. The note from Miss Dunbar was clutched in her left hand.</ln>
 
-SERGEANT: Just behind it, sir.
+<ln><speaker>HOLMES</speaker> Clutched, you say?</ln>
 
-WATSON: How did the body lie, sergeant?
+<ln><speaker>SERGEANT</speaker> Yes, sir, we could hardly open the fingers to get at it.</ln>
 
-SERGEANT: Oh, on its back, doctor. No trace of a struggle. No marks. No weapon. The note from Miss Dunbar was clutched in her left hand.
+<ln><speaker>HOLMES</speaker> Ah, that's of greatest importance. It excludes the idea that anyone could have placed the note there after death in order to furnish a false clue. </ln>
 
-HOLMES: Clutched, you say?
+<ln><speaker>WATSON</speaker> What did the note say, sergeant?</ln>
 
-SERGEANT: Yes, sir, we could hardly open the fingers to get at it.
+<ln><speaker>SERGEANT</speaker> Little enough, doctor. It just said, uh, "I will be at Thor Bridge at nine o'clock" and it was signed "Grace Dunbar."</ln>
 
-HOLMES: Ah, that's of greatest importance. It excludes the idea that anyone could have placed the note there after death in order to furnish a false clue. 
+<ln><speaker>HOLMES</speaker> Did Miss Dunbar admit writing it?</ln>
 
-WATSON: What did the note say, sergeant?
+<ln><speaker>SERGEANT</speaker> Oh, yes, sir.</ln>
 
-SERGEANT: Little enough, doctor. It just said, uh, "I will be at Thor Bridge at nine o'clock" and it was signed "Grace Dunbar."
+<ln><speaker>HOLMES</speaker> What was her explanation?</ln>
 
-HOLMES: Did Miss Dunbar admit writing it?
+<ln><speaker>SERGEANT</speaker> She wouldn't say nothing. Said she was saving her defence for the trial.</ln>
 
-SERGEANT: Oh, yes, sir.
+<ln><speaker>HOLMES</speaker> Yes, it seems odd that Mrs. Gibson was still clutching that note.</ln>
 
-HOLMES: What was her explanation?
+<ln><speaker>WATSON</speaker> Seems perfectly natural to me.</ln>
 
-SERGEANT: She wouldn't say nothing. Said she was saving her defence for the trial.
+<ln><speaker>HOLMES</speaker> Oh, come now, old fellow, argue the thing out logically. If the letter is genuine, it was certainly received some time before the tragedy -- say an hour or two. Why, then, was the dead woman still clasping it in her left hand? Why should she carry it so carefully? She certainly didn't need to refer to the note at all at the interview. Doesn't it strike you as rather strange?</ln>
 
-HOLMES: Yes, it seems odd that Mrs. Gibson was still clutching that note.
+<ln><speaker>WATSON</speaker> Well, now, you put it that way, it does seem a little peculiar.</ln>
 
-WATSON: Seems perfectly natural to me.
+<ln><speaker>HOLMES</speaker> Hello!</ln>
 
-HOLMES: Oh, come now, old fellow, argue the thing out logically. If the letter is genuine, it was certainly received some time before the tragedy -- say an hour or two. Why, then, was the dead woman still clasping it in her left hand? Why should she carry it so carefully? She certainly didn't need to refer to the note at all at the interview. Doesn't it strike you as rather strange?
+<ln><speaker>SOUND</speaker> HOLMES' FOOTSTEPS AWAY VIA THE BRIDGE</ln>
 
-WATSON: Well, now, you put it that way, it does seem a little peculiar.
+<ln><speaker>HOLMES</speaker> (OFF) Did you notice this, sergeant?</ln>
 
-HOLMES: Hello!
+<ln><speaker>SERGEANT</speaker> Oh, you mean that chip out of that stone on the underside of the parapet of the bridge, sir? Yes, I noticed it. Didn't think nothin' of it, though. </ln>
 
-SOUND: HOLMES' FOOTSTEPS AWAY VIA THE BRIDGE
+<ln><speaker>WATSON</speaker> (OFF) Not a very large chip.</ln>
 
-HOLMES: (OFF) Did you notice this, sergeant?
+<ln><speaker>HOLMES</speaker> (OFF) Yes, but it's been done recently. Notice how the stonework is white just here. It took some violence to do that. Hand me your cane, Watson, will you?</ln>
 
-SERGEANT: Oh, you mean that chip out of that stone on the underside of the parapet of the bridge, sir? Yes, I noticed it. Didn't think nothin' of it, though. 
+<ln><speaker>WATSON</speaker> (OFF) Here you are.</ln>
 
-WATSON: (OFF) Not a very large chip.
+<ln><speaker>HOLMES</speaker> (OFF) Thanks.</ln>
 
-HOLMES: (OFF) Yes, but it's been done recently. Notice how the stonework is white just here. It took some violence to do that. Hand me your cane, Watson, will you?
+<ln><speaker>SOUND</speaker> HOLMES RAPIDLY WHACKS STONE WITH WOODEN CANE HALF A DOZEN TIMES</ln>
 
-WATSON: (OFF) Here you are.
+<ln><speaker>HOLMES</speaker> (OFF) Yes, it was a hard knock. (CLOSER) And in a curious place, too.</ln>
 
-HOLMES: (OFF) Thanks.
+<ln><speaker>SERGEANT</speaker> But it's fifteen feet from where we found the body, Mr. 'Olmes.</ln>
 
-SOUND: HOLMES RAPIDLY WHACKS STONE WITH WOODEN CANE HALF A DOZEN TIMES
+<ln><speaker>WATSON</speaker> Yes, Holmes, I don't see how it could have any connection with Mrs. Gibson's murder.</ln>
 
-HOLMES: (OFF) Yes, it was a hard knock. (CLOSER) And in a curious place, too.
+<ln><speaker>HOLMES</speaker> Well, perhaps it hasn't. But it's a point worth noting. There were no footprints, you say, sergeant?</ln>
 
-SERGEANT: But it's fifteen feet from where we found the body, Mr. 'Olmes.
+<ln><speaker>SERGEANT</speaker> None, Mr. 'Olmes. The ground was as hard as iron. It's been a very dry summer and we haven't had any rain to speak of.</ln>
 
-WATSON: Yes, Holmes, I don't see how it could have any connection with Mrs. Gibson's murder.
+<ln><speaker>HOLMES</speaker> That's a pity. Hmm. Well, sergeant, I'm much obliged to you and now I think we'll go back to the house.</ln>
 
-HOLMES: Well, perhaps it hasn't. But it's a point worth noting. There were no footprints, you say, sergeant?
+<ln><speaker>SERGEANT</speaker> Right. Cesar'll show you where the firearms are, sir.</ln>
 
-SERGEANT: None, Mr. 'Olmes. The ground was as hard as iron. It's been a very dry summer and we haven't had any rain to speak of.
+<ln><speaker>HOLMES</speaker> Oh, uh, who is Cesar?</ln>
 
-HOLMES: That's a pity. Hmm. Well, sergeant, I'm much obliged to you and now I think we'll go back to the house.
+<ln><speaker>SERGEANT</speaker> Oh, a funny kind of a bloke. Brazilian, I guess.</ln>
 
-SERGEANT: Right. Cesar'll show you where the firearms are, sir.
+<ln><speaker>HOLMES</speaker> Brazilian, eh? Like Mrs. Gibson?</ln>
 
-HOLMES: Oh, uh, who is Cesar?
+<ln><speaker>SERGEANT</speaker> Yes, Mr. 'Olmes. Comes from the same town as she does, as a matter of fact. Something very fishy about 'im, if you ask me. Now, if you'll excuse me, gentlemen, I'm going to take a little stroll around the grounds. You've started me on a new train of thought in this case, Mr. 'Olmes.</ln>
 
-SERGEANT: Oh, a funny kind of a bloke. Brazilian, I guess.
+<ln><speaker>HOLMES</speaker> (LAUGHS) I'm delighted, sergeant. [Come, Watson, let's] get back to the house.</ln>
 
-HOLMES: Brazilian, eh? Like Mrs. Gibson?
+<ln><speaker>MUSIC</speaker> BRIDGE</ln>
 
-SERGEANT: Yes, Mr. 'Olmes. Comes from the same town as she does, as a matter of fact. Something very fishy about 'im, if you ask me. Now, if you'll excuse me, gentlemen, I'm going to take a little stroll around the grounds. You've started me on a new train of thought in this case, Mr. 'Olmes.
+<ln><speaker>HOLMES</speaker> I see. And these are all the firearms in Mr. Gibson's possession, eh, Cesar?</ln>
 
-HOLMES: (LAUGHS) I'm delighted, sergeant. [Come, Watson, let's] get back to the house.
+<ln><speaker>CESAR</speaker> Mm. Except for the revolver that is missing from the case. [?]</ln>
 
-MUSIC: BRIDGE
+<ln><speaker>WATSON</speaker> I've never seen such a collection of guns and revolvers in my life.</ln>
 
-HOLMES: I see. And these are all the firearms in Mr. Gibson's possession, eh, Cesar?
+<ln><speaker>CESAR</speaker> Mr. Gibson have many enemies, señor. He always sleep with a loaded pistol beside his bed. He is a man of great violence. There have been times when all of us were afraid of him. </ln>
 
-CESAR: Mm. Except for the revolver that is missing from the case. [?]
+<ln><speaker>HOLMES</speaker> Did you ever witness physical violence towards Mrs. Gibson?</ln>
 
-WATSON: I've never seen such a collection of guns and revolvers in my life.
+<ln><speaker>CESAR</speaker> No, señor, I cannot say that I have. But I have heard him say many terrible things to her. He would taunt her in front of we servants. I have heard him do it many times.</ln>
 
-CESAR: Mr. Gibson have many enemies, señor. He always sleep with a loaded pistol beside his bed. He is a man of great violence. There have been times when all of us were afraid of him. 
+<ln><speaker>HOLMES</speaker> Thank you, Cesar, that will be all.</ln>
 
-HOLMES: Did you ever witness physical violence towards Mrs. Gibson?
+<ln><speaker>CESAR</speaker> Muy bueno, señor.</ln>
 
-CESAR: No, señor, I cannot say that I have. But I have heard him say many terrible things to her. He would taunt her in front of we servants. I have heard him do it many times.
+<ln><speaker>SOUND</speaker> CESAR'S FOOTSTEPS AWAY</ln>
 
-HOLMES: Thank you, Cesar, that will be all.
+<ln><speaker>WATSON</speaker> You know, Holmes, I still think the case against Miss Dunbar looks very black.</ln>
 
-CESAR: Muy bueno, señor.
+<ln><speaker>HOLMES</speaker> I should agree with you if it were not for one fact -- the finding of the revolver in her wardrobe.</ln>
 
-SOUND: CESAR'S FOOTSTEPS AWAY
+<ln><speaker>WATSON</speaker> (TAKEN ABACK) Upon my soul, Holmes. That seems to me the strongest evidence of all.</ln>
 
-WATSON: You know, Holmes, I still think the case against Miss Dunbar looks very black.
+<ln><speaker>HOLMES</speaker> I think not, old chap.</ln>
 
-HOLMES: I should agree with you if it were not for one fact -- the finding of the revolver in her wardrobe.
+<ln><speaker>WATSON</speaker> Huh?</ln>
 
-WATSON: (TAKEN ABACK) Upon my soul, Holmes. That seems to me the strongest evidence of all.
+<ln><speaker>HOLMES</speaker> We must look for consistency. Where there is a want of it, we must suspect deception.</ln>
 
-HOLMES: I think not, old chap.
+<ln><speaker>WATSON</speaker> I don't quite follow you.</ln>
 
-WATSON: Huh?
+<ln><speaker>HOLMES</speaker> Suppose for a moment that we visualize you in the character of a woman who, in cold, premeditated fashion, is about to murder a rival. You've planned it. A note has been written. The victim has come. You have a weapon. The crime is well done. It has been workmanlike and complete. Do you mean to tell me that after carrying out so crafty a crime you'd be so stupid as to forget to fling the incriminating revolver to the bottom of the stream? Or perhaps in the dense reeds that border it? Would you carefully carry it home and put it in the first place that would be searched? Your wardrobe?</ln>
 
-HOLMES: We must look for consistency. Where there is a want of it, we must suspect deception.
+<ln><speaker>WATSON</speaker> Well, perhaps in the excitement of the moment--</ln>
 
-WATSON: I don't quite follow you.
+<ln><speaker>HOLMES</speaker> No, no, my dear chap, I won't admit that's even possible. When a crime is coolly premeditated, then the means of covering it are coolly premeditated also. </ln>
 
-HOLMES: Suppose for a moment that we visualize you in the character of a woman who, in cold, premeditated fashion, is about to murder a rival. You've planned it. A note has been written. The victim has come. You have a weapon. The crime is well done. It has been workmanlike and complete. Do you mean to tell me that after carrying out so crafty a crime you'd be so stupid as to forget to fling the incriminating revolver to the bottom of the stream? Or perhaps in the dense reeds that border it? Would you carefully carry it home and put it in the first place that would be searched? Your wardrobe?
+<ln><speaker>WATSON</speaker> Well then, if Miss Dunbar didn't shoot Mrs. Gibson, who the devil did?</ln>
 
-WATSON: Well, perhaps in the excitement of the moment--
+<ln><speaker>HOLMES</speaker> I hope I can give you the answer to that question, Watson, when we've made one further visit.</ln>
 
-HOLMES: No, no, my dear chap, I won't admit that's even possible. When a crime is coolly premeditated, then the means of covering it are coolly premeditated also. 
+<ln><speaker>WATSON</speaker> (WEARILY) Oh, Lord. Where are we going now?</ln>
 
-WATSON: Well then, if Miss Dunbar didn't shoot Mrs. Gibson, who the devil did?
+<ln><speaker>HOLMES</speaker> To prison, old chap.</ln>
 
-HOLMES: I hope I can give you the answer to that question, Watson, when we've made one further visit.
+<ln><speaker>WATSON</speaker> Prison?</ln>
 
-WATSON: (WEARILY) Oh, Lord. Where are we going now?
+<ln><speaker>HOLMES</speaker> Yes, we're going to Winchester Prison to call on Miss Dunbar. I'm certain that the key to this strange mystery lies in her hands.</ln>
 
-HOLMES: To prison, old chap.
+<ln><speaker>MUSIC</speaker> TO A FINISH</ln>
 
-WATSON: Prison?
+<ln><speaker>ANNOUNCER</speaker> You'll hear the rest of Dr. Watson's story in just a few seconds. Just time enough for me to remind you that the easiest way to make good food taste better is to serve that good food with a good Petri Wine. If you like a red wine, well, you want a Petri California burgundy. If you'd rather have a white wine, then you want a Petri California sauterne. But, red or white, Petri burgundy or Petri sauterne, you're choosing a dinner wine that's sure to turn a simple meal into a feast. Your whole family and all your friends will love Petri, the wine that makes good food taste better. </ln>
 
-HOLMES: Yes, we're going to Winchester Prison to call on Miss Dunbar. I'm certain that the key to this strange mystery lies in her hands.
+<ln><speaker>MUSIC</speaker> THEME FILLS A PAUSE ... THEN IN BG, OUT AT [X]</ln>
 
-MUSIC: TO A FINISH
+<ln><speaker>ANNOUNCER</speaker> And now back to Dr. Watson and tonight's Sherlock Holmes adventure, "The Problem of Thor Bridge." [X] Well, uh, doctor, did you go to Winchester Prison and see Miss Dunbar?</ln>
 
-ANNOUNCER: You'll hear the rest of Dr. Watson's story in just a few seconds. Just time enough for me to remind you that the easiest way to make good food taste better is to serve that good food with a good Petri Wine. If you like a red wine, well, you want a Petri California burgundy. If you'd rather have a white wine, then you want a Petri California sauterne. But, red or white, Petri burgundy or Petri sauterne, you're choosing a dinner wine that's sure to turn a simple meal into a feast. Your whole family and all your friends will love Petri, the wine that makes good food taste better. 
+<ln><speaker>WATSON</speaker> We did, Mr. Bartell. An hour later found the two of us sitting in a dank and gloomy cell talking to one of the most beautiful girls that I've ever seen. Her bright, flashing eyes and her air of quiet confidence seemed sadly out of place in such a setting. Holmes spoke to her, quietly soothing her.</ln>
 
-MUSIC: THEME FILLS A PAUSE ... THEN IN BG, OUT AT [X]
+<ln><speaker>HOLMES</speaker> Miss Dunbar, tell us of your true relations with the dead woman.</ln>
 
-ANNOUNCER: And now back to Dr. Watson and tonight's Sherlock Holmes adventure, "The Problem of Thor Bridge." [X] Well, uh, doctor, did you go to Winchester Prison and see Miss Dunbar?
+<ln><speaker>DUNBAR</speaker> She hated me, Mr. Holmes. She hated me with all the passion of her distorted mind.</ln>
 
-WATSON: We did, Mr. Bartell. An hour later found the two of us sitting in a dank and gloomy cell talking to one of the most beautiful girls that I've ever seen. Her bright, flashing eyes and her air of quiet confidence seemed sadly out of place in such a setting. Holmes spoke to her, quietly soothing her.
+<ln><speaker>HOLMES</speaker> Please tell us exactly what happened on the evening of Mrs. Gibson's death.</ln>
 
-HOLMES: Miss Dunbar, tell us of your true relations with the dead woman.
+<ln><speaker>DUNBAR</speaker> Well, I - I received a note from her in the morning, a note imploring me to meet her at the bridge after dinner that night. She said she had something important to say to me.</ln>
 
-DUNBAR: She hated me, Mr. Holmes. She hated me with all the passion of her distorted mind.
+<ln><speaker>WATSON</speaker> Did you keep that note, Miss Dunbar?</ln>
 
-HOLMES: Please tell us exactly what happened on the evening of Mrs. Gibson's death.
+<ln><speaker>DUNBAR</speaker> No, doctor. She-- Well, she asked me to destroy the note, so I burned it in the schoolroom grate. I saw no reason for such secrecy but-- Well, I - I did as she asked.</ln>
 
-DUNBAR: Well, I - I received a note from her in the morning, a note imploring me to meet her at the bridge after dinner that night. She said she had something important to say to me.
+<ln><speaker>HOLMES</speaker> Hmm. And yet she kept your reply very carefully. That's interesting. Tell me what happened when you met her that night.</ln>
 
-WATSON: Did you keep that note, Miss Dunbar?
+<ln><speaker>DUNBAR</speaker> When I reached the bridge, she was waiting for me. I - I won't tell you what she said. But she poured out her whole, wild fury in burning, horrible words. I did not [even answer] -- I couldn't. It was dreadful even to look at her. She was like an insane woman, standing there screaming disgusting insults at me. I - I put my hands to my ears and rushed away. </ln>
 
-DUNBAR: No, doctor. She-- Well, she asked me to destroy the note, so I burned it in the schoolroom grate. I saw no reason for such secrecy but-- Well, I - I did as she asked.
+<ln><speaker>WATSON</speaker> Where was she standing when you left her? </ln>
 
-HOLMES: Hmm. And yet she kept your reply very carefully. That's interesting. Tell me what happened when you met her that night.
+<ln><speaker>DUNBAR</speaker> Within a few yards of the spot where her body was found later.</ln>
 
-DUNBAR: When I reached the bridge, she was waiting for me. I - I won't tell you what she said. But she poured out her whole, wild fury in burning, horrible words. I did not [even answer] -- I couldn't. It was dreadful even to look at her. She was like an insane woman, standing there screaming disgusting insults at me. I - I put my hands to my ears and rushed away. 
+<ln><speaker>HOLMES</speaker> And yet, presuming she met her death shortly after you left her, you heard no shot?</ln>
 
-WATSON: Where was she standing when you left her? 
+<ln><speaker>DUNBAR</speaker> No. No, I heard nothing. But I was so upset, Mr. Holmes, that I rushed straight back to my room.</ln>
 
-DUNBAR: Within a few yards of the spot where her body was found later.
+<ln><speaker>HOLMES</speaker> Did you leave it again that night?</ln>
 
-HOLMES: And yet, presuming she met her death shortly after you left her, you heard no shot?
+<ln><speaker>DUNBAR</speaker> Yes. When the alarm came that Mrs. Gibson was dead, I ran out with the others.</ln>
 
-DUNBAR: No. No, I heard nothing. But I was so upset, Mr. Holmes, that I rushed straight back to my room.
+<ln><speaker>WATSON</speaker> Did you see Mr. Gibson?</ln>
 
-HOLMES: Did you leave it again that night?
+<ln><speaker>DUNBAR</speaker> Yes, doctor. He had just returned from the bridge when I saw him. He had sent for the doctor and the police.</ln>
 
-DUNBAR: Yes. When the alarm came that Mrs. Gibson was dead, I ran out with the others.
+<ln><speaker>HOLMES</speaker> This pistol that [was] found in your room. Had you ever seen it before?</ln>
 
-WATSON: Did you see Mr. Gibson?
+<ln><speaker>DUNBAR</speaker> Never, Mr. Holmes, I swear it.</ln>
 
-DUNBAR: Yes, doctor. He had just returned from the bridge when I saw him. He had sent for the doctor and the police.
+<ln><speaker>WATSON</speaker> When was it found, Miss Dunbar?</ln>
 
-HOLMES: This pistol that [was] found in your room. Had you ever seen it before?
+<ln><speaker>DUNBAR</speaker> Next morning, when the police made their search. It was on the floor of my wardrobe where I keep my shoes.</ln>
 
-DUNBAR: Never, Mr. Holmes, I swear it.
+<ln><speaker>HOLMES</speaker> Hm. You've no idea how long it had been there?</ln>
 
-WATSON: When was it found, Miss Dunbar?
+<ln><speaker>DUNBAR</speaker> Well, it hadn't been there the morning before.</ln>
 
-DUNBAR: Next morning, when the police made their search. It was on the floor of my wardrobe where I keep my shoes.
+<ln><speaker>HOLMES</speaker> How do you know?</ln>
 
-HOLMES: Hm. You've no idea how long it had been there?
+<ln><speaker>DUNBAR</speaker> Because I tidied up the wardrobe that day.</ln>
 
-DUNBAR: Well, it hadn't been there the morning before.
+<ln><speaker>HOLMES</speaker> I see. Then someone must have come into your room and placed the pistol there in order to incriminate you.</ln>
 
-HOLMES: How do you know?
+<ln><speaker>DUNBAR</speaker> I'm certain of it.</ln>
 
-DUNBAR: Because I tidied up the wardrobe that day.
+<ln><speaker>WATSON</speaker> Well, when - when could they have done that?</ln>
 
-HOLMES: I see. Then someone must have come into your room and placed the pistol there in order to incriminate you.
+<ln><speaker>DUNBAR</speaker> Well, it - it could have been at meal-time, or when I was in the schoolroom with the children.</ln>
 
-DUNBAR: I'm certain of it.
+<ln><speaker>HOLMES</speaker> Yes. Miss Dunbar, on examining the scene of Mrs. Gibson's death, I noticed that a piece of stonework on the underside of the parapet of the bridge had been broken away. Can you suggest any possible explanation for that?</ln>
 
-WATSON: Well, when - when could they have done that?
+<ln><speaker>DUNBAR</speaker> Oh, surely, it must have been a mere coincidence, Mr. Holmes.</ln>
 
-DUNBAR: Well, it - it could have been at meal-time, or when I was in the schoolroom with the children.
+<ln><speaker>HOLMES</speaker> Possibly. But why should it appear at the very time of the tragedy, and at the very place? Could it possibly be that--? (THUNDERSTRUCK) Why, yes, of course! Idiot! Why didn't I think of it before?! Come along, Watson!</ln>
 
-HOLMES: Yes. Miss Dunbar, on examining the scene of Mrs. Gibson's death, I noticed that a piece of stonework on the underside of the parapet of the bridge had been broken away. Can you suggest any possible explanation for that?
+<ln><speaker>WATSON</speaker> Where are we going, Holmes?</ln>
 
-DUNBAR: Oh, surely, it must have been a mere coincidence, Mr. Holmes.
+<ln><speaker>HOLMES</speaker> Back to Thor Bridge, old fellow, as fast as we can get there!</ln>
 
-HOLMES: Possibly. But why should it appear at the very time of the tragedy, and at the very place? Could it possibly be that--? (THUNDERSTRUCK) Why, yes, of course! Idiot! Why didn't I think of it before?! Come along, Watson!
+<ln><speaker>DUNBAR</speaker> What have you found out, Mr. Holmes?</ln>
 
-WATSON: Where are we going, Holmes?
+<ln><speaker>HOLMES</speaker> The answer to this mystery I hope, my dear young lady. You will get news before the day is out. And meanwhile take my assurance that the clouds are lifting and that the light of truth is breaking through!</ln>
 
-HOLMES: Back to Thor Bridge, old fellow, as fast as we can get there!
+<ln><speaker>MUSIC</speaker> BRIDGE</ln>
 
-DUNBAR: What have you found out, Mr. Holmes?
+<ln><speaker>SOUND</speaker> RUNNING WATER UNDER BRIDGE ... CONTINUES IN BG</ln>
 
-HOLMES: The answer to this mystery I hope, my dear young lady. You will get news before the day is out. And meanwhile take my assurance that the clouds are lifting and that the light of truth is breaking through!
+<ln><speaker>SERGEANT</speaker> Well, Mr. 'Olmes, you're soon back here. What have you found out?</ln>
 
-MUSIC: BRIDGE
+<ln><speaker>HOLMES</speaker> Tell you in a few moments. You got my message?</ln>
 
-SOUND: RUNNING WATER UNDER BRIDGE ... CONTINUES IN BG
+<ln><speaker>SERGEANT</speaker> Yes, here you are, a ball of twine. What you want it for, I can't imagine.</ln>
 
-SERGEANT: Well, Mr. 'Olmes, you're soon back here. What have you found out?
+<ln><speaker>HOLMES</speaker> You'll soon see, sergeant. Uh, Watson, I, uh, have some recollection that you usually go armed on these excursions of ours.</ln>
 
-HOLMES: Tell you in a few moments. You got my message?
+<ln><speaker>WATSON</speaker> Yes, I'm carrying my revolver. Why?</ln>
 
-SERGEANT: Yes, here you are, a ball of twine. What you want it for, I can't imagine.
+<ln><speaker>HOLMES</speaker> Give it to me, old chap, will you? Thanks. I believe your revolver may have a very intimate connection with the mystery we're investigating.</ln>
 
-HOLMES: You'll soon see, sergeant. Uh, Watson, I, uh, have some recollection that you usually go armed on these excursions of ours.
+<ln><speaker>WATSON</speaker> (CHUCKLES) You're joking.</ln>
 
-WATSON: Yes, I'm carrying my revolver. Why?
+<ln><speaker>HOLMES</speaker> No, Watson, I'm very serious. We have a test to make. If the test is successful, Miss Dunbar will be free before nightfall. And the test will depend on the conduct of this revolver of yours. </ln>
 
-HOLMES: Give it to me, old chap, will you? Thanks. I believe your revolver may have a very intimate connection with the mystery we're investigating.
+<ln><speaker>SOUND</speaker> HOLMES UNLOADS BULLETS FROM REVOLVER</ln>
 
-WATSON: (CHUCKLES) You're joking.
+<ln><speaker>HOLMES</speaker> I take the precaution of unloading it. Uh huh. There we are. Now, sergeant, ball of twine, please.</ln>
 
-HOLMES: No, Watson, I'm very serious. We have a test to make. If the test is successful, Miss Dunbar will be free before nightfall. And the test will depend on the conduct of this revolver of yours. 
+<ln><speaker>SERGEANT</speaker> Wish I knew what you was up to, sir.</ln>
 
-SOUND: HOLMES UNLOADS BULLETS FROM REVOLVER
+<ln><speaker>HOLMES</speaker> I tie one end of the twine -- like this -- to the handle of the revolver. So. Sergeant, see if you can find me a heavy stone, will you?</ln>
 
-HOLMES: I take the precaution of unloading it. Uh huh. There we are. Now, sergeant, ball of twine, please.
+<ln><speaker>SERGEANT</speaker> Right you are, sir.</ln>
 
-SERGEANT: Wish I knew what you was up to, sir.
+<ln><speaker>WATSON</speaker> Holmes, what are you doing?</ln>
 
-HOLMES: I tie one end of the twine -- like this -- to the handle of the revolver. So. Sergeant, see if you can find me a heavy stone, will you?
+<ln><speaker>HOLMES</speaker> Trying to reconstruct the killing of Mrs. Gibson. But you've seen me miss the mark before, Watson. I have an instinct for such things, and yet it has sometimes played me false. It seemed a certainty when it first flashed across my mind in Miss Dunbar's cell, but one drawback of an active mind is that one can always conceive alternative explanations which would make our scent a false one. And yet-- Oh, well. We can but try.</ln>
 
-SERGEANT: Right you are, sir.
+<ln><speaker>SERGEANT</speaker> Here's a nice stone, Mr. Holmes.</ln>
 
-WATSON: Holmes, what are you doing?
+<ln><speaker>HOLMES</speaker> Thank you, sergeant! Now! I tie the other end of this twine to a stone. Wait a minute. Like that. Splendid! Uh, sergeant, will you please take this stone and stretch the twine across the parapet of the bridge there -- so that the stone will swing just clear of the water on the other side of the bridge?</ln>
 
-HOLMES: Trying to reconstruct the killing of Mrs. Gibson. But you've seen me miss the mark before, Watson. I have an instinct for such things, and yet it has sometimes played me false. It seemed a certainty when it first flashed across my mind in Miss Dunbar's cell, but one drawback of an active mind is that one can always conceive alternative explanations which would make our scent a false one. And yet-- Oh, well. We can but try.
+<ln><speaker>SERGEANT</speaker> Right you are, sir.</ln>
 
-SERGEANT: Here's a nice stone, Mr. Holmes.
+<ln><speaker>HOLMES</speaker> I'll stand on the spot where Mrs. Gibson's body was found. (CALLS) That's it, sergeant. Over the parapet.</ln>
 
-HOLMES: Thank you, sergeant! Now! I tie the other end of this twine to a stone. Wait a minute. Like that. Splendid! Uh, sergeant, will you please take this stone and stretch the twine across the parapet of the bridge there -- so that the stone will swing just clear of the water on the other side of the bridge?
+<ln><speaker>SERGEANT</speaker> (OFF) All set, Mr. Holmes. The stone's swinging about eight feet above the water.</ln>
 
-SERGEANT: Right you are, sir.
+<ln><speaker>HOLMES</speaker> Splendid! Now, Watson, watch closely. I raise the revolver to my head.</ln>
 
-HOLMES: I'll stand on the spot where Mrs. Gibson's body was found. (CALLS) That's it, sergeant. Over the parapet.
+<ln><speaker>WATSON</speaker> Careful, Holmes, careful.</ln>
 
-SERGEANT: (OFF) All set, Mr. Holmes. The stone's swinging about eight feet above the water.
+<ln><speaker>HOLMES</speaker> Don't worry, old chap, it's not loaded. Now, let us imagine I am the late Mrs. Gibson. I raise the revolver to my head and fire it.</ln>
 
-HOLMES: Splendid! Now, Watson, watch closely. I raise the revolver to my head.
+<ln><speaker>SOUND</speaker> CLICK OF EMPTY REVOLVER</ln>
 
-WATSON: Careful, Holmes, careful.
+<ln><speaker>HOLMES</speaker> Instantly, my fingers release their grip and--</ln>
 
-HOLMES: Don't worry, old chap, it's not loaded. Now, let us imagine I am the late Mrs. Gibson. I raise the revolver to my head and fire it.
+<ln><speaker>SOUND</speaker> GUN RATTLES ACROSS BRIDGE ... LOUD CLANG AS METAL GUN HITS STONE PARAPET ... SPLASHES AS STONE AND GUN SINK INTO STREAM</ln>
 
-SOUND: CLICK OF EMPTY REVOLVER
+<ln><speaker>HOLMES</speaker> There's your answer, Watson!</ln>
 
-HOLMES: Instantly, my fingers release their grip and--
+<ln><speaker>WATSON</speaker> Great Scott! The revolver flashed back out of your hand -- struck the parapet of the bridge -- and then the weight of the stone flipped it over into the water!</ln>
 
-SOUND: GUN RATTLES ACROSS BRIDGE ... LOUD CLANG AS METAL GUN HITS STONE PARAPET ... SPLASHES AS STONE AND GUN SINK INTO STREAM
+<ln><speaker>HOLMES</speaker> Was there ever a more exact demonstration? Come on, old fellow!</ln>
 
-HOLMES: There's your answer, Watson!
+<ln><speaker>SERGEANT</speaker> You're a bloomin' magician, Mr. 'Olmes! That's what you are, a bloomin' magician!</ln>
 
-WATSON: Great Scott! The revolver flashed back out of your hand -- struck the parapet of the bridge -- and then the weight of the stone flipped it over into the water!
+<ln><speaker>HOLMES</speaker> Look at that! There's the second chip on the stonework of the parapet here -- same size as the first! </ln>
 
-HOLMES: Was there ever a more exact demonstration? Come on, old fellow!
+<ln><speaker>WATSON</speaker> Then the murder of Mrs. Gibson--?</ln>
 
-SERGEANT: You're a bloomin' magician, Mr. 'Olmes! That's what you are, a bloomin' magician!
+<ln><speaker>HOLMES</speaker> Wasn't murder at all! It was suicide!</ln>
 
-HOLMES: Look at that! There's the second chip on the stonework of the parapet here -- same size as the first! 
+<ln><speaker>WATSON</speaker> What?</ln>
 
-WATSON: Then the murder of Mrs. Gibson--?
+<ln><speaker>HOLMES</speaker> We can follow the various steps quite clearly. A note was extracted very cleverly from Miss Dunbar. A note which made it appear that she had chosen the scene of the crime. Mrs. Gibson, in her anxiety that the note should be discovered, somewhat overdid it by holding it in her hand to the last. That alone should have excited my suspicions earlier than it did.</ln>
 
-HOLMES: Wasn't murder at all! It was suicide!
+<ln><speaker>WATSON</speaker> Then she stole one of her husband's revolvers--! </ln>
 
-WATSON: What?
+<ln><speaker>SERGEANT</speaker> And planted the other one in Miss Dunbar's wardrobe!</ln>
 
-HOLMES: We can follow the various steps quite clearly. A note was extracted very cleverly from Miss Dunbar. A note which made it appear that she had chosen the scene of the crime. Mrs. Gibson, in her anxiety that the note should be discovered, somewhat overdid it by holding it in her hand to the last. That alone should have excited my suspicions earlier than it did.
+<ln><speaker>HOLMES</speaker> Exactly! After discharging one of the cartridges, which she could easily do in the woods without attracting suspicion, she then went down to the bridge where she contrived this exceedingly ingenious method of getting rid of her weapon. When Miss Dunbar appeared, she used her last breath in pouring out her hatred, and then, when the girl had left, carried out her terrible purpose. </ln>
 
-WATSON: Then she stole one of her husband's revolvers--! 
+<ln><speaker>SERGEANT</speaker> Then the missing revolver--?</ln>
 
-SERGEANT: And planted the other one in Miss Dunbar's wardrobe!
+<ln><speaker>HOLMES</speaker> You'll find it, with the aid of a grappling hook, at the bottom of the stream, and also the stone and the string, with which this vindictive woman attempted to disguise her own crime and fasten a charge of murder on an innocent victim. </ln>
 
-HOLMES: Exactly! After discharging one of the cartridges, which she could easily do in the woods without attracting suspicion, she then went down to the bridge where she contrived this exceedingly ingenious method of getting rid of her weapon. When Miss Dunbar appeared, she used her last breath in pouring out her hatred, and then, when the girl had left, carried out her terrible purpose. 
+<ln><speaker>WATSON</speaker> Yes, sergeant, and don't forget, while you're at it, that my revolver's down there, too.</ln>
 
-SERGEANT: Then the missing revolver--?
+<ln><speaker>SERGEANT</speaker> (MOVING OFF) Oh, don't worry, doctor. I'll get some grappling hooks right away.</ln>
 
-HOLMES: You'll find it, with the aid of a grappling hook, at the bottom of the stream, and also the stone and the string, with which this vindictive woman attempted to disguise her own crime and fasten a charge of murder on an innocent victim. 
+<ln><speaker>WATSON</speaker> (CHUCKLES) I must say, Holmes, you've solved this case brilliantly. Quite brilliantly.</ln>
 
-WATSON: Yes, sergeant, and don't forget, while you're at it, that my revolver's down there, too.
+<ln><speaker>HOLMES</speaker> Ah, I disagree, old chap. And I fear that you will not improve my reputation by adding the case of the Thor Bridge mystery to your annals. </ln>
 
-SERGEANT: (MOVING OFF) Oh, don't worry, doctor. I'll get some grappling hooks right away.
+<ln><speaker>WATSON</speaker> Oh, nonsense. But that's ridiculous.</ln>
 
-WATSON: (CHUCKLES) I must say, Holmes, you've solved this case brilliantly. Quite brilliantly.
+<ln><speaker>HOLMES</speaker> Oh, no, it isn't, old boy. I've been sluggish in my mind -- and wanting in that mixture of imagination and reality which is the very basis of my art. I confess that the chip in the stonework was a sufficient clue to suggest the true solution, and I blame myself for not having attained it sooner.</ln>
 
-HOLMES: Ah, I disagree, old chap. And I fear that you will not improve my reputation by adding the case of the Thor Bridge mystery to your annals. 
+<ln><speaker>WATSON</speaker> Well, Holmes, personally, I agree with the sergeant's opinion of you.</ln>
 
-WATSON: Oh, nonsense. But that's ridiculous.
+<ln><speaker>HOLMES</speaker> Oh? What was that, old fellow?</ln>
 
-HOLMES: Oh, no, it isn't, old boy. I've been sluggish in my mind -- and wanting in that mixture of imagination and reality which is the very basis of my art. I confess that the chip in the stonework was a sufficient clue to suggest the true solution, and I blame myself for not having attained it sooner.
+<ln><speaker>WATSON</speaker> (MIMICS THE SERGEANT) You're a bloomin' magician, Mr. 'Olmes! That's what you are, a bloomin' magician! (LAUGHS)</ln>
 
-WATSON: Well, Holmes, personally, I agree with the sergeant's opinion of you.
+<ln><speaker>MUSIC</speaker> TO A FINISH</ln>
 
-HOLMES: Oh? What was that, old fellow?
+<ln><speaker>ANNOUNCER</speaker> Well, doctor, Holmes really was a magician -- that is, if you did find Mrs. Gibson's revolver, and your own, in the stream.</ln>
 
-WATSON: (MIMICS THE SERGEANT) You're a bloomin' magician, Mr. 'Olmes! That's what you are, a bloomin' magician! (LAUGHS)
+<ln><speaker>WATSON</speaker> (CHUCKLES) Oh, we found them all right. You don't think I'd tell you the story otherwise, do you? What do you take me for, anyway?</ln>
 
-MUSIC: TO A FINISH
+<ln><speaker>ANNOUNCER</speaker> Well, now that you ask, I'll tell you. I take you for a very charming gentleman, a wonderful storyteller, and a fine host.</ln>
 
-ANNOUNCER: Well, doctor, Holmes really was a magician -- that is, if you did find Mrs. Gibson's revolver, and your own, in the stream.
+<ln><speaker>WATSON</speaker> (BURBLES IN EMBARRASSMENT) Oh, really, I--</ln>
 
-WATSON: (CHUCKLES) Oh, we found them all right. You don't think I'd tell you the story otherwise, do you? What do you take me for, anyway?
+<ln><speaker>ANNOUNCER</speaker> Well, you are a gentleman, of the old school.</ln>
 
-ANNOUNCER: Well, now that you ask, I'll tell you. I take you for a very charming gentleman, a wonderful storyteller, and a fine host.
+<ln><speaker>WATSON</speaker> (MORE BURBLING)</ln>
 
-WATSON: (BURBLES IN EMBARRASSMENT) Oh, really, I--
+<ln><speaker>ANNOUNCER</speaker> And you do tell a fine story.</ln>
 
-ANNOUNCER: Well, you are a gentleman, of the old school.
+<ln><speaker>WATSON</speaker> You flatter me. You--</ln>
 
-WATSON: (MORE BURBLING)
+<ln><speaker>ANNOUNCER</speaker> And you are a perfect host. That meal we had tonight was wonderful.</ln>
 
-ANNOUNCER: And you do tell a fine story.
+<ln><speaker>WATSON</speaker> Oh, it was?</ln>
 
-WATSON: You flatter me. You--
+<ln><speaker>ANNOUNCER</speaker> And, um, that - that wine. What kind was it?</ln>
 
-ANNOUNCER: And you are a perfect host. That meal we had tonight was wonderful.
+<ln><speaker>WATSON</speaker> (STOPS BURBLING, REPROVING) It was Petri Wine, and you know it.</ln>
 
-WATSON: Oh, it was?
+<ln><speaker>ANNOUNCER</speaker> (CHUCKLES)</ln>
 
-ANNOUNCER: And, um, that - that wine. What kind was it?
+<ln><speaker>WATSON</speaker> And I should have known you were leading up to something. Mr. Bartell, you should be ashamed of yourself. You'll do anything to get a chance to talk about Petri Wine. Though I can't say that I blame you.</ln>
 
-WATSON: (STOPS BURBLING, REPROVING) It was Petri Wine, and you know it.
+<ln><speaker>ANNOUNCER</speaker> Oh, honestly, doctor, I meant everything I said. But you don't really want me to stop talking about Petri Wine, do you? After all, it's worth talking about, isn't it? What other wine is made with the loving care that goes into Petri Wine? Don't forget, Petri Wine is made by the Petri Family. Winemaking is their business. Why, they've been making wine for generations, handing down -- from father to son, from father to son -- all their skill and knowledge and experience. You can be sure the Petri Family really knows plenty about the fine art of turning luscious grapes into delicious wine. That's why, whether you want a wine for before dinner, with dinner, or for any time, you can't go wrong with a Petri Wine. "Because Petri took time / to bring you good wine." And now, Dr. Watson, what new story are you planning to tell us next week?</ln>
 
-ANNOUNCER: (CHUCKLES)
+<ln><speaker>WATSON</speaker> Well, next week, Mr. Bartell, I'm going to tell an adventure that Holmes and I had amid the Oriental magnificence of a maharaja's palace in India.</ln>
 
-WATSON: And I should have known you were leading up to something. Mr. Bartell, you should be ashamed of yourself. You'll do anything to get a chance to talk about Petri Wine. Though I can't say that I blame you.
+<ln><speaker>ANNOUNCER</speaker> India? Sounds intriguing. What were you and Sherlock Holmes doing out there, doctor?</ln>
 
-ANNOUNCER: Oh, honestly, doctor, I meant everything I said. But you don't really want me to stop talking about Petri Wine, do you? After all, it's worth talking about, isn't it? What other wine is made with the loving care that goes into Petri Wine? Don't forget, Petri Wine is made by the Petri Family. Winemaking is their business. Why, they've been making wine for generations, handing down -- from father to son, from father to son -- all their skill and knowledge and experience. You can be sure the Petri Family really knows plenty about the fine art of turning luscious grapes into delicious wine. That's why, whether you want a wine for before dinner, with dinner, or for any time, you can't go wrong with a Petri Wine. "Because Petri took time / to bring you good wine." And now, Dr. Watson, what new story are you planning to tell us next week?
+<ln><speaker>WATSON</speaker> Oh, well, you'll have to wait till next week for the answer to that question, my boy. But I can tell you that it was one of the weirdest problems that we ever had to solve. I call the story, "The Vanishing Elephant."</ln>
 
-WATSON: Well, next week, Mr. Bartell, I'm going to tell an adventure that Holmes and I had amid the Oriental magnificence of a maharaja's palace in India.
+<music>MUSIC THEME ... CONTINUES IN BG</music>
 
-ANNOUNCER: India? Sounds intriguing. What were you and Sherlock Holmes doing out there, doctor?
+<ln><speaker>ANNOUNCER</speaker> Tonight's Sherlock Holmes adventure is written by Denis Green and Anthony Boucher and is adapted from the Sir Arthur Conan Doyle story "The Problem of Thor Bridge." Mr. Rathbone appears through the courtesy of Metro-Goldwyn-Mayer and Mr. Bruce through the courtesy of Universal Pictures where they are now starring in the Sherlock Holmes series.</ln>
 
-WATSON: Oh, well, you'll have to wait till next week for the answer to that question, my boy. But I can tell you that it was one of the weirdest problems that we ever had to solve. I call the story, "The Vanishing Elephant."
+<ln><speaker>MUSIC</speaker> UP AND OUT</ln>
 
-MUSIC: THEME ... CONTINUES IN BG
+<ln><speaker>ANNOUNCER</speaker> The Petri Wine Company of San Francisco, California, invites you to tune in again next week, same time, same station. </ln>
 
-ANNOUNCER: Tonight's Sherlock Holmes adventure is written by Denis Green and Anthony Boucher and is adapted from the Sir Arthur Conan Doyle story "The Problem of Thor Bridge." Mr. Rathbone appears through the courtesy of Metro-Goldwyn-Mayer and Mr. Bruce through the courtesy of Universal Pictures where they are now starring in the Sherlock Holmes series.
+<ln><speaker>MUSIC</speaker> CHEERY JINGLE ... ACCOMPANIES SINGING COMMERCIAL</ln>
 
-MUSIC: UP AND OUT
+<ln><speaker>SINGER</speaker> Oh, the Petri Family took the time</ln>
+<ln>To bring you such good wine</ln>
+<ln>For when you eat and when you cook</ln>
+<ln>Remember Petri Wine!</ln>
 
-ANNOUNCER: The Petri Wine Company of San Francisco, California, invites you to tune in again next week, same time, same station. 
+<ln><speaker>ANNOUNCER</speaker> (SPOKEN) To make good food taste better, remember--</ln>
 
-MUSIC: CHEERY JINGLE ... ACCOMPANIES SINGING COMMERCIAL
+<ln><speaker>SINGER</speaker> (INCREASINGLY LOW NOTES) Pet - Pet - Petri -- Wine!</ln>
 
-SINGER: Oh, the Petri Family took the time
-To bring you such good wine
-For when you eat and when you cook
-Remember Petri Wine!
+<ln><speaker>MUSIC</speaker> OUT</ln>
 
-ANNOUNCER: (SPOKEN) To make good food taste better, remember--
+<ln><speaker>ANNOUNCER</speaker> This is Harry Bartell, saying good night for the Petri Family! Sherlock Holmes comes to you from our Hollywood studios. This is the Mutual Broadcasting System.</ln>
 
-SINGER: (INCREASINGLY LOW NOTES) Pet - Pet - Petri -- Wine!
-
-MUSIC: OUT
-
-ANNOUNCER: This is Harry Bartell, saying good night for the Petri Family! Sherlock Holmes comes to you from our Hollywood studios. This is the Mutual Broadcasting System.
-
-SOUND: APPLAUSE
+<ln><speaker>SOUND</speaker> APPLAUSE</scene></xml>
