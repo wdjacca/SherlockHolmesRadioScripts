@@ -78,18 +78,18 @@ And now, here we are, seated once more in Doctor Watson's study. The good doctor
 <ln><speaker>HOLMES</speaker> For instance ?</ln>
 <ln><speaker>WATSON</speaker> Well -- ah - -well you could straighten up this room. It looks more like a pig sty every day.</ln>
 <ln><speaker>HOLMES</speaker> Oh, very well - <expression>yawns</expression></ln>
-<ln><speaker>SOUND FX</speaker> FOOTSTEPS FADING </ln>
+<fx>SOUND FX: FOOTSTEPS FADING </fx>
 
 <ln><speaker>WATSON </speaker> Now where are you going?</ln>
-<ln><speaker>SOUND FX</speaker> DOOR OPENS AND SLAMS</ln>
+<fx>SOUND FX: DOOR OPENS AND SLAMS</fx>
 <ln><speaker>WATSON</speaker> Look at the place - papers on the table - papers on the
     floor - papers on all the chairs -- papers ...</ln>
 
-<ln><speaker>SOUND FX</speaker> DOOR OPENS</ln>
-<ln><speaker>SOUND FX</speaker> TRUNK PULLED ACROSS THE FLOOR AND SET DOWN WITH A THUD</ln>
+<fx>SOUND FX: DOOR OPENS</fx>
+<fx>SOUND FX: TRUNK PULLED ACROSS THE FLOOR AND SET DOWN WITH A THUD</fx>
 <ln><speaker>WATSON</speaker> What are you doing Holmes - pulling that large tin box in here?</ln>
 <ln><speaker>HOLMES</speaker> House cleaning -- the key? Oh yes...</ln>
-<ln><speaker>SOUND FX</speaker> BOX UNLOCKED</ln>
+<fx>SOUND FX: BOX UNLOCKED</fx>
 <ln><speaker>WATSON</speaker> What have you got in there?</ln>
 <ln><speaker>HOLMES</speaker> Cases - records of some of my earlier cases -- done -- ah -- prematurely. <expression>Laughs</expression> -- before I had such a competent biographer. I think if you knew what I had in this box, you'd ask me to pull some out, instead of putting others in. </ln>
 <ln><speaker>WATSON</speaker> It's no use, Holmes - you can't get 'round me like that. You might just as well begin putting your stuff away.</ln>
@@ -102,7 +102,7 @@ And now, here we are, seated once more in Doctor Watson's study. The good doctor
 <ln><speaker>HOLMES</speaker> Heigh ho -- well, I suppose I'd best get to work. Ah -- here -- now here really is something a little recherche. </ln>
 <ln><speaker>WATSON</speaker> Bah - it=s nothing but a wooden box with a sliding lid.</ln>
 <ln><speaker>HOLMES</speaker> But look inside - look inside. </ln>
-<ln><speaker>SOUND FC</speaker> LID SLIDES OPEN</ln>
+<fx>SOUND FC: LID SLIDES OPEN</fx>
 <ln><speaker>WATSON</speaker> Hmmm - a crumpled piece of paper - with some doggerel written on it - an old fashioned brass key - a peg of wood with a ball of string attached, and three rusty old discs of metal -- not very impressive.</ln>
 <ln><speaker>HOLMES</speaker> Well -- what do you make of it?</ln>
 <ln><speaker>WATSON</speaker> It's a strange collection.</ln>
@@ -182,14 +182,14 @@ And now, here we are, seated once more in Doctor Watson's study. The good doctor
 <ln><speaker>MUSGRAVE</speaker> Oh rather an absurd business. It has only it's antiquity to excuse it. It's a strange sort of catechism which each Musgrave must answer when he becomes of age.</ln>
 <ln><speaker>HOLMES</speaker> Could I see it?</ln>
 <ln><speaker>MUSGRAVE</speaker> Certainly -- certainly. It's in the library -- come this way.</ln>
-<ln><speaker>SOUND FX</speaker> FOOTSTEPS</ln>
+<fx>SOUND FX: FOOTSTEPS</fx>
 <ln><speaker>HOLMES</speaker> Hmm -- this old hall is rather impressive with all its armor and weapons. Wait! I fancy I heard someone on the stairs -- someone on tiptoe.</ln>
 <ln><speaker>MUSGRAVE</speaker> I'll run up and have a look. </ln>
-<ln><speaker>SOUND FX</speaker> STEPS UP STAIRS, RECEDING</ln>
+<fx>SOUND FX: STEPS UP STAIRS, RECEDING</fx>
 <ln><speaker>HOLMES</speaker> Be careful -- my dear fellow -- be careful. </ln>
 <ln><speaker>MUSGRAVE</speaker> <expression>In distance</expression> No -- there's no one here.</ln>
 <ln><speaker>HOLMES</speaker> Strange -- I would have sworn I heard footsteps.</ln>
-<ln><speaker>SOUND FX</speaker> STEPS DOWN STAIRS, APPROACHING</ln>
+<fx>SOUND FX: STEPS DOWN STAIRS, APPROACHING</fx>
 <ln><speaker>MUSGRAVE</speaker> Must have been the old stairs creaking. This is the library and this is the desk where I keep my private papers. </ln>
 <ln><speaker>HOLMES</speaker> How private? I mean -- is there anything there that would benefit anyone else?</ln>
 <ln><speaker>MUSGRAVE</speaker> Good heavens - no.</ln>
@@ -197,7 +197,7 @@ And now, here we are, seated once more in Doctor Watson's study. The good doctor
 <ln><speaker>MUSGRAVE</speaker> <expression>Laughs</expression> No -- sorry to disappoint you, Holmes. But I've led a very tame and uninteresting life.</ln>
 <ln><speaker>HOLMES</speaker> <expression>Laughs</expression> I see one of the drawers was broken into -- very amateurish -- I'm afraid Brunton had very little experience</ln>
 <ln><speaker>MUSGRAVE</speaker> Yes - that lock is completely damaged. I've moved everything to this side of the desk. Just a minute till I find my key. Ah -- yes --</ln>
-<ln><speaker>SOUND FX</speaker> DRAWER OPENS</ln>
+<fx>SOUND FX: DRAWER OPENS</fx>
 <ln><speaker>MUSGRAVE</speaker> And here is the Musgrave Ritual.</ln>
 <ln><speaker>HOLMES</speaker> Hmm -- curious old writing -- it dates back to -- ah -- Charles the First I should say. You can tell by the spelling. </ln>
 <ln><speaker>MUSGRAVE</speaker> Probably Charles the Second -- my ancestor Ralph Musgrave was a prominent cavalier and right hand man in Charles' wanderings. They went in for rigamarolle of this sort in those days. It's just a series of questions and answers. Probably the bywords of a secret society.</ln>
@@ -229,8 +229,8 @@ And now, here we are, seated once more in Doctor Watson's study. The good doctor
 <ln><speaker>HOLMES</speaker> It was there at the Norman Conquest in all probability. Listen! There is someone in the hall outside -- eavesdropping. I'm sure of it this time.</ln>
 <ln><speaker>MUSGRAVE</speaker> I'll soon find --
 
-<fx>SOUND FX</fx> <fx>QUICK FOOTSTEPS</fx></ln>
-<ln><speaker>MUSGRAVE</speaker> Hello, why it's Rachel! My dear girl -- whatever are you doing up and
+<fx>SOUND FX: QUICK FOOTSTEPS</fx>
+<speaker>MUSGRAVE</speaker> Hello, why it's Rachel! My dear girl -- whatever are you doing up and
     about like this? Where's your nurse?</ln>
 
 <ln><speaker>RACHEL</speaker> <expression>Whispers feverishly</expression> She -- she'=s sleeping -- I fooled her.</ln>
@@ -266,14 +266,14 @@ Bromo Quinine cold tablets have been on the market for years and their merit ful
 <ln><speaker>HOLMES</speaker> Nothing -- exactly nothing -- hello, there seems to be some excitement now. The drags have caught on something. </ln>
 <ln><speaker>MAN</speaker> <expression>In distance</expression> We've got 'er -- sir -- we've got 'er this time for sure.</ln>
 <ln><speaker>MUSGRAVE</speaker> Pull hard boys --</ln>
-<ln><speaker>SOUND FX</speaker> SLOSH OF WATER</ln>
+<fx>SOUND FX: SLOSH OF WATER</fx>
 <ln><speaker>MUSGRAVE</speaker> That's right -- what a frightful business. Hello -- why, why -- it's not a body!</ln>
 <ln><speaker>HOLMES</speaker> No, it's a large canvas bag.</ln>
 <ln><speaker>MUSGRAVE</speaker> (Fading in) Here, boys -- give it to me.</ln>
 <ln><speaker>MAN</speaker> Yes sir. </ln>
 <ln><speaker>HOLMES</speaker> What's in it?</ln>
 <ln><speaker>MUSGRAVE</speaker> Just a minute. Don't slosh it around so --</ln>
-<ln><speaker>SOUND FX</speaker> TINKLING SOUND</ln>
+<fx>SOUND FX: TINKLING SOUND</fx>
 <ln><speaker>MUSGRAVE</speaker> Why - why it's just a lot of old discolored metal and some dull colored pebbles or glass. Bah! Throw it back in.</ln>
 <ln><speaker>HOLMES</speaker> Stop! Better keep that stuff - bring it along - and don't let it out of your hands. Now let's get back to the house.</ln>
 <ln><speaker>MUSGRAVE</speaker> Breakfast - eh?</ln>
@@ -300,11 +300,11 @@ Bromo Quinine cold tablets have been on the market for years and their merit ful
 <ln><speaker>HOLMES</speaker> How long since this wing has been inhabited?</ln>
 <ln><speaker>MUSGRAVE</speaker> Not for several generations. It's the oldest part of the house - built in the sixteenth century, I should say. It's only used nowadays to store things in.</ln>
 <ln><speaker>HOLMES</speaker> Open the door.</ln>
-<ln><speaker>SOUND FX</speaker> DOOR CREAKS</ln>
+<fx>SOUND FX: DOOR CREAKS</fx>
 <ln><speaker>HOMES</speaker> Two paces to the west obviously means two paces down this flag stone passage.</ln>
-<ln><speaker>SOUND FX</speaker> FOOTSTEPS ON STONE</ln>
+<fx>SOUND FX: FOOTSTEPS ON STONE</fx>
 <ln><speaker>HOLMES</speaker> Well, this must be the place indicated by the ritual.</ln>
-<ln><speaker>SOUND FX</speaker> TAPPING ON STONE</ln>
+<fx>SOUND FX: TAPPING ON STONE</fx>
 <ln><speaker>MUSGRAVE</speaker> What are you tapping the stones for?</ln>
 <ln><speaker>HOLMES</speaker> All firmly cemented together -- not even a hollow sound! </ln>
 <ln><speaker>MUSGRAVE</speaker> I told you it was all Balderdash.</ln>
@@ -312,7 +312,7 @@ Bromo Quinine cold tablets have been on the market for years and their merit ful
 <ln><speaker>MUSGRAVE</speaker> Yes, it's as old as the house.</ln>
 <ln><speaker>HOLMES</speaker> Lead me to it -- that's where our search ends. </ln>
 <ln><speaker>MUSGRAVE</speaker> Very well -- but what are we searching for?</ln>
-<ln><speaker>SOUND FX</speaker> FOOTSTEPS ON STONE</ln>
+<fx>SOUND FX: FOOTSTEPS ON STONE</fx>
 <ln><speaker>MUSGRAVE</speaker> Careful -- steps here - it's pretty dark.</ln>
 <expression>Echo On</expression>
 
@@ -327,20 +327,20 @@ Bromo Quinine cold tablets have been on the market for years and their merit ful
 <ln><speaker>MUSGRAVE</speaker> I don't understand what you're talking about. </ln>
 <ln><speaker>HOLMES</speaker> Hmmm - I can't budge it. Lend a hand, will you Musgrave? </ln>
 <ln><speaker>MUSGRAVE</speaker> Righto -- ugh -- ugh - there it comes.</ln>
-<ln><speaker>SOUND FX</speaker> SCRAPE OF STONE</ln>
-<ln><speaker>SOUND FX</speaker> CREAK OF HINGES</ln>
+<fx>SOUND FX: SCRAPE OF STONE</fx>
+<fx>SOUND FX: CREAK OF HINGES</fx>
 <ln><speaker>HOLMES</speaker> Quick - prop it up with that piece of wood</ln>
-<ln><speaker>SOUND FX</speaker> THUD</ln>
+<fx>SOUND FX: THUD</fx>
 <ln><speaker>HOLMES</speaker> That's it --</ln>
 
 <ln><speaker>MUSGRAVE</speaker> By Jove -- it's -- it's a small room down there -- and there on the side -- what's that?</ln>
 <ln><speaker>HOLMES</speaker> That my dear Musgrave - is what Brunton was after. Come on -- let's go down.</ln>
-<ln><speaker>SOUND FX</speaker> JUMPING DOWN TO STONE FLOOR</ln>
+<fx>SOUND FX: JUMPING DOWN TO STONE FLOOR</fx>
 <ln><speaker>MUSGRAVE</speaker> A brass bound wooden box - all covered with dust and worm eaten. The lid has been thrown back. Look here, Holmes -I thought you expected to find a considerable treasure. All this trunk contains is a few discolored discs of metal -- old coins apparently. I say, do you think that rascal Brunton has been here and robbed me?</ln>
 <ln><speaker>HOLMES</speaker> That was his intention undoubtedly, but I don't think he succeeded.</ln>
 <ln><speaker>MUSGRAVE</speaker> Why not? The box is empty.</ln>
 <ln><speaker>HOLMES</speaker> Because I think I see his feet sticking out from behind the box. Here -- help me move the box.</ln>
-<ln><speaker>SOUND FX</speaker> BOX SCRAPES ON FLOOR</ln>
+<fx>SOUND FX: BOX SCRAPES ON FLOOR</fx>
 <ln><speaker>MUSGRAVE</speaker> It's Brunton alright -- he's -- he's dead!</ln>
 <ln><speaker>HOLMES</speaker> Quite. Suffocated, I fancy -- this cubbyhole isn't very large.</ln>
 <ln><speaker>MUSGRAVE</speaker> Yes, but how -- how did it happen?</ln>
@@ -349,15 +349,15 @@ Bromo Quinine cold tablets have been on the market for years and their merit ful
 
 <music> BRIDGE TO NEXT SCENE</music>
 
-<ln><speaker>SOUND FX</speaker> WIND</ln>
+<fx>SOUND FX: WIND</fx>
 <ln><speaker>BRUNTON</speaker> That's it - close the door after you.</ln>
 
-<ln><speaker>SOUND FX</speaker> DOOR CLOSES</ln>
-<ln><speaker>SOUND FX</speaker> WIND OUT</ln>
+<fx>SOUND FX: DOOR CLOSES</fx>
+<fx>SOUND FX: WIND OUT</fx>
 <ln><speaker>BRUNTON</speaker> Now light the lantern.</ln>
-<ln><speaker>SOUND FX</speaker> LANTERN SLIDES OPEN, MATCH IS STRUCK, LANTERN SLIDES SHUT</ln>
+<fx>SOUND FX: LANTERN SLIDES OPEN, MATCH IS STRUCK, LANTERN SLIDES SHUT</fx>
 <ln><speaker>BRUNTON</speaker> That's better -- for the love of Heaven -- don't look like that, Rachel -- nothing's going to happen to you!</ln>
-<ln><speaker>SOUND FX</speaker> FOOTSTEPS ON STONE</ln>
+<fx>SOUND FX: FOOTSTEPS ON STONE</fx>
 <ln><speaker>RACHEL</speaker> I'm afraid -- do you think we ought?</ln>
 <ln><speaker>BRUNTON</speaker> What's the matter with you? If I'd have known you had no more spunk in you than this - I'd -- I'd have asked someone else. I thought you said you loved me?</ln>
 <ln><speaker>RACHEL</speaker> I do - you know I do! I'd do anything for you!</ln>
@@ -374,17 +374,17 @@ Bromo Quinine cold tablets have been on the market for years and their merit ful
 <ln><speaker>BRUNTON</speaker> Stop your blabbing and grab this muffler -- now then pull --pull harder...ugh!</ln>
 <ln><speaker>RACHEL</speaker> It's so heavy.</ln>
 <ln><speaker>BRUNTON</speaker> A lot of use you are to a man -- pull harder, I tell you. There she comes.</ln>
-<ln><speaker>SOUND FX</speaker> SQUEAK OF HINGES</ln>
+<fx>SOUND FX: SQUEAK OF HINGES</fx>
 <ln><speaker>BRUNTON</speaker> Quick! Shove that piece of wood under here. There --</ln>
-<ln><speaker>SOUND FX</speaker> THUD OF WOOD</ln>
+<fx>SOUND FX: THUD OF WOOD</fx>
 <ln><speaker>RACHEL</speaker> Why - there=s a trunk down there. </ln>
 <ln><speaker>BRUNTON</speaker> Of course - and I'm going to find what's in it.</ln>
-<ln><speaker>SOUND FX</speaker> DROPS DOWN</ln>
+<fx>SOUND FX: DROPS DOWN</fx>
 <ln><speaker>BRUNTON</speaker> Stop trembling, you fool -- you're shaking the lantern. </ln>
 
 <ln><speaker>RACHEL</speaker> You -- will marry me, won't you? </ln>
 <ln><speaker>BRUNTON</speaker> Bah! It's dusty down here -- Whew! There's even a key in the lock.. Up goes the lid.</ln>
-<ln><speaker>SOUND FX</speaker> LID OPENING</ln>
+<fx>SOUND FX: LID OPENING</fx>
 <ln><speaker>BRUNTON</speaker> Ah-ha -- well, well -- well -- that's something like it.</ln>
 <ln><speaker>RACHEL</speaker> You will -- marry me?</ln>
 <ln><speaker>BRUNTON</speaker> Here, put this stuff in the canvas bag I brought along. Careful you ninny - don't drop it. Now give me a hand and help me out of here.</ln>
@@ -397,7 +397,7 @@ Bromo Quinine cold tablets have been on the market for years and their merit ful
 <ln><speaker>BRUNTON</speaker> How do I know I'm the only lover you've had! A wench like you -- <expression>laughs</expression></ln>
 <ln><speaker>RACHEL</speaker> I hate you! I hate you! I hate the sight of you! I don't ever want to see you again!</ln>
 <ln><speaker>BRUNTON</speaker> Here -- what are you doing with that piece of wood? Look out, you fool - you'll pull it out! You'll --</ln>
-<ln><speaker>SOUND FX</speaker> HEAVY SLAM OF STONE SLAB</ln>
+<fx>SOUND FX: HEAVY SLAM OF STONE SLAB</fx>
 <ln><speaker>RACHEL</speaker> He wouldn't marry me --</ln>
 <ln><speaker>BRUNTON</speaker> <expression>Very muffled</expression> Let me out -- let me out -- I can't breathe -- let me out!</ln>
 <ln><speaker>RACHEL</speaker> He wouldn't marry me -- he wouldn't marry me!</ln>
