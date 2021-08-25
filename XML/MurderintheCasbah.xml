@@ -1,0 +1,1025 @@
+<?xml-model href="sherlock.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <metadata>
+        <series>Series: Sherlock Holmes</series>
+        <show>Show: Murder in the Casbah</show>
+        <date when="1945-12-03">Date: Dec 03 1945</date>
+        <castList>CAST: <cast ref="#announcer">ANNOUNCER, Harry Bartell</cast>
+            <cast ref="#holmes">SHERLOCK HOLMES</cast>
+            <cast ref="#watson">DR. WATSON</cast>
+            <cast ref="#tetfield">MISS TETFIELD</cast>
+            <cast ref="#brisson">COLONEL DE BRISSON, of the French Foreign Legion</cast>
+            <cast ref="#RAF">RAFI, charming rogue</cast>
+            <cast ref="#waiter">WAITER (3 lines)</cast>
+            <cast ref="#leaming">OLIVER LEAMING, outwardly affable Englishman</cast>
+            <cast ref="#ayisha">AYISHA, a girl of violent passions who sings like a
+                nightingale</cast>
+            <cast ref="#milton">DOUGLAS MILTON</cast>
+            <cast ref="#commissioner">COMMISSIONER OF OATHS, at the British consulate</cast>
+            <cast ref="#porter">DR. PORTER LANGLEY, of American Relief for Italy</cast></castList>
+    </metadata>
+
+    <scene>
+        <ln><speaker>ANNOUNCER</speaker> This episode from the life of <mention ref="#holmes"
+                >Sherlock Holmes</mention> will be transmitted to our men and women overseas by
+            short wave and through the worldwide facilities of the Armed Forces Radio Service. Petri
+            Wine brings you--</ln>
+
+        <music>ORGAN ... FANFARE</music>
+
+        <ln><speaker>ANNOUNCER</speaker> Basil Rathbone and Nigel Bruce in THE NEW ADVENTURES OF
+            SHERLOCK HOLMES!</ln>
+
+        <music> FILLS A PAUSE ... THEN OUT</music>
+
+        <ln><speaker>ANNOUNCER</speaker> The Petri Family -- the Family that Took Time / to Bring
+            you Good Wine -- invites you to listen to <mention ref="#watson">Dr. Watson</mention>
+            tell us another exciting adventure he shared with his old friend, that master detective,
+                <mention ref="#holmes">Sherlock Holmes</mention>. </ln>
+
+        <ln>And, as for me, well, I'd like to tell ya that a time like right now is the perfect time
+            for a glass of Petri California port. After you've had a good dinner, boy, Petri port is
+            a real topper! That rich, deep red Petri port is really an extraordinary wine. Even its
+            color's different. And, as for its flavor, well, it'll take a better man than me to
+            describe that. Petri port is a hearty wine, sure. And every other quality that you look
+            for in a good port, you'll find in Petri port, and then some. Try Petri port by itself
+            or serve it with fruit, with nuts, or with cake. But share it with your friends, will
+            ya? Because you can serve it proudly. After all, it is a Petri wine -- and that name
+            Petri is the proudest name in the history of American wines.</ln>
+
+        <music>THEME ... FILLS A PAUSE ... THEN OUT BEHIND--</music>
+
+        <ln><speaker>ANNOUNCER</speaker> And now let's visit our old friend and host, <mention
+                ref="#watson">Dr. Watson</mention>.</ln>
+
+        <ln><speaker>WATSON</speaker> Good evening, Mr. Bartell.</ln>
+
+        <ln><speaker>ANNOUNCER</speaker> Good evening, Doctor.</ln>
+
+        <ln><speaker>WATSON</speaker> Settle yourself down and get your pipe going.</ln>
+
+        <ln><speaker>ANNOUNCER</speaker> Thanks. Doctor, last week you told us that tonight's story
+            took place in the Casbah, at Algiers.</ln>
+
+        <ln><speaker>WATSON</speaker> Yes, the Casbah. I remember it as the place of countless
+            streets winding up and down, past colorful cafés where a hundred tongues were spoken,
+            and often a street would end in shadowy darkness which a man would be foolhardy to enter
+            alone. Yes, Mr. Bartell, that was the Casbah that <mention ref="#holmes">Sherlock
+                Holmes</mention> and I knew in that winter of Ninety-Nine.</ln>
+
+        <ln><speaker>ANNOUNCER</speaker> Well, how did you happen to be out there, Doctor?</ln>
+
+        <ln><speaker>WATSON</speaker> Do you mind if I tell you the story from the start, Mr.
+            Bartell? It really began on a wintry night in Baker Street at the conclusion of the
+            strange murder in Montrevor Castle. A charming young girl sat on the sofa of our
+            lodgings in Baker Street and talked to us. <expression>FADES OUT</expression>
+        </ln>
+
+        <ln><speaker>SOUND</speaker> TRANSITIONAL PAUSE</ln>
+
+        <ln><speaker>TETFIELD</speaker>
+            <expression>FADES IN</expression> But, <mention ref="#holmes">Mr. Holmes</mention>, you
+            can't say you'll have nothing more to do with the Montrevors--</ln>
+
+        <ln><speaker>HOLMES</speaker> My dear Miss Tetfield, I found the true murderer of the
+            Dowager Countess and he committed suicide. Surely the case has ended.</ln>
+
+        <ln><speaker>TETFIELD</speaker> Yes, <mention ref="#holmes">Mr. Holmes</mention>, you found
+            the real murderer. But now I want you to find the unfortunate young man who fled England
+            five years ago when he was suspected of the crime.</ln>
+
+        <ln><speaker>WATSON</speaker> This is a new development, Miss Tetfield. Please tell us about
+            it.</ln>
+
+        <ln><speaker>TETFIELD</speaker> It's Douglas Milton that I'm talking about.</ln>
+
+        <ln><speaker>HOLMES</speaker> Oh, yes, yes, yes. He was the heir to the title, wasn't
+            he?</ln>
+
+        <ln><speaker>TETFIELD</speaker> Yes, <mention ref="#holmes">Mr. Holmes</mention>. He was a
+            sensitive, artistic boy and - and when he knew that he was under suspicion, he ran
+            away.</ln>
+
+        <ln><speaker>HOLMES</speaker> Mm hm.</ln>
+
+        <ln><speaker>TETFIELD</speaker> Of course, everyone regarded his flight as an admission of
+            guilt. That is, until you found the real culprit, <mention ref="#holmes">Mr.
+                Holmes</mention>.</ln>
+
+        <ln><speaker>WATSON</speaker> I imagine, Miss Tetfield, that your interest in the missing
+            boy is not entirely, shall we say, altruistic?</ln>
+
+        <ln><speaker>TETFIELD</speaker> I'm in love with him, <mention ref="#holmes">Dr.
+                Watson</mention>.</ln>
+
+        <ln><speaker>WATSON</speaker> Oh.</ln>
+
+        <ln><speaker>TETFIELD</speaker> We were engaged to be married when he ran away. <mention
+                ref="#holmes">Mr. Holmes</mention>, you've got to find him. He must know that his
+            name has been cleared and that he's inherited the title. </ln>
+
+        <ln><speaker>HOLMES</speaker> Miss Tetfield, have you any direct news, any letter, from your
+            fiancé since he left five years ago? </ln>
+
+        <ln><speaker>TETFIELD</speaker> None.</ln>
+
+        <ln><speaker>HOLMES</speaker> Any clues as to his hiding place?</ln>
+
+        <ln><speaker>TETFIELD</speaker> Only this. </ln>
+
+        <ln><speaker>SFX</speaker> PACKAGE UNWRAPPED</ln>
+
+        <ln><speaker>TETFIELD</speaker> It's a painting I received anonymously a year after he had
+            left.</ln>
+
+        <ln><speaker>HOLMES</speaker> Oh.</ln>
+
+        <ln><speaker>TETFIELD</speaker> It was sent from a forwarding address in London. Here it is,
+                <mention ref="#holmes">Mr. Holmes</mention>.</ln>
+
+        <ln><speaker>HOLMES</speaker> Thank you.</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>IMPRESSED</expression> A small oil painting. Very good one, too, I'd
+            say.</ln>
+
+        <ln><speaker>HOLMES</speaker> Yes. It's a splendid sense of composition and his use of color
+            is unusually brilliant. Do you recognize this painting as the work of your fiancé, Miss
+            Tetfield?</ln>
+
+        <ln><speaker>TETFIELD</speaker> I'm certain of it.</ln>
+
+        <ln><speaker>HOLMES</speaker> Yes. Wonderful use of color. Observe the delicate shadings of
+            that sunset, and the brilliant green of the oasis. This scene is extraordinarily
+            reminiscent of the desert in North Africa. </ln>
+
+        <ln><speaker>TETFIELD</speaker> Yes. Yes, that's what made me say I was certain he'd gone
+            abroad, <mention ref="#holmes">Mr. Holmes</mention>.</ln>
+
+        <ln><speaker>WATSON</speaker> But why should he go to North Africa?</ln>
+
+        <ln><speaker>HOLMES</speaker> A good place, <mention ref="#watson">Watson</mention>, for an
+            Englishman who imagines himself to be escaping justice. Remember, the Foreign Legion is
+            stationed there.</ln>
+
+        <ln><speaker>TETFIELD</speaker> Do you think he might have joined the Legion, <mention
+                ref="#holmes">Mr. Holmes</mention>?</ln>
+
+        <ln><speaker>HOLMES</speaker> It would seem logical. No questions are asked of those who
+            join it and its colorful obscurity might easily appeal to a young fellow in trouble.
+            Hello!</ln>
+
+        <ln><speaker>WATSON</speaker> What is it, <mention ref="#holmes">Holmes</mention>?</ln>
+
+        <ln><speaker>HOLMES</speaker> There are quite a few grains of sand in-between the canvas and
+            the frame here. Miss Tetfield, do you mind if I pry the canvas loose?</ln>
+
+        <ln><speaker>TETFIELD</speaker> Do anything you like, <mention ref="#holmes">Mr.
+                Holmes</mention>, if it gives you any clue to Douglas' whereabouts.</ln>
+
+        <ln><speaker>HOLMES</speaker> Give me your pen knife, will you, <mention ref="#watson"
+                >Watson</mention>?</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>GRUNTS</expression> Here you are.</ln>
+
+        <ln><speaker>HOLMES</speaker> Thanks, old chap. </ln>
+
+        <ln><speaker>SFX</speaker> CUTS CANVAS FROM FRAME BEHIND--</ln>
+
+        <ln><speaker>HOLMES</speaker> Wait a minute. Here we are. </ln>
+
+        <ln><speaker>WATSON</speaker> Can you see anything?</ln>
+
+        <ln><speaker>HOLMES</speaker> Uh huh. Look! The words "Sheriff" and "El Affroun" are stamped
+            here. Sheriff is probably the framer's name and El Affroun is a town some fifty miles
+            from Algiers. <expression>DECISIVE</expression> That settles it. Miss Tetfield, I accept
+            your case. <mention ref="#watson">Watson</mention> and I will go to Africa and try to
+            find your fiancé, Douglas Milton.</ln>
+
+        <music>ORGAN ... BRIDGE ... FADES OUT FOR BRIEF FOREIGN LEGION BUGLE CALL</music>
+
+        <ln><speaker>SFX</speaker> BUZZ OF LEGIONNAIRES ... IN BG</ln>
+
+        <ln><speaker>COLONEL</speaker>
+            <expression>WARM GREETING</expression> Monsieur <mention ref="#holmes">Sherlock
+                Holmes</mention> and <mention ref="#watson">Dr. Watson</mention>. I have heard of
+            you so often, but I never thought I should see you here at the headquarters of the
+            Foreign Legion. What can I do for you, gentlemen?</ln>
+
+        <ln><speaker>HOLMES</speaker> Well, Colonel De Brisson, I am trying to trace an Englishman
+            who has been missing during the past four years. I've reason to believe that he might
+            have joined the Legion.</ln>
+
+        <ln><speaker>COLONEL</speaker> Ah, I shall look in my records. </ln>
+
+        <ln><speaker>SFX</speaker> BUZZ OF LEGIONNAIRES FADES OUT AS COLONEL WALKS TO RECORDS, PULLS
+            THEM FROM SHELF AND LEAFS THROUGH THEM DURING FOLLOWING--</ln>
+
+        <ln><speaker>COLONEL</speaker> Let me see. Four years ago would be Eighteen Ninety-Five. If
+                <mention ref="#holmes">Sherlock Holmes</mention> is tracking him, then I suppose he
+            was in trouble in his own country. If he was in trouble, he might easily have come to
+            us. We ask no questions. Ninety-seven, ninety-six-- Ah! Ninety-five!
+                <expression>BEAT</expression> In that year, three young Englishmen joined us. One of
+            them died of dysentery two years ago in Sidi Rached. One of them deserted eighteen
+            months ago and we have been unable to trace him. The third is my adjutant who brought
+            you into my office just now.</ln>
+
+        <ln><speaker>HOLMES</speaker> And he is, I would say, about three inches shorter than
+            Douglas Milton -- and men do not shrink in the Foreign Legion, eh, Colonel?</ln>
+
+        <ln><speaker>COLONEL</speaker>
+            <expression>AMUSED</expression> They do not, <mention ref="#holmes">Monsieur
+                Holmes</mention>.</ln>
+
+        <ln><speaker>WATSON</speaker> Then the fellow who deserted must be our man.</ln>
+
+        <ln><speaker>HOLMES</speaker> Unless it's the one who died of dysentery. Colonel De Brisson,
+            how would you advise us to set about trying to find a deserter?</ln>
+
+        <ln><speaker>COLONEL</speaker>
+            <mention ref="#holmes">Monsieur Holmes</mention>, there's only one place in Algeria
+            where a man can hide from the Foreign Legion and remain hidden.</ln>
+
+        <ln><speaker>HOLMES</speaker> Oh? And what's that place?</ln>
+
+        <ln><speaker>COLONEL</speaker> The Casbah, in Algiers.</ln>
+
+        <ln><speaker>HOLMES</speaker> Then that's our destination, <mention ref="#watson"
+                >Watson</mention>. </ln>
+
+        <ln><speaker>COLONEL</speaker> Be very careful, please, gentlemen. The Casbah is a place
+            where the law is exiled. The police have no jurisdiction there. The only rule is that of
+            strength, violence and trickery.</ln>
+
+        <ln><speaker>HOLMES</speaker> We shall be very cautious, I assure you. Goodbye, Colonel De
+            Brisson, and thank you for your help.</ln>
+
+        <music> ORGAN ... BRIDGE ... FADES OUT FOR AN EASTERN MELODY ON A FLUTE-LIKE INSTRUMENT
+            AND--</music>
+
+        <ln><speaker>SFX</speaker> BUZZ OF CASBAH CAFE CROWD ... IN BG</ln>
+
+        <ln><speaker>WATSON</speaker> Well, I must say that I think Colonel De Brisson rather
+            exaggerated the dangers of the Casbah. Heh! I suppose you're going to tell me this café
+            is the headquarters for a dope-smuggling ring or white slaving or something.</ln>
+
+        <ln><speaker>HOLMES</speaker> It's ramifications are even more extensive than those you've
+            mentioned. </ln>
+
+        <ln><speaker>WATSON</speaker> You're joking, <mention ref="#holmes">Holmes</mention>.</ln>
+
+        <ln><speaker>HOLMES</speaker> I assure you, I'm not, old fellow. </ln>
+
+        <ln><speaker>WATSON</speaker> What?</ln>
+
+        <ln><speaker>HOLMES</speaker> My old friend Duemmel is Chief of Police in Algiers. When I
+            told him our mission, he advised me to come here. A five-hundred-franc note and the
+            proprietor can obtain any and all information regarding the underworld. For as little as
+            two hundred francs, he can arrange a murder. So that gives you some idea of the relative
+            values in the Casbah.</ln>
+
+        <ln><speaker>WATSON</speaker> Good lord; then you've already spoken to the proprietor?</ln>
+
+        <ln><speaker>HOLMES</speaker> Oh, yes, yes, a charming scoundrelly fellow by the name of
+            Rafi. I gave him five hundred francs and asked him to set his underworld grapevine in
+            motion to see whether an Englishman living in hiding here in the Casbah could be
+            found.</ln>
+
+        <ln><speaker>WATSON</speaker> And I thought we'd come here for a quiet meal.
+                <expression>CHUCKLES</expression></ln>
+
+        <music> EASTERN MELODY OUT</music>
+
+        <ln><speaker>HOLMES</speaker> Here comes Rafi now. Let's hope he has news for us.
+                <expression>CALLS</expression> Here we are, Rafi! Come sit down, won't you?</ln>
+
+        <ln><speaker>RAFI</speaker> Ah, Rafi works fast, does he not, <mention ref="#holmes">Mr.
+                Holmes</mention>? Uh, your friend is--?</ln>
+
+        <ln><speaker>HOLMES</speaker> My friend knows that you're working with me. What have you
+            found out?</ln>
+
+        <ln><speaker>RAFI</speaker> A drink first. The tongue of Rafi is parched. </ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>CHUCKLES</expression></ln>
+
+        <ln><speaker>RAFI</speaker> Would you have me die of thirst before I give you my news?
+                <expression>CALLS, TO WAITER</expression> Er, Vermouth Cassis!</ln>
+
+        <ln><speaker>WAITER</speaker>
+            <expression>OFF</expression> Oui, M'sieu Rafi!</ln>
+
+        <ln><speaker>HOLMES</speaker> Uh, you have news for me, then?</ln>
+
+        <ln><speaker>RAFI</speaker> But yes. </ln>
+
+        <ln><speaker>HOLMES</speaker> Good. What is it?</ln>
+
+        <ln><speaker>RAFI</speaker> First, you will pay me more money, no?</ln>
+
+        <ln><speaker>HOLMES</speaker> But I gave you five hundred francs. You said that you'd do the
+            job for that.</ln>
+
+        <ln><speaker>RAFI</speaker> Can I help it if some tongues are more costly to make wag than
+            others?</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>CHUCKLES</expression></ln>
+
+        <ln><speaker>RAFI</speaker> It took the five hundred to get the wag. Am I to have nothing
+            for my own trouble?</ln>
+
+        <ln><speaker>WAITER</speaker> Votre Vermouth Cassis, M'sieu Rafi!</ln>
+
+        <ln><speaker>RAFI</speaker> Ah, good, good. The gentleman will pay for it.</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>CHUCKLES</expression>
+        </ln>
+
+        <ln><speaker>SFX</speaker> COINS TOSSED ON TABLE</ln>
+
+        <ln><speaker>HOLMES</speaker> There you are.</ln>
+
+        <ln><speaker>WAITER</speaker> Merci, m'sieu!</ln>
+
+        <ln><speaker>RAFI</speaker> I will drink to your health, gentlemen. Both of you.
+                <expression>DRINKS, EXHALES</expression> You will pay me more money, no?</ln>
+
+        <ln><speaker>WATSON</speaker> But my friend's already given you five hundred. You should
+            stick to your bargain, my good fellow.</ln>
+
+        <ln><speaker>RAFI</speaker> My information is a bargain at seven hundred and fifty francs.
+            It would be a bargain at a thousand, but Rafi will let you have it for seven hundred and
+            fifty because he likes you.</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>CHUCKLES</expression> I see.</ln>
+
+        <ln><speaker>RAFI</speaker> You will give it to me, no?</ln>
+
+        <ln><speaker>HOLMES</speaker> And if I refuse?</ln>
+
+        <ln><speaker>RAFI</speaker>
+            <expression>CHUCKLES</expression> Then you get no information. And, uh, perhaps I spread
+            news in the Casbah that makes it uncomfortable for you gentlemen to be there.</ln>
+
+        <ln><speaker>WATSON</speaker> Great Scott, this is blackmail.</ln>
+
+        <ln><speaker>RAFI</speaker> I get the money, no?</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>LAUGHS</expression> You're a scoundrel, Rafi.</ln>
+
+        <ln><speaker>RAFI</speaker> Of course I am a scoundrel!</ln>
+
+        <ln><speaker>HOLMES</speaker> Here's your money. <expression>LOW</expression> The
+            information?</ln>
+
+        <ln><speaker>RAFI</speaker>
+            <expression>LOW</expression> There is an Englishman hiding here in the Casbah. I do not
+            know his name, but he's tall and fair-haired. I cannot tell you where he lives, but if
+            you go to the Café of a Thousand Sighs, you will find a girl who sings there -- a girl
+            who sings like a nightingale. Her name is Ayisha and she can lead you to your
+            Englishman.</ln>
+
+        <ln><speaker>HOLMES</speaker> A girl named Ayisha, in the Café of a Thousand Sighs?</ln>
+
+        <ln><speaker>RAFI</speaker> That is right. I would suggest that you go there in disguise.
+            Two well-dressed Englishmen might find themselves in trouble. For a small fee -- say,
+            two hundred francs -- I will escort you there myself.</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>CHUCKLES</expression> Thank you, thank you, yes. I - I think we can manage
+            by ourselves, Rafi.</ln>
+
+        <ln><speaker>RAFI</speaker> Oh, uh, if your business is concluded quickly and time weighs
+            heavy on your hands, Rafi can take you to some places of rare interest -- dancing girls
+            that wither one's eyeballs with their beauty! For five hundred francs, gentlemen--</ln>
+
+        <ln><speaker>HOLMES</speaker> Thank you, Rafi, thank you. I have a feeling that time will
+            not weigh heavily on our hands. Good night.</ln>
+
+        <ln><speaker>RAFI</speaker> You work too hard, gentlemen. You should learn how to play. Good
+            night.</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>CHUCKLES</expression> Upon my soul, I think that fellow's the biggest
+            blackguard I ever met.</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>CHUCKLES</expression> I quite agree, old chap, but he is amusing. </ln>
+
+        <ln><speaker>WATSON</speaker> Uh, by the way, <mention ref="#holmes">Holmes</mention> --
+            don't you think that when this case is finished, we might have, er, time on our
+            hands?</ln>
+
+        <music> ANOTHER EASTERN MELODY ON A FLUTE-LIKE INSTRUMENT SNEAKS IN BEHIND--</music>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>LAUGHS) Oh, ho ho! <mention ref="#watson">Watson</mention>, you're
+                incorrigible. But I think-- (STOPS SHORT</expression>
+            <mention ref="#watson">Watson</mention>?</ln>
+
+        <ln><speaker>WATSON</speaker> What is it?</ln>
+
+        <ln><speaker>HOLMES</speaker> Look at the man sitting over in the corner by himself.</ln>
+
+        <ln><speaker>WATSON</speaker> By Jove, yes. His - his face seems familiar. We've seen him
+            before somewhere.</ln>
+
+        <ln><speaker>HOLMES</speaker> Of course we have. His name is Oliver Leaming. We met him at
+            the inquest on the Montrevor case. </ln>
+
+        <ln><speaker>WATSON</speaker> So we did. Now, what on earth do you suppose he's doing here
+            in the Casbah?</ln>
+
+        <ln><speaker>HOLMES</speaker> Not on a holiday, I'm sure. Mr. Oliver Leaming, if you recall,
+            is a cousin of Douglas Milton's, the man we're searching for. If Milton were ever
+            declared legally dead, Mr. Leaming over there would inherit the title. </ln>
+
+        <ln><speaker>WATSON</speaker> It looks to me as if we're not the only people in the Casbah
+            who are searching for the missing heir.</ln>
+
+        <ln><speaker>HOLMES</speaker> That's true, old fellow. Come on, let's go and talk to the
+            gentleman.</ln>
+
+        <ln><speaker>SFX</speaker> HOLMES AND WATSON RISE FROM THEIR CHAIRS AND WALK OVER TO LEAMING
+            ... CROWD NOISE AND FLUTE-LIKE INSTRUMENT FILL THE PAUSE</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>CHEERFUL GREETING</expression> Mr. Oliver Leaming! How very odd to meet you
+            here!</ln>
+
+        <ln><speaker>LEAMING</speaker> Well, well! <mention ref="#holmes">Sherlock Holmes</mention>
+            and <mention ref="#holmes">Dr. Watson</mention>! Won't you sit down?</ln>
+
+        <ln><speaker>HOLMES</speaker> Thank you.</ln>
+
+        <ln><speaker>SFX</speaker> HOLMES AND WATSON SIT</ln>
+
+        <music> FADES GENTLY OUT DURING FOLLOWING--</music>
+
+        <ln><speaker>LEAMING</speaker> World's a small place, isn't it? Or has somebody said that
+            before? I wondered if you'd spot me over here in the corner.</ln>
+
+        <ln><speaker>WATSON</speaker> Oh, you saw us, then?</ln>
+
+        <ln><speaker>LEAMING</speaker> Of course! But you seemed to be in such deep conversation
+            with that scoundrel Rafi, I didn't like to disturb you.</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>CHUCKLES</expression> Very considerate of you, I'm sure. Why are you here,
+            Mr. Leaming?</ln>
+
+        <ln><speaker>LEAMING</speaker> Oh --- I'm making a business trip. This is my day off.</ln>
+
+        <ln><speaker>HOLMES</speaker> As I recall it, you're in the publishing business.</ln>
+
+        <ln><speaker>LEAMING</speaker> Correct. What a memory you have, <mention ref="#holmes">Mr.
+                Holmes</mention>.</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>LIGHTLY</expression> It seems peculiar that you should be on a business trip
+            here. Are you planning on opening a publishing house in Algiers? Or are you searching
+            the Casbah for new authors?</ln>
+
+        <ln><speaker>LEAMING</speaker> Why not? I'm a great believer in encouraging new talent.</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>MORE SERIOUS</expression> Mr. Leaming, why don't you admit that you're here
+            for the express purpose of trying to find your cousin Douglas Milton?</ln>
+
+        <ln><speaker>LEAMING</speaker>
+            <expression>MOCKING</expression>
+            <mention ref="#holmes">Mr. Holmes</mention>, you've discovered my secret. The great
+                <mention ref="#holmes">Sherlock Holmes</mention> and his watchdog have their eagle
+            eyes on me. They know that I succeed to the title if Douglas Milton dies.</ln>
+
+        <ln><speaker>HOLMES</speaker> Yes, Mr. Leaming, we know that fact.</ln>
+
+        <ln><speaker>LEAMING</speaker> And you have fathomed my plan -- to find Douglas before [you]
+            and kill him, so that I may inherit the title. How lucky I am to meet you in the Casbah
+            where you cannot arrest me. Hm! <expression>RISES) Well, it's a race against time,
+                gentlemen. But I have a head start, as you will soon find out. (MOVING
+                OFF</expression> Goodbye, and the best of luck to you.</ln>
+
+        <music> FLUTE-LIKE INSTRUMENT RESUMES BEHIND--</music>
+
+        <ln><speaker>WATSON</speaker> Hm! What an extraordinary fellow. He's joking, of course.</ln>
+
+        <ln><speaker>HOLMES</speaker> I believe not, <mention ref="#watson">Watson</mention>. I
+            think he labors under the whimsical belief that the best method of discounting the truth
+            is to state it baldly so that it will not be believed.</ln>
+
+        <ln><speaker>WATSON</speaker> Great Scott, then we must work fast.</ln>
+
+        <ln><speaker>HOLMES</speaker> Yes, old chap, we must. I am sure that we're entrants in a
+            race against death. We must get back to the hotel and into our disguises as quickly as
+            possible. After that, we shall visit a young lady named Ayisha in the Café of a Thousand
+            Sighs. And I am certain, <mention ref="#watson">Watson</mention>, that it will be the
+            first time two men have ever entered the Casbah for the express purpose of preventing a
+            murder!</ln>
+
+        <music> ORGAN ... CURTAIN</music>
+
+        <ln><speaker>ANNOUNCER</speaker> We'll hear the rest of <mention ref="#watson">Dr.
+                Watson</mention>'s story in just about a second -- which gives me time to remind you
+            that if you like the flavor of big plump juicy Muscat grapes, you'll love the flavor of
+            Petri California Muscatel. What a wine! Petri Muscatel is the perfect after-dinner wine.
+            It looks good; smells better than it looks; and when it comes to the taste department,
+            well, you never tasted anything like it. For a really good wine, remember, first, Petri;
+            then Muscatel -- Petri Muscatel.</ln>
+
+        <ln>Well, Doctor, I can hardly wait to hear what happened next. You and <mention
+                ref="#holmes">Sherlock Holmes</mention> went back to the hotel, I suppose.</ln>
+
+        <ln><speaker>WATSON</speaker> Yes, Mr. Bartell. <mention ref="#holmes">Holmes</mention>
+            quickly adopted the disguise of an Arab guide while I assumed the role of a tourist, and
+            we started off on our search. Outside the Café of a Thousand Sighs, we met with a rude
+            shock. <expression>TO HOLMES</expression> Good lord! It's the fellow we met in the
+            café.</ln>
+
+        <ln><speaker>HOLMES</speaker> Yes, Oliver Leaming -- with a knife between his shoulders. </ln>
+
+        <ln><speaker>WATSON</speaker> He's dead, <mention ref="#holmes">Holmes</mention>. Shouldn't
+            we get in touch with the police?</ln>
+
+        <ln><speaker>HOLMES</speaker> What can they do? Remember, there is no law in the Casbah. In
+            any case, this man is beyond our help. Our job is to protect the living. Come on, old
+            fellow, let's go to the Café of a Thousand Sighs and find this girl, Ayisha -- the girl
+            Rafi says sings like a nightingale.</ln>
+
+        <ln><speaker>SFX</speaker> TRANSITIONAL PAUSE</ln>
+
+        <music> FADE IN ... PIANO ACCOMPANIES SINGER</music>
+
+        <ln><speaker>AYISHA</speaker>
+            <expression>SINGS "LA PETITE TONKINOISE"</expression></ln>
+        <ln>C'est comme un z'oiseau qui chante </ln>
+        <ln>Je l'appelle ma petite bourgeoise</ln>
+        <ln>Ma Tonkiki, ma Tonkiki, ma Tonkinoise</ln>
+        <ln>Y'en a d'autre qui me font les doux yeux </ln>
+        <ln>Mais c'est elle qui j'aime le mieux!</ln>
+
+        <music> SONG ENDS</music>
+
+        <ln><speaker>SFX</speaker> CHEERS AND APPLAUSE FROM CAFE AUDIENCE ... SUBSIDES TO BUZZ, THEN
+            IN BG</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>IMPRESSED</expression> Oh, so - so that's the girl Ayisha. She - she's very
+            beautiful. </ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>LOW) Don't forget our role of tourist and guide, old chap. (ADOPTS
+                ACCENT</expression> Master? Would wish to meet this Ayisha?</ln>
+
+        <ln><speaker>WATSON</speaker> Oh, very much indeed.</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>ACCENT) I will see if it can be arranged, master. (LOW</expression> Wait
+            here for me, <mention ref="#watson">Watson</mention>. I'll see what I can do.</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>LOW</expression> Right you are, <mention ref="#holmes">Holmes</mention>. Be
+            careful now.</ln>
+
+        <music> CAF PIANO (OVER CROWD BUZZ) FILLS THE PAUSE ... THEN IN BG</music>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>ACCENT</expression> Mademoiselle Ayisha?</ln>
+
+        <ln><speaker>AYISHA</speaker>
+            <expression>HARSH</expression> What do you want, greasy one?</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>ACCENT</expression> There is an Englishman at the table over there. He
+            wishes to talk to Ayisha.</ln>
+
+        <ln><speaker>AYISHA</speaker> Which one is he?</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>ACCENT</expression> The man who sits at the table in the corner. He is very
+            rich, Ayisha, and he admires you a great deal. He told me to give you this
+            five-hundred-franc note.</ln>
+
+        <ln><speaker>SFX</speaker> RUSTLE OF MONEY CHANGING HANDS</ln>
+
+        <ln><speaker>AYISHA</speaker> So? Wery well. You may bring him to my rooms. The door is at
+            top of stairway, to the right.</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>ACCENT</expression> Good, Ayisha. I fetch him.</ln>
+
+        <ln><speaker>AYISHA</speaker> I shall be waiting.</ln>
+
+        <music> CAF PIANO (OVER CROWD BUZZ) FILLS THE PAUSE ... THEN IN BG, OUT BY [X]</music>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>ACCENT</expression> Ayisha will see you, master. Follow me, please.</ln>
+
+        <ln><speaker>WATSON</speaker> Oh, very well. </ln>
+
+        <ln><speaker>SFX</speaker> HOLMES AND WATSON LEAVE CROWD BEHIND AND CLIMB STAIRS DURING
+            FOLLOWING--</ln>
+
+        <ln><speaker>WATSON</speaker> I hope you know how you're going to handle this, <mention
+                ref="#holmes">Holmes</mention>.</ln>
+
+        <ln><speaker>HOLMES</speaker> Don't worry, <mention ref="#watson">Watson</mention>. In this
+            case, I think honesty will be the best policy.</ln>
+
+        <ln><speaker>WATSON</speaker> Well, I'm not so sure. This place is a thieves' kitchen, if
+            ever I saw one. You'd better be careful.</ln>
+
+        <ln><speaker>HOLMES</speaker> First door to the right at the top of the stairs. This is it.
+            [X]</ln>
+
+        <ln><speaker>SFX</speaker> KNOCK AT DOOR</ln>
+
+        <ln><speaker>AYISHA</speaker>
+            <expression>BEHIND DOOR</expression> Come in!</ln>
+
+        <ln><speaker>SFX</speaker> DOOR OPENS</ln>
+
+        <ln><speaker>AYISHA</speaker>
+            <expression>SEDUCTIVE) Oh, come and sit over here, Mr. Englishman. (HARSH</expression>
+            Greasy one! You may leave us!</ln>
+
+        <ln><speaker>SFX</speaker> DOOR SHUTS</ln>
+
+        <ln><speaker>HOLMES</speaker> Mademoiselle, I, uh, may as well tell you at once that I am
+            not an Arab guide. My name is <mention ref="#holmes">Sherlock Holmes</mention>.</ln>
+
+        <ln><speaker>AYISHA</speaker> What do you want with me? Why you trick your way in here?</ln>
+
+        <ln><speaker>HOLMES</speaker> Don't be frightened, Mademoiselle. I can explain our mission
+            in a very few words. My friend and I have come in search of an Englishman by the name of
+            Douglas Milton. We have good news for him. </ln>
+
+        <ln><speaker>AYISHA</speaker> What make you think I might know of him?</ln>
+
+        <ln><speaker>HOLMES</speaker> A gentleman by the name of Rafi suggested that you might.</ln>
+
+        <ln><speaker>AYISHA</speaker> What is your good news for this Englishman?</ln>
+
+        <ln><speaker>HOLMES</speaker> That he has been cleared of suspicion of murder and that he is
+            the rightful Earl of Montrevor.</ln>
+
+        <ln><speaker>AYISHA</speaker>
+            <expression>UNHAPPY</expression> That means when he knows this, he will leave the Casbah
+            and return to his country?</ln>
+
+        <ln><speaker>WATSON</speaker> Naturally, my dear.</ln>
+
+        <ln><speaker>AYISHA</speaker>
+            <expression>BEAT, UNCONVINCING) I do not know this man. I have never heard of him.
+                (DECISIVE</expression> Here is your five hundred francs. Goodbye! </ln>
+
+        <ln><speaker>SFX</speaker> MILTON'S FOOTSTEPS APPROACH BEHIND--</ln>
+
+        <ln><speaker>MILTON</speaker>
+            <expression>FADES IN</expression> Not so fast, Ayisha, ma petite chou. I've been
+            listening from behind these curtains. Gentlemen, allow me to introduce myself. My name
+            is Douglas Milton.</ln>
+
+        <ln><speaker>WATSON</speaker> Douglas Milton! We've found you at last!
+                <expression>CHUCKLES</expression></ln>
+
+        <ln><speaker>HOLMES</speaker> It gives me infinite pleasure to have succeeded in my mission.
+            How do you do, sir?</ln>
+
+        <ln><speaker>MILTON</speaker> This is very exciting. </ln>
+
+        <ln><speaker>WATSON</speaker> It is indeed.</ln>
+
+        <ln><speaker>MILTON</speaker> Yes, I think the occasion calls for a drink. Uh, what'll it
+            be, gentlemen?</ln>
+
+        <ln><speaker>WATSON</speaker> Oh, I think - a glass of port would be very nice, sir.</ln>
+
+        <ln><speaker>HOLMES</speaker> Yes, it would be most appropriate for toasting the new Earl of
+            Montrevor.</ln>
+
+        <ln><speaker>MILTON</speaker> Splendid, splendid. Ayisha, bring glasses and a bottle of
+            port, and some crème de menthe for me.</ln>
+
+        <ln><speaker>AYISHA</speaker> You are not going to England! I will never let you leave
+            me!</ln>
+
+        <ln><speaker>MILTON</speaker> Oh, stop being so melodramatic, Ayisha. Please bring two
+            bottles and some glasses.</ln>
+
+        <ln><speaker>AYISHA</speaker> Wery well. I am sorry.</ln>
+
+        <ln><speaker>MILTON</speaker>
+            <mention ref="#holmes">Mr. Holmes</mention>, I can't tell you how I appreciate your
+            trouble in coming all this way to find me, but, well, I must tell you at once, there's
+            one problem that makes it difficult for me to leave this country. You see, I - I
+            deserted from the Foreign Legion.</ln>
+
+        <ln><speaker>WATSON</speaker> Yes, yes, yes, we know that, my boy. In fact, that's how we
+            first got onto your trail.</ln>
+
+        <ln><speaker>HOLMES</speaker> I shouldn't let that fact worry you, Mr. Milton. I'm certain
+            the British consul in Algiers can arrange to have any charges dropped against a peer of
+            the realm.</ln>
+
+        <ln><speaker>MILTON</speaker> Oh, well, I never thought of that.</ln>
+
+        <ln><speaker>AYISHA</speaker>
+            <expression>APPROACHES</expression> Here are the bottles.</ln>
+
+        <ln><speaker>SFX</speaker> BOTTLES UNCORKED, CONTENTS POURED, GLASSES CLINK, ET CETERA,
+            BEHIND--</ln>
+
+        <ln><speaker>MILTON</speaker> You must excuse the glasses, gentlemen. Tumblers are hardly
+            correct, I suppose, but-- Well, they won't spoil the flavor, I'm sure. Ah, two glasses
+            of port and, er, crème de menthe for me. Only three glasses, Ayisha? Bring a glass for
+            yourself.</ln>
+
+        <ln><speaker>AYISHA</speaker>
+            <expression>DEFIANT</expression> I do not wish to drink.</ln>
+
+        <ln><speaker>MILTON</speaker> And I insist that you do. Bring a glass, Ayisha.</ln>
+
+        <ln><speaker>AYISHA</speaker>
+            <expression>MOVING OFF</expression> Why should I drink if you are leaving me?</ln>
+
+        <ln><speaker>HOLMES</speaker> Mr. Milton, do you know Oliver Leaming?</ln>
+
+        <ln><speaker>MILTON</speaker> Huh? Of course. He's my cousin. Yes, he came here half an hour
+            ago and threatened me.</ln>
+
+        <ln><speaker>WATSON</speaker> Did you also know that he's lying dead in the street --
+            murdered?</ln>
+
+        <ln><speaker>MILTON</speaker>
+            <expression>RELUCTANT, LOW) Well, yes. Yes, I did. If we weren't in the Casbah, I
+                wouldn't tell you this, but-- Ayisha stabbed him. She followed him when he left
+                here, killed him, and then slipped back just in time to sing her song a few moments
+                ago. Oh, you needn't look so shocked, <mention ref="#watson">Dr. Watson</mention>.
+                Life is cheap in the Casbah and Ayisha is a girl of violent passions.
+                (UP</expression> Come on, let's - let's drink.</ln>
+
+        <ln><speaker>HOLMES</speaker> A toast to the new Earl of Montrevor.</ln>
+
+        <ln><speaker>SFX</speaker> GLASSES CLINK ... THE MEN DRINK</ln>
+
+        <ln><speaker>MILTON</speaker>
+            <expression>COUGHS, GASPS</expression>
+        </ln>
+
+        <ln><speaker>WATSON</speaker> Excuse me, sir. You took the wrong glass. You're drinking my
+            port.</ln>
+
+        <ln><speaker>MILTON</speaker> Oh, silly mistake; I can't bear port. Very un-English of me,
+            I'm afraid, but-- Well, after all these years, I don't feel particularly English. In
+            fact, I'll probably find it very hard to adjust myself to the old life when I go back.
+            Or perhaps I should say if I go back.</ln>
+
+        <ln><speaker>HOLMES</speaker> Since you feel that way about it, Mr. Milton, why go? You can
+            claim the title and the revenues of the estate without leaving Algeria. You could stay
+            here and live on the income. </ln>
+
+        <ln><speaker>MILTON</speaker> I didn't realize that would be possible. Are you sure I could
+            do that?</ln>
+
+        <ln><speaker>HOLMES</speaker> Oh, yes, I'm quite certain of it.</ln>
+        <ln><speaker>MILTON</speaker> Hmm. </ln>
+
+        <ln><speaker>HOLMES</speaker> But if you doubt my word, I suggest we all adjourn to the
+            British consulate in Algiers. They can put you straight on the matter.</ln>
+
+        <ln><speaker>MILTON</speaker> That's a good idea. Let's go over there at once. </ln>
+
+        <ln><speaker>AYISHA</speaker>
+            <expression>APPROACHES, UPSET</expression> And now I have been listening to you, my
+            friend! You are planning to leave me! Once you go from the Casbah, I shall never see you
+            again!</ln>
+
+        <ln><speaker>SFX</speaker> MILTON AND AYISHA STRUGGLE ... IN AGREEMENT WITH FOLLOWING--</ln>
+
+        <ln><speaker>MILTON</speaker> Put down that knife, Ayisha!</ln>
+
+        <ln><speaker>AYISHA</speaker> I will not let you go! You belong to me! If you try to leave
+            me now, I WILL KILL YOU! </ln>
+
+        <ln><speaker>MILTON</speaker> Put down that knife, Ayisha! You've done enough damage for one
+            night!</ln>
+
+        <ln><speaker>AYISHA</speaker> Why, you--!</ln>
+
+        <ln><speaker>MILTON</speaker> Put it down, you fool! Put it down!</ln>
+
+        <ln><speaker>AYISHA</speaker> Let me go! Let me go! <expression>SCREAMS, GASPS,
+                DYING</expression></ln>
+
+        <ln><speaker>SFX</speaker> AYISHA COLLAPSES TO THE FLOOR</ln>
+
+        <ln><speaker>MILTON</speaker>
+            <expression>EXHALES IN HORROR</expression> She - twisted the knife on herself as she
+            fell.</ln>
+
+        <ln><speaker>WATSON</speaker> Holmes, help me turn her over.</ln>
+
+        <ln><speaker>SFX</speaker> AYISHA'S BODY TURNED OVER</ln>
+
+        <ln><speaker>WATSON</speaker> She's dead, Mr. Milton.</ln>
+
+        <ln><speaker>MILTON</speaker> Poor Ayisha.</ln>
+
+        <ln><speaker>HOLMES</speaker> It's a bloody path that leads to the Montrevor title, sir. I
+            suggest that we see that this poor girl's body is taken care of. And then go to the
+            British consulate without any further delay.</ln>
+
+        <music>ORGAN ... BRIDGE</music>
+
+        <ln><speaker>HOLMES</speaker> Now that we're at the consulate, Mr. Milton, I suggest that
+            you swear on oath that you are Douglas Milton, heir to the Montrevor estate -- this
+            gentleman is a commissioner of oaths -- then we can go in and see the consul.</ln>
+
+        <ln><speaker>MILTON</speaker> Very well.</ln>
+
+        <ln><speaker>COMMISSIONER</speaker> Now, raise your right hand and repeat after me. "I
+            hereby solemnly swear that I am Douglas Milton, the missing heir to the Montrevor
+            estate."</ln>
+
+        <ln><speaker>MILTON</speaker> I hereby swear that I am Douglas Milton, missing heir to the
+            Montrevor estate.</ln>
+
+        <ln><speaker>COMMISSIONER</speaker> Thank you, sir. And now if you'll sign the statement
+            here, these gentlemen can witness it.</ln>
+
+        <ln><speaker>SFX</speaker> RATTLE OF PAPER ... SCRIBBLE OF SIGNATURE</ln>
+
+        <ln><speaker>MILTON</speaker> There you are.</ln>
+
+        <ln><speaker>COMMISSIONER</speaker> Thank you, sir. And now if you gentlemen will sign.</ln>
+
+        <ln><speaker>HOLMES</speaker> Yes, certainly.</ln>
+
+        <ln><speaker>SFX</speaker> SCRIBBLES, OF HOLMES AND WATSON</ln>
+
+        <ln><speaker>COMMISSIONER</speaker> Thank you, gentlemen. The document is now legal.</ln>
+
+        <ln><speaker>MILTON</speaker> Splendid. Let's go over and see the consul.</ln>
+
+        <ln><speaker>HOLMES</speaker> Not yet, my friend. <mention ref="#watson">Watson</mention>,
+            this man is not Douglas Milton.</ln>
+
+        <ln><speaker>MILTON</speaker> What the devil are you talking about?</ln>
+
+        <ln><speaker>HOLMES</speaker> There is no law in the Casbah, sir, so you cannot be punished
+            for the two murders you committed there. But now that your avarice has tempted you here
+            to Algiers where you've been foolish enough to sign a false statement, I think we can at
+            least settle you very nicely for desertion, false impersonation, forgery and
+            perjury.</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <mention ref="#holmes">Holmes</mention>, what do you mean?</ln>
+
+        <ln><speaker>HOLMES</speaker> The story should be obvious, old fellow. Oliver Leaming did
+            track down the deserter. Recognition was uncertain after so many years, but at least it
+            gave this gentleman the idea of impersonating the real Douglas Milton, a friend of
+            his.</ln>
+
+        <ln><speaker>MILTON</speaker> You have a lively imagination, <mention ref="#holmes">Mr.
+                Holmes</mention>.</ln>
+
+        <ln><speaker>HOLMES</speaker> The real Douglas Milton died of dysentery two years ago in
+            Sidi Rached. As soon as the idea of impersonating Milton was born, Leaming had to die. </ln>
+
+        <ln><speaker>MILTON</speaker> Your theories are very interesting, but you haven't a shred of
+            proof. I say that I'm Douglas Milton. How are you going to prove otherwise?</ln>
+
+        <ln><speaker>HOLMES</speaker> Very simply, my dear sir. Douglas Milton was a painter -- a
+            painter who excelled in the use of vivid colors. You, sir, suffer from the quite common
+            malady of red-green color blindness. Less than an hour ago, you mistook a glass of port,
+            which is red, for a glass of crème de menthe, which is green. I knew at once that you
+            were an impostor.</ln>
+
+        <ln><speaker>MILTON</speaker> You're cleverer than I thought you were, <mention
+                ref="#holmes">Holmes</mention>. <expression>RUNNING OFF</expression> Goodbye!</ln>
+
+        <ln><speaker>SFX</speaker> RUNNING FOOTSTEPS AWAY ... DOOR OPENS OFF</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>PANIC</expression> Here, here! Come back!</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>CALM</expression> No, no, <mention ref="#watson">Watson</mention>. Don't go
+            after him.</ln>
+
+        <ln><speaker>WATSON</speaker> But we can't let him escape, <mention ref="#holmes"
+                >Holmes</mention>!</ln>
+
+        <ln><speaker>HOLMES</speaker> Don't worry, old chap, he won't escape. I sent a message to
+            Colonel de Brisson. If you go to the window, I think you'll find that the consulate is
+            being watched.</ln>
+
+        <ln><speaker>SFX</speaker> FOOTSTEPS TO WINDOW</ln>
+
+        <ln><speaker>HOLMES</speaker> The Legion has a long memory for desertion. I don't think
+            he'll get very far.</ln>
+
+        <ln><speaker>SFX</speaker> VOLLEY OF RIFLE SHOTS, OFF</ln>
+
+        <ln><speaker>WATSON</speaker> They got him, <mention ref="#holmes">Holmes</mention>! Shot
+            him as he was trying to run away!</ln>
+
+        <ln><speaker>HOLMES</speaker> A just death for him. He lived a life of violence and
+            treachery, <mention ref="#watson">Watson</mention>. It's only fitting that he should die
+            in the same manner.</ln>
+
+        <music> ORGAN ... FOR A FINISH</music>
+
+        <ln><speaker>ANNOUNCER</speaker> Doctor, that was a swell story, but-- You know something? I
+            wish you hadn't disillusioned me about the Casbah.</ln>
+
+        <ln><speaker>WATSON</speaker> Disillusioned you? Why, what do you mean?</ln>
+
+        <ln><speaker>ANNOUNCER</speaker> Well, before I heard your story, whenever somebody
+            mentioned the Casbah, I'd always visualize a very glamorous, romantic sort of place,
+            full of beautiful women -- every one of 'em a ringer for Hedy Lamarr.</ln>
+
+        <ln><speaker>WATSON</speaker> No!</ln>
+
+        <ln><speaker>ANNOUNCER</speaker> Yup!</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>CHUCKLES</expression></ln>
+
+        <ln><speaker>ANNOUNCER</speaker> And I could just see myself -- handsome, dashing -- going
+            up to one of those beautiful girls and whispering in my fine French accent--
+                <expression>FRENCH ACCENT, IMITATES CHARLES BOYER) Darling, you are sensational. You
+                are lovely. Gorgeous. Tell me-- (DROPS ACCENT) Have you ever tried Petri Wine? It's
+                wonderful. (PAUSE FOR STUDIO AUDIENCE'S MIXED REACTION</expression> Well, you must
+            admit, Doctor, that that is the truth. It is wonderful wine. It certainly ought to
+            be.</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>CHUCKLES</expression> You're incorrigible.</ln>
+
+        <ln><speaker>ANNOUNCER</speaker>
+            <expression>LAUGHS</expression> After all, winemaking has been the business of the Petri
+            family ever since way back in the eighteen hundreds. For generations, the Petri family
+            has handed down from father to son, from father to son, the fine art of turning
+            luscious, sun-ripened grapes into fragrant delicious wine. And don't forget -- because
+            the making of Petri Wine is a family affair, the letters P-E-T-R-I on a bottle of wine
+            are the personal assurance of the Petri family that every drop of wine in that bottle is
+            good wine. So no matter what type wine you prefer for any occasion, remember you can't
+            go wrong with a Petri Wine because Petri Took Time / to Bring You Good Wine!</ln>
+
+        <ln>Well, Doctor, I suppose you're ready to tell us about next week's story?</ln>
+
+        <ln><speaker>WATSON</speaker> Yes, and as soon as I have, I want you to meet a friend of
+            mine. </ln>
+
+        <ln><speaker>ANNOUNCER</speaker> A friend?</ln>
+
+        <ln><speaker>WATSON</speaker> Yes. But first, Mr. Bartell, next week I'm going to tell you
+            an adventure in which for once <mention ref="#holmes">Holmes</mention> came off second
+            best. An exciting story of high society and romance. I call it "A Scandal in
+            Bohemia."</ln>
+
+        <ln><speaker>ANNOUNCER</speaker> Boy, that sounds swell. And now what about your
+            friend?</ln>
+
+        <ln><speaker>WATSON</speaker> Well, he's waiting at the microphone in San Francisco. He's
+            Dr. Langley Porter and he wants to tell us about something very important. Dr. Langley
+            Porter!</ln>
+
+        <ln><speaker>PORTER</speaker> Thank you, <mention ref="#watson">Dr. Watson</mention>. Radio
+            listeners, tonight in Italy there are thousands, many thousands, dying of cold and
+            hunger -- babies, children, expectant mothers, old folks -- dying for want of clothes,
+            want of food. This organization, American Relief for Italy, appeals to you to search
+            your homes for anything that can be made useful for starving, freezing men, women,
+            children -- clothing, layettes for babies, diapers, shoes, food, surgical supplies, but,
+            above all, clothes; clean clothes, fit to wear. Take them to the nearest fire station. </ln>
+
+        <ln>That your gifts will reach the Italians who need them you may be sure. Americans of this
+            organization will distribute the packages in Italy through the Italian Red Cross, the
+            Catholic Relief Organization, the League of Italian Women, the Confederation of Italian
+            Labor and the Italian government. </ln>
+
+        <ln>In California, rationing has gone; Christmas comes. There, in Italy, death is on the
+            prowl. Radio listeners, lives can be saved. It's up to you.</ln>
+
+        <ln><speaker>WATSON</speaker> Thank you, Dr. Langley Porter. I know that our friends
+            listening in will do all that they can to help the organization, American Relief for
+            Italy.</ln>
+
+        <ln><speaker>ANNOUNCER</speaker> Tonight's <mention ref="#holmes">Sherlock Holmes</mention>
+            adventure is written by Denis Green and Anthony Boucher and was suggested by an incident
+            in the Sir Arthur Conan Doyle story, "The Crooked Man." Music is by Dean Fosler. Mr.
+            Rathbone appears through the courtesy of Metro-Goldwyn-Mayer and Mr. Bruce through the
+            courtesy of Universal Pictures where they are now starring in the <mention ref="#holmes"
+                >Sherlock Holmes</mention> series.</ln>
+
+        <ln>This is the Mutual Broadcasting System.</ln>
+    </scene>
+</xml>

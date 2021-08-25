@@ -1,0 +1,750 @@
+<?xml-model href="sherlock.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <metadata>
+        <series>Series: Sherlock Holmes</series>
+        <show>Show: Silver Blaze</show>
+        <date when="1955-03-27">Date: Mar 27 1955</date>
+        <castList>CAST <cast ref="#announcer">ANNOUNCER</cast>
+            <cast ref="#watson">DR. WATSON</cast>
+            <cast ref="#holmes">SHERLOCK HOLMES</cast>
+            <cast ref="#stranger">STRANGER</cast>
+            <cast ref="#maid">MAID</cast>
+            <cast ref="#boy">BOY</cast>
+            <cast ref="#inspector">INSPECTOR</cast>
+            <cast ref="#colonel">COLONEL</cast>
+            <cast ref="#straker">MRS. STRAKER</cast>
+            <cast ref="#groom">GROOM</cast>
+            <cast ref="#brown">SILAS BROWN</cast>
+            <cast ref="#sound">SOUND: A HANSOM CAB HURRIES BY</cast></castList>
+    </metadata>
+    <scene>
+        <music> THEME ... SOLO VIOLIN ... THEN IN BG</music>
+
+        <ln><speaker>ANNOUNCER</speaker> "The Adventures of <mention ref="#holmes">Sherlock
+                Holmes</mention>," the original and immortal stories of Sir Arthur Conan Doyle
+            dramatized anew, with Sir Ralph Richardson as <mention ref="#watson">Dr.
+                Watson</mention> and Sir John Gielgud in the role of <mention ref="#holmes">Sherlock
+                Holmes</mention>. </ln>
+
+        <music> SOLO VIOLIN ... UP TO FILL A PAUSE ... THEN BEHIND WATSON--</music>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>NARRATES</expression> Many of the cases of <mention ref="#holmes">Sherlock
+                Holmes</mention> were private affairs that made no stir outside the family circles
+            involved, but the disappearance of Silver Blaze was a matter which set the whole country
+            by the ears -- for not merely had this horse, the favorite for the Wessex Cup, vanished
+            for a week before the great race, but his trainer had also been tragically
+            murdered.</ln>
+
+        <ln><speaker>SOUND</speaker> MOVING TRAIN INTERIOR BACKGROUND</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>FADES IN, READING ALOUD</expression> "--John Straker, the trainer, lived in
+            a small villa about two hundred yards from the stables." </ln>
+
+        <ln><speaker>HOLMES</speaker> I see you have some newspapers there, <mention ref="#watson"
+                >Watson</mention>. Let's see what they have to say about the matter.</ln>
+
+        <ln><speaker>SOUND</speaker> RUSTLE OF NEWSPAPERS IN AGREEMENT WITH FOLLOWING--</ln>
+
+        <ln><speaker>WATSON</speaker> Oh. Well, er-- Here's the-- Here's the Morning Post. It says,
+            uh-- <expression>READS</expression> "The horses had been exercised and watered as usual
+            and the stables locked up at nine o'clock. Two of the lads walked up to the trainer's
+            house where they had supper in the kitchen whilst the third, Ned Hunter, remained on
+            guard. A few minutes after nine, the maid, Edith Baxter, carried his supper, a dish of
+            curried mutton, down to the stables. As the path ran over the open moor, she carried a
+            lantern with her. About thirty yards away from the stables a man appeared out of the
+            darkness and called to her to stop." </ln>
+
+        <ln><speaker>SOUND</speaker> SCENE ABRUPTLY FADES OUT ... THEN FADE IN SCENE WITH SHARP WIND
+            BLOWING IN BG</ln>
+
+        <ln><speaker>STRANGER</speaker>
+            <expression>AFFABLY SINISTER</expression> Excuse me, miss?</ln>
+
+        <ln><speaker>MAID</speaker>
+            <expression>STARTLED GASP</expression>
+        </ln>
+
+        <ln><speaker>STRANGER</speaker> Can you tell me where I am? I'd almost made up my mind to
+            sleep on the moor when I saw your lantern. </ln>
+
+        <ln><speaker>MAID</speaker>
+            <expression>NERVOUS</expression> You're close to King's Pyland training stable, sir. </ln>
+
+        <ln><speaker>STRANGER</speaker> I am? What a stroke of luck. I understand that the stable
+            boy sleeps there alone every night. Perhaps that's his supper you're carrying. </ln>
+
+        <ln><speaker>MAID</speaker> Yes, sir, but it'll be gettin' cold. </ln>
+
+        <ln><speaker>STRANGER</speaker> Yes, but, um-- You wouldn't be too proud to earn the price
+            of a new dress, now would you? See the boy gets this - <expression>CHUCKLES</expression>
+            - note tonight and you'll have the prettiest dress that money can buy. </ln>
+
+        <ln><speaker>MAID</speaker>
+            <expression>DEFIANT, MOVING OFF</expression> Let me pass, sir! I'm not giving notes to
+            anybody! </ln>
+
+        <ln><speaker>SOUND</speaker> SCENE FADES OUT ... THEN FADES IN ON MOVING TRAIN INTERIOR
+            BACKGROUND</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>READS</expression> "The girl was frightened by his manner and she ran past
+            him to the stable window hatch through which she always used to hand the boy his meals.
+            The hatch was already open and the boy was waiting inside. She'd just begun to tell him
+            what had happened when the stranger came up again."</ln>
+
+        <ln><speaker>SOUND</speaker> SCENE ABRUPTLY FADES OUT ... HORSE STABLE BACKGROUND
+                <expression>HORSES SNUFFLE, ET CETERA</expression> FADES IN</ln>
+
+        <ln><speaker>STRANGER</speaker>
+            <expression>APPROACHES</expression> Good evening. I wanted to have a word with you.</ln>
+
+        <ln><speaker>BOY</speaker> Er, what--? What business have you here? </ln>
+
+        <ln><speaker>STRANGER</speaker> Business that may put something in your pocket. You've two
+            horses in for the Wessex Cup -- Silver Blaze and Bayard. Let may have the straight tip
+            and you won't be the loser. Is it a fact that at the weights Bayard could give the other
+            a hundred yards? </ln>
+
+        <ln><speaker>BOY</speaker>
+            <expression>REALIZES, UPSET) So-- So you're one of them damn touts. Well, I'll show you
+                how we serve them at King's Pyland. Just wait till I set the dog free.
+                (CALLS</expression> Rover! Rover!</ln>
+
+        <ln><speaker>SOUND</speaker> DOG BARKS ... SCENE FADES OUT ... THEN FADE IN MOVING TRAIN
+            INTERIOR BACKGROUND</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>READS) "The boy ran to unleash the dog and the maid hurried towards the
+                house. But, looking back, she saw the stranger leaning in through the stable window.
+                A minute later when Hunter rushed out with the dog, the stranger was gone." (TO
+                HOLMES</expression> Yes, um-- That's as far as we can get with the Morning Post, I'm
+            afraid. Mrs. Hudson very stupidly used the other half of the paper to light the fire
+            this morning. I - I'm sorry.</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>CHUCKLES</expression> Oh, no matter, my dear fellow; the Telegraph has also
+            covered the occurrence very fully. I have it here. </ln>
+
+        <ln><speaker>SOUND</speaker> RUSTLE OF NEWSPAPER</ln>
+
+        <ln><speaker>HOLMES</speaker> Er-- <expression>READS) "Hunter, on the return of his fellow
+                grooms, sent a message up to the trainer, Straker, to tell him what had happened.
+                Straker seems to have been vaguely uneasy about the matter, for although he'd been
+                to bed he got up again at one o'clock in the morning telling his wife that he was
+                going down to the stable to see if all was well. He put on a mackintosh, for it was
+                raining heavily, and left the house." (TO WATSON</expression> Hm! Quite a wealth of
+            detail, my dear <mention ref="#watson">Watson</mention>. And here I have the notes of
+            Mrs. Straker's statement. </ln>
+
+        <ln><speaker>SOUND</speaker> RUSTLE OF NOTES</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>READS</expression> "After her husband had gone out she went back to sleep
+            again and didn't wake until seven o'clock in the morning. Finding him still absent, she
+            called the maid and they set off together for the stables. They found the door wide
+            open. Inside, huddled on a chair, was Hunter in a state of complete stupor. The lads in
+            the loft overhead had heard nothing all night, but the favorite's stall was empty and
+            there was no sign of the trainer."</ln>
+
+        <ln><speaker>WATSON</speaker> Hunter had obviously being drugged! </ln>
+
+        <ln><speaker>HOLMES</speaker> Undoubtedly. <expression>READS) "Mrs. Straker and the maid
+                left him and ran up to the moor to see whether Straker had merely taken the horse
+                out for exercise. And so the murder was discovered." (TO WATSON</expression> Suppose
+            you read me the rest of Mrs. Straker's statement.</ln>
+
+        <ln><speaker>SOUND</speaker> RUSTLE OF NOTES</ln>
+
+        <ln><speaker>WATSON</speaker> Oh. Well-- Yes, here it is. Er-- <expression>READS) "Some
+                quarter of a mile from the stables Mrs. Straker and the maid found Straker's coat
+                flapping from a furze-bush. Immediately beyond, there was a bowl-shaped depression
+                on the moor, and at the bottom of this John Straker's body was found -- his head
+                shattered by a savage blow from some heavy weapon; wounded in the thigh, a long
+                clean cut evidently inflicted by some sharp instrument. Straker had obviously tried
+                to defend himself, for in his left hand he grasped a red and black silk cravat which
+                was recognized by the maid as having been worn by the stranger who'd spoken to her
+                outside the stables. Hunter, the stable boy, also identified it when he'd recovered
+                from the effects of the drug. This was apparently powdered opium which had been put
+                into his curried mutton." (TO HOLMES</expression> Now that - that explains what the
+            stranger was doing as he leant through the stable window--</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>AGREES</expression> Mm hm. </ln>
+
+        <ln><speaker>WATSON</speaker> --for the lads who et the same meal at the trainer's house
+            were quite all right, so only one plate had been drugged. It goes on to say there were
+            abundant proofs in the mud which lay at the bottom of the fatal hollow that the missing
+            horse, Silver Blaze, had been there at the time of the struggle. </ln>
+
+        <ln><speaker>HOLMES</speaker> Well, <mention ref="#watson">Watson</mention>, that has passed
+            our little journey quite agreeably. And here we are at Tavistock. </ln>
+
+        <ln><speaker>SOUND</speaker> TRAIN PULLS TO A STOP ... PASSENGERS BUSTLE ... SCENE FADES
+            OUT</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>NARRATES</expression> Tavistock lies like the boss of a shield in the middle
+            of the huge circle of Dartmoor. Two gentlemen were waiting for us at the station --
+            Silver Blaze's owner, the well-known sportsman Colonel Ross, and Inspector Gregory of
+            Scotland Yard. </ln>
+
+        <ln><speaker>COLONEL</speaker> I'm delighted that you've come down, <mention ref="#holmes"
+                >Mr. Holmes</mention>. The inspector here has done all that could possibly be
+            suggested, but I wish to leave no stone unturned in trying to avenge poor Straker and
+            recover my horse.</ln>
+
+        <ln><speaker>HOLMES</speaker> I trust that I may be able to assist you, sir. Has there been
+            any fresh development?</ln>
+
+        <ln><speaker>INSPECTOR</speaker> I'm sorry to say we've made very little progress. As you
+            know, we've had no difficulty in tracing the stranger. He was well known in the
+            neighborhood. His name is, er, Fitzroy Simpson, a man who's come down in the world and,
+            er, lives by a little quiet and genteel bookmaking in the London clubs. His books showed
+            he was carrying bets up to five thousand pounds against the favorite. When confronted
+            with the cravat he turned very pale and was utterly unable to account for its presence
+            in the hand of the murdered man.</ln>
+
+        <ln><speaker>WATSON</speaker> Of course Straker himself was wounded, wasn't he? In the
+            thigh. He may have wounded himself in the convulsive struggles which follow any brain
+            injury. </ln>
+
+        <ln><speaker>HOLMES</speaker> Excellent, my dear <mention ref="#watson">Watson</mention>.
+            It's more than possible; it's probable. In which case one of the main points in favor of
+            the accused disappears. </ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>NARRATES</expression> A minute later we were all seated in a comfortable
+            landau and were rolling through the quaint old Devonshire town. </ln>
+
+        <ln><speaker>SOUND</speaker> FADE IN CLIP-CLOP OF HORSE AND MOVING LANDAU BACKGROUND</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>TO INSPECTOR) A clever counsel would tear your case to rags. Why should
+                Simpson take the horse out of the stable? If he wished to injure it, he could do it
+                there. Has a duplicate key to the stable door been found in his possession? What
+                chemist sold him the powdered opium? Above all, where could he -- he, a stranger to
+                the district -- hide a horse? And such a horse as this! (BEAT</expression> Tell me,
+            what is his own explanation as to the note which he wished the maid to give to the
+            stable boy? </ln>
+
+        <ln><speaker>INSPECTOR</speaker> He says it was a ten-pound note, and one was found in his
+            purse. Also, he's not a stranger to the district; he's twice lodged at Tavistock in the
+            summer. The opium he probably brought with him from London. The key, having served its
+            term, will be hurled away. As for the horse, he may well lie at the bottom of one of the
+            pits or old mines upon the moor.</ln>
+
+        <ln><speaker>HOLMES</speaker> What does he say about the cravat?</ln>
+
+        <ln><speaker>INSPECTOR</speaker> He admits that it's his and says that he lost it. But a new
+            element has been introduced into the case which may account for his leading the horse
+            from the stables. We found traces that show that a party of gypsies encamped on Monday
+            night within a mile of the spot where the murder took place. On Tuesday they were gone.
+            Simpson may well have been leading the horse to them when he was overtaken.</ln>
+
+        <ln><speaker>HOLMES</speaker> Mmm, it's certainly possible. </ln>
+
+        <ln><speaker>INSPECTOR</speaker> Eh, the moor is being scoured for them. Meanwhile I've
+            examined every stable and outhouse in Tavistock and for a radius of ten miles. </ln>
+
+        <ln><speaker>HOLMES</speaker> There's another training stable quite close, I believe. </ln>
+
+        <ln><speaker>INSPECTOR</speaker> Yes, and that's a factor we must certainly not neglect. As
+            Desborough, their horse, was second in the betting, they had an interest in the
+            disappearance of Silver Blaze. Silas Brown, their trainer, is known to have had large
+            bets upon the event and he was no friend to poor Straker. However, we've examined his
+            stables and there's nothing to connect him with the affair.</ln>
+
+        <ln><speaker>HOLMES</speaker> And nothing to connect Fitzroy Simpson with their
+            interests?</ln>
+
+        <ln><speaker>INSPECTOR</speaker> Nothing at all. Ah, well, here we are. </ln>
+
+        <ln><speaker>SOUND</speaker> LANDAU PULLS TO A STOP</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>NARRATES</expression> Our driver pulled up at a little red-brick villa which
+            stood by the road. Colonel Ross asked <mention ref="#holmes">Holmes</mention> whether he
+            would like to go on to the scene of the crime.</ln>
+
+        <ln><speaker>HOLMES</speaker> No, I think I prefer to stay here a little while and go into
+            one or two questions of detail. Straker was brought back here, I suppose. </ln>
+
+        <ln><speaker>COLONEL</speaker> Yes, he lies upstairs. The inquest is tomorrow.</ln>
+
+        <ln><speaker>HOLMES</speaker> He's been in your service some years, Colonel? </ln>
+
+        <ln><speaker>COLONEL</speaker> I've always found him an excellent servant. </ln>
+
+        <ln><speaker>HOLMES</speaker> I presume that you made an inventory of what he had in his
+            pockets at the time of his death, Inspector? </ln>
+
+        <ln><speaker>INSPECTOR</speaker> I have the things themselves here in the sitting room. </ln>
+
+        <ln><speaker>HOLMES</speaker> Aha.</ln>
+
+        <ln><speaker>SOUND</speaker> SITTING-ROOM DOOR OPENS ... THEIR STEPS IN ... ITEMS HANDLED
+            BEHIND--</ln>
+
+        <ln><speaker>INSPECTOR</speaker> Here they are. A box of matches, two inches of tallow
+            candle, pencil case, a few papers, and the ivory-handled knife. </ln>
+
+        <ln><speaker>HOLMES</speaker> Yea. A very singular knife, <mention ref="#watson"
+                >Watson</mention>. Surely in your line.</ln>
+
+        <ln><speaker>WATSON</speaker> It's what we call a cataract knife. We use it for surgical
+            purposes, including very delicate operations. </ln>
+
+        <ln><speaker>HOLMES</speaker> A strange thing for a man to carry with him on a rough
+            expedition. Why, it won't even shut up to go into his pocket.</ln>
+
+        <ln><speaker>INSPECTOR</speaker> Er, the tip was guarded by a cork which we found beside his
+            body. His wife tells us that he kept it for some days on the dressing table and picked
+            it up as he left the room. A poor weapon, but perhaps the best he could lay his hands on
+            at the moment. </ln>
+
+        <ln><speaker>HOLMES</speaker> And the papers? </ln>
+
+        <ln><speaker>SOUND</speaker> SHUFFLE OF PAPERS IN AGREEMENT WITH FOLLOWING--</ln>
+
+        <ln><speaker>INSPECTOR</speaker> Hay-dealers' accounts. This letter from Colonel Ross. And
+            this dressmaker's account for thirty-seven pounds fifteen, made out by Madame Lesurier
+            of Bond Street. </ln>
+
+        <ln><speaker>HOLMES</speaker> May I see that bill, please? </ln>
+
+        <ln><speaker>INSPECTOR</speaker> Certainly. It's made out to William Derbyshire. </ln>
+
+        <ln><speaker>HOLMES</speaker> William Derbyshire? </ln>
+
+        <ln><speaker>INSPECTOR</speaker> Mrs. Straker tells us he was a friend of her husband's and
+            that occasionally letters for him were addressed here. </ln>
+
+        <ln><speaker>HOLMES</speaker> Had he been staying here then? Did Mrs. Straker know him? </ln>
+
+        <ln><speaker>INSPECTOR</speaker> I gather not, but, er-- Here is Mrs. Straker.
+                <expression>INTRODUCTIONS</expression> Er, <mention ref="#holmes">Mr. Sherlock
+                Holmes</mention>, Mrs. Straker. </ln>
+
+        <ln><speaker>SOUND</speaker> DURING ABOVE, MRS. STRAKER'S STEPS APPROACH</ln>
+
+        <ln><speaker>MRS. STRAKER</speaker> How do you do, sir? </ln>
+
+        <ln><speaker>HOLMES</speaker> How do you do, Mrs. Straker? Surely we've met before. At a
+            garden party in Plymouth recently. </ln>
+
+        <ln><speaker>MRS. STRAKER</speaker> No, sir. You must be mistaken.</ln>
+
+        <ln><speaker>HOLMES</speaker> Dear me, I could have sworn it. You wore a costume of
+            dove-colored silk with ostrich feather trimmings. </ln>
+
+        <ln><speaker>MRS. STRAKER</speaker> Never had such a dress, sir. </ln>
+
+        <ln><speaker>HOLMES</speaker> Oh. Well, that settles it then. </ln>
+
+        <ln><speaker>MRS. STRAKER</speaker> If you'll excuse me, sir, I'd like a word with the
+            colonel. </ln>
+
+        <ln><speaker>HOLMES</speaker> Of course.</ln>
+
+        <ln><speaker>COLONEL</speaker>
+            <expression>MOVING OFF</expression> I'll be with you in a moment, <mention ref="#holmes"
+                >Mr. Holmes</mention>. Oh, Inspector--</ln>
+
+        <ln><speaker>SOUND</speaker> DEPARTING FOOTSTEPS OF COLONEL, INSPECTOR, AND MRS.
+            STRAKER</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>CHUCKLES</expression></ln>
+
+        <ln><speaker>WATSON</speaker>
+            <mention ref="#holmes">Holmes</mention>, I believe you've got your hand on a clue. </ln>
+
+        <ln><speaker>HOLMES</speaker> Oh, do you? As a matter of fact, I was just remembering a
+            really excellent curry we once et together in Soho.</ln>
+
+        <music> BRIDGE ... SOLO VIOLIN</music>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>NARRATES</expression>
+            <mention ref="#holmes">Sherlock Holmes</mention> next asked to be shown the spot where
+            the murder had been committed. A short walk across the moor brought us to the hollow in
+            which the body had been found. At the brink of it was the furze-bush upon which the
+            mackintosh belonging to the murdered man had been hung.</ln>
+
+        <ln><speaker>SOUND</speaker> WIND BLOWS, IN BG</ln>
+
+        <ln><speaker>HOLMES</speaker> There was no wind that night, I understand. </ln>
+
+        <ln><speaker>INSPECTOR</speaker> None; but very heavy rain.</ln>
+
+        <ln><speaker>HOLMES</speaker> Well, in that case the coat was not blown against the
+            furze-bushes. It must have been placed there. </ln>
+
+        <ln><speaker>INSPECTOR</speaker> Yes, it was laid across the bush.</ln>
+
+        <ln><speaker>HOLMES</speaker> Very interesting.</ln>
+
+        <ln><speaker>INSPECTOR</speaker> In this bag I have one of the boots which Straker wore, one
+            of Fitzroy Simpson's shoes, and a cast horseshoe of Silver Blaze.</ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>IMPRESSED</expression> My dear Inspector, you surpass yourself. </ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>NARRATES</expression>
+            <mention ref="#holmes">Holmes</mention> took the bag and, descending into the hollow, he
+            made a careful study of the trampled mud in front of him. </ln>
+
+        <ln><speaker>HOLMES</speaker> Hullo! What's this? A spent match, eh? Excellent. </ln>
+
+        <ln><speaker>INSPECTOR</speaker>
+            <expression>ANNOYED</expression> I can't think how I came to miss it! </ln>
+
+        <ln><speaker>HOLMES</speaker> It was invisible; buried in the mud. I only found it because I
+            was looking for it. </ln>
+
+        <ln><speaker>INSPECTOR</speaker> What? You expected to find it?</ln>
+
+        <ln><speaker>HOLMES</speaker> I thought it not unlikely. You'll have searched the ferns
+            around the rim of the hollow for any more tracks, of course. </ln>
+
+        <ln><speaker>INSPECTOR</speaker> I'm afraid there are none. I've examined the ground very
+            carefully for a hundred yards in each direction.</ln>
+
+        <ln><speaker>HOLMES</speaker> Good. Then I'll take a little walk over the moors before it
+            grows dark, and I think I'll put this horseshoe in my pocket - just for luck. </ln>
+
+        <ln><speaker>COLONEL</speaker>
+            <expression>PUZZLED</expression> I - I suppose you know your own methods best, <mention
+                ref="#holmes">Mr. Holmes</mention>. Perhaps you'll come back with me, Inspector.
+            There are several matters on which I need your advice. Especially as to whether we owe
+            it to the public to scratch Silver Blaze from the Wessex Cup. </ln>
+
+        <ln><speaker>HOLMES</speaker> Certainly not, Colonel! I should let the name stand. </ln>
+
+        <ln><speaker>COLONEL</speaker>
+            <expression>SURPRISED</expression> I am very glad to have your opinion, sir. We shall
+            see you later on when you've finished your walk. </ln>
+
+        <ln><speaker>SOUND</speaker> SCENE FADES OUT</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>NARRATES</expression> Colonel Ross and the inspector went back to the villa,
+            whilst <mention ref="#holmes">Holmes</mention> I walked slowly across the moor.</ln>
+
+        <ln><speaker>SOUND</speaker> WIND BLOWS, IN BG</ln>
+
+        <ln><speaker>HOLMES</speaker> We may leave the question of who killed John Straker for the
+            moment and confine ourselves to finding out what has become of the horse. Now, supposing
+            he broke away during or after the tragedy, where could he have got to?</ln>
+
+        <ln><speaker>WATSON</speaker> Almost anywhere on Dartmoor I should imagine. </ln>
+
+        <ln><speaker>HOLMES</speaker> Oh, dear, no. The horse is a gregarious animal. If left to
+            himself, his instincts would have been either to return to King's Pyland or go on over
+            to Capleton yonder. Why should he run wild upon the moor? As he's not at King's Pyland,
+            he must be over there - at Capleton! Come along. </ln>
+
+        <ln><speaker>SOUND</speaker> SCENE FADES OUT</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>NARRATES</expression> We'd not far to go, and as we approached the gates of
+            Capleton, we met a groom coming out of them. </ln>
+
+        <ln><speaker>SOUND</speaker> STABLE BACKGROUND <expression>HORSES NEIGH, ET
+                CETERA</expression></ln>
+
+        <ln><speaker>GROOM</speaker> We don't want any loiterers around here! </ln>
+
+        <ln><speaker>HOLMES</speaker> I only wanted to ask you a question. Would I be too early to
+            see your master, Mr. Silas Brown, if I were to call here at five o'clock tomorrow
+            morning? </ln>
+
+        <ln><speaker>GROOM</speaker> Oy, bless you, sir. If anyone's about, it'll be him. He's
+            always the first stirring.</ln>
+
+        <ln><speaker>SOUND</speaker> BROWN'S STEPS APPROACH AND GROOM'S DEPART BEHIND--</ln>
+
+        <ln><speaker>BROWN</speaker>
+            <expression>ANGRY) What's this, Dawson? No gossiping! Go on about your business! (TO
+                HOLMES</expression> And you there! What the devil do you want here?!</ln>
+
+        <ln><speaker>HOLMES</speaker> Ten minutes talk with you, my good sir. </ln>
+
+        <ln><speaker>BROWN</speaker> Well, I've no time to talk to every gadabout. And we don't want
+            strangers here. Be off, or you may find a dog at your heels.</ln>
+
+        <ln><speaker>HOLMES</speaker> One word in your ear, my friend. In your own interest.
+                <expression>WHISPERS INDECIPHERABLY FOR A FEW SECONDS</expression>
+        </ln>
+
+        <ln><speaker>BROWN</speaker>
+            <expression>EXPLODES</expression> It's a lie! An infernal lie! </ln>
+
+        <ln><speaker>HOLMES</speaker> Very good. Shall we argue about it here in public or talk it
+            over in your parlor? Or do I go to the police? </ln>
+
+        <ln><speaker>SOUND</speaker> SCENE FADES OUT</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>NARRATES</expression> It was twenty minutes before he returned.</ln>
+
+        <ln><speaker>SOUND</speaker> WIND BLOWS, IN BG</ln>
+
+        <ln><speaker>BROWN</speaker>
+            <expression>UTTERLY OBSEQUIOUS</expression> It shall be done, sir, just as you wish it. </ln>
+
+        <ln><speaker>HOLMES</speaker> There must be no mistake. </ln>
+
+        <ln><speaker>BROWN</speaker> Oh, no, there shall be no mistake. It shall be there. Should I
+            change it first or not? </ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>CHUCKLES</expression> No, no, don't. I'll write to you about that. No tricks
+            now! </ln>
+
+        <ln><speaker>BROWN</speaker> Oh, no -- you can trust me. You can trust me.</ln>
+
+        <ln><speaker>HOLMES</speaker> Yes, I think I can. Well, you shall hear from me tomorrow.
+            Good day to you. </ln>
+
+        <ln><speaker>BROWN</speaker> Good day, sir. </ln>
+
+        <ln><speaker>SOUND</speaker> BROWN'S STEPS AWAY</ln>
+
+        <ln><speaker>HOLMES</speaker> You see, <mention ref="#watson">Watson</mention>? A more
+            perfect compound of the bully, coward, and sneak than Master Silas Brown I have seldom
+            met with.</ln>
+
+        <ln><speaker>WATSON</speaker> He has the horse, then?</ln>
+
+        <ln><speaker>HOLMES</speaker> Oh, he tried to bluster it out, but I told him so exactly what
+            his actions had been that morning that he's convinced I was actually watching him.
+                <expression>CHUCKLES</expression> He was first down as usual and, seeing a strange
+            horse wandering on the moor, he went out to it. When he recognized it as Silver Blaze --
+            from the white splash on its forehead -- his first instinct was to return it to the
+            King's Pyland stable, which he set out to do. But then he realized that if the horse
+            could only be hidden till after the Wessex Cup, his own horse Desborough would almost
+            certainly win, so he changed his mind and turned back halfway; brought Silver Blaze down
+            to his own stables. </ln>
+
+        <ln><speaker>WATSON</speaker> But I thought his stables had been thoroughly searched. </ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>DISMISSIVE, AMUSED</expression> Oh, an old horse-fakir like him has many a
+            dodge.</ln>
+
+        <ln><speaker>WATSON</speaker> Ah, but aren't you afraid to leave the horse in his power now,
+            since he has every interest in injuring it?</ln>
+
+        <ln><speaker>HOLMES</speaker> My dear fellow, he'll guard it like the apple of his eye. He
+            knows that his only hope of mercy is to produce it safely at the racetrack for the
+            Wessex Cup. I made that perfectly clear to him. But I have a little trick to play on
+            Colonel Ross. You may have noticed that his manner to me was just a trifle cavalier. So
+            neither of us, please, for the present will say anything to him about the horse.</ln>
+
+        <ln><speaker>WATSON</speaker> Well, certainly not, if you wish it. </ln>
+
+        <ln><speaker>HOLMES</speaker> And of course this is all quite a minor matter compared with
+            the question of who killed John Straker.</ln>
+
+        <ln><speaker>WATSON</speaker> And you will devote yourself to that in the meantime? </ln>
+
+        <ln><speaker>HOLMES</speaker> On the contrary. We'll both go back to London by the night
+            train. </ln>
+
+        <ln><speaker>SOUND</speaker> WIND OUT</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>NARRATES</expression> I was thunderstruck by my friend's words. We'd only
+            been a few hours in Devonshire. That he should give up an investigation which he had
+            begun so brilliantly was quite incomprehensible to me. Not one word more could I draw
+            from him until we were back at the trainer's house where the colonel and the inspector
+            were waiting for us. </ln>
+
+        <ln><speaker>HOLMES</speaker> My friend and I return to town by the midnight-express. We've
+            had a charming little breath of your Dartmoor air. </ln>
+
+        <ln><speaker>COLONEL</speaker> So you despair of arresting the murderer of poor Straker? </ln>
+
+        <ln><speaker>HOLMES</speaker> There are certainly grave difficulties in the way. I have
+            every hope, however, that your horse will be at the race track next Tuesday and I beg
+            that you will have your jockey in readiness. Oh, may I take this photograph of John
+            Straker with me back to town? </ln>
+
+        <ln><speaker>SOUND</speaker> HOLMES' STEPS DEPART</ln>
+
+        <ln><speaker>COLONEL</speaker> Well, inspector, I'm rather disappointed in our London
+            consultant. I don't see that we're any further than when he came.</ln>
+
+        <ln><speaker>WATSON</speaker> At least your have his assurance that your horse will run next
+            week.</ln>
+
+        <ln><speaker>COLONEL</speaker> Yes, I have his assurance. I should prefer to have my horse! </ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>NARRATES</expression> We went outside.</ln>
+
+        <ln><speaker>HOLMES</speaker> Goodbye. Goodbye, colonel! I hope to see you at the Wessex Cup
+            -- and Silver Blaze. [Goodbye, Inspector.</ln>
+
+        <ln><speaker>INSPECTOR</speaker>
+            <expression>TROUBLED</expression> But, <mention ref="#holmes">Mr. Holmes</mention>,
+            isn't there any point to which you would wish to draw my attention?</ln>
+
+        <ln><speaker>HOLMES</speaker> To the curious incident of the dog in the night-time.</ln>
+
+        <ln><speaker>INSPECTOR</speaker>
+            <expression>PUZZLED</expression> The dog did nothing in the night-time.</ln>
+
+        <ln><speaker>HOLMES</speaker> That was the curious incident.]</ln>
+
+        <ln><speaker>SOUND</speaker> HORSE AND CARRIAGE DEPART ... SCENE FADES OUT ... FADE IN
+            RACETRACK BACKGROUND BEHIND--</ln>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>NARRATES</expression> Four days later <mention ref="#holmes"
+                >Holmes</mention> and I saw Silver Blaze win the Wessex Cup by a good six lengths.
+            But it was not a Silver Blaze that even its owner could recognize. There was no trace to
+            be seen of the famous white splash on its forehead, or of the mottled off-foreleg. The
+            Silver Blaze that won the Wessex Cup was a powerful bay. It was only in the weighing
+            enclosure after the race that <mention ref="#holmes">Holmes</mention> began to explain
+            -- to a colonel who was completely bewildered. </ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>LAUGHS</expression> You've only to wash his face and his leg in spirits of
+            wine and you will find that he's just the same old Silver Blaze as ever. </ln>
+
+        <ln><speaker>COLONEL</speaker>
+            <expression>STUNNED</expression> You - you take my breath away.</ln>
+
+        <ln><speaker>HOLMES</speaker> Yes, I found him in the hands of a fakir, and took the liberty
+            of running him just as he was sent over. </ln>
+
+        <ln><speaker>COLONEL</speaker> My dear sir, you've done wonders! I owe you a thousand
+            apologies! You've done me a very great service by recovering my horse. You would do me a
+            greater still if you could lay your hands on the murderer of John Straker. </ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <expression>QUIETLY</expression> I have done so. </ln>
+
+        <ln><speaker>COLONEL</speaker> You've done so?! </ln>
+
+        <ln><speaker>WATSON</speaker> You've got him?! </ln>
+
+        <ln><speaker>COLONEL</speaker> But where is he, then?</ln>
+
+        <ln><speaker>WATSON</speaker> What--? </ln>
+
+        <ln><speaker>HOLMES</speaker> He's in our company at the present moment.</ln>
+
+        <ln><speaker>COLONEL</speaker>
+            <expression>BEAT, UNHAPPY</expression> That is either a very bad joke, <mention
+                ref="#holmes">Mr. Holmes</mention>-- Or is it an insult? </ln>
+
+        <ln><speaker>HOLMES</speaker> I am not referring to you, Colonel. The real murderer is
+            standing immediately before you.</ln>
+
+        <ln><speaker>SOUND</speaker> HOLMES PATS THE HORSE AFFECTIONATELY TWICE </ln>
+
+        <ln><speaker>COLONEL</speaker> The horse?! </ln>
+
+        <ln><speaker>HOLMES</speaker> Yes, the horse. Silver Blaze himself.
+                <expression>BEAT</expression> It may lessen the guilt somewhat if I say that the
+            killing was done entirely in self-defense and that John Straker was a man who was quite
+            unworthy of your confidence. </ln>
+
+        <ln><speaker>SOUND</speaker> BELL RINGS, OFF</ln>
+
+        <ln><speaker>HOLMES</speaker> There goes the bell, and as I stand to win a little on the
+            next race, I shall defer a lengthier explanation till a more fitting time.</ln>
+
+        <music> BRIDGE ... SOLO VIOLIN ... THEN BEHIND WATSON--</music>
+
+        <ln><speaker>WATSON</speaker>
+            <expression>NARRATES</expression> It was not until we were on our way back to London
+            that <mention ref="#holmes">Holmes</mention> would get down to these explanations
+            despite the impatience of both the colonel and myself. </ln>
+
+        <ln><speaker>SOUND</speaker> MOVING TRAIN INTERIOR BACKGROUND</ln>
+
+        <ln><speaker>HOLMES</speaker> I must confess that I even suspected Fitzroy Simpson myself
+            for a time. It was only when I reached the trainer's house that the immense significance
+            of the curried mutton occurred to me. </ln>
+
+        <ln><speaker>COLONEL</speaker> The curried mutton? </ln>
+
+        <ln><speaker>WATSON</speaker> You mean when you mentioned our Soho meal? </ln>
+
+        <ln><speaker>HOLMES</speaker> Exactly. Powdered opium has a disagreeable and perceptible
+            flavor. Only something more strongly flavored -- like a curry -- could have disguised
+            the taste. Now, Fitzroy Simpson could never have known that the maid would be serving
+            the stable lad with a curry that night. The only people who could have known that were
+            people in the house. So who could have taken advantage of the fact? Then there was the
+            silence of the dog when the horse was taken from the stable. It failed to bark because
+            it knew who the intruder was. I was already quite convinced that the intruder must have
+            been John Straker himself. </ln>
+
+        <ln><speaker>COLONEL</speaker> John Straker himself?</ln>
+
+        <ln><speaker>WATSON</speaker> But why did he wish to take Silver Blaze out onto the moor in
+            the dead of night, and secretly? </ln>
+
+        <ln><speaker>HOLMES</speaker> The answer to that was in John Straker's pocket. </ln>
+
+        <ln><speaker>WATSON</speaker> The dressmaker's bill? </ln>
+
+        <ln><speaker>HOLMES</speaker> Precisely. Addressed to William Derbyshire. That set me
+            thinking. Perhaps John Straker was leading a double life. After all, his wife confirmed
+            that the expensive costume wasn't for her, and by recognizing the photo that I showed
+            her, Madame Lesurier, the dressmaker, later confirmed that John Straker had indeed
+            bought it there -- to give to a woman of more expensive tastes than his wife.</ln>
+
+        <ln><speaker>WATSON</speaker> In fact John Straker was leading a double life and was in bad
+            financial straits. </ln>
+
+        <ln><speaker>COLONEL</speaker> John Straker?! I can scarcely believe it! </ln>
+
+        <ln><speaker>HOLMES</speaker> The knife gave me the final clue. It was a surgical knife --
+            such as could be used to lame a horse without leaving any visible evidence of foul play.
+            By laming Silver Blaze and betting on Desborough, John Straker would have been able to
+            retrieve his fortune.</ln>
+
+        <ln><speaker>COLONEL</speaker> Oh, the scoundrel! A man I trusted! </ln>
+
+        <ln><speaker>HOLMES</speaker> He led the horse out onto the moor so that when he cut its
+            tendon its plunging wouldn't waken the grooms overhead. In order that he could see what
+            he was going to do, he needed a candle. So that the candle should not be seen, he led
+            the horse to the hollow. In lighting the candle, he dropped that spent match in the mud.
+            Unfortunately for him, the light must have scared the horse -- unless it was instinct.
+            Whichever it was, the horse lashed out and its steel shoe caught Straker full in the
+            forehead. He'd already taken off his mackintosh to be freer -- and, as he fell, gashed
+            his thigh on his own knife. </ln>
+
+        <ln><speaker>COLONEL</speaker>
+            <expression>ASTONISHED</expression> But, my dear fellow, you - you might have been
+            there. Wonderful! </ln>
+
+        <ln><speaker>WATSON</speaker> And the cravat? Fitzroy Simpson's, which was in the dead man's
+            hand. </ln>
+
+        <ln><speaker>HOLMES</speaker> Simpson said that he lost it; no doubt he did. Straker must
+            have found it and picked it up, perhaps with the idea of using it to secure the horse's
+            leg. Well, that disposes of everything. Quite simple. Perhaps we could while away the
+            rest of this journey, my dear <mention ref="#watson">Watson</mention>, with a game of
+            chess. </ln>
+
+        <ln><speaker>SOUND</speaker> TRAIN INTERIOR UP TO FILL A PAUSE ... THEN FADES OUT</ln>
+
+        <ln><speaker>ANNOUNCER</speaker> "The Adventures of <mention ref="#holmes">Sherlock
+                Holmes</mention>," based on the original stories of Sir Arthur Conan Doyle, have
+            been dramatized anew, with original music composed by Sidney Torch. Sir Ralph Richardson
+            played the part of <mention ref="#watson">Dr. Watson</mention> and Sir John Gielgud that
+            of <mention ref="#holmes">Sherlock Holmes</mention>. The program was produced by Harry
+            Alan Towers.</ln>
+
+        <music> THEME ... SOLO VIOLIN ... FOR A CURTAIN</music>
+    </scene>
+</xml>

@@ -1,0 +1,596 @@
+<?xml-model href="sherlock.rnc" type="application/relax-ng-compact-syntax"?>
+<xml><metadata><series>Series: Sherlock Holmes</series>
+<show>Show: The Case of the Dead Adventures</show>
+<date when="1945-02-05">Date: Feb 05 1945</date>
+
+<author>by Denis Green and Bruce Taylor</author>
+
+<castList>Cast
+<cast ref="#holmes">Sherlock Holmes</cast>
+<cast ref="#watson">Dr. Watson</cast>
+<cast ref="#charel">Inspector Charel</cast>
+<cast ref="#prefect">Prefect of Police</cast>
+<cast ref="#shipton">Hon. Reginald Shipton</cast>
+<cast ref="#boncourt">Duc De Boncourt</cast>
+<cast ref="#corvey">Yvette Corvey</cast>
+<cast ref="#borel">Henri Borel</cast>
+<cast ref="#gendarme">Gendarme</cast></castList>
+
+
+<note>Script transcribed courtesy of Arizona TheatreWorks</note></metadata>
+<scene><ln><speaker>FORMAN</speaker> Petri Wine brings you...</ln>
+
+<music> Theme...Fade on Cue</music>
+
+<ln><speaker>FORMAN</speaker> Basil Rathbone and Nigel Bruce in the new adventures on  <mention ref="#holmes">Sherlock Holmes</mention>.</ln>
+
+<music> Theme...Full Finish</music>
+
+<ln><expression>Insert opening commercial</expression></ln>
+
+<ln><speaker>FORMAN</speaker> And now let's look in on the genial doctor <mention ref="#watson">Watson</mention>, and see what a story he has waiting for us. Good evening, Doctor.</ln>
+
+<ln><speaker>WATSON</speaker> 'Evening, Mr. Forman. Take you coat off...and your scarf...and your gloves...and your goloshes...That's it. <expression>Chuckling</expression> It's certainly raining cats and dogs tonight. Come and sit by the fire and warm yourself up.</ln>
+
+<ln><speaker>FORMAN</speaker> Thank you Doctor. All set for tonight's story?</ln>
+
+<ln><speaker>WATSON</speaker> Yes, I'm "all set," as you say.</ln>
+
+<ln><speaker>FORMAN</speaker> Last week you told us your adventure took place in the south of France.</ln>
+
+<ln><speaker>WATSON</speaker> Yes, Mr. Forman, and if you can imagine yourself basking in the sunshine of the Riviera with <mention ref="#holmes">Holmes</mention> and myself in the early nineteen-hundreds, perhaps it'll help you forget what a beastly night it is outside.</ln>
+
+<ln><speaker>FORMAN</speaker> I've forgotten that already, Doctor. How did your story begin?</ln>
+
+<ln><speaker>WATSON</speaker> Simple enough. <mention ref="#holmes">Holmes</mention> and I were staying in Nice, when we were visited at our hotel by a young Englishman, the Honourable Reginald Shipton. The boy was in serious trouble and had come to <mention ref="#holmes">Holmes</mention> for help.</ln>
+
+<ln><speaker>FORMAN</speaker> And I'm sure he got it.</ln>
+
+<ln><speaker>WATSON</speaker> He did, though in giving it, <mention ref="#holmes">Holmes</mention> was arrested for murder!</ln>
+
+<ln><speaker>FORMAN</speaker> For murder?! Say, Doctor, how did a thing like that happen to the great <mention ref="#holmes">Sherlock Holmes</mention>?</ln>
+
+<ln><speaker>WATSON</speaker> That's just what I'm going to tell you. The boy had become involved with a...a rather notorious French lady-Madame Corvey. She was much older than he, though I must admit she was a glamorous creature, and the boy's infatuation was understandable...at least <expression>chuckling</expression> I found it so. Unfortunately, he had given the lady an exquisite diamond and sapphire necklace [sic] that was a family heirloom...although he overlooked the fact that he had not yet inherited it.</ln>
+
+<ln><speaker>FORMAN</speaker> Then of course he had no right to make the gift?</ln>
+
+<ln><speaker>WATSON</speaker> Of course he hadn't...and when his father, Lord Shipton, learned what had happened he threatened to disinherit him unless he got the necklace back...and so, the boy came to Homes with his problem. At first, the great man tried the ordinary methods of handling the case. He approached Madame Corvey directly and was told to mind his own business. He tried persuasion, deception...he even went to the police, but to no avail. Finally, one night...he disappeared. I was frantic, because I knew he was in danger, and so I got in touch with the police. Within half an hour Inspector Charel telephoned me to come over to Madame Corvey's villa at once-that <mention ref="#holmes">Holmes</mention> was in serious trouble.</ln>
+
+<ln><speaker>FORMAN</speaker> And of course you rushed over there.</ln>
+
+<ln><speaker>WATSON</speaker> As fast as a carriage would carry me. My fears increased as I drew up at the villa and saw a cordon of police guarding the building. But as I got inside and saw my old friend, a cold terror struck at my heart. There he was in the library, Madame Corvey lying at his feet, with her throat slashed...and in <mention ref="#holmes">Holmes</mention>'s hand was a bloodstained dagger! You can imagine what Monsieur Charel, the chief of police, <expression>fading</expression> said as I came in...</ln>
+
+<ln><speaker>CHAREL</speaker> <expression>About forty-five...cold...precise...French accent</expression> </ln>
+
+<ln><mention ref="#watson">Dr. Watson</mention>...Your famous friend has made his last mistake.</ln>
+
+<ln><speaker>WATSON</speaker> Great Heavens! What's going on. <expression>Urgently</expression> <mention ref="#holmes">Holmes</mention>! Tell me!</ln>
+
+<ln><speaker>HOLMES</speaker> Madame Corvey has been murdered, <mention ref="#watson">Watson</mention>, and unfortunately our friend, Monsieur Charel, seems to be under the impression that I killed her.</ln>
+
+<ln><speaker>WATSON</speaker> But that's utterly ridiculous!</ln>
+
+<ln><speaker>CHAREL</speaker> Is it? Then how do you account for the fact when we came here just now, <mention ref="#holmes">Mr. Holmes</mention> was standing here alone with a corpse?</ln>
+<ln><speaker>WATSON</speaker> <expression>Exasperated</expression> Well, <mention ref="#holmes">Holmes</mention>...Why don't you explain what happened?</ln>
+
+<ln><speaker>HOLMES</speaker> I've already done so but Monsieur Charel doesn't seem to believe me. However...for your benefit...I came back here to try and have another talk with Madame Corvey, I found the front door open and walked in...to discover the safe looted, and its owner stabbed to death. I picked up the dagger from the floor to examine it, and as I did so, Monsieur Charel and police came in.</ln>
+
+<ln><speaker>CHAREL</speaker> I should have thought a great detective like you, <mention ref="#holmes">Monsieur Holmes</mention>, could have thought up a more ingenious lie than that. <expression>Calling in French</expression> Take him away to the suretee [sic]!</ln>
+
+<ln><speaker>GENDARME</speaker> <expression>In French</expression> Come along, Monsieur.</ln>
+
+<ln><speaker>WATSON</speaker> <expression>hotly</expression> Tell that policeman to take his hands off you, <mention ref="#holmes">Holmes</mention>!</ln>
+<ln><speaker>HOLMES</speaker> But I haven't the right to, my dear chap. You see, just before you arrived, Monsieur Charel had <expression>fading</expression> arrested me for murder.</ln>
+<ln><speaker>WATSON</speaker> And there my old friend was, spending the night in custody. </ln>
+<ln><speaker>FORMAN</speaker> And I suppose you stayed there right with him, Doctor.</ln>
+<ln><speaker>WATSON</speaker> Not for long, Mr. Forman. He...He-eh-gave me a little job to do. Let me tell you just what happened. The next morning found us in the office of the Prefect of Police. There we were...<mention ref="#holmes">Holmes</mention> and I...Inspector Charel...and the various witnesses connected with the case. It was a strange sight as <mention ref="#holmes">Holmes</mention> stood there <expression>fading</expression> defending himself...</ln>
+
+<ln><expression>Fade in babble of voices. Raps of gavel.</expression></ln>
+
+<ln><speaker>PREFECT</speaker> Quiet! Quiet!</ln>
+
+<ln><expression>Babble of voices subsiding.</expression></ln>
+
+<ln><speaker>PREFECT</speaker> <expression>Elderly, accent. Off a little, on slight echo</expression> <mention ref="#holmes">Monsieur Sherlock Holmes</mention> is an eminent visitor to our country. That is why this preliminary investigation is being held in private. Thought he has been caught under extremely incriminating circumstances, let us at least extend him the courtesy of a fair hearing. Proceed, <mention ref="#holmes">Mr. Holmes</mention>. You have told us that you were brought into the case in the fist place at the request of the Honourable Reginald Shipton. Am I right?</ln>
+
+<ln><speaker>HOLMES</speaker> Yes, Monsieur Le Prefect.</ln>
+
+<ln><speaker>PREFECT</speaker> Is the honourable Reginald Shipton present?</ln>
+
+<ln><speaker>REGGIE</speaker> <expression>Fading in...English...young</expression> Here, Monsieur Le Prefect.</ln>
+
+<ln><speaker>PREFECT</speaker> Do you corroborate the evidence so far given by <mention ref="#holmes">Monsieur Holmes</mention>?</ln>
+
+<ln><speaker>REGGIE</speaker> Yes...he's told the truth so far. <expression>violently</expression> But, if I'd known then that he was going to murder Madame Corvey...I'd have strangled him myself!</ln>
+
+<ln><expression>Rap of gavel</expression></ln>
+
+<ln><speaker>PREFECT</speaker> Quiet! Please confine yourself to answering questions.</ln>
+
+<ln>Proceed,<mention ref="#holmes"> Mr. Holmes</mention>. What was your next move?</ln>
+
+<ln><speaker>HOLMES</speaker> To meet Madame Corvey and try and reason with her.</ln>
+
+<ln><speaker>PREFECT</speaker> and how did you accomplish this aim?</ln>
+
+<ln><speaker>HOLMES</speaker> My client informed me that Madame Corvey was giving a large ball at her villa that night. I suggested that he take my old friend <mention ref="#watson">Doctor Watson</mention> and myself along with him to meet the lady.</ln>
+
+<ln><speaker>PREFECT</speaker> And did you meet her?</ln>
+
+<ln><speaker>HOLMES</speaker> Oh yes, M. Le Prefect. We arrived about eight o'clock to find a crowd of a hundred and fifty people or more, dancing <expression>fading</expression> to the music of a string orchestra...</ln>
+
+<ln><expression>String orchestra concluding a polka</expression></ln>
+
+<ln><speaker>WATSON</speaker> <expression>After music is established</expression> A very distinguished gathering, Mr. Shipton. Madame Corvey must be extremely popular.</ln>
+
+<ln><speaker>REGGIE</speaker> <expression>Bitterly</expression> Too confoundedly popular for my liking, <mention ref="#watson">Doctor Watson</mention>.</ln>
+
+<ln><expression>Orchestra finishes. Applause. Chatter of voices in B. G.</expression></ln>
+
+<ln><speaker>HOLMES</speaker> Where is Madam Corvey? I should like to meet her as soon as possible. These affairs are not much in my line.</ln>
+
+<ln><speaker>WATSON</speaker> <expression>Mumbling</expression> I think it's rather gay, if you ask me.</ln>
+
+<ln><speaker>DUC</speaker> <expression>Fading in. Elderly. Stupid, with an irritating giggle</expression> Hello,</ln>
+
+<ln>Reginald. I was not expecting to see you here.</ln>
+
+<ln><speaker>REGGIE</speaker> <expression>Sourly</expression> I'm sorry to surprise you.</ln>
+
+<ln><speaker>DUC</speaker> Won't you introduce me to your friends?</ln>
+
+<ln><speaker>REGGIE</speaker> Monsieur Le Duc de Boncourt...<mention ref="#holmes">Mr. Holmes</mention>, and  <mention ref="#watson">Doctor Watson</mention>.</ln>
+
+<ln><expression>Ad lib how d'you dos.</expression></ln>
+
+<ln><speaker>DUC</speaker> All here to worship at the shrine of Venus I suppose? <expression>he thrills with revolting laughter</expression> By the way, Reginald, I thought you had received your conge. From what Yvette told me today it seemed that...</ln>
+
+<ln><speaker>REGINALD</speaker> <expression>Interrupting brusquely</expression> I'm afraid we're in a bit of a hurry. Good evening, Monsieur Le Duc.</ln>
+
+<ln><speaker>DUC</speaker> <expression>Fading) Not jealous of me, are you, Reginald? (he laughs again</expression></ln>
+
+<ln><speaker>WATSON</speaker> Pon' [sic] my soul, my boy, you were extraordinarily rude to him, if y'don't mind my saying so.</ln>
+
+<ln><speaker>REGINALD</speaker> He's an insufferable old ass and I can't stand him. He thinks that because Yvette smiles at him for the moment that he's going to marry her.</ln>
+
+<ln><speaker>HOLMES</speaker> The Duc is the current favourite, I take it?</ln>
+
+<ln><speaker>CHAREL</speaker> <expression>Fading in</expression> Ah, <mention ref="#holmes">Monsieur Sherlock Holmes</mention>. How are you?</ln>
+
+<ln><speaker>HOLMES</speaker> I'm afraid I don't know you, monsieur.</ln>
+
+<ln><speaker>CHAREL</speaker> No...but I know you...and your friend <mention ref="#watson">Doctor Watson</mention>.</ln>
+
+<ln><speaker>WATSON</speaker> Oh really, I don't remember meeting you, sir.</ln>
+
+<ln><speaker>REGGIE</speaker> This is Monsieur Charel-inspector of the suretee [sic]</ln>
+
+<ln><expression>Ad lib how d'you dos from <mention ref="#watson">Watson</mention> and <mention ref="#holmes">Holmes</mention>.</expression></ln>
+
+<ln><speaker>CHAREL</speaker> When distinguished rivals honour my town with their presence! <mention ref="#holmes">Monsieur Holmes</mention>, I make it my business to recognize them.</ln>
+
+<ln><speaker>HOLMES</speaker> That's very flattering of you.</ln>
+
+<ln><speaker>CHAREL</speaker> Not at all. You're not here on business, I suppose.</ln>
+
+<ln><speaker>HOLMES</speaker> <expression>lightly</expression> Oh dear me no. On pleasure, monsieur. Purely on pleasure.</ln>
+
+<ln><speaker>CHAREL</speaker> Splendid. You will find Madame Corvey's parties enchanting, I'm sure. <expression>Fading</expression> Au revoir, messieurs.</ln>
+
+<ln><speaker>WATSON</speaker> Charming fellow.</ln>
+
+<ln><speaker>REGGIE</speaker> Do you think so? He's just another old fool who thinks Yvette's in love with him. <expression>Suddenly</expression> There's Yvette now. Come on...I'll introduce you. And then I'll get out of the way. I don't want to talk to her more than I have to.</ln>
+
+<ln><expression>String orchestra starting an old fashioned two-step</expression></ln>
+
+<ln><speaker>REGGIE</speaker> <expression>Calling</expression> Yvette!</ln>
+
+<ln><speaker>YVETTE</speaker> <expression>Fading in) (gay, sophisticated, charming Frenchwoman in the early forties</expression> Reginald! 'Ow nice to see you. I did not know you were coming.</ln>
+
+<ln><speaker>REGGIE</speaker> I changed my mind. Yvette...I want you to meet two friends of mine. <mention ref="#holmes">Mr. Holmes</mention> and <mention ref="#watson">Doctor Watson</mention>.</ln>
+
+<ln><speaker>YVETTE</speaker> Enchante, messieurs.</ln>
+
+<ln><speaker>HOLMES</speaker> How d'you do, Madame Corvey.</ln>
+
+<ln><speaker>WATSON</speaker> <expression>Audibly smitten</expression> I'm extremely glad to meet you, Madame.</ln>
+
+<ln><speaker>REGGIE</speaker> They want to talk to you privately, <expression>fading</expression> so I'll leave you.</ln>
+
+<ln><speaker>YVETTE</speaker> Reginald, you silly boy, come back 'ere! <expression>After a moment) (with a laugh</expression> He is so young, isn't he? Youth has a charm all of its own, messieurs...but for a woman like myself I find it a little trying...for too long at one time. It is more soothing to be with people my own age, like yourselves.</ln>
+
+<ln><speaker>WATSON</speaker> <expression>Burbling happily) Awfully nice of you to say so, Madame. But I know we're both a great deal older than you are. (He laughs rogueishly</expression></ln>
+
+<ln><speaker>YVETTE</speaker> Nonsense. But your friend-he has-'ow you say-the long face...What is the matter, Mr. 'Olmes?</ln>
+
+<ln><speaker>HOLMES</speaker> Nothing , madame...except that I'd like to have a little business talk with you.</ln>
+
+<ln><speaker>YVETTE</speaker> Business?! With this music playing? No, no, no. Your friend shall dance with me.</ln>
+
+<ln><speaker>WATSON</speaker> I shall be very proud to take you for a twirl. Madame Corvey. <expression>Modestly</expression></ln>
+
+<ln><speaker>HOLMES</speaker> Forgive me, Madame...and <mention ref="#watson">Watson</mention>, old chap, but I must insist on this business talk first.</ln>
+
+<ln><speaker>YVETTE</speaker> Business! You are very tiresome...but because I like your friend, I will talk business with you. Come and sit over'ere....<expression>After a pause</expression></ln>
+
+<ln><speaker>HOLMES</speaker> The diamond and sapphire necklace you are wearing, madame. I presume it's the one Lord Shipton's son gave you?</ln>
+
+<ln><speaker>YVETTE</speaker> <expression>Her tone changing</expression> Yes. What of it?</ln>
+
+<ln><speaker>HOLMES</speaker> D'you mind if I examine it?</ln>
+
+<ln><speaker>YVETTE</speaker> Yes, I do-very much. What are you? A diamond buyer.</ln>
+
+<ln><speaker>HOLMES</speaker> No, I am a friend of Mr. Shipton's. He asked me to try and persuade you to return the necklace to him. </ln>
+
+<ln><speaker>YVETTE</speaker> The insolent puppy! It is mine. He gave it to me-in front of witnesses.</ln>
+
+<ln><speaker>HOLMES</speaker> He had no right to, Madame. It did not belong to him.</ln>
+
+<ln><speaker>YVETTE</speaker> Then he is a thief...and that is no concern of mine. He made a gift, and I accepted it.</ln>
+
+<ln><speaker>HOLMES</speaker> Would you consider...er...selling back your gift?</ln>
+
+<ln><speaker>YVETTE</speaker> No! I would not!</ln>
+
+<ln><speaker>HOLMES</speaker> Are you sure? Reginald would pay a fair price for it...<expression>meaningly [sic]</expression> and it may have depreciated in value since you received it, you know.</ln>
+
+<ln><speaker>YVETTE</speaker> <expression>Angrily</expression> Go away! Go away before I have you thrown out!</ln>
+
+<ln><speaker>WATSON</speaker> <expression>Embarrassed</expression> I'm awfully sorry, Madame. My friend's really a....</ln>
+
+<ln><speaker>YVETTE</speaker> Go away both of you! <expression>Fading</expression> You bore me!</ln>
+
+<ln><speaker>WATSON</speaker> <expression>After a moment</expression> 'Pon my soul! Never seen a woman change her tune so quickly. Fascinating creature, though. If there's one thing I like in a woman it's spirit.</ln>
+
+<ln><speaker>HOLMES</speaker> Rubbish! Madame Corvey's an adventuress.</ln>
+
+<ln><speaker>WATSON</speaker> Why d'you say that, <mention ref="#holmes">Holmes</mention>?</ln>
+
+<ln><speaker>HOLMES</speaker> Because, although she wouldn't let me examine the necklace, I was able to detect that the diamonds have been replaced by imitations.</ln>
+
+<ln><speaker>WATSON</speaker> Good land! You mean that she sold the originals?</ln>
+
+<ln><speaker>HOLMES</speaker> Undoubtedly. Sold them-or kept them.</ln>
+
+<ln><speaker>REGGIE</speaker> <expression>Fading in excitedly</expression><mention ref="#holmes"> Mr. Holmes</mention>!</ln>
+
+<ln><speaker>HOLMES</speaker> Yes, my boy? I was just looking for you. What's wrong?</ln>
+
+<ln><speaker>REGGIE</speaker> I want to leave here at once. I've just heard that Yvette's going to announce her engagement to the Duc de Boncourt tonight. I don't want to stay to hear it.</ln>
+
+<ln><speaker>HOLMES</speaker> I quite understand. Though if I were you, I would be relieved rather than upset by the announcement.</ln>
+
+<ln><speaker>REGGIE</speaker> What did she say to you when you asked her about the necklace, <mention ref="#holmes">Mr. Holmes</mention>?</ln>
+
+<ln><speaker>HOLMES</speaker> Very little. But I have a feeling that you might be able to but it back for a reasonable sum.</ln>
+
+<ln><speaker>REGGIE</speaker> But I've tried that...and she wouldn't part with it.</ln>
+
+<ln><speaker>HOLMES</speaker> Try again, my dear boy. I think my little conversation with her tonight, might cause her to change her opinion as to its market value.</ln>
+
+<ln><expression>Orchestra up, then down and out.</expression></ln>
+
+<ln><expression>Fading in</expression> Hubbub of voices. Rap of gavel.</ln>
+
+<ln><speaker>PREFECT</speaker> Quiet! Quiet! Pray continue <mention ref="#holmes">Mr. Holmes</mention>. What happened next?</ln>
+
+<ln><speaker>HOLMES</speaker> Early the next morning Shipton came round to see me with the information that he had recovered the necklace for a very reasonable sum.</ln>
+
+<ln><speaker>PREFECT</speaker> Did you tell him that the diamonds had been replaced?</ln>
+
+<ln><speaker>HOLMES</speaker> No. Monsieur. I didn't.</ln>
+
+<ln><speaker>PREFECT</speaker> Why not?</ln>
+
+<ln><speaker>HOLMES</speaker> I felt that before I told him anything about Madame Corvey with any degree of authority, it was only fair to re-inforce my beliefs with facts.</ln>
+
+<ln><speaker>PREFECT</speaker> So what did you do?</ln>
+
+<ln><speaker>HOLMES</speaker> The obvious thing. After all, I have no official standing in your country, and yet I knew Madame Corvey was a criminal...or perhaps I should say-an adventuress. And so I decided to pay a visit to Monsieur Charel-the head inspector of your local police. After my client left, <mention ref="#watson">Doctor Watson</mention> and I went round to Monsieur Charel's office. <expression>Fading</expression> He seemed to be very pleased to see us...</ln>
+<ln><speaker>CHAREL</speaker> Ah, <mention ref="#holmes">Monsieur Sherlock Holmes</mention>...and his friend. Come in. I am very flattered that you come to see me.</ln>
+
+<ln><expression><mention ref="#holmes">Holmes</mention> and <mention ref="#watson">Watson</mention> ad lib how d'you dos.</expression></ln>
+
+<ln><speaker>CHAREL</speaker> Is this a business visit, messieurs, or am I to suppose that you come here to make my acquaintance better?</ln>
+
+<ln><speaker>HOLMES</speaker> A little of both, Monsieur.</ln>
+
+<ln><speaker>CHAREL</speaker> Please tell me what I can do for you?</ln>
+
+<ln><speaker>HOLMES</speaker> Monsieur Charel, I was not [t]elling you the truth at Madame Corvey's party last night when I said I was there purely on pleasure.</ln>
+
+<ln><speaker>CHAREL</speaker> I was well aware of that, monsieur.</ln>
+
+<ln><speaker>WATSON</speaker> But how could you...</ln>
+
+<ln><speaker>CHAREL</speaker> <expression>Smoothly</expression> <mention ref="#watson">Doctor Watson</mention>, very little goes on in this town that I am not aware of. </ln>
+
+<ln><speaker>HOLMES</speaker> Perhaps you know why I was at the party?</ln>
+
+<ln><speaker>CHAREL</speaker> But of course.</ln>
+
+<ln><speaker>HOLMES</speaker> And did you know that this morning Madame Corvey parted with the necklace...in consideration of a cash payment?</ln>
+
+<ln><speaker>CHAREL</speaker> No, I did not know. But it is her own affair. Is your client satisfied with his bargain?</ln>
+
+<ln><speaker>HOLMES</speaker> Perfectly...but, you see, he doesn't know that the diamonds have been removed and replaced with imitations. I noticed that when I was talking to Madame Corvey last night.</ln>
+
+<ln><speaker>CHAREL</speaker> Had you ever seen the necklace before?</ln>
+
+<ln><speaker>HOLMES</speaker> No.</ln>
+
+<ln><speaker>CHAREL</speaker> How do you know that the necklace ever was valuable? You have said your client is satisfied. What do you wish me to do?</ln>
+
+<ln><speaker>HOLMES</speaker> I should like you to investigate Madame Corvey.</ln>
+
+<ln><speaker>CHAREL</speaker> <expression>Coldly) <mention ref="#holmes">Monsieur Holmes</mention>; Yvette Corvey is a brilliant and distinguished woman. Duels have been fought over her. Kings have paid homage to her. And now, because some stupid English boy has had trouble over a paltry necklace, you expect me to investigate her? In France,  <mention ref="#holmes">Monsieur Holmes</mention>, we police do not work without evidence, and I think it will be good for you to remember that fact. (Fading</expression> Good day, messieurs....</ln>
+
+<ln><expression>Chatter of voices. Gavel. Chatter subsides.</expression></ln>
+
+<ln><speaker>PREFECT</speaker> And then what happened, <mention ref="#holmes">Monsieur Holmes</mention>, after you had left Inspector Charel's office?</ln>
+
+<ln><speaker>HOLMES</speaker> Monsieur le Prefect, I was deeply dissatisfied. I knew in my own mind that Madame Corvey was guilty. and so I decided to pay her another visit.</ln>
+
+<ln><speaker>PREFECT</speaker> Why did you go alone? Your friend <mention ref="#watson">Doctor Watson</mention> had been with you during your previous expeditions.</ln>
+
+<ln><speaker>HOLMES</speaker> I intended to burgle the safe, and I didn't want to incriminate my old friend in such a risky proceeding.</ln>
+
+<ln><speaker>PREFECT</speaker> You admit you went there to burgle the safe?</ln>
+
+<ln><speaker>HOLMES</speaker> Yes, Monsieur le Prefect. But, of course, when I got there, someone had rifled the safe before me-and murdered Madame Corvey.</ln>
+
+<ln><speaker>PREFECT</speaker> Please tell me exactly what happened. </ln>
+
+<ln><speaker>HOLMES</speaker> I arrived at the villa just after midnight. Perhaps I should explain the villa is built around a courtyard in such a way that, short of smashing one of the ground floor windows, there are only two ways in-a door on the street-and a door at the back which opens on to the beach.</ln>
+
+<ln><speaker>PREFECT</speaker> And which way had you proposed to try and enter?</ln>
+
+<ln><speaker>HOLMES</speaker> From the beach...but, as I approached from that direction, I noticed a light still burning in the library, and so I circled the house to investigate the chances of entering through the front door with the aid of a skeleton key. As I did so, I noticed to my surprise that the door was open a fraction. Of course...I went in.... </ln>
+
+<music> sneaks in underscoring dialogue.</music>
+
+<ln><speaker>HOLMES</speaker> I tip-toed along the hallway.</ln>
+
+<ln><expression>Furtive footsteps on wood</expression></ln>
+
+<ln><speaker>HOLMES</speaker> Everything was quiet.... Suddenly I stumbled over something.</ln>
+
+<ln><expression>Shuffle of footsteps</expression></ln>
+
+<ln><speaker>HOLMES</speaker> It was a body.</ln>
+
+<music> knife chord, then down and under</music>
+
+<ln><speaker>HOLMES</speaker> I struck a match.</ln>
+
+<ln><expression>Match being struck</expression></ln>
+
+<ln><speaker>HOLMES</speaker> It was the Duc de Boncourt. At first, I thought he was dead, but when I turned him over I realized he was unconscious. I decided to investigate a little further and so I walked towards the library....</ln>
+
+<ln><expression>Footsteps on Wood</expression></ln>
+
+<ln><speaker>HOLMES</speaker> <expression>After a pause</expression> I opened the door and went in.</ln>
+
+<ln><expression>Door open. Footsteps stop.</expression></ln>
+
+<music> Chord, then down.</music>
+
+<ln><speaker>HOLMES</speaker> The lights were on....and I saw Madame Corvey lying on the rug in front of the fire with her throat slashed, and a dagger lying beside her. The wall-safe near the bookcase was open...and empty. I stooped down and touched Madame Corvey..her body was still warm. Then I picked up the dagger-by its blade-and started to examine it. As I did so...I heard a rattling at the French windows leading to the courtyard.</ln>
+
+<ln><expression>Rattling of windows, off</expression></ln>
+
+<ln><speaker>HOLMES</speaker> Of course...it was Inspector Charel.</ln>
+
+<music> Up strong and out cold.</music>
+
+<ln><expression>Windows being wrenched open. Approaching footsteps.</expression></ln>
+
+<ln><speaker>CHAREL</speaker> <expression>Fading in excitedly</expression> <mention ref="#holmes">Sherlock Holmes</mention>! I've caught you red-handed!</ln>
+
+<ln><speaker>HOLMES</speaker> Please don't wave that revolver at me, Monsieur Charel.</ln>
+
+<ln><speaker>CHAREL</speaker> Madame Corvey! Is she...?</ln>
+
+<ln><speaker>HOLMES</speaker> Yes...she's dead...murdered.</ln>
+
+<ln><speaker>CHAREL</speaker> You did it!</ln>
+
+<ln><speaker>HOLMES</speaker> Don't be ridiculous!</ln>
+
+<ln><speaker>CHAREL</speaker> Then how is it that I find you along with the murdered woman-and with the weapon in your hand!</ln>
+
+<ln><speaker>HOLMES</speaker> It's very easily explained. I came here to...</ln>
+
+<ln><expression>Running footsteps approaching.</expression></ln>
+
+<ln><speaker>CHAREL</speaker> Who's that?...The Honourable Reginald Shipton! How did you get in here?</ln>
+
+<ln><speaker>REGGIE</speaker> <expression>Fading in, excitedly) The door was open. I ... (Hysterically</expression> Yvette! Yvette!</ln>
+
+<ln><speaker>HOLMES</speaker> I'm afraid she's been murdered, my boy.</ln>
+
+<ln><speaker>REGGIE</speaker> Murdered?! But who...?</ln>
+
+<ln><speaker>CHAREL</speaker> Judge for yourself, monsieur!</ln>
+
+<ln><speaker>REGGIE</speaker> <mention ref="#holmes">Holmes</mention>! <mention ref="#holmes">Holmes</mention>, you filthy...</ln>
+
+<ln><expression>Scuffle.</expression></ln>
+
+<ln><speaker>HOLMES</speaker> Don't be a fool! Use a little intelligence!</ln>
+
+<ln><expression>Struggle increased.</expression></ln>
+
+<ln><speaker>REGGIE</speaker> Yvette's dead! You killed her!</ln>
+
+<ln><speaker>CHAREL</speaker> <expression>In French</expression> Take him outside.</ln>
+
+<ln><expression>Scuffle subsiding.</expression></ln>
+
+<ln><speaker>CHAREL</speaker> <mention ref="#holmes">Monsieur Holmes</mention>, before I telephone for your friend, <mention ref="#watson">Doctor Watson</mention>, I must indulge in a slight formality.</ln>
+
+<ln><speaker>HOLMES</speaker> And what's that, inspector?</ln>
+
+<ln><speaker>CHAREL</speaker> I arrest you for the murder of Madame Yvette Corvey!</ln>
+
+<music> Up strong to curtain.</music>
+
+<ln><expression>Insert middle commercial</expression></ln>
+
+<ln><speaker>FORMAN</speaker> And now, back to tonight's new <mention ref="#holmes">Sherlock Holmes</mention> adventure. The great detective, and his old friend <mention ref="#watson">Doctor Watson</mention>, are in the south of France where they have become involved in a strange case connected with a famous adventuress-Yvette Corvey. <mention ref="#holmes">Holmes</mention>, having failed in his preliminary investigations, has decided to pay a call on the lady, alone and after midnight, but in doing so has landed himself in serious trouble, for he has found Madame Corvey murdered and himself arrested for the crime. As we rejoin our story, the Prefect of Police is <expression>fading</expression> conducting an official trial....</ln>
+
+<ln><expression>Chatter of voices, raps of gavel. Chatter subsides.</expression></ln>
+
+<ln><speaker>PREFECT</speaker> <mention ref="#holmes">Monsieur Holmes</mention>, we have heard your evidence as to how you entered the villa and found the body of Madame Corvey. You realize, of course, that your story is entirely uncorroborated?</ln>
+
+<ln><speaker>HOLMES</speaker> Yes, I do, Monsieur le Prefect.</ln>
+
+<ln><speaker>PREFECT</speaker> You stated that you found M. le Duc de Boncourt, lying in the hallway, unconscious, as you entered the house.</ln>
+
+<ln><speaker>HOLMES</speaker> Yes, Monsieur le Prefect.</ln>
+
+<ln><speaker>PREFECT</speaker> Is the Duc de Boncourt present?</ln>
+
+<ln><speaker>DUC</speaker> <expression>Fading in</expression> Oui, Monsieur le Prefee.</ln>
+
+<ln><speaker>PREFECT</speaker> What is your own story regarding last night's tragedy?</ln>
+
+<ln><speaker>DUC</speaker> I had taken Yvette to the ballet. We came back about eleven thirty. The servants were in bed, but they had left a snack for us-some cold fowl and a bottle of champagne. Just before midnight, we decided to have a little more champagne and so I started off to the cellar. As I came into the hallway, I suddenly received a violent blow on the head...and I don't remember any more until the police revived me.</ln>
+
+<ln><speaker>PREFECT</speaker> I see. Thank you, Monsieur le Duc. Is the honourable Reginald Shipton here?</ln>
+
+<ln><speaker>REGGIE</speaker> <expression>Fading in</expression> Yes, Monsieur le Prefect.</ln>
+
+<ln><speaker>PREFECT</speaker> What were you doing at Madame Corvey's villa last night, monsieur? It has already been testified that you had received your necklace back....</ln>
+
+<ln><speaker>REGGIE</speaker> <expression>In a low voice</expression> I, ...I...came over to try and persuade her to change her mind...to throw over the Duc de Boncourt...and marry me. When I came to the house...The door was open...I walked in...and found poor Yvette murdered. </ln>
+
+<ln><speaker>PREFECT</speaker> I see. Thank you, monsieur. <expression>After a moment</expression> Inspector Charel, I cannot help but feel that you have produced a very inconclusive case against<mention ref="#holmes"> Monsieur Sherlock Holmes</mention>. It seems to me that both the Duc de Boncourt and the Hon. Reginald Shipton had equal opportunities, and greater motive to murder Madame Corvey than he did.</ln>
+<ln><speaker>DUC</speaker> <expression>off. Excitedly</expression> Monsieur le Prefee! Que dites moi?!</ln>
+
+<ln><speaker>REGGIE</speaker> But that's ridiculous! I loved Yvette! I'd never have...</ln>
+
+<ln><expression>Rap of gavel. Voices subside.</expression></ln>
+
+<ln><speaker>PREFECT</speaker> Quiet! <expression>After a moment</expression> I did not say that you gentlemen did it. I'm saying that you both had the opportunity.</ln>
+
+<ln><speaker>HOLMES</speaker> Monsieur le Prefect...as I am under arrest, may I have the privilege of proving myself innocent?</ln>
+
+<ln><speaker>PREFECT</speaker> Mais certainment, monsieur...if you can.</ln>
+
+<ln><speaker>HOLMES</speaker> I think the identity of the murderer will be obvious when we find the jewels stolen from Madame Corvey's safe. Now the three people present at, or about, the time of the lady's murder-were searched: myself-the Duc-and Mr. Shipton here. Am I right Inspector Charel?</ln>
+
+<ln><speaker>CHAREL</speaker> Yes, monsieur, and the jewels were not found-so what does that prove?</ln>
+
+<ln><speaker>HOLMES</speaker> One other person that had a motive for killing Madame Corvey was not searched-yourself, Inspector.</ln>
+
+<ln><expression>Excited buzz of voices.</expression></ln>
+
+<ln><speaker>CHAREL</speaker> <expression>Angrily</expression> But this is outrageous! Are you accusing me?</ln>
+
+
+<ln><expression>Rap of gavel. Voices subside.</expression></ln>
+
+<ln><speaker>PREFECT</speaker> <mention ref="#holmes">Monsieur Holmes</mention>, do you realize the significance of what you are implying?</ln>
+
+<ln><speaker>HOLMES</speaker> I do, Monsieur le Prefect.</ln>
+
+<ln><speaker>PREFECT</speaker> Very well then. Proceed.</ln>
+
+<ln><speaker>HOLMES</speaker> Monsieur Charel, you stated that the beach gate was bolted. How did you find that out?</ln>
+
+<ln><speaker>CHAREL</speaker> By trying it.</ln>
+
+<ln><speaker>HOLMES</speaker> From inside-or outside?</ln>
+
+<ln><speaker>CHAREL</speaker> From outside, of course.</ln>
+
+<ln><speaker>HOLMES</speaker> I don't believe you. I think that when <mention ref="#watson">Doctor Watson</mention> telephoned your office you suspected where I might be going. You hurried ahead of the gendarmes and reached the Villa several minutes before I did. You found the beach gate was open...you saw Madame Corvey putting her jewels away, as Monsieur le Duc de Boncourt started to leave the room to go the cellar. You slipped through the windows, signaled to Madame Corvey, who was your confederate, to be silent...followed the Duc into the hall and struck him from behind. Then you went back into the library, killed Madame Corvey, and pocketed the jewels. You started to leave the front way...and saw me approaching. Seeing a chance to implicate me, you left the door ajar...and ran out the beach way, bolting the door behind you, and waited for your reinforcements.</ln>
+
+<ln><speaker>CHAREL</speaker> You have convicted yourself! If you came to the villa after I was there-how could you have known what my movements were? </ln>
+
+<ln><speaker>HOLMES</speaker> I admit that this part of my case is only supposition.</ln>
+
+<ln><speaker>PREFECT</speaker> But <mention ref="#holmes">Monsieur Holmes</mention>, that is no evidence.</ln>
+
+<ln><speaker>CHAREL</speaker> Of course it is not!</ln>
+
+<ln><speaker>HOLMES</speaker> Now I'll come to my facts. <mention ref="#watson">Doctor Watson</mention>, I wonder if you'd mind stepping forward?</ln>
+
+<ln><speaker>WATSON</speaker> <expression>fading in</expression> I'm very glad to. In fact, I've been wondering why you haven't asked me to before, <mention ref="#holmes">Holmes</mention>.</ln>
+
+<ln><speaker>HOLMES</speaker> Will you please tell Monsieur le Prefect exactly what you did last night after I was brought here.</ln>
+
+<ln><speaker>WATSON</speaker> With pleasure. <expression>Raising his voice slightly</expression> Monsieur le Prefect, my old friend <mention ref="#holmes">Mr. Holmes</mention> told me to shadow Inspector Charel as soon as he left the Suretee [sic] last night. And that's what I did...He walked down to the waterfront and entered a small caf?....I watched through the window and saw him give a package to a rough-looking sailor-and a few minutes later he left. <mention ref="#holmes">Holmes</mention> had told me what to expect...so I followed the sailor. He went down to the wharf....I was behind him with a revolver in my pocket. As he started to get into a fishing boat....I captured him...and also these...</ln>
+
+<ln><expression>Chatter of excited voices. Gavel.</expression></ln>
+
+<ln><speaker>HOLMES</speaker> You'll find, Monsieur Le Prefect, that those ate the missing jewels.</ln>
+
+<ln><speaker>CHAREL</speaker> That is a lie! He is lying to save his friend!</ln>
+
+<ln><speaker>WATSON</speaker> Oh, no, I'm not! The fisherman is waiting outside the room now.</ln>
+
+<ln><speaker>PREFECT</speaker> Have him brought in!</ln>
+
+<ln><expression>Footsteps. Chatter of voices.</expression></ln>
+
+<ln><speaker>HENRI</speaker> <expression>About fifty. French accent. Voluble) (Fading in</expression> Henri Borel has done nothing! Only what Monsieur Charel pays him to do...and now he is brought into the surette [sic] like a criminal!</ln>
+
+<ln><expression>Commotion. Gavel. Voices subside.</expression></ln>
+
+<ln><speaker>PREFECT</speaker> Henri Borel...are those the jewels the ones that were given to you by Monsieur Charel last night?</ln>
+
+<ln><speaker>HENRI</speaker> Oui, Monsieur le Prefee! But you must no blame me. I only do what I am told to do...to sail with them to Corsica and give them to Monsieur Charel's brother. Just as I have done a hundred times before.</ln>
+
+<ln><speaker>CHAREL</speaker> <expression>violently</expression> He lies! I have never seen him in my life!</ln>
+
+<ln><speaker>HENRI</speaker> I lie? Henri Baptiste Borel, born in your own home town of Ajaccio...I that have known you since you were a boy? Sacre nom du chien, monsieur...what game do you play?!</ln>
+
+<ln><speaker>HOLMES</speaker> Monsieur le Prefect...the dagger on the table in front of you...may I show it to this man?</ln>
+
+<ln><speaker>PREFECT</speaker> Of course.</ln>
+
+<ln><speaker>HOLMES</speaker> <expression>After a moment</expression> Henri Borel...have you ever seen this dagger before?</ln>
+
+<ln><speaker>HENRI</speaker> Mais oui! Of course I have seen it. My brother made it. He is the finest sword maker in Ajaccio...he made it for Monsieur Charel....</ln>
+<ln><speaker>WATSON</speaker> <expression>Suddenly</expression> Look out! Charel! He's drawing his revolver! Stop him!</ln>
+
+<ln><expression>Revolver shot</expression></ln>
+
+<music> Up fast into bridge.</music>
+
+<ln><expression>Footsteps on cobblestones.</expression></ln>
+
+<ln><speaker>WATSON</speaker> <expression>After footsteps are established</expression> Well, <mention ref="#holmes">Holmes</mention>, Charel solved it for you very simply by committing suicide.</ln>
+
+<ln><speaker>HOLMES</speaker> Oh, no, <mention ref="#watson">Watson</mention>, it was already solved...thanks to your very excellent sleuthing.</ln>
+
+<ln><speaker>WATSON</speaker> <expression>Bumbling happily</expression> I didn't do anything much. <mention ref="#holmes">Holmes</mention>. Just what you told me to. By the way...I still don't understand Charel's motive for murdering Madame Corvey.</ln>
+
+<ln><speaker>HOLMES</speaker> It was a combination of motives. Jealousy at her announcing her engagement to the Duc...and anger at realizing that she had replaced the jewels in Lord Shipton's heirloom without telling him. Henri Borel made it very clear tonight that they had been [in] partnership as smugglers for years.</ln>
+
+<ln><speaker>WATSON</speaker> One of our most unusual cases. <expression>Facetiously</expression> You know, <mention ref="#holmes">Holmes</mention>, for a while, I was afraid you were going to end up in the guillotine!</ln>
+
+<ln><speaker>HOLMES</speaker> <expression>Chuckling</expression> Did you really, old fellow? By the way, there was a certain poetic justice about the case.</ln>
+
+<ln><speaker>WATSON</speaker> In what way?!</ln>
+
+<ln><speaker>HOLMES</speaker> Did you notice that Charel's dagger has an inscription on the blade?</ln>
+
+<ln><speaker>WATSON</speaker> Yes...but I couldn't translate it.</ln>
+
+<ln><speaker>HOLMES</speaker> It said: "Che la mia ferita sia mortale."</ln>
+
+<ln><speaker>WATSON</speaker> And what does that mean, <mention ref="#holmes">Holmes</mention>?</ln>
+
+<ln><speaker>HOLMES</speaker> "Let my wound be mortal."</ln>
+
+<music> Up strong to curtain.</music>
+
+<ln><speaker>CAMBELL</speaker> Tonight's <mention ref="#holmes">Sherlock Holmes</mention> adventure is written by Denis Green and Bruce Taylor and is based on an incident in the Sir Arthur Conan Doyle story, "The Adventure of the Illustrious Client." Mr. Rathbone appears through the courtesy of Metro-Goldwyn-Mayer and Mr. Bruce through the courtesy of Universal Pictures where they are now starring in the <mention ref="#holmes">Sherlock Holmes</mention> series.</ln>
+
+<music> Theme up and down under</music>
+
+    <ln><speaker>CAMPBELL</speaker> <expression>Out</expression> The Petri Wine Company of San Francisco, California, invites you to tune in again next week, same time, same station.</ln></scene></xml>

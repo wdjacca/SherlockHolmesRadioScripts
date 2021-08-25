@@ -17,13 +17,15 @@
   <music> INTRO </music>
 
   <ln><speaker>ANNOUNCER</speaker> Cramel Hair Tonic and Cramel Shampoo present the new adventures
-   of <mention ref="#holmes">Sherlock Holmes</mention>, starring Nigel Bruce as <mention ref="#watson">Dr.
-    Watson</mention>, and Tom Conway as <mention ref="#holmes">Sherlock Holmes</mention>. </ln>
+   of <mention ref="#holmes">Sherlock Holmes</mention>, starring Nigel Bruce as <mention
+    ref="#watson">Dr. Watson</mention>, and Tom Conway as <mention ref="#holmes">Sherlock
+    Holmes</mention>. </ln>
 
   <music> UP AND UNDER </music>
 
   <ln><speaker>ANNOUNCER</speaker> Now once again it's time to keep that weekly appointment with our
-   good friend and host, <mention ref="#watson">Dr. Watson</mention>. Good evening, <mention ref="#watson">Dr. Watson</mention>. </ln>
+   good friend and host, <mention ref="#watson">Dr. Watson</mention>. Good evening, <mention
+    ref="#watson">Dr. Watson</mention>. </ln>
 
   <ln><speaker>WATSON</speaker> Good evening, Mr. Bell. As usual you're punctual to the minute. Pull
    up a chair and make yourself comfortable. </ln>
@@ -33,25 +35,27 @@
   <ln><speaker>WATSON</speaker> That's it. </ln>
 
   <ln><speaker>BELL</speaker> I see that you have the old black, tin dispatch box out again,
-    <mention ref="#watson">Dr. Watson</mention>. I deduce that you were going over your notes on tonight's case. </ln>
+    <mention ref="#watson">Dr. Watson</mention>. I deduce that you were going over your notes on
+   tonight's case. </ln>
 
   <ln><speaker>WATSON</speaker> Elementary my, dear boy. Among the records I came across some notes
    of some cases that I'd almost forgotten. The shocking death of Crosby the banker, the Adeltine
    tragedy, and some darter on the unusual contents of the ancient British pharaoh. </ln>
 
-  <ln><speaker>BELL</speaker> Those stories sound pretty intriguing, <mention ref="#watson">Dr. Watson</mention>. </ln>
+  <ln><speaker>BELL</speaker> Those stories sound pretty intriguing, <mention ref="#watson">Dr.
+    Watson</mention>. </ln>
 
   <ln><speaker>WATSON</speaker> I shall tell them to you some other evening, Mr. Bell. Tonight, I'm
    going to recount an adventure that took place in the heart of the beautiful English countryside.
-   I call it, "The Adventure of the Tolling Bell." (NARRATING) Well that story began in a small
-   country village of Conforth.<mention ref="#holmes"> Holmes</mention> had recently brought to a
-   successful conclusion the affair of the Barrow and Furnace Wheelchair Murders. And we decided a
-   few days rest in nearby Conforth would do us good before returning to our arduous life on Baker
-   Street. We were staying in a small, but comfortable Inn. Only on the morning of the third day, I
-   remember,<mention ref="#holmes"> Holmes</mention> and I were in our bedroom waiting for those
-   two essentials without which an English country gentleman could not start his day -- an early
-   morning cup of tea and a jug of hot water for shaving. As we sat there at the open window a
-   nearby church bell was tolling a funeral nell. </ln>
+   I call it, "The Adventure of the Tolling Bell." <expression>NARRATING</expression> Well that
+   story began in a small country village of Conforth.<mention ref="#holmes"> Holmes</mention> had
+   recently brought to a successful conclusion the affair of the Barrow and Furnace Wheelchair
+   Murders. And we decided a few days rest in nearby Conforth would do us good before returning to
+   our arduous life on Baker Street. We were staying in a small, but comfortable Inn. Only on the
+   morning of the third day, I remember,<mention ref="#holmes"> Holmes</mention> and I were in our
+   bedroom waiting for those two essentials without which an English country gentleman could not
+   start his day -- an early morning cup of tea and a jug of hot water for shaving. As we sat there
+   at the open window a nearby church bell was tolling a funeral nell. </ln>
 
   <fx> Bell tolling in distance </fx>
 
@@ -62,8 +66,8 @@
 
   <ln><speaker>WATSON</speaker> There's no need to make fun of me. Impressing sound isn't it? </ln>
 
-  <ln><speaker>HOLMES</speaker> I suppose so. Has it ever occurred to you <mention ref="#watson">Watson</mention>
-   that the history of bells is full of romantic interest? </ln>
+  <ln><speaker>HOLMES</speaker> I suppose so. Has it ever occurred to you <mention ref="#watson"
+    >Watson</mention> that the history of bells is full of romantic interest? </ln>
 
   <ln><speaker>WATSON</speaker> Well, I can't say that I've thought much about it. </ln>
 
@@ -73,20 +77,23 @@
 
   <ln><speaker>WATSON</speaker> Well, you seem to be a mind of information on the subject. </ln>
 
-  <ln><speaker>HOLMES</speaker> Yes, <mention ref="#watson">Watson</mention>. It's a fascinating subject. </ln>
+  <ln><speaker>HOLMES</speaker> Yes, <mention ref="#watson">Watson</mention>. It's a fascinating
+   subject. </ln>
 
   <fx> KNOCK at DOOR </fx>
 
   <ln><speaker>WATSON</speaker> Come in, come in. Good morning, my dear. </ln>
 
-  <ln><speaker>MARY</speaker> (obvious upset about something) Pardon me, gentlemen, I brought your
-   tea and your shaving water. Mrs. Michol said to say your breakfast will be ready in half an hour. </ln>
+  <ln><speaker>MARY</speaker>
+   <expression>obvious upset about something</expression> Pardon me, gentlemen, I brought your tea
+   and your shaving water. Mrs. Michol said to say your breakfast will be ready in half an hour. </ln>
 
   <ln><speaker>WATSON</speaker> Splendid, Marian. Oh, ah, Mary, the church bell is tolling a funeral
    nell. Do you know who's being buried? </ln>
 
-  <ln><speaker>MARY</speaker> (on the verge of tears) That I do, sir. I wish it was me. It will be
-   my turn soon. </ln>
+  <ln><speaker>MARY</speaker>
+   <expression>on the verge of tears</expression> That I do, sir. I wish it was me. It will be my
+   turn soon. </ln>
 
   <fx> Door CLOSES </fx>
 
@@ -99,9 +106,9 @@
    fianc? they're burying now. </ln>
 
   <ln><speaker>HOLMES</speaker>
-   <mention ref="#watson">Watson</mention>, you have the sentimental imagination of the true storyteller. But we've
-   come here for a holiday. You must give your imagination a rest, too. So, drink your tea, remove
-   your whiskers, and we'll go downstairs and investigate those kippers. </ln>
+   <mention ref="#watson">Watson</mention>, you have the sentimental imagination of the true
+   storyteller. But we've come here for a holiday. You must give your imagination a rest, too. So,
+   drink your tea, remove your whiskers, and we'll go downstairs and investigate those kippers. </ln>
 
   <music> UP AND OUT </music>
 
@@ -130,8 +137,8 @@
   <ln><speaker>WATSON</speaker> Shocking! So the peaceful countryside is not as peaceful as it's
    made out to be,<mention ref="#holmes"> Holmes</mention>. </ln>
 
-  <ln><speaker>HOLMES</speaker> Thank that I frequently had occasion to point out to you,
-    <mention ref="#watson">Watson</mention>. Has the morning post arrived yet, Mrs. Michol? </ln>
+  <ln><speaker>HOLMES</speaker> Thank that I frequently had occasion to point out to you, <mention
+    ref="#watson">Watson</mention>. Has the morning post arrived yet, Mrs. Michol? </ln>
 
   <ln><speaker>MRS. MICHOL</speaker> Here comes ol' Gilly up the path with it now. I'll see if he's
    got anything for you. </ln>
@@ -139,8 +146,9 @@
   <ln><speaker>WATSON</speaker> A murder. What do you make of it,<mention ref="#holmes">
     Holmes</mention>? </ln>
 
-  <ln><speaker>HOLMES</speaker> What is there to make of it, <mention ref="#watson">Watson</mention>? A jealous
-   husband murders a faithfuless wife and then commits suicide. A tragic story, but a simple one. </ln>
+  <ln><speaker>HOLMES</speaker> What is there to make of it, <mention ref="#watson"
+   >Watson</mention>? A jealous husband murders a faithfuless wife and then commits suicide. A
+   tragic story, but a simple one. </ln>
 
   <ln><speaker>GILLIAN</speaker> Top of the morning to you, gentlemen. </ln>
 
@@ -153,8 +161,8 @@
   <ln><speaker>WATSON</speaker> Pardon myself, Gilly, you've been reading Mr.<mention ref="#holmes">
     Holmes</mention> private correspondence. </ln>
 
-  <ln><speaker>GILLIAN</speaker> Bless your heart, <mention ref="#watson">Dr. Watson</mention>. If I didn't read
-   other people's correspondence, how would I know what's going on in the village? </ln>
+  <ln><speaker>GILLIAN</speaker> Bless your heart, <mention ref="#watson">Dr. Watson</mention>. If I
+   didn't read other people's correspondence, how would I know what's going on in the village? </ln>
 
   <ln><speaker>HOLMES</speaker> Hmm, you were right, Gilly, it is newspaper clippings. And by the
    way, you heard about the murder of Mrs. Threadgold, I suppose? </ln>
@@ -194,8 +202,7 @@
    end. Good day, gentlemen. </ln>
 
   <ln><speaker>MRS. MICHOL</speaker> Talkative ol' busybody he is. Oh, Mr.<mention ref="#holmes">
-    Holmes</mention>, Mrs. Lakland's in the hall. The poor old lady is most anxious to talk
-   to you. </ln>
+    Holmes</mention>, Mrs. Lakland's in the hall. The poor old lady is most anxious to talk to you. </ln>
 
   <ln><speaker>HOLMES</speaker> Mrs. Lakland? </ln>
 
@@ -218,8 +225,8 @@
 
   <ln><speaker>WATSON</speaker> Well, I meant trivial for you, not for her. </ln>
 
-  <ln><speaker>MICHOL</speaker> This is Mr.<mention ref="#holmes"> Holmes</mention>, and
-    <mention ref="#watson">Doctor Watson</mention>, dear. </ln>
+  <ln><speaker>MICHOL</speaker> This is Mr.<mention ref="#holmes"> Holmes</mention>, and <mention
+    ref="#watson">Doctor Watson</mention>, dear. </ln>
 
   <ln><speaker>MRS. LAKLAND</speaker> Thank you, Emmy. Good morning, sirs. </ln>
 
@@ -241,8 +248,7 @@
   <ln><speaker>MRS. LAKLAND</speaker> None, sir. He was a good boy and he worked hard, and he didn't
    fool around with those flibbity gibbit girls in the village. I think he's met with foul play
    gentlemen, and I want you to find out about him for me, Mr.<mention ref="#holmes">
-    Holmes</mention>. I've heard say in the village that you're the greatest detective in
-   England. </ln>
+    Holmes</mention>. I've heard say in the village that you're the greatest detective in England. </ln>
 
   <ln><speaker>HOLMES</speaker> Mrs. Lakland, I'd be glad to help you, but you've given me no clues
    to work with. I'm afraid that I . . . </ln>
@@ -281,8 +287,8 @@
   <ln><speaker>WATSON</speaker> There you are,<mention ref="#holmes"> Holmes</mention>! I was
    beginning to think you got lost. </ln>
 
-  <ln><speaker>HOLMES</speaker> Hello, <mention ref="#watson">Watson</mention>. I trust you had a profitable session
-   with pen and paper? </ln>
+  <ln><speaker>HOLMES</speaker> Hello, <mention ref="#watson">Watson</mention>. I trust you had a
+   profitable session with pen and paper? </ln>
 
   <ln><speaker>WATSON</speaker> I got about half a chapter. I would have done more if it hadn't been
    for those infernal bells. </ln>
@@ -337,9 +343,9 @@
   <ln><speaker>WATSON</speaker> That woman seems absolutely heartless. She almost smacks her lips
    when she tells us about these tragedies. </ln>
 
-  <ln><speaker>HOLMES</speaker> Yes, <mention ref="#watson">Watson</mention>, I noticed it. This peaceful village is
-   beginning to seem strangely sinister to me. And since you have no appetite for breakfast, perhaps
-   you'll join me in a little excursion as soon as you're dressed. </ln>
+  <ln><speaker>HOLMES</speaker> Yes, <mention ref="#watson">Watson</mention>, I noticed it. This
+   peaceful village is beginning to seem strangely sinister to me. And since you have no appetite
+   for breakfast, perhaps you'll join me in a little excursion as soon as you're dressed. </ln>
 
   <ln><speaker>WATSON</speaker> Of course. Where're we going? </ln>
 
@@ -359,14 +365,14 @@
 
   <ln><speaker>HOLMES</speaker> Good morning, Mary. I'm sorry you're not feeling well. </ln>
 
-  <ln><speaker>MARY</speaker> Mr.<mention ref="#holmes"> Holmes</mention>, <mention ref="#watson">Dr.
-    Watson</mention>. Why've you come here? Not to ask about my health? Why should a servant girl
-   matter to gentlemen like you? </ln>
+  <ln><speaker>MARY</speaker> Mr.<mention ref="#holmes"> Holmes</mention>, <mention ref="#watson"
+    >Dr. Watson</mention>. Why've you come here? Not to ask about my health? Why should a servant
+   girl matter to gentlemen like you? </ln>
 
   <ln><speaker>WATSON</speaker> Oh, you misjudged us, my dear. I assure you that we . . . </ln>
 
-  <ln><speaker>HOLMES</speaker> No, <mention ref="#watson">Watson</mention>. Let's be honest and admit we didn't
-   come here because of our concern for Mary's health. </ln>
+  <ln><speaker>HOLMES</speaker> No, <mention ref="#watson">Watson</mention>. Let's be honest and
+   admit we didn't come here because of our concern for Mary's health. </ln>
 
   <ln><speaker>MARY</speaker> Then why did you come here, sir? </ln>
 
@@ -389,8 +395,8 @@
 
   <ln><speaker>GILLIAN</speaker> No, lass. If the letter would come, I'd bring it to you as fast as
    me legs would carry me, you know that. Morning, Mr.<mention ref="#holmes"> Holmes</mention>,
-    <mention ref="#watson">Dr. Watson</mention>. Left some letters at the Inn for you, Doctor. You had a letter from
-   a lady. </ln>
+    <mention ref="#watson">Dr. Watson</mention>. Left some letters at the Inn for you, Doctor. You
+   had a letter from a lady. </ln>
 
   <ln><speaker>WATSON</speaker> How did you know it was from a lady? </ln>
 
@@ -399,8 +405,8 @@
 
   <ln><speaker>WATSON</speaker> Amazing deduction. </ln>
 
-  <ln><speaker>HOLMES</speaker> That sounds like your young friend from Daylis,
-    <mention ref="#watson">Watson</mention>. </ln>
+  <ln><speaker>HOLMES</speaker> That sounds like your young friend from Daylis, <mention
+    ref="#watson">Watson</mention>. </ln>
 
   <ln><speaker>WATSON</speaker> How did you know about??. I mean, I don't have a young friend from
    Daylis <mention ref="#watson">Watson</mention>. </ln>
@@ -441,8 +447,8 @@
    make me fortune. Even if I have to bury it." And then he said, "Bury me fortune? Huh. That's a
    joke, isn't it?" I don't know what he meant by it. </ln>
 
-  <ln><speaker>HOLMES</speaker> I think I do, Mary. <mention ref="#watson">Watson</mention>, we're taking a short
-   train journey as soon as possible. </ln>
+  <ln><speaker>HOLMES</speaker> I think I do, Mary. <mention ref="#watson">Watson</mention>, we're
+   taking a short train journey as soon as possible. </ln>
 
   <ln><speaker>WATSON</speaker> Oh? Where are we going? May I ask? </ln>
 
@@ -470,8 +476,8 @@
    is, there he is!<mention ref="#holmes"> Holmes</mention>!<mention ref="#holmes">
    Holmes</mention>! </ln>
 
-  <ln><speaker>HOLMES</speaker> Hello, <mention ref="#watson">Watson</mention>. Permit me to introduce you to Mr.
-   Tom Lakland. Tom, this is <mention ref="#watson">Dr. Watson</mention>. </ln>
+  <ln><speaker>HOLMES</speaker> Hello, <mention ref="#watson">Watson</mention>. Permit me to
+   introduce you to Mr. Tom Lakland. Tom, this is <mention ref="#watson">Dr. Watson</mention>. </ln>
 
   <ln><speaker>TOM</speaker> How do you do <mention ref="#watson">Dr. Watson</mention>. </ln>
 
@@ -484,15 +490,15 @@
    because you're ashamed of her. You're a scoundrel sir. You deserve a good horsewhipping, and I
    have a good mind to give it to you. </ln>
 
-  <ln><speaker>TOM</speaker> I don't know what you're talking about <mention ref="#watson">Dr. Watson</mention>, but
-   I don't like the words you use. And if it's violence you want, I don't mind telling you that I'm
-   amateur heavyweight champion of the county. </ln>
+  <ln><speaker>TOM</speaker> I don't know what you're talking about <mention ref="#watson">Dr.
+    Watson</mention>, but I don't like the words you use. And if it's violence you want, I don't
+   mind telling you that I'm amateur heavyweight champion of the county. </ln>
 
   <ln><speaker>WATSON</speaker> You are? Oh no need to become aggressive. </ln>
 
-  <ln><speaker>HOLMES</speaker> No let's waste time on being acrimonious <mention ref="#watson">Watson</mention>.
-   Let's get back to the station as fast as we can. The return of the prodigal is long overdue. We
-   must give them every opportunity to kill the fatted calf. </ln>
+  <ln><speaker>HOLMES</speaker> No let's waste time on being acrimonious <mention ref="#watson"
+    >Watson</mention>. Let's get back to the station as fast as we can. The return of the prodigal
+   is long overdue. We must give them every opportunity to kill the fatted calf. </ln>
 
   <music> UP AND OUT </music>
 
@@ -520,20 +526,22 @@
 
   <ln><speaker>WATSON</speaker> Great heavens, that was a revolver shot! </ln>
 
-  <ln><speaker>HOLMES</speaker> Come on <mention ref="#watson">Watson</mention>! Help me break in the door! </ln>
+  <ln><speaker>HOLMES</speaker> Come on <mention ref="#watson">Watson</mention>! Help me break in
+   the door! </ln>
 
   <fx> DOOR BEING BROKEN DOWN </fx>
 
   <music> UP AND OUT </music>
 
-  <ln><speaker>BELL</speaker> Now, <mention ref="#watson">Dr. Watson</mention>, that was a fine place to break off
-   your story. You left me right on the edge of a cliff. Had the young girl shot herself? </ln>
+  <ln><speaker>BELL</speaker> Now, <mention ref="#watson">Dr. Watson</mention>, that was a fine
+   place to break off your story. You left me right on the edge of a cliff. Had the young girl shot
+   herself? </ln>
 
   <ln><speaker>WATSON</speaker> She'd shot at herself, Mr. Bell, but fortunately her last minute
    lack of courage had made her shot go wild. Homes and I and the young bridegroom burst into the
    house and rescued the smoking revolver from her hand. I must confess the reunion between the two
-   young lovers was a touching sight. In fact, I felt considerably older than I was
-    as<mention ref="#holmes"> Holmes</mention> and I stood there listening to Tom reassuring her. </ln>
+   young lovers was a touching sight. In fact, I felt considerably older than I was as<mention
+    ref="#holmes"> Holmes</mention> and I stood there listening to Tom reassuring her. </ln>
 
   <ln><speaker>TOM</speaker> Mary, darling, it's all right. I'm here. </ln>
 
@@ -604,8 +612,8 @@
 
   <music> UP AND OUT </music>
 
-  <ln><speaker>MICHOL</speaker> Good Morning, <mention ref="#watson">Dr. Watson</mention>. Mr.<mention ref="#holmes">
-    Holmes</mention>. </ln>
+  <ln><speaker>MICHOL</speaker> Good Morning, <mention ref="#watson">Dr. Watson</mention>.
+    Mr.<mention ref="#holmes"> Holmes</mention>. </ln>
 
   <ln><speaker>WATSON</speaker> Good morning, Mrs. Michol. </ln>
 
@@ -640,8 +648,8 @@
   <ln><speaker>WATSON</speaker> Well supposing Gilly turns nasty when he finds out we know his
    secret. </ln>
 
-  <ln><speaker>HOLMES</speaker> Then we must handle him to the best of our ability,
-    <mention ref="#watson">Watson</mention>. </ln>
+  <ln><speaker>HOLMES</speaker> Then we must handle him to the best of our ability, <mention
+    ref="#watson">Watson</mention>. </ln>
 
   <ln><speaker>WATSON</speaker> Well I must say I do not relish the thought of a tussle high in the
    belfry of a church. The man must be insane. </ln>
@@ -657,9 +665,9 @@
 
   <ln><speaker>HOLMES</speaker> Good morning, Gilly. </ln>
 
-  <ln><speaker>GILLIAN</speaker> Mr.<mention ref="#holmes"> Holmes</mention>, <mention ref="#watson">Dr.
-    Watson</mention>. You've come to see me at work. That's nice of ya. Not often I get company up
-   here. </ln>
+  <ln><speaker>GILLIAN</speaker> Mr.<mention ref="#holmes"> Holmes</mention>, <mention ref="#watson"
+    >Dr. Watson</mention>. You've come to see me at work. That's nice of ya. Not often I get company
+   up here. </ln>
 
   <ln><speaker>HOLMES</speaker> We haven't come up here to see you at work, Gilly. We know your
    diabolical work only too well. </ln>
@@ -708,8 +716,8 @@
   <ln><speaker>HOLMES</speaker> Is full of stone. You'll be the laughing stock of the village,
    Gilly. </ln>
 
-  <ln><speaker>GILLIAN</speaker> They'll never laugh at Gilly. (fade off mic) You can't catch me,
-    Mr.<mention ref="#holmes"> Holmes</mention>. I'm beyond you still! </ln>
+  <ln><speaker>GILLIAN</speaker> They'll never laugh at Gilly. <expression>fade off mic</expression>
+   You can't catch me, Mr.<mention ref="#holmes"> Holmes</mention>. I'm beyond you still! </ln>
 
   <fx> Gilly running up a SQUEAKY LADDER </fx>
 
@@ -724,9 +732,9 @@
   <ln><speaker>WATSON</speaker> What's he going to do up there? He might set fire to the steeple.
    Could make any madness. I'm going to fetch him,<mention ref="#holmes"> Holmes</mention>. </ln>
 
-  <ln><speaker>HOLMES</speaker> No, <mention ref="#watson">Watson</mention>. He drew a knife as he fled. And with
-   that rickety staircase and the narrow opening leading into the bell chamber you'd never stand a
-   chance. He'd get you on the first ledge. </ln>
+  <ln><speaker>HOLMES</speaker> No, <mention ref="#watson">Watson</mention>. He drew a knife as he
+   fled. And with that rickety staircase and the narrow opening leading into the bell chamber you'd
+   never stand a chance. He'd get you on the first ledge. </ln>
 
   <ln><speaker>WATSON</speaker> How're we going to get him down? </ln>
 
@@ -750,22 +758,23 @@
 
   <fx> BODY THUD TO GROUND </fx>
 
-  <ln><speaker>WATSON</speaker> Great Heavens, he hurled himself out of the belfry.<mention ref="#holmes">
-    Holmes</mention>, he hasn't the chance of surviving that fall. </ln>
+  <ln><speaker>WATSON</speaker> Great Heavens, he hurled himself out of the belfry.<mention
+    ref="#holmes"> Holmes</mention>, he hasn't the chance of surviving that fall. </ln>
 
   <ln><speaker>HOLMES</speaker> I had no intention of causing that unhappy man to jump to his death,
-    <mention ref="#watson">Watson</mention>. Though I can't help but feel that his poor, demented mind may find a
-   happier oblivion this way rather than in the confines of an asylum. </ln>
+    <mention ref="#watson">Watson</mention>. Though I can't help but feel that his poor, demented
+   mind may find a happier oblivion this way rather than in the confines of an asylum. </ln>
 
   <ln><speaker>WATSON</speaker> Yes, you're probably right,<mention ref="#holmes"> Holmes</mention>. </ln>
 
-  <ln><speaker>HOLMES</speaker> It's been a shocking case, <mention ref="#watson">Watson</mention>. Shocking. And
-   once again it proves the old saying that "violence does intrude recoil upon the violent." And,
-   "the schemer falls into the pit which he digs for another." </ln>
+  <ln><speaker>HOLMES</speaker> It's been a shocking case, <mention ref="#watson">Watson</mention>.
+   Shocking. And once again it proves the old saying that "violence does intrude recoil upon the
+   violent." And, "the schemer falls into the pit which he digs for another." </ln>
 
   <music> UP AND OUT </music>
 
-  <ln><speaker>BELL</speaker> Now, <mention ref="#watson">Dr. Watson</mention>, what about next week? </ln>
+  <ln><speaker>BELL</speaker> Now, <mention ref="#watson">Dr. Watson</mention>, what about next
+   week? </ln>
 
   <ln><speaker>WATSON</speaker> Well, now let me see, what's left in here. Next week I'll tell you a
    rather gruesome story about how <mention ref="#holmes">Sherlock Holmes</mention> saved the life

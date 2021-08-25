@@ -36,7 +36,7 @@
         <music> UP AND OUT </music>
 
         <ln><speaker>ANNOUNCER</speaker> The Petri family -- the family that took time to bring you
-            good wine -- invites you to listen to Dr. <mention ref="#watson">Watson </mention> tell
+            good wine -- invites you to listen to <mention ref="#watson">Dr. Watson </mention> tell
             us another exciting adventure he shared with his old friend, that master detective,
                 <mention ref="#holmes">Sherlock Holmes </mention>. And you know something? I had an
             adventure tonight I wish you could have shared with me. I had a steak about, oh, an inch
@@ -51,7 +51,7 @@
 
         <music> THEME </music>
 
-        <ln><speaker>ANNOUNCER</speaker> And now I know Dr. <mention ref="#watson">Watson
+        <ln><speaker>ANNOUNCER</speaker> And now I know <mention ref="#watson">Dr. Watson
             </mention>'s waiting for us, so let's go in and join him. </ln>
 
         <ln><speaker>SOUND</speaker> KNOCK ON DOOR </ln>
@@ -61,7 +61,7 @@
 
         <ln><speaker>SOUND</speaker> DOOR OPENS </ln>
 
-        <ln><speaker>ANNOUNCER</speaker> Good evening, Dr. <mention ref="#watson">Watson </mention>. </ln>
+        <ln><speaker>ANNOUNCER</speaker> Good evening, <mention ref="#watson">Dr. Watson </mention>. </ln>
 
         <ln><speaker>WATSON</speaker> Good evening, Mr. Bartell. </ln>
 
@@ -209,9 +209,9 @@
 
         <ln><speaker>SOUND</speaker> KING WALKS TO CHAIR AND SITS BEHIND-- </ln>
 
-        <ln><speaker>HOLMES</speaker> This is my friend and colleague, Dr. <mention ref="#watson"
-                >Watson </mention>. You may say anything before him that you can say to me. Whom
-            have I the honor to address? </ln>
+        <ln><speaker>HOLMES</speaker> This is my friend and colleague, <mention ref="#watson">Dr.
+                Watson </mention>. You may say anything before him that you can say to me. Whom have
+            I the honor to address? </ln>
 
         <ln><speaker>KING</speaker> You may address me as, er, Count Von Kramm. </ln>
 
@@ -223,8 +223,9 @@
 
         <ln><speaker>HOLMES</speaker> I was well aware of that fact, sir. </ln>
 
-        <ln><speaker>KING</speaker> You see, Mr. Holmes, the matter I am about to discuss implicates
-            the great House of Ormstein, hereditary kings of Bohemia. </ln>
+        <ln><speaker>KING</speaker> You see, <mention ref="#holmes">Mr. Holmes</mention>, the matter
+            I am about to discuss implicates the great House of Ormstein, hereditary kings of
+            Bohemia. </ln>
 
         <ln><speaker>HOLMES</speaker> That had not escaped me either, sir. In fact, if you will
             state your case, I shall be better able to advise you -- your Majesty. </ln>
@@ -236,8 +237,8 @@
         <ln><speaker>HOLMES</speaker> Why, indeed? </ln>
 
         <ln><speaker>KING</speaker> I shall remove the mask. <expression> BEAT </expression> There.
-            Mr. Holmes, I have traveled incognito from Prague for the express purpose of consulting
-            you. </ln>
+                <mention ref="#holmes">Mr. Holmes</mention>, I have traveled incognito from Prague
+            for the express purpose of consulting you. </ln>
 
         <ln><speaker>HOLMES</speaker> Then, pray consult. </ln>
 
@@ -301,13 +302,14 @@
 
         <ln><speaker>WATSON</speaker> Did you inscribe this photograph, your Majesty? </ln>
 
-        <ln><speaker>KING</speaker> Yes, Dr. <mention ref="#watson">Watson </mention>, I am afraid I
+        <ln><speaker>KING</speaker> Yes, <mention ref="#watson">Dr. Watson </mention>, I am afraid I
             did. </ln>
 
         <ln><speaker>WATSON</speaker>
             <expression> MUMBLES </expression> Good gracious me. </ln>
 
-        <ln><speaker>KING</speaker> Mr. Holmes, it must be recovered. </ln>
+        <ln><speaker>KING</speaker>
+            <mention ref="#holmes">Mr. Holmes</mention>, it must be recovered. </ln>
 
         <ln><speaker>HOLMES</speaker> Perhaps if you were to pay enough, the photograph might be
             bought. </ln>
@@ -372,8 +374,9 @@
             soon have some good news for you. </ln>
 
         <ln><speaker>KING</speaker>
-            <expression> RISES) I am placing all my hopes in you, Mr. Holmes. (MOVING OFF
-            </expression> Good night. Good night, Dr. <mention ref="#watson">Watson </mention>. </ln>
+            <expression> RISES</expression> I am placing all my hopes in you, <mention ref="#holmes"
+                >Mr. Holmes</mention>. <expression>MOVING OFF </expression> Good night. Good night,
+                <mention ref="#watson">Dr. Watson </mention>. </ln>
 
         <ln><speaker>WATSON</speaker> Good night, your Majesty. </ln>
 
@@ -829,8 +832,8 @@
             work. We ain't through yet, though. We gotta start yelling "Fire" when somebody tells
             us. </ln>
 
-        <ln><speaker>WATSON</speaker> I'm that somebody, my dear lady. There's Mr. <mention
-                ref="#holmes">Holmes </mention> now. He's inside the house! </ln>
+        <ln><speaker>WATSON</speaker> I'm that somebody, my dear lady. There's <mention
+                ref="#holmes">Mr. Holmes</mention> now. He's inside the house! </ln>
 
         <ln><speaker>HATTIE</speaker> Yes! He's opening a window! </ln>
 
@@ -888,7 +891,7 @@
         <ln><speaker>WATSON</speaker> This is Briony Lodge, your Majesty. </ln>
 
         <ln><speaker>KING</speaker> I am all impatience. You are certain the photograph will still
-            be there, Mr. <mention ref="#holmes">Holmes </mention>? </ln>
+            be there, <mention ref="#holmes">Mr. Holmes</mention>? </ln>
 
         <ln><speaker>HOLMES</speaker> I have every reason to believe so, your Majesty. </ln>
 
@@ -902,11 +905,11 @@
 
         <ln><speaker>SOUND</speaker> KNOCKS ON FRONT DOOR ... DOOR OPENS </ln>
 
-        <ln><speaker>MAID</speaker> Mr. <mention ref="#holmes">Sherlock Holmes </mention>, I
-            believe? </ln>
+        <ln><speaker>MAID</speaker>
+            <mention ref="#holmes">Mr. Sherlock Holmes </mention>, I believe? </ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> MILDLY SURPRISED </expression> Yes. I am Mr. <mention ref="#holmes">Holmes
+            <expression> MILDLY SURPRISED </expression> Yes. I am <mention ref="#holmes">Mr. Holmes
             </mention>. But - how did you know? </ln>
 
         <ln><speaker>MAID</speaker> My mistress told me you would be likely to call. She's left for
@@ -937,8 +940,8 @@
         <ln><speaker>SOUND</speaker> PANEL SLIDES OPEN </ln>
 
         <ln><speaker>KING</speaker>
-            <expression> BEAT </expression> Is - is the photograph there, Mr. <mention ref="#holmes"
-                >Holmes </mention>? </ln>
+            <expression> BEAT </expression> Is - is the photograph there, <mention ref="#holmes">Mr.
+                Holmes </mention>? </ln>
 
         <ln><speaker>HOLMES</speaker>
             <expression> UNHAPPY </expression> There is a photograph, your Majesty. But it's, um, a
@@ -949,7 +952,7 @@
         <ln><speaker>WATSON</speaker> What does it say, <mention ref="#holmes">Holmes </mention>? </ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> READS </expression> "My dear Mr. <mention ref="#holmes">Sherlock Holmes
+            <expression> READS </expression> "My dear <mention ref="#holmes">Mr. Sherlock Holmes
             </mention>. You really did it very well. Until after the fire alarm, I had no suspicion.
             But then, when I realized how I had betrayed myself, I began to think. I had been warned
             that if the King employed an agent he would certainly employ you. May I congratulate you
@@ -968,7 +971,7 @@
             King and myself, his Majesty may rest in peace." <expression>TO HIMSELF</expression> Oh,
             thank goodness for that. <expression>READS</expression> "I love and am loved by a better
             man than he. I leave another photograph, however, that he might care to possess; and I
-            remain, dear Mr. <mention ref="#holmes">Sherlock Holmes </mention>, very truly yours,
+            remain, dear <mention ref="#holmes">Mr. Sherlock Holmes</mention> , very truly yours,
             Irene Norton, ne Adler." <expression>IMPRESSED, EXCITED</expression>What a woman,
                 <mention ref="#watson">Watson </mention>; what a woman; what a magnificent woman!
             She fooled me completely! <expression>CATCHES HIMSELF </expression> But-- Oh. I, uh--
@@ -1033,7 +1036,7 @@
             fragrant, delicious wine. Those letters -- P-E-T-R-I -- on the label of every bottle of
             Petri wine are the personal assurance of the Petri family that every drop of wine in
             that bottle is good wine. It's got to be! Because Petri took time to bring you good
-            wine. <expression> TO WATSON </expression> Well, Dr. <mention ref="#watson">Watson
+            wine. <expression> TO WATSON </expression> Well, <mention ref="#watson">Dr. Watson
             </mention>, that was a great story you told us tonight. </ln>
 
         <ln><speaker>WATSON</speaker> I thought you'd like it, Mr. Bartell. That's why I plan to

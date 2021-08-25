@@ -1,5 +1,5 @@
 start = element xml {metadata, scene}
-metadata = element metadata {series, show, date, castList}
+metadata = element metadata {series, show, date, author*,castList, (note|FXlist)*}
 series = element series {text}
 show = element show {text}
 date = element date {when, text}
@@ -13,4 +13,7 @@ ln = element ln {speaker*,mixed{(mention*|expression*)*}}
 mention = element mention {ref,text}
 speaker = element speaker {text}
 fx = element fx {text}
-expression = element expression {text}
+expression = element expression {mixed{mention*}}
+author = element author {text}
+note = element note {text}
+FXlist = element FXlist {fx}
