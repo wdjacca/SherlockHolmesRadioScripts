@@ -25,3 +25,10 @@
     <expression>\1</expression>
     
     <speaker>[A-Z][a-z].+</speaker>
+    
+    
+    
+To find and replace the mentions in all files:
+
+in XPath: //ln/text()
+in Find: (Sherlock|Mr\.|Mr\.Sherlock)?\s(Holmes)

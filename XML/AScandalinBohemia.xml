@@ -1,44 +1,47 @@
-<?xml-model href="sherlock.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../sherlock.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <metadata>
         <series>Series: Sherlock Holmes</series>
         <show>Show: A Scandal in Bohemia</show>
         <date when="1945-12-10">Date: Dec 10 1945</date>
-        <castList>CAST <cast ref="#announcer">ANNOUNCER</cast>
-            <cast ref="#watson">DR. JOHN H. WATSON</cast>
-            <cast ref="#holmes">SHERLOCK HOLMES</cast>
-            <cast ref="#kingBohemia">KING OF BOHEMIA, German accent</cast>
-            <cast ref="#bartemder">BARTENDER</cast>
-            <cast ref="#1stCabman">1ST CABMAN (2 lines)</cast>
-            <cast ref="#norton">GEOFFREY NORTON (1 line)</cast>
-            <cast ref="#adler">IRENE ADLER (PRONOUNCED eye-REE-nee ADD-ler)</cast>
-            <cast ref="#coach">COACHMAN (1 line)</cast>
-            <cast ref="#2ndCabman">2ND CABMAN (3 lines)</cast>
-            <cast ref="#alfie">ALFIE</cast>
-            <cast ref="#pat">PAT (1 line)</cast>
-            <cast ref="#hattie">HATTIE</cast>
-            <cast ref="#ernie">ERNIE (4 lines)</cast>
-            <cast ref="#bert">BERT (2 lines)</cast>
-            <cast ref="#maid">MAID (4 lines)</cast>
-        </castList>
+        <castList>CAST: <cast id="#announcer">ANNOUNCER</cast>
+            <cast id="#watson">DR. JOHN H. WATSON</cast>
+            <cast id="#holmes">SHERLOCK HOLMES</cast>
+            <cast id="#bohemia">KING OF BOHEMIA, German accent</cast>
+            <cast id="#bartender">BARTENDER</cast>
+            <cast id="#cabman1">1ST CABMAN (2 lines)</cast>
+            <cast id="#norton">GEOFFREY NORTON (1 line)</cast>
+            <cast id="#adler">IRENE ADLER (PRONOUNCED eye-REE-nee ADD-ler)</cast>
+            <cast id="#cabman2">2ND CABMAN (3 lines)</cast>
+            <cast id="#alfie">ALFIE</cast>
+            <cast id="#pat">PAT (1 line)</cast>
+            <cast id="#hattie">HATTIE</cast>
+            <cast id="#ernie">ERNIE (4 lines)</cast>
+            <cast id="#bert">BERT (2 lines)</cast>
+            <cast id="#maid">MAID (4 lines)</cast></castList>
     </metadata>
-    <scene>
-        <ln><speaker>ANNOUNCER</speaker> This episode from the life of <mention ref="#holmes"
-                >Sherlock Holmes </mention> will be transmitted to our men and women overseas by
-            short wave and through the worldwide facilities of the Armed Forces Radio Service. Petri
-            Wine brings you-- </ln>
 
-        <music> STING </music>
+    <script>
+        <ln><speaker>ANNOUNCER</speaker> This episode from the life of <mention ref="holmes"
+                >Sherlock Holmes</mention> will be transmitted to our men and women overseas by
+            short wave and through the worldwide facilities of the Armed Forces Radio Service. Petri
+            Wine brings you--</ln>
+
+        <ln>
+            <music> STING</music>
+        </ln>
 
         <ln><speaker>ANNOUNCER</speaker> Basil Rathbone and Nigel Bruce in "The New Adventures of
-                <mention ref="#holmes">Sherlock Holmes </mention>." </ln>
+                <mention ref="holmes">Sherlock Holmes</mention>."</ln>
 
-        <music> UP AND OUT </music>
+        <ln>
+            <music> UP AND OUT</music>
+        </ln>
 
         <ln><speaker>ANNOUNCER</speaker> The Petri family -- the family that took time to bring you
-            good wine -- invites you to listen to <mention ref="#watson">Dr. Watson </mention> tell
-            us another exciting adventure he shared with his old friend, that master detective,
-                <mention ref="#holmes">Sherlock Holmes </mention>. And you know something? I had an
+            good wine -- invites you to listen to <mention ref="watson">Dr. Watson</mention> tell us
+            another exciting adventure he shared with his old friend, that master detective,
+                <mention ref="holmes">Sherlock Holmes</mention>. And you know something? I had an
             adventure tonight I wish you could have shared with me. I had a steak about, oh, an inch
             and a half thick, tender and juicy, and with it I had a glass of Petri California
             Burgundy. Now there's a combination -- steak and Petri Burgundy. That Petri Burgundy is
@@ -47,50 +50,59 @@
             is only good with steak -- it'll make a hamburger sandwich taste like a feast, too. Try
             Petri Burgundy with any meat or meat dish. It's just wonderful! And serve it proudly,
             too, because after all, the name Petri is the proudest name in the history of American
-            wines. </ln>
+            wines.</ln>
 
-        <music> THEME </music>
+        <ln>
+            <music> THEME</music>
+        </ln>
 
-        <ln><speaker>ANNOUNCER</speaker> And now I know <mention ref="#watson">Dr. Watson
-            </mention>'s waiting for us, so let's go in and join him. </ln>
+        <ln><speaker>ANNOUNCER</speaker> And now I know <mention ref="watson">Dr. Watson</mention>'s
+            waiting for us, so let's go in and join him.</ln>
 
-        <ln><speaker>SOUND</speaker> KNOCK ON DOOR </ln>
+        <ln>
+            <sound> KNOCK ON DOOR </sound>
+        </ln>
 
         <ln><speaker>WATSON</speaker>
-            <expression> BEHIND DOOR </expression> Come in. Come in, come in. </ln>
+            <stageDirect>BEHIND DOOR</stageDirect> Come in. Come in, come in.</ln>
 
-        <ln><speaker>SOUND</speaker> DOOR OPENS </ln>
+        <ln>
+            <sound> DOOR OPENS </sound>
+        </ln>
 
-        <ln><speaker>ANNOUNCER</speaker> Good evening, <mention ref="#watson">Dr. Watson </mention>. </ln>
+        <ln><speaker>ANNOUNCER</speaker> Good evening, <mention ref="watson">Dr. Watson</mention>. </ln>
 
-        <ln><speaker>WATSON</speaker> Good evening, Mr. Bartell. </ln>
+        <ln><speaker>WATSON</speaker> Good evening, Mr. Bartell.</ln>
 
-        <ln><speaker>SOUND</speaker> DOOR SHUTS </ln>
+        <ln>
+            <sound> DOOR SHUTS </sound>
+        </ln>
 
         <ln><speaker>WATSON</speaker> You're quite muffled up tonight, I see. Overcoat, scarf and
-            gloves. Slip 'em off and come and join me by the fire. </ln>
+            gloves. Slip 'em off and come and join me by the fire.</ln>
 
-        <ln><speaker>ANNOUNCER</speaker> Thanks, doctor. Quite a nip in the air tonight. </ln>
+        <ln><speaker>ANNOUNCER</speaker> Thanks, doctor. Quite a nip in the air tonight.</ln>
 
-        <ln><speaker>WATSON</speaker> Yes, there is indeed. </ln>
+        <ln><speaker>WATSON</speaker> Yes, there is indeed.</ln>
 
         <ln><speaker>ANNOUNCER</speaker> Well, doctor, you told us last week that tonight's story
-            centered around the activities of a brilliant and beautiful woman. </ln>
+            centered around the activities of a brilliant and beautiful woman.</ln>
 
-        <ln><speaker>WATSON</speaker> Yes, my boy. Her name was Irene Adler. But I never knew Holmes
-            to refer to her by any other name than "The Woman." </ln>
+        <ln><speaker>WATSON</speaker> Yes, my boy. Her name was Irene Adler. But I never
+                knew<mention ref="holmes"> Holmes</mention> to refer to her by any other name than
+            "The Woman."</ln>
 
         <ln><speaker>ANNOUNCER</speaker> She sounds mighty intriguing. How did you happen to meet up
-            with her? </ln>
+            with her?</ln>
 
         <ln><speaker>WATSON</speaker> Well, I'll tell you the story from the beginning. One night --
             it was on the twentieth of March, Eighteen Hundred and Eighty-Eight, to be exact -- I
             was returning home from a visit to a patient, when my steps led me through Baker Street.
-            Since my marriage, I hadn't seen much of <mention ref="#holmes">Sherlock Holmes
-            </mention> and-- </ln>
+            Since my marriage, I hadn't seen much of <mention ref="holmes">Sherlock Holmes</mention>
+            and--</ln>
 
         <ln><speaker>ANNOUNCER</speaker> You couldn't resist stopping by Two-Twenty-One B, I'm sure,
-            doctor. </ln>
+            doctor.</ln>
 
         <ln><speaker>WATSON</speaker> Of course I couldn't. As I stood outside the well-remembered
             door, I looked up at the lighted windows and saw the tall, spare figure of my old friend
@@ -98,229 +110,245 @@
             eagerly, with his head sunk on his chest and his hands clasped behind him. To me, who
             knew his every mood and habit, his attitude and manner told their own story. He was hot
             on the scent of some new problem. I rang the bell and a few moments later, found myself
-            standing before him. <expression> FADES OUT </expression>
-        </ln>
+            standing before him. <stageDirect>FADES OUT</stageDirect></ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> FADES IN </expression> Marriage suits you, <mention ref="#watson">Watson
-            </mention>. You look in splendid shape. </ln>
+            <stageDirect>FADES IN</stageDirect> Marriage suits you,<mention ref="watson">
+                Watson</mention>. You look in splendid shape.</ln>
 
-        <ln><speaker>WATSON</speaker> Yes, Holmes, I'm feeling very well, thanks. </ln>
+        <ln><speaker>WATSON</speaker> Yes,<mention ref="holmes"> Holmes</mention>, I'm feeling very
+            well, thanks.</ln>
 
         <ln><speaker>HOLMES</speaker> And in practice again, I see. You didn't tell me that you'd
-            gone back into harness. </ln>
+            gone back into harness.</ln>
 
         <ln><speaker>WATSON</speaker>
-            <expression> SURPRISED </expression> Oh? How do you know? </ln>
+            <stageDirect>SURPRISED</stageDirect> Oh? How do you know?</ln>
 
         <ln><speaker>HOLMES</speaker> Elementary, my dear chap. If a gentleman walks into my rooms
             smelling of iodoform, with a black mark of nitrate of silver on his right forefinger and
             a bulge on the left side of his hat to show where he has secreted his stethoscope, I
             should be dull, indeed, if I didn't pronounce him to be an active member of the medical
-            profession. </ln>
+            profession.</ln>
 
         <ln><speaker>WATSON</speaker>
-            <expression> CHUCKLES </expression> Same as ever, Holmes. By the way, I'm, uh-- I'm not
-            interrupting you, am I? </ln>
+            <stageDirect>CHUCKLES</stageDirect> Same as ever,<mention ref="holmes">
+            Holmes</mention>. By the way, I'm, uh-- I'm not interrupting you, am I?</ln>
 
         <ln><speaker>HOLMES</speaker> Yes, you are, old fellow, but it's a most welcome
-            interruption. </ln>
+            interruption.</ln>
 
-        <ln><speaker>WATSON</speaker> You're working on a new case? </ln>
+        <ln><speaker>WATSON</speaker> You're working on a new case?</ln>
 
         <ln><speaker>HOLMES</speaker> It looks like it. This letter arrived by the last post today.
-            It's undated, and has neither signature nor address. Read it. </ln>
+            It's undated, and has neither signature nor address. Read it.</ln>
 
         <ln><speaker>WATSON</speaker>
-            <expression> MUMBLES) Let's have a look. (READS) "There will call upon you tonight, at a
-                quarter to eight o'clock, a gentleman who desires to consult you upon a matter of
-                the very deepest moment. Your recent services to one of the royal houses of Europe
-                have shown that you are one who may safely be trusted. This account of you we have
-                from all quarters received." (TO HIMSELF) Hm! (READS) "Be in your chamber, then, at
-                that hour, and do not take it amiss if your visitor wears a mask." (TO HOLMES
-            </expression> Great Scott, it all sounds very mysterious. What do you imagine it means? </ln>
+            <stageDirect>MUMBLES</stageDirect> Let's have a look. <stageDirect>READS</stageDirect>
+            "There will call upon you tonight, at a quarter to eight o'clock, a gentleman who
+            desires to consult you upon a matter of the very deepest moment. Your recent services to
+            one of the royal houses of Europe have shown that you are one who may safely be trusted.
+            This account of you we have from all quarters received." <stageDirect>TO
+                HIMSELF</stageDirect> Hm! <stageDirect>READS</stageDirect> "Be in your chamber,
+            then, at that hour, and do not take it amiss if your visitor wears a mask."
+                <stageDirect>TO HOLMES</stageDirect> Great Scott, it all sounds very mysterious.
+            What do you imagine it means?</ln>
 
-        <ln><speaker>HOLMES</speaker> Look carefully at the note, <mention ref="#watson">Watson
-            </mention>. What do you deduce from it? </ln>
+        <ln><speaker>HOLMES</speaker> Look carefully at the note,<mention ref="watson">
+                Watson</mention>. What do you deduce from it?</ln>
 
         <ln><speaker>WATSON</speaker> Oh, let's see. Well, the man who wrote it was presumably
             well-to-do. Such paper couldn't be bought for under half a crown a packet. And it's
-            peculiarly strong and stiff. </ln>
+            peculiarly strong and stiff.</ln>
 
         <ln><speaker>HOLMES</speaker> Peculiar -- that's the very word. It's not an English paper at
-            all. Hold it up to the light. You notice anything? </ln>
+            all. Hold it up to the light. You notice anything?</ln>
 
-        <ln><speaker>WATSON</speaker> Yes. There's a large "E" with a small "g"-- </ln>
+        <ln><speaker>WATSON</speaker> Yes. There's a large "E" with a small "g"--</ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> AGREES </expression> Mm hm. </ln>
+            <stageDirect>AGREES</stageDirect> Mm hm.</ln>
 
         <ln><speaker>WATSON</speaker> --and a large "G" with a small "t" woven into the texture of
-            the paper. </ln>
+            the paper.</ln>
 
-        <ln><speaker>HOLMES</speaker> What does that suggest to you? </ln>
+        <ln><speaker>HOLMES</speaker> What does that suggest to you?</ln>
 
-        <ln><speaker>WATSON</speaker> The name of the maker, no doubt; or perhaps his monogram. </ln>
+        <ln><speaker>WATSON</speaker> The name of the maker, no doubt; or perhaps his monogram.</ln>
 
         <ln><speaker>HOLMES</speaker> Not at all, my dear fellow. The "G" with the small "t" stands
-            for "Gesellschaft," which is the German for "Company." </ln>
+            for "Gesellschaft," which is the German for "Company."</ln>
 
         <ln><speaker>WATSON</speaker> And the "E - g"? </ln>
 
         <ln><speaker>HOLMES</speaker> That stands for Egria. </ln>
 
-        <ln><speaker>WATSON</speaker> Egria? </ln>
+        <ln><speaker>WATSON</speaker> Egria?</ln>
 
         <ln><speaker>HOLMES</speaker> It's in a German-speaking country in Bohemia, not far from
             Carlsbad. </ln>
 
         <ln><speaker>WATSON</speaker> So the paper was made in Bohemia. </ln>
 
-        <ln><speaker>HOLMES</speaker> Undoubtedly. And the man who wrote the note is a German. </ln>
+        <ln><speaker>HOLMES</speaker> Undoubtedly. And the man who wrote the note is a German.</ln>
 
-        <ln><speaker>WATSON</speaker> How do you know that? </ln>
+        <ln><speaker>WATSON</speaker> How do you know that?</ln>
 
         <ln><speaker>HOLMES</speaker> Observe the curious construction of the sentence, "This
             account of you we have from all quarters received." A Frenchman or a Russian could not
-            have written that. It's the German who is so discourteous to his verbs. </ln>
+            have written that. It's the German who is so discourteous to his verbs.</ln>
 
-        <ln><speaker>SOUND</speaker> VICTORIAN DOORBELL JANGLES, OFF </ln>
+        <ln>
+            <sound> VICTORIAN DOORBELL JANGLES, OFF</sound>
+        </ln>
 
-        <ln><speaker>WATSON</speaker> There's your client now. I'd better go, Holmes. </ln>
+        <ln><speaker>WATSON</speaker> There's your client now. I'd better go,<mention ref="holmes">
+                Holmes</mention>. </ln>
 
         <ln><speaker>HOLMES</speaker> No, no, no, no -- unless you have to. </ln>
 
-        <ln><speaker>WATSON</speaker> Well, I could stay; I thought perhaps that-- </ln>
+        <ln><speaker>WATSON</speaker> Well, I could stay; I thought perhaps that--</ln>
 
         <ln><speaker>HOLMES</speaker> Then, my dear chap, stay. by all means. I'm lost without my
             Boswell, and this promises to be interesting. I told Mrs. Hudson to let the masked
-            visitor come upstairs unannounced. </ln>
+            visitor come upstairs unannounced.</ln>
 
-        <ln><speaker>SOUND</speaker> KNOCK ON DOOR </ln>
-        <ln><speaker>HOLMES</speaker> Come in. </ln>
+        <ln>
+            <sound> KNOCK ON DOOR</sound>
+        </ln>
+        <ln><speaker>HOLMES</speaker> Come in.</ln>
 
-        <ln><speaker>SOUND</speaker> DOOR OPENS AND SHUTS </ln>
+        <ln>
+            <sound> DOOR OPENS AND SHUTS </sound>
+        </ln>
 
         <ln><speaker>HOLMES</speaker> Good evening, sir. </ln>
 
-        <ln><speaker>KING</speaker> You, uh-- You received my note? </ln>
+        <ln><speaker>KING</speaker> You, uh-- You received my note?</ln>
 
         <ln><speaker>HOLMES</speaker> Yes, indeed. Come in, won't you, and sit down? </ln>
 
-        <ln><speaker>SOUND</speaker> KING WALKS TO CHAIR AND SITS BEHIND-- </ln>
+        <ln>
+            <sound> KING WALKS TO CHAIR AND SITS BEHIND--</sound>
+        </ln>
 
-        <ln><speaker>HOLMES</speaker> This is my friend and colleague, <mention ref="#watson">Dr.
-                Watson </mention>. You may say anything before him that you can say to me. Whom have
-            I the honor to address? </ln>
+        <ln><speaker>HOLMES</speaker> This is my friend and colleague, <mention ref="watson">Dr.
+                Watson</mention>. You may say anything before him that you can say to me. Whom have
+            I the honor to address?</ln>
 
-        <ln><speaker>KING</speaker> You may address me as, er, Count Von Kramm. </ln>
+        <ln><speaker>KING</speaker> You may address me as, er, Count Von Kramm.</ln>
 
-        <ln><speaker>WATSON</speaker> How do you do, sir? </ln>
+        <ln><speaker>WATSON</speaker> How do you do, sir?</ln>
 
         <ln><speaker>KING</speaker> You must excuse this mask that I wear. The august person who
             employs me wishes his agent to be unknown to you, and I may confess at once that the
-            title by which I have just called myself is not exactly my own. </ln>
+            title by which I have just called myself is not exactly my own.</ln>
 
         <ln><speaker>HOLMES</speaker> I was well aware of that fact, sir. </ln>
 
-        <ln><speaker>KING</speaker> You see, <mention ref="#holmes">Mr. Holmes</mention>, the matter
+        <ln><speaker>KING</speaker> You see, <mention ref="holmes">Mr. Holmes</mention>, the matter
             I am about to discuss implicates the great House of Ormstein, hereditary kings of
-            Bohemia. </ln>
+            Bohemia.</ln>
 
         <ln><speaker>HOLMES</speaker> That had not escaped me either, sir. In fact, if you will
-            state your case, I shall be better able to advise you -- your Majesty. </ln>
+            state your case, I shall be better able to advise you -- your Majesty.</ln>
 
         <ln><speaker>KING</speaker>
-            <expression> ASTONISHED) How--? How did you--? (DECISIVELY </expression> Yes. Yes, I am
-            the King. Why should I attempt to conceal it? </ln>
+            <stageDirect>ASTONISHED</stageDirect> How--? How did you--?
+                <stageDirect>DECISIVELY</stageDirect> Yes. Yes, I am the King. Why should I attempt
+            to conceal it?</ln>
 
-        <ln><speaker>HOLMES</speaker> Why, indeed? </ln>
+        <ln><speaker>HOLMES</speaker> Why, indeed?</ln>
 
-        <ln><speaker>KING</speaker> I shall remove the mask. <expression> BEAT </expression> There.
-                <mention ref="#holmes">Mr. Holmes</mention>, I have traveled incognito from Prague
-            for the express purpose of consulting you. </ln>
+        <ln><speaker>KING</speaker> I shall remove the mask. <stageDirect>BEAT</stageDirect> There.
+                <mention ref="holmes">Mr. Holmes</mention>, I have traveled incognito from Prague
+            for the express purpose of consulting you.</ln>
 
         <ln><speaker>HOLMES</speaker> Then, pray consult. </ln>
 
         <ln><speaker>KING</speaker> Briefly, the facts are these. Some five years ago, during a
-            visit to Warsaw, I made the acquaintance of the well-known adventuress, Irene Adler. </ln>
+            visit to Warsaw, I made the acquaintance of the well-known adventuress, Irene
+            Adler.</ln>
 
-        <ln><speaker>WATSON</speaker> Irene Adler? We know of her, your Majesty. </ln>
+        <ln><speaker>WATSON</speaker> Irene Adler? We know of her, your Majesty.</ln>
 
-        <ln><speaker>HOLMES</speaker> Look her up in the index for me, will you, <mention
-                ref="#watson">Watson </mention>? It's right beside you on the desk there. </ln>
+        <ln><speaker>HOLMES</speaker> Look her up in the index for me, will you,<mention
+                ref="watson"> Watson</mention>? It's right beside you on the desk there.</ln>
 
         <ln><speaker>KING</speaker> I imagined that her name would not be unfamiliar to you. </ln>
 
-        <ln><speaker>SOUND</speaker> SHUFFLE OF PAPERS ... IN AGREEMENT WITH FOLLOWING-- </ln>
+        <ln>
+            <sound> SHUFFLE OF PAPERS ... IN AGREEMENT WITH FOLLOWING--</sound>
+        </ln>
 
-        <ln><speaker>WATSON</speaker> Here we are, here we are. <expression> READS) "A. Abrahams,
-                Actongreen (Hatchet Murders </expression>, Adler--" Adler. </ln>
+        <ln><speaker>WATSON</speaker> Here we are, here we are. <stageDirect>READS</stageDirect> "A.
+            Abrahams, Actongreen <stageDirect>Hatchet Murders</stageDirect>, Adler--" Adler.</ln>
 
         <ln><speaker>HOLMES</speaker> Splendid. Hand me the file, old chap. Thank you. Mm hm!
-                <expression> READS AND MUSES) "Irene Adler. Born in New Jersey in the United States
-                of America in Eighteen Fifty-Eight. Contralto." Mm hm. "Prima donna, Imperial Opera
-                of Warsaw." Oh. "Retired from operatic stage. Living in London." Quite so. And
-                here's a recent notation -- uh huh. (TO KING </expression> Your Majesty, as I
-            understand, became entangled with this young person, wrote her some compromising letters
-            and is now desirous of getting those letters back. </ln>
+                <stageDirect>READS AND MUSES</stageDirect> "Irene Adler. Born in New Jersey in the
+            United States of America in Eighteen Fifty-Eight. Contralto." Mm hm. "Prima donna,
+            Imperial Opera of Warsaw." Oh. "Retired from operatic stage. Living in London." Quite
+            so. And here's a recent notation -- uh huh. <stageDirect>TO KING</stageDirect> Your
+            Majesty, as I understand, became entangled with this young person, wrote her some
+            compromising letters and is now desirous of getting those letters back.</ln>
 
         <ln><speaker>KING</speaker>
-            <expression> AMAZED </expression> Precisely so. But how could--? </ln>
+            <stageDirect>AMAZED</stageDirect> Precisely so. But how could--?</ln>
 
-        <ln><speaker>HOLMES</speaker> Was there a secret marriage? </ln>
+        <ln><speaker>HOLMES</speaker> Was there a secret marriage?</ln>
 
-        <ln><speaker>KING</speaker> None. </ln>
+        <ln><speaker>KING</speaker> None.</ln>
 
-        <ln><speaker>HOLMES</speaker> No legal papers or certificates? </ln>
+        <ln><speaker>HOLMES</speaker> No legal papers or certificates?</ln>
 
-        <ln><speaker>KING</speaker> Er, no. </ln>
+        <ln><speaker>KING</speaker> Er, no.</ln>
 
         <ln><speaker>HOLMES</speaker> Then I fail to follow, your Majesty. If this young lady should
-            produce her letters for blackmailing purposes, how is she to prove their authenticity? </ln>
+            produce her letters for blackmailing purposes, how is she to prove their
+            authenticity?</ln>
 
-        <ln><speaker>KING</speaker> There is the handwriting. </ln>
+        <ln><speaker>KING</speaker> There is the handwriting.</ln>
 
-        <ln><speaker>WATSON</speaker> That could be a forgery, your Majesty. </ln>
+        <ln><speaker>WATSON</speaker> That could be a forgery, your Majesty.</ln>
 
-        <ln><speaker>KING</speaker> But it was private note-paper. </ln>
+        <ln><speaker>KING</speaker> But it was private note-paper.</ln>
 
-        <ln><speaker>HOLMES</speaker> Stolen. </ln>
+        <ln><speaker>HOLMES</speaker> Stolen.</ln>
 
-        <ln><speaker>KING</speaker> My own seal. </ln>
+        <ln><speaker>KING</speaker> My own seal.</ln>
 
-        <ln><speaker>HOLMES</speaker> Imitated. </ln>
+        <ln><speaker>HOLMES</speaker> Imitated.</ln>
 
-        <ln><speaker>KING</speaker> My photograph. </ln>
+        <ln><speaker>KING</speaker> My photograph.</ln>
 
-        <ln><speaker>HOLMES</speaker> Bought. </ln>
+        <ln><speaker>HOLMES</speaker> Bought.</ln>
 
-        <ln><speaker>KING</speaker> But - we were both in the photograph. </ln>
+        <ln><speaker>KING</speaker> But - we were both in the photograph.</ln>
 
         <ln><speaker>HOLMES</speaker> Oh, dear me. Yes, that's very bad. Your Majesty has indeed
-            committed an indiscretion. </ln>
+            committed an indiscretion.</ln>
 
-        <ln><speaker>WATSON</speaker> Did you inscribe this photograph, your Majesty? </ln>
+        <ln><speaker>WATSON</speaker> Did you inscribe this photograph, your Majesty?</ln>
 
-        <ln><speaker>KING</speaker> Yes, <mention ref="#watson">Dr. Watson </mention>, I am afraid I
+        <ln><speaker>KING</speaker> Yes, <mention ref="watson">Dr. Watson</mention>, I am afraid I
             did. </ln>
 
         <ln><speaker>WATSON</speaker>
-            <expression> MUMBLES </expression> Good gracious me. </ln>
+            <stageDirect>MUMBLES</stageDirect> Good gracious me.</ln>
 
         <ln><speaker>KING</speaker>
-            <mention ref="#holmes">Mr. Holmes</mention>, it must be recovered. </ln>
+            <mention ref="holmes">Mr. Holmes</mention>, it must be recovered. </ln>
 
         <ln><speaker>HOLMES</speaker> Perhaps if you were to pay enough, the photograph might be
             bought. </ln>
 
         <ln><speaker>KING</speaker> She refuses to sell. </ln>
 
-        <ln><speaker>HOLMES</speaker> Stolen, then. </ln>
+        <ln><speaker>HOLMES</speaker> Stolen, then.</ln>
 
         <ln><speaker>KING</speaker> Five attempts have been made. Twice burglars in my pay ransacked
             her house. Once we diverted her luggage when she traveled. Twice she has been waylaid.
-            There has been no result. </ln>
+            There has been no result.</ln>
 
         <ln><speaker>HOLMES</speaker> Oh, dear, it's quite a pretty little problem. </ln>
 
@@ -331,32 +359,33 @@
 
         <ln><speaker>KING</speaker> To ruin me. </ln>
 
-        <ln><speaker>HOLMES</speaker> How, sir? </ln>
+        <ln><speaker>HOLMES</speaker> How, sir?</ln>
 
         <ln><speaker>KING</speaker> Well, I am about to be married to the second daughter of the
             King of Scandinavia. She is the [very] soul of delicacy. A shadow of a doubt as to my
-            conduct would bring the matter to an end. </ln>
+            conduct would bring the matter to an end.</ln>
 
         <ln><speaker>HOLMES</speaker> And Irene Adler threatens to send the photograph to your
-            fianc矇e, I suppose? </ln>
+            fiancée, I suppose? </ln>
 
         <ln><speaker>KING</speaker> Yes, and she will do it. Rather than let me marry another woman,
-            there are no lengths to which she would not go. None. </ln>
+            there are no lengths to which she would not go. None.</ln>
 
-        <ln><speaker>WATSON</speaker> Are you sure that she hasn't already sent it, your Majesty? </ln>
+        <ln><speaker>WATSON</speaker> Are you sure that she hasn't already sent it, your
+            Majesty?</ln>
 
-        <ln><speaker>KING</speaker> I am sure. </ln>
+        <ln><speaker>KING</speaker> I am sure.</ln>
 
-        <ln><speaker>HOLMES</speaker> And why? </ln>
+        <ln><speaker>HOLMES</speaker> And why?</ln>
 
         <ln><speaker>KING</speaker> She said she would send it on the day my betrothal is publicly
-            announced. That day will be next Monday. </ln>
+            announced. That day will be next Monday.</ln>
 
         <ln><speaker>HOLMES</speaker> Splendid! Then we still have three days. Your Majesty will, of
-            course, stay in London for the present? </ln>
+            course, stay in London for the present?</ln>
 
         <ln><speaker>KING</speaker> Yes, certainly. You will find me at the Langham Hotel,
-            registered as Count Von Kramm. </ln>
+            registered as Count Von Kramm.</ln>
 
         <ln><speaker>HOLMES</speaker> Just two questions before you leave. </ln>
 
@@ -364,248 +393,283 @@
 
         <ln><speaker>HOLMES</speaker> Is the photograph large or small? </ln>
 
-        <ln><speaker>KING</speaker> Quite large. And it was in a heavy frame. </ln>
+        <ln><speaker>KING</speaker> Quite large. And it was in a heavy frame.</ln>
 
-        <ln><speaker>HOLMES</speaker> I see. And what is Irene Adler's London address, please? </ln>
+        <ln><speaker>HOLMES</speaker> I see. And what is Irene Adler's London address, please?</ln>
 
-        <ln><speaker>KING</speaker> Briony Lodge, Serpentine Avenue, St. John's Wood. </ln>
+        <ln><speaker>KING</speaker> Briony Lodge, Serpentine Avenue, St. John's Wood.</ln>
 
         <ln><speaker>HOLMES</speaker> Thank you, your Majesty. Good night, and I trust that we shall
-            soon have some good news for you. </ln>
+            soon have some good news for you.</ln>
 
         <ln><speaker>KING</speaker>
-            <expression> RISES</expression> I am placing all my hopes in you, <mention ref="#holmes"
-                >Mr. Holmes</mention>. <expression>MOVING OFF </expression> Good night. Good night,
-                <mention ref="#watson">Dr. Watson </mention>. </ln>
+            <stageDirect>RISES</stageDirect> I am placing all my hopes in you, <mention ref="holmes"
+                >Mr. Holmes</mention>. <stageDirect>MOVING OFF</stageDirect> Good night. Good night,
+                <mention ref="watson">Dr. Watson</mention>.</ln>
 
         <ln><speaker>WATSON</speaker> Good night, your Majesty. </ln>
 
-        <ln><speaker>SOUND</speaker> DOOR OPENS AND SHUTS </ln>
+        <ln>
+            <sound> DOOR OPENS AND SHUTS</sound>
+        </ln>
 
-        <ln><speaker>WATSON</speaker> Fascinating problem, Holmes. I wish I could help you with it. </ln>
+        <ln><speaker>WATSON</speaker> Fascinating problem,<mention ref="holmes"> Holmes</mention>. I
+            wish I could help you with it. </ln>
 
         <ln><speaker>HOLMES</speaker> You can, my dear chap. I shall be glad of your company. </ln>
 
-        <ln><speaker>WATSON</speaker> What's our first move, Holmes? </ln>
+        <ln><speaker>WATSON</speaker> What's our first move,<mention ref="holmes"> Holmes</mention>? </ln>
 
         <ln><speaker>HOLMES</speaker> A good night's rest. We'll meet here at ten o'clock tomorrow
             morning. </ln>
 
-        <ln><speaker>WATSON</speaker> And then? </ln>
+        <ln><speaker>WATSON</speaker> And then?</ln>
 
         <ln><speaker>HOLMES</speaker> Then, my dear fellow, we will see what we can find out about
             Miss Irene Adler, late of the Warsaw Imperial Opera Company and at present residing at
-            Briony Lodge, Serpentine Avenue, St. John's Wood. </ln>
+            Briony Lodge, Serpentine Avenue, St. John's Wood.</ln>
 
-        <music> BRIDGE </music>
+        <ln>
+            <music> BRIDGE </music>
+        </ln>
 
-        <ln><speaker>WATSON</speaker> Well, Holmes, I guess the examination of Briony Lodge didn't
-            prove very illuminating. </ln>
+        <ln><speaker>WATSON</speaker> Well,<mention ref="holmes"> Holmes</mention>, I guess the
+            examination of Briony Lodge didn't prove very illuminating.</ln>
 
         <ln><speaker>HOLMES</speaker> No. A bijou residence that represents the essence of dignified
             suburbia, but tells us very little about the owner. I think a visit to the local public
             house might prove more instructive. Come on, old chap. I see the door of the Coach and
-            Horse is inviting us from across the road. </ln>
+            Horse is inviting us from across the road.</ln>
 
-        <ln><speaker>SOUND</speaker> TWO PAIRS OF FOOTSTEPS ON COBBLESTONE </ln>
+        <ln>
+            <sound> TWO PAIRS OF FOOTSTEPS ON COBBLESTONE</sound>
+        </ln>
 
-        <ln><speaker>WATSON</speaker> Well, our disguises shouldn't cause any suspicion. </ln>
+        <ln><speaker>WATSON</speaker> Well, our disguises shouldn't cause any suspicion.</ln>
 
         <ln><speaker>HOLMES</speaker> [That's why] I suggested them. In the character of a couple of
             stable hands, I felt that we might inspire confidence. This is a horsy neighborhood, and
             there's a wonderful sympathy and freemasonry among their fraternity. Here we are. Better
-            let me do most of the talking. </ln>
+            let me do most of the talking.</ln>
 
         <ln><speaker>WATSON</speaker> Yes, I will. I'm sure that your accent will be more convincing
-            than mine. </ln>
+            than mine.</ln>
 
         <ln><speaker>HOLMES</speaker> Let's go in, shall we? </ln>
 
-        <ln><speaker>SOUND</speaker> PUB DOOR OPENS AND SHUTS ... PUB BACKGROUND; PIANO </ln>
+        <ln>
+            <sound> PUB DOOR OPENS AND SHUTS ... PUB BACKGROUND; PIANO</sound>
+        </ln>
 
         <ln><speaker>BARTENDER</speaker> Well, what'll it be, mateys? </ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> COCKNEY </expression> 'Alf a bowl of malt, please. 'Ow 'bout you, Charley? </ln>
+            <stageDirect>COCKNEY</stageDirect> 'Alf a bowl of malt, please. 'Ow 'bout you,
+            Charley?</ln>
 
         <ln><speaker>WATSON</speaker>
-            <expression> COCKNEY </expression> I'll have the same. </ln>
+            <stageDirect>COCKNEY</stageDirect> I'll have the same.</ln>
 
         <ln><speaker>BARTENDER</speaker> Two half of old and mild. </ln>
 
-        <ln><speaker>SOUND</speaker> PUB BACKGROUND AND PIANO FILLS PAUSE ... THEN DRINKS ARE SET
-            DOWN <expression> AND PIANO OUT </expression> BEHIND-- </ln>
+        <ln>
+            <sound> PUB BACKGROUND AND PIANO FILLS PAUSE ... THEN DRINKS ARE SET DOWN
+                    <stageDirect>AND PIANO OUT</stageDirect> BEHIND--</sound>
+        </ln>
 
-        <ln><speaker>BARTENDER</speaker> Here we are, mateys. Here. That'll be a tenner. </ln>
+        <ln><speaker>BARTENDER</speaker> Here we are, mateys. Here. That'll be a tenner.</ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> COCKNEY </expression> Have a drink wiv us, governor? </ln>
+            <stageDirect>COCKNEY</stageDirect> Have a drink wiv us, governor?</ln>
 
         <ln><speaker>BARTENDER</speaker> Don't mind if I do. I'll have a Guinness. You blokes new
-            around here? </ln>
+            around here?</ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> COCKNEY </expression> Oh, yes. We just come over from Clapham. </ln>
+            <stageDirect>COCKNEY</stageDirect> Oh, yes. We just come over from Clapham.</ln>
 
-        <ln><speaker>BARTENDER</speaker> Clapham, eh? Well, here's looking at you. <expression>
-                DRINKS, EXHALES </expression> You hunting for jobs? </ln>
+        <ln><speaker>BARTENDER</speaker> Clapham, eh? Well, here's looking at you.
+                <stageDirect>DRINKS, EXHALES</stageDirect> You hunting for jobs?</ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> COCKNEY </expression> Yes, that's right. We was told that Miss Adler across
-            at Briony Lodge needed a new coachman and groom. </ln>
+            <stageDirect>COCKNEY</stageDirect> Yes, that's right. We was told that Miss Adler across
+            at Briony Lodge needed a new coachman and groom.</ln>
 
         <ln><speaker>BARTENDER</speaker> Well, it's the first I've heard of it -- but it might be
-            true. Have you been over there to ask? </ln>
+            true. Have you been over there to ask?</ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> COCKNEY </expression> No, not yet. We thought we'd find out something about
-            the old girl first. </ln>
+            <stageDirect>COCKNEY</stageDirect> No, not yet. We thought we'd find out something about
+            the old girl first.</ln>
 
         <ln><speaker>BARTENDER</speaker>
-            <expression> CHUCKLES </expression> She ain't no old girl, matey. She's the prettiest
-            young thing you ever saw under a bonnet, and that's a fact. </ln>
+            <stageDirect>CHUCKLES</stageDirect> She ain't no old girl, matey. She's the prettiest
+            young thing you ever saw under a bonnet, and that's a fact.</ln>
 
         <ln><speaker>WATSON</speaker>
-            <expression> COCKNEY </expression> You know her, governor? </ln>
+            <stageDirect>COCKNEY</stageDirect> You know her, governor? </ln>
 
         <ln><speaker>BARTENDER</speaker> Yeah, of course I know her. Used to drive her carriage, I
             did, afore I come to work here. </ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> COCKNEY </expression> Oh. What's she like? </ln>
+            <stageDirect>COCKNEY</stageDirect> Oh. What's she like? </ln>
 
         <ln><speaker>BARTENDER</speaker> Well, as nice a little lady as you'll find, chum. </ln>
 
         <ln><speaker>WATSON</speaker>
-            <expression> COCKNEY </expression> Work you hard? </ln>
+            <stageDirect>COCKNEY</stageDirect> Work you hard?</ln>
 
         <ln><speaker>BARTENDER</speaker> No. No, no. She lives quiet, like. Goes out singing at
             concerts once in a while. Rest of the time, it's money for gin. She goes out for a drive
             in the park every day at five and comes back to dinner at six-thirty. Rest of the time's
-            your own. </ln>
+            your own.</ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> COCKNEY </expression> Oh, she ain't married, you say? </ln>
+            <stageDirect>COCKNEY</stageDirect> Oh, she ain't married, you say?</ln>
 
         <ln><speaker>BARTENDER</speaker> No, no. But she's got a bloke what comes to see her all the
             time. He's a barrister; nice gentleman. Mr. Geoffrey Norton is his name. Good looking
-            fella; wouldn't be surprised to see 'em get spliced. </ln>
+            fella; wouldn't be surprised to see 'em get spliced.</ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> COCKNEY) Sounds like a nice, cushy job to me. (TO WATSON) Come on, Charley,
-                let's get over to the house and see what's what. (TO BARTENDER </expression> Much
-            obliged to you, chum. </ln>
+            <stageDirect>COCKNEY</stageDirect> Sounds like a nice, cushy job to me. <stageDirect>TO
+                WATSON</stageDirect> Come on, Charley, let's get over to the house and see what's
+            what. <stageDirect>TO BARTENDER</stageDirect> Much obliged to you, chum. </ln>
 
         <ln><speaker>BARTENDER</speaker> Good luck, mateys. </ln>
 
         <ln><speaker>WATSON</speaker>
-            <expression> COCKNEY </expression> Good night. </ln>
+            <stageDirect>COCKNEY</stageDirect> Good night.</ln>
 
         <ln><speaker>BARTENDER</speaker> And thanks for the Guinness! </ln>
 
-        <ln><speaker>SOUND</speaker> PUB DOOR OPENS AND SHUTS ... PUB BACKGROUND OUT </ln>
+        <ln>
+            <sound> PUB DOOR OPENS AND SHUTS ... PUB BACKGROUND OUT</sound>
+        </ln>
 
-        <ln><speaker>WATSON</speaker> What's our next move, Holmes? </ln>
+        <ln><speaker>WATSON</speaker> What's our next move,<mention ref="holmes">
+            Holmes</mention>?</ln>
 
         <ln><speaker>HOLMES</speaker> Let's stroll back to Briony Lodge, shall we? I'm undecided
             whether to continue my investigations there or to try and find out something about Mr.
             Geoffrey Norton, the barrister. If he is just her lawyer and nothing else, it's more
-            than likely that she's entrusted the photograph to his safekeeping. </ln>
+            than likely that she's entrusted the photograph to his safekeeping.</ln>
 
         <ln><speaker>WATSON</speaker> Hello, there's a cab waiting outside Miss Adler's house. </ln>
 
-        <ln><speaker>HOLMES</speaker> Hurry, <mention ref="#watson">Watson </mention>. It may be Mr.
-            Norton's. </ln>
+        <ln><speaker>HOLMES</speaker> Hurry,<mention ref="watson"> Watson</mention>. It may be Mr.
+            Norton's.</ln>
 
-        <ln><speaker>SOUND</speaker> THEIR HURRIED FOOTSTEPS TO THE FRONT GATE </ln>
+        <ln>
+            <sound> THEIR HURRIED FOOTSTEPS TO THE FRONT GATE</sound>
+        </ln>
 
         <ln><speaker>WATSON</speaker>
-            <expression> LOW </expression> Here we are at the gate. </ln>
+            <stageDirect>LOW</stageDirect> Here we are at the gate.</ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> LOW </expression> Yes! And here comes a man hurrying down the pathway.
-            Quick -- behind this post. Listen! </ln>
+            <stageDirect>LOW</stageDirect> Yes! And here comes a man hurrying down the pathway.
+            Quick -- behind this post. Listen!</ln>
 
-        <ln><speaker>SOUND</speaker> NORTON'S FOOTSTEPS RUN TO CAB </ln>
+        <ln>
+            <sound> NORTON'S FOOTSTEPS RUN TO CAB </sound>
+        </ln>
 
-        <ln><speaker>1ST CABMAN</speaker> Where to now, Mr. Norton? </ln>
+        <ln><speaker>1ST CABMAN</speaker> Where to now, Mr. Norton?</ln>
 
         <ln><speaker>NORTON</speaker> Drive like the devil! First to Gross and Hankey's in Regent
             Street, and then to the Church of St. Monica in the Edgeware Road. Half a sovereign if
-            you do it in twenty minutes! </ln>
+            you do it in twenty minutes!</ln>
 
         <ln><speaker>1ST CABMAN</speaker> Right you are, Mr. Norton! Hop in! </ln>
 
-        <ln><speaker>SOUND</speaker> NORTON CLIMBS IN ... CAB DOOR SHUTS </ln>
-
-        <ln><speaker>HOLMES</speaker>
-            <expression> LOW </expression> Try and signal a cab, <mention ref="#watson">Watson
-            </mention>! We must follow him! </ln>
-
-        <ln><speaker>SOUND</speaker> CAB DRIVES DOWN ROAD </ln>
-
-        <ln><speaker>WATSON</speaker> Here comes one! No, no, it isn't. It's a private carriage. </ln>
-
-        <ln><speaker>HOLMES</speaker> Miss Adler's, no doubt! <expression> LOW </expression> Here
-            she comes down the pathway. Back again behind the post, <mention ref="#watson">Watson
-            </mention>! </ln>
-
-        <ln><speaker>SOUND</speaker> ADLER'S FOOTSTEPS RUNNING TOWARD CARRIAGE </ln>
-
-        <ln><speaker>COACHMAN</speaker> Where to, Miss Adler? </ln>
-
-        <ln><speaker>ADLER</speaker> The Church of St. Monica, John, and half a sovereign if you
-            reach it in twenty minutes. </ln>
-
-        <ln><speaker>SOUND</speaker> CARRIAGE DOOR SHUTS ... CARRIAGE DRIVES DOWN ROAD </ln>
-
-        <ln><speaker>HOLMES</speaker> The game's afoot! Quick, we must get a cab and follow them! </ln>
-
-        <ln><speaker>WATSON</speaker> Here comes a hansom! </ln>
-
-        <ln><speaker>SOUND</speaker> HANSOM CAB PULLS UP ... THEN STOPS BEHIND-- </ln>
-
-        <ln><speaker>WATSON</speaker>
-            <expression> CALLS </expression> Cabby! Hey, hey, cabby! </ln>
-
-        <ln><speaker>2ND CABMAN</speaker>
-            <expression> SKEPTICAL </expression> Have you blokes got enough money to take a cab? </ln>
-
-        <ln><speaker>HOLMES</speaker> Here's half a sovereign for you, my man! </ln>
-
-        <ln><speaker>2ND CABMAN</speaker> Right you are! Where to, governor? </ln>
-
-        <ln><speaker>HOLMES</speaker> The Church of St. Monica in the Edgeware Road, and another
-            half sovereign for you if you get us there in twenty minutes! </ln>
-
-        <ln><speaker>SOUND</speaker> CAB DOOR SHUTS ... CAB DRIVES DOWN ROAD </ln>
-
-        <music> CURTAIN </music>
-
-        <ln><speaker>ANNOUNCER</speaker> We'll hear the rest of Dr. <mention ref="#watson">Watson
-            </mention>'s story in just a second, but let me tell you something. If you're going to
-            have chicken for dinner tomorrow night or - or any night, don't forget to serve that
-            chicken with Petri California Sauterne. Believe me, Petri Sauterne is just about the
-            last word in white wines. It's beautifully golden in color, it's delicate and intriguing
-            in flavor and it's just-- Well, you taste it and see for yourself. If you want a
-            delicious white wine, you certainly want Petri Sauterne. <expression> TO WATSON
-            </expression> Well, doctor, again you broke off your story at the most exciting point.
-            Did you and <mention ref="#holmes">Sherlock Holmes </mention> reach that church inside
-            the twenty minutes? </ln>
-
-        <ln><speaker>WATSON</speaker> Yes, Mr. Bartell, we did, but the other carriages were there
-            before us. Holmes went into the church after telling me to guard the outside. I must
-            have waited for ten minutes or more before Mr. Geoffrey Norton and Miss Adler came out,
-            spoke a few words to each other and then left -- then and there, in their separate
-            conveyances. A moment later, Holmes -- still dressed as a stable hand -- came striding
-            out of the church and down the steps towards me. He was obviously very excited.
-                <expression> FADES OUT </expression>
+        <ln>
+            <sound> NORTON CLIMBS IN ... CAB DOOR SHUTS </sound>
         </ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> FADES IN </expression>
-            <mention ref="#watson">Watson </mention>! <mention ref="#watson">Watson </mention>, have
-            they left? </ln>
+            <stageDirect>LOW</stageDirect> Try and signal a cab,<mention ref="watson">
+                Watson</mention>! We must follow him!</ln>
+
+        <ln>
+            <sound> CAB DRIVES DOWN ROAD </sound>
+        </ln>
+
+        <ln><speaker>WATSON</speaker> Here comes one! No, no, it isn't. It's a private
+            carriage.</ln>
+
+        <ln><speaker>HOLMES</speaker> Miss Adler's, no doubt! <stageDirect>LOW</stageDirect> Here
+            she comes down the pathway. Back again behind the post,<mention ref="watson">
+                Watson</mention>!</ln>
+
+        <ln>
+            <sound> ADLER'S FOOTSTEPS RUNNING TOWARD CARRIAGE </sound>
+        </ln>
+
+        <ln><speaker>COACHMAN</speaker> Where to, Miss Adler?</ln>
+
+        <ln><speaker>ADLER</speaker> The Church of St. Monica, John, and half a sovereign if you
+            reach it in twenty minutes.</ln>
+
+        <ln>
+            <sound> CARRIAGE DOOR SHUTS ... CARRIAGE DRIVES DOWN ROAD </sound>
+        </ln>
+
+        <ln><speaker>HOLMES</speaker> The game's afoot! Quick, we must get a cab and follow them! </ln>
+
+        <ln><speaker>WATSON</speaker> Here comes a hansom!</ln>
+
+        <ln>
+            <sound> HANSOM CAB PULLS UP ... THEN STOPS BEHIND--</sound>
+        </ln>
+
+        <ln><speaker>WATSON</speaker>
+            <stageDirect>CALLS</stageDirect> Cabby! Hey, hey, cabby!</ln>
+
+        <ln>2ND <speaker>CABMAN</speaker>
+            <stageDirect>SKEPTICAL</stageDirect> Have you blokes got enough money to take a
+            cab?</ln>
+
+        <ln><speaker>HOLMES</speaker> Here's half a sovereign for you, my man!</ln>
+
+        <ln>2ND <speaker>CABMAN</speaker> Right you are! Where to, governor?</ln>
+
+        <ln><speaker>HOLMES</speaker> The Church of St. Monica in the Edgeware Road, and another
+            half sovereign for you if you get us there in twenty minutes!</ln>
+
+        <ln>
+            <sound> CAB DOOR SHUTS ... CAB DRIVES DOWN ROAD </sound>
+        </ln>
+
+        <ln>
+            <music> CURTAIN</music>
+        </ln>
+
+        <ln><speaker>ANNOUNCER</speaker> We'll hear the rest of <mention ref="watson">Dr.
+                Watson</mention>'s story in just a second, but let me tell you something. If you're
+            going to have chicken for dinner tomorrow night or - or any night, don't forget to serve
+            that chicken with Petri California Sauterne. Believe me, Petri Sauterne is just about
+            the last word in white wines. It's beautifully golden in color, it's delicate and
+            intriguing in flavor and it's just-- Well, you taste it and see for yourself. If you
+            want a delicious white wine, you certainly want Petri Sauterne. <stageDirect>TO
+                WATSON</stageDirect> Well, doctor, again you broke off your story at the most
+            exciting point. Did you and <mention ref="holmes">Sherlock Holmes</mention> reach that
+            church inside the twenty minutes?</ln>
+
+        <ln><speaker>WATSON</speaker> Yes, Mr. Bartell, we did, but the other carriages were there
+            before us.<mention ref="holmes"> Holmes</mention> went into the church after telling me
+            to guard the outside. I must have waited for ten minutes or more before Mr. Geoffrey
+            Norton and Miss Adler came out, spoke a few words to each other and then left -- then
+            and there, in their separate conveyances. A moment later,<mention ref="holmes">
+                Holmes</mention> -- still dressed as a stable hand -- came striding out of the
+            church and down the steps towards me. He was obviously very excited. <stageDirect>FADES
+                OUT</stageDirect>
+        </ln>
+
+        <ln><speaker>HOLMES</speaker>
+            <stageDirect>FADES IN</stageDirect><mention ref="watson"> Watson</mention>!<mention
+                ref="watson"> Watson</mention>, have they left? </ln>
 
         <ln><speaker>WATSON</speaker> Yes, in separate cabs. I overheard him say that he was going
             back to his office. And she said, "I shall drive out in the park at five o'clock, as
@@ -613,11 +677,14 @@
 
         <ln><speaker>HOLMES</speaker> Splendid. Then come on -- we can return to Baker Street. </ln>
 
-        <ln><speaker>SOUND</speaker> THEIR FOOTSTEPS TO CAB, DURING FOLLOWING-- </ln>
+        <ln>
+            <sound> THEIR FOOTSTEPS TO CAB, DURING FOLLOWING--</sound>
+        </ln>
 
-        <ln><speaker>WATSON</speaker> What happened inside the church, Holmes? </ln>
+        <ln><speaker>WATSON</speaker> What happened inside the church,<mention ref="holmes">
+                Holmes</mention>? </ln>
 
-        <ln><speaker>HOLMES</speaker> They were married. </ln>
+        <ln><speaker>HOLMES</speaker> They were married.</ln>
 
         <ln><speaker>WATSON</speaker> Married?! </ln>
 
@@ -625,408 +692,458 @@
             after noon. That accounted for their wild dash to the church. Jump into the cab, old
             fellow. </ln>
 
-        <ln><speaker>2ND CABMAN</speaker> Where to now, governor? </ln>
+        <ln>2ND <speaker>CABMAN</speaker> Where to now, governor?</ln>
 
-        <ln><speaker>HOLMES</speaker> Two Twenty-One B, Baker Street. </ln>
+        <ln><speaker>HOLMES</speaker> Two Twenty-One B, Baker Street.</ln>
 
-        <ln><speaker>SOUND</speaker> CAB DOOR OPENS ... HOLMES AND WATSON CLIMB IN ... CAB DOOR
-            SHUTS ... CAB DRIVES DOWN ROAD, CONTINUES IN BACKGROUND </ln>
+        <ln>
+            <sound> CAB DOOR OPENS ... HOLMES AND WATSON CLIMB IN ... CAB DOOR SHUTS ... CAB DRIVES
+                DOWN ROAD, CONTINUES IN BACKGROUND </sound>
+        </ln>
 
         <ln><speaker>WATSON</speaker> Oh, so they got married, eh? </ln>
 
         <ln><speaker>HOLMES</speaker> Yes. And it may amuse you to know that I acted as witness at
             the ceremony. </ln>
 
-        <ln><speaker>WATSON</speaker> You did? But how did that happen? </ln>
+        <ln><speaker>WATSON</speaker> You did? But how did that happen?</ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> LAUGHS </expression> Their own witness had failed to appear and I was
+            <stageDirect>LAUGHS</stageDirect> Their own witness had failed to appear and I was
             dragged into the breach. The bride gave me this sovereign as a memento. I, uh, think
-            I'll wear it on my watch-chain in memory of the occasion. </ln>
+            I'll wear it on my watch-chain in memory of the occasion.</ln>
 
         <ln><speaker>WATSON</speaker> What an amazing situation. Things begin to look better for the
             king, don't they? Now that she's Mrs. Norton, the chances are that she won't want to
-            expose his Majesty, after all. </ln>
+            expose his Majesty, after all.</ln>
 
-        <ln><speaker>HOLMES</speaker> I hope so, <mention ref="#watson">Watson </mention>, I hope
-            so. But we can't afford to take any chances. I think the time is ripe for us to come to
-            closer grips with the lady! </ln>
+        <ln><speaker>HOLMES</speaker> I hope so,<mention ref="watson"> Watson</mention>, I hope so.
+            But we can't afford to take any chances. I think the time is ripe for us to come to
+            closer grips with the lady!</ln>
 
-        <music> BRIDGE </music>
+        <ln>
+            <music> BRIDGE</music>
+        </ln>
 
-        <ln><speaker>WATSON</speaker> Well, <mention ref="#holmes">Holmes </mention>, now that we've
-            eaten, perhaps you'll tell me your plan. </ln>
+        <ln><speaker>WATSON</speaker> Well,<mention ref="holmes"> Holmes</mention>, now that we've
+            eaten, perhaps you'll tell me your plan.</ln>
 
         <ln><speaker>HOLMES</speaker> With pleasure, my dear fellow -- and while I'm so doing, I'll
-            proceed with applying the makeup for my new disguise. </ln>
+            proceed with applying the makeup for my new disguise.</ln>
 
         <ln><speaker>WATSON</speaker>
-            <expression> AMUSED </expression> Another disguise? What's it to be this time? </ln>
+            <stageDirect>AMUSED</stageDirect> Another disguise? What's it to be this time?</ln>
 
         <ln><speaker>HOLMES</speaker> I think the character and appearance of an amiable,
             simple-minded Nonconformist clergyman would be the most suited to my plan for entering
-            Miss Adler's house. </ln>
+            Miss Adler's house.</ln>
 
         <ln><speaker>WATSON</speaker> You're going to try and enter, then? </ln>
 
         <ln><speaker>HOLMES</speaker> I must, my dear fellow. I'm sure the photograph is there. Miss
             Adler -- or, rather, Mrs. Norton -- will return from her drive in the park at
-            six-thirty. We must be at Briony Lodge to meet her. </ln>
+            six-thirty. We must be at Briony Lodge to meet her.</ln>
 
-        <ln><speaker>WATSON</speaker> And what then? </ln>
+        <ln><speaker>WATSON</speaker> And what then?</ln>
 
         <ln><speaker>HOLMES</speaker> You must leave that to me. I've already made my arrangements.
             There is only one point on which I must insist -- you must not interfere, come what may.
-            You understand? </ln>
+            You understand?</ln>
 
-        <ln><speaker>WATSON</speaker> I'm to remain neutral? </ln>
+        <ln><speaker>WATSON</speaker> I'm to remain neutral?</ln>
 
         <ln><speaker>HOLMES</speaker> Yes. There will be some small unpleasantness. Don't join in.
             It will end in my being conveyed into the house. As soon as I am able to, I shall open
             one of the windows. You are to watch from outside. When I raise my hand, you will throw
             an object -- that I shall give you -- through the window and, at the same time, cry
-            "Fire!" You follow me? </ln>
+            "Fire!" You follow me?</ln>
 
         <ln><speaker>WATSON</speaker> Entirely. But what am I to throw? </ln>
 
         <ln><speaker>HOLMES</speaker> Oh, it's nothing very formidable. Here it is. </ln>
 
-        <ln><speaker>WATSON</speaker> Huh. Looks like a great big cigar. What is it? </ln>
+        <ln><speaker>WATSON</speaker> Huh. Looks like a great big cigar. What is it?</ln>
 
         <ln><speaker>HOLMES</speaker> An ordinary plumber's smoke-rocket, fitted with a cap at
             either end to make it self-lighting. Your task is confined to throwing it through the
             window. When you raise the cry of fire, it will be taken up by quite a number of people.
             You may then walk to the end of the street, and I'll rejoin you in ten minutes. I hope
-            I've made myself clear. </ln>
+            I've made myself clear.</ln>
 
         <ln><speaker>WATSON</speaker> Perfectly. </ln>
 
         <ln><speaker>HOLMES</speaker> Good. And now, old fellow, as soon as I've donned my clerical
-            attire, let's be on our way. There's no time to be lost. </ln>
+            attire, let's be on our way. There's no time to be lost.</ln>
 
-        <music> BRIDGE </music>
+        <ln>
+            <music> BRIDGE </music>
+        </ln>
 
-        <ln><speaker>WATSON</speaker> It's nearly six-thirty, <mention ref="#holmes">Holmes
-            </mention>. We've been pacing up and down in front of her house for half an hour now. I
-            hope she does come back. </ln>
+        <ln><speaker>WATSON</speaker> It's nearly six-thirty,<mention ref="holmes">
+            Holmes</mention>. We've been pacing up and down in front of her house for half an hour
+            now. I hope she does come back.</ln>
 
-        <ln><speaker>HOLMES</speaker> I'm sure she will. </ln>
+        <ln><speaker>HOLMES</speaker> I'm sure she will.</ln>
 
-        <ln><speaker>WATSON</speaker> There seem to be a lot of loafers hanging around her gate. </ln>
+        <ln><speaker>WATSON</speaker> There seem to be a lot of loafers hanging around her
+            gate.</ln>
 
         <ln><speaker>HOLMES</speaker> All part of my conspiracy, old chap. You'll see them play
-            their parts in a few minutes. </ln>
+            their parts in a few minutes.</ln>
 
-        <ln><speaker>WATSON</speaker> You still think the photograph is inside the house? </ln>
+        <ln><speaker>WATSON</speaker> You still think the photograph is inside the house?</ln>
 
         <ln><speaker>HOLMES</speaker> Yes. It's most unlikely that she carries it about with her.
             Remember, the king told us it was a large, framed picture. And also remember that she
             planned to use it within a few days. It must be where she can lay her hands on it. It
-            must be inside her house. </ln>
+            must be inside her house.</ln>
 
         <ln><speaker>WATSON</speaker> But her house has been burgled. Twice. </ln>
 
-        <ln><speaker>HOLMES</speaker> Oh, psh! They didn't know how to look. </ln>
+        <ln><speaker>HOLMES</speaker> Oh, psh! They didn't know how to look.</ln>
 
         <ln><speaker>WATSON</speaker> How will you look? </ln>
 
         <ln><speaker>HOLMES</speaker> I won't. I'll get her to show me. </ln>
 
-        <ln><speaker>WATSON</speaker> Oh, she'll refuse. </ln>
+        <ln><speaker>WATSON</speaker> Oh, she'll refuse.</ln>
 
         <ln><speaker>HOLMES</speaker> She won't be able to-- </ln>
 
-        <ln><speaker>SOUND</speaker> CARRIAGE APPROACHES </ln>
+        <ln>
+            <sound> CARRIAGE APPROACHES</sound>
+        </ln>
 
-        <ln><speaker>HOLMES</speaker> Shh! Here comes the carriage now. Remember, <mention
-                ref="#watson">Watson </mention> -- carry out my orders to the letter. </ln>
+        <ln><speaker>HOLMES</speaker> Shh! Here comes the carriage now. Remember,<mention
+                ref="watson"> Watson</mention> -- carry out my orders to the letter. </ln>
 
         <ln><speaker>WATSON</speaker>
-            <expression> MOVING OFF </expression> You can trust me. Good luck. </ln>
+            <stageDirect>MOVING OFF</stageDirect> You can trust me. Good luck.</ln>
 
-        <ln><speaker>SOUND</speaker> CARRIAGE ROLLS TO A STOP </ln>
+        <ln>
+            <sound> CARRIAGE ROLLS TO A STOP</sound>
+        </ln>
 
         <ln><speaker>ALFIE</speaker>
-            <expression> SARCASTIC </expression> Blimey! 'Ere comes the Duchess of Tiddlywinks! </ln>
+            <stageDirect>SARCASTIC</stageDirect> Blimey! 'Ere comes the Duchess of Tiddlywinks! </ln>
 
-        <ln><speaker>SOUND</speaker> CROWD LAUGHS ... BUZZES IN BACKGROUND </ln>
+        <ln>
+            <sound> CROWD LAUGHS ... BUZZES IN BACKGROUND</sound>
+        </ln>
 
-        <ln><speaker>ALFIE</speaker> Let's put out a carpet; she might get her tootsies wet! </ln>
+        <ln><speaker>ALFIE</speaker> Let's put out a carpet; she might get her tootsies wet!</ln>
 
-        <ln><speaker>PAT</speaker> Awwww, put a sock in it, Alfie! </ln>
+        <ln><speaker>PAT</speaker> Awwww, put a sock in it, Alfie!</ln>
 
         <ln><speaker>HATTIE</speaker> Leave him alone! She's no better than she ought to be! </ln>
 
-        <ln><speaker>SOUND</speaker> CROWD JEERS </ln>
+        <ln>
+            <sound> CROWD JEERS</sound>
+        </ln>
 
-        <ln><speaker>ADLER</speaker> Please, please -- let me through! I live here! </ln>
+        <ln><speaker>ADLER</speaker> Please, please -- let me through! I live here!</ln>
 
         <ln><speaker>ALFIE</speaker> Well, ain't that nice! We'll all come in and have a cup of
             cocoa! </ln>
 
-        <ln><speaker>SOUND</speaker> CROWD JEERS AND LAUGHS ... GROWS INCREASINGLY UNRULY IN
-            BACKGROUND </ln>
+        <ln>
+            <sound> CROWD JEERS AND LAUGHS ... GROWS INCREASINGLY UNRULY IN BACKGROUND</sound>
+        </ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> AS THE CLERGYMAN </expression> Move out of the way, please, and let the
-            lady through. </ln>
+            <stageDirect>AS THE CLERGYMAN</stageDirect> Move out of the way, please, and let the
+            lady through.</ln>
 
         <ln><speaker>HATTIE</speaker> Mind your own business! Just 'cause your collar's turned the
-            wrong way round, you can't spoil our fun! </ln>
+            wrong way round, you can't spoil our fun!</ln>
 
         <ln><speaker>ALFIE</speaker> That's right, Hattie! Keep your nose out of it, parson! </ln>
 
         <ln><speaker>HATTIE</speaker> Stop shovin', will ya? </ln>
 
-        <ln><speaker>ADLER</speaker> Please, please, don't fight about it! </ln>
+        <ln><speaker>ADLER</speaker> Please, please, don't fight about it!</ln>
 
-        <ln><speaker>HOLMES</speaker> I'll - I'll tell you what-- <expression> HAUGHTY </expression>
-            Stop molesting the lady, please! </ln>
+        <ln><speaker>HOLMES</speaker> I'll - I'll tell you what-- <stageDirect>HAUGHTY</stageDirect>
+            Stop molesting the lady, please!</ln>
 
         <ln><speaker>ALFIE</speaker> Do ya? Then how would you like a biff on the nose, Mr.
             Clergyman? </ln>
 
-        <ln><speaker>SOUND</speaker> CROWD JEERS ... ALFIE PUNCHES THE CLERGYMAN WHO FALLS TO THE
-            GROUND ... CROWD REACTS ... ALFIE RUNS AWAY ... CROWD DISPERSES BEHIND-- </ln>
+        <ln>
+            <sound> CROWD JEERS ... ALFIE PUNCHES THE CLERGYMAN WHO FALLS TO THE GROUND ... CROWD
+                REACTS ... ALFIE RUNS AWAY ... CROWD DISPERSES BEHIND--</sound>
+        </ln>
 
         <ln><speaker>ADLER</speaker>
-            <expression> DISTRAUGHT </expression> Oh, he hit the poor man! And then he ran away, the
-            coward! Is the clergyman badly hurt? </ln>
+            <stageDirect>DISTRAUGHT</stageDirect> Oh, he hit the poor man! And then he ran away, the
+            coward! Is the clergyman badly hurt?</ln>
 
         <ln><speaker>ERNIE</speaker> He hit his head, ma'am, as he fell. If you asks me, he's hurt
             bad. </ln>
 
-        <ln><speaker>BERT</speaker> He's bleedin' something terrible. </ln>
+        <ln><speaker>BERT</speaker> He's bleedin' something terrible.</ln>
 
-        <ln><speaker>ERNIE</speaker> Can we bring him in, mum? He can't lie here in the street. </ln>
+        <ln><speaker>ERNIE</speaker> Can we bring him in, mum? He can't lie here in the street.</ln>
 
-        <ln><speaker>ADLER</speaker> Oh, why, of course. Bring him in. </ln>
+        <ln><speaker>ADLER</speaker> Oh, why, of course. Bring him in.</ln>
 
-        <ln><speaker>ERNIE</speaker> Right you are, mum. Here, Bert-- </ln>
+        <ln><speaker>ERNIE</speaker> Right you are, mum. Here, Bert--</ln>
 
-        <ln><speaker>BERT</speaker> Righto. </ln>
+        <ln><speaker>BERT</speaker> Righto.</ln>
 
         <ln><speaker>ERNIE</speaker> --give us a hand. </ln>
 
-        <ln><speaker>SOUND</speaker> MEN GRUNT AS THEY LIFT BODY AND CARRY IT INTO THE HOUSE </ln>
+        <ln>
+            <sound> MEN GRUNT AS THEY LIFT BODY AND CARRY IT INTO THE HOUSE</sound>
+        </ln>
 
         <ln><speaker>HATTIE</speaker>
-            <expression> SADLY </expression> Coo. Poor fella. 'Joo see what happened to him, mister? </ln>
+            <stageDirect>SADLY</stageDirect> Coo. Poor fella. 'Joo see what happened to him,
+            mister?</ln>
 
-        <ln><speaker>WATSON</speaker> Yes, I saw, my good woman. A very convincing demonstration. </ln>
+        <ln><speaker>WATSON</speaker> Yes, I saw, my good woman. A very convincing
+            demonstration.</ln>
 
         <ln><speaker>HATTIE</speaker>
-            <expression> DEFENSIVE </expression> Whatcha mean? </ln>
+            <stageDirect>DEFENSIVE</stageDirect> Whatcha mean?</ln>
 
         <ln><speaker>WATSON</speaker>
-            <expression> LOW </expression> Weren't you paid by, uh, a certain gentleman for this
-            performance? </ln>
+            <stageDirect>LOW</stageDirect> Weren't you paid by, uh, a certain gentleman for this
+            performance?</ln>
 
         <ln><speaker>HATTIE</speaker>
-            <expression> DROPS HER ACT </expression> Ohhh -- you knows about it, too. You must be a
-            friend of Mr. <mention ref="#holmes">Sherlock Holmes </mention>. </ln>
+            <stageDirect>DROPS HER ACT</stageDirect> Ohhh -- you knows about it, too. You must be a
+            friend of Mr. <mention ref="holmes">Sherlock Holmes</mention>.</ln>
 
-        <ln><speaker>WATSON</speaker> Yes, I am. </ln>
+        <ln><speaker>WATSON</speaker> Yes, I am.</ln>
 
         <ln><speaker>HATTIE</speaker> A nice gentleman. He give us five bob apiece for tonight's
             work. We ain't through yet, though. We gotta start yelling "Fire" when somebody tells
-            us. </ln>
+            us.</ln>
 
-        <ln><speaker>WATSON</speaker> I'm that somebody, my dear lady. There's <mention
-                ref="#holmes">Mr. Holmes</mention> now. He's inside the house! </ln>
+        <ln><speaker>WATSON</speaker> I'm that somebody, my dear lady. There's <mention ref="holmes"
+                >Mr. Holmes</mention> now. He's inside the house!</ln>
 
         <ln><speaker>HATTIE</speaker> Yes! He's opening a window! </ln>
 
         <ln><speaker>WATSON</speaker> Now he's raising his hand -- that's my signal. Now, to throw
-            the rocket! <expression> GRUNTS WITH EFFORT) Ah! There we are. (YELLS </expression>
-            Fire! </ln>
+            the rocket! <stageDirect>GRUNTS WITH EFFORT</stageDirect> Ah! There we are.
+                <stageDirect>YELLS</stageDirect> Fire! </ln>
 
-        <ln><speaker>SOUND</speaker> CROWD STARTS YELLING "FIRE! FIRE!" </ln>
+        <ln>
+            <sound> CROWD STARTS YELLING "FIRE! FIRE!" </sound>
+        </ln>
 
-        <music> BRIDGE </music>
+        <ln>
+            <music> BRIDGE </music>
+        </ln>
 
-        <ln><speaker>SOUND</speaker> HOLMES' BRISK FOOTSTEPS APPROACH </ln>
+        <ln>
+            <sound> HOLMES' BRISK FOOTSTEPS APPROACH</sound>
+        </ln>
 
-        <ln><speaker>WATSON</speaker> Holmes -- there you are! You - you have the photograph? </ln>
+        <ln><speaker>WATSON</speaker><mention ref="holmes"> Holmes</mention> -- there you are! You -
+            you have the photograph? </ln>
 
         <ln><speaker>HOLMES</speaker> No, but I know where it is. She showed me, as I told you she
             would. </ln>
 
-        <ln><speaker>WATSON</speaker> Well, I'm still in the dark. </ln>
+        <ln><speaker>WATSON</speaker> Well, I'm still in the dark.</ln>
 
         <ln><speaker>HOLMES</speaker> There's no mystery, old chap. When my accomplices started the
             row in the street, I had a little moist red paint in my hand. My good friend Alfie
-            pretended to strike me; I clapped my hand to my head and fell down. It's an old trick. </ln>
+            pretended to strike me; I clapped my hand to my head and fell down. It's an old
+            trick.</ln>
 
         <ln><speaker>WATSON</speaker> Yes, I understand that, but how did my throwing the rocket
-            help you? </ln>
+            help you?</ln>
 
         <ln><speaker>HOLMES</speaker> It was all-important, my dear fellow. When a woman thinks her
             house is on fire, her instinct is at once to rush for the thing that she values most. A
             married woman grabs her baby; an unmarried one reaches for her jewel-box. In this case,
-            of course, it was the photograph. </ln>
+            of course, it was the photograph.</ln>
 
-        <ln><speaker>WATSON</speaker> Where was it? </ln>
+        <ln><speaker>WATSON</speaker> Where was it?</ln>
 
         <ln><speaker>HOLMES</speaker> In a recess in the living room, just above the right-hand
             bell-pull. I caught a glimpse of it as she drew it out. When I made it known that the
             fire was a false alarm, she replaced the photograph. As soon as I was able to, I advised
-            her that I was feeling well enough to leave. </ln>
+            her that I was feeling well enough to leave.</ln>
 
-        <ln><speaker>WATSON</speaker> You didn't take the photograph, then. </ln>
+        <ln><speaker>WATSON</speaker> You didn't take the photograph, then.</ln>
 
         <ln><speaker>HOLMES</speaker> No, I felt that over-precipitance at this stage might ruin
-            everything. </ln>
+            everything.</ln>
 
         <ln><speaker>WATSON</speaker> What do we do now? </ln>
 
         <ln><speaker>HOLMES</speaker> Drive to the Langham Hotel and inform his Majesty of what has
             happened. Then return with him here. And after that, my dear chap, the case will be
-            ended! </ln>
+            ended!</ln>
 
-        <music> BRIDGE </music>
+        <ln>
+            <music> BRIDGE </music>
+        </ln>
 
-        <ln><speaker>SOUND</speaker> CAB PULLS TO A STOP </ln>
+        <ln>
+            <sound> CAB PULLS TO A STOP</sound>
+        </ln>
 
         <ln><speaker>WATSON</speaker> This is Briony Lodge, your Majesty. </ln>
 
         <ln><speaker>KING</speaker> I am all impatience. You are certain the photograph will still
-            be there, <mention ref="#holmes">Mr. Holmes</mention>? </ln>
+            be there, <mention ref="holmes">Mr. Holmes</mention>?</ln>
 
-        <ln><speaker>HOLMES</speaker> I have every reason to believe so, your Majesty. </ln>
+        <ln><speaker>HOLMES</speaker> I have every reason to believe so, your Majesty.</ln>
 
-        <ln><speaker>SOUND</speaker> THE THREE CLIMB OUT OF THE CAB AND WALK TO FRONT DOOR, DURING
-            FOLLOWING-- </ln>
+        <ln>
+            <sound> THE THREE CLIMB OUT OF THE CAB AND WALK TO FRONT DOOR, DURING
+                FOLLOWING--</sound>
+        </ln>
 
-        <ln><speaker>KING</speaker> I must confess, this is going to be something of an ordeal. </ln>
+        <ln><speaker>KING</speaker> I must confess, this is going to be something of an ordeal.</ln>
 
         <ln><speaker>HOLMES</speaker> Then I suggest that you let me do the talking, your Majesty. I
-            think I know how to handle the lady. </ln>
+            think I know how to handle the lady.</ln>
 
-        <ln><speaker>SOUND</speaker> KNOCKS ON FRONT DOOR ... DOOR OPENS </ln>
+        <ln>
+            <sound> KNOCKS ON FRONT DOOR ... DOOR OPENS</sound>
+        </ln>
 
-        <ln><speaker>MAID</speaker>
-            <mention ref="#holmes">Mr. Sherlock Holmes </mention>, I believe? </ln>
+        <ln><speaker>MAID</speaker> Mr. <mention ref="holmes">Sherlock Holmes</mention>, I
+            believe?</ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> MILDLY SURPRISED </expression> Yes. I am <mention ref="#holmes">Mr. Holmes
-            </mention>. But - how did you know? </ln>
+            <stageDirect>MILDLY SURPRISED</stageDirect> Yes. I am <mention ref="holmes">Mr.
+                Holmes</mention>. But - how did you know?</ln>
 
         <ln><speaker>MAID</speaker> My mistress told me you would be likely to call. She's left for
-            the Continent with her husband. </ln>
+            the Continent with her husband.</ln>
 
         <ln><speaker>WATSON</speaker> You mean she's left England? </ln>
 
         <ln><speaker>MAID</speaker> Never to return. </ln>
 
         <ln><speaker>KING</speaker>
-            <expression> DISTRESSED </expression> Then the papers -- and the photograph? Oh, all is
-            lost! </ln>
+            <stageDirect>DISTRESSED</stageDirect> Then the papers -- and the photograph? Oh, all is
+            lost!</ln>
 
         <ln><speaker>HOLMES</speaker> We'll soon see. Follow me. </ln>
 
-        <ln><speaker>SOUND</speaker> THEIR HURRIED FOOTSTEPS INTO THE HOUSE </ln>
+        <ln>
+            <sound> THEIR HURRIED FOOTSTEPS INTO THE HOUSE</sound>
+        </ln>
 
         <ln><speaker>MAID</speaker>
-            <expression> SLIGHTLY MOCKING </expression> She said you'd be looking for something. I
+            <stageDirect>SLIGHTLY MOCKING</stageDirect> She said you'd be looking for something. I
             hope you find it! </ln>
 
         <ln><speaker>HOLMES</speaker> This was the bell-rope. Sliding panel behind it. </ln>
 
-        <ln><speaker>SOUND</speaker> HOLMES TAPS SEVERAL TIMES ON THE WALL </ln>
+        <ln>
+            <sound> HOLMES TAPS SEVERAL TIMES ON THE WALL</sound>
+        </ln>
 
         <ln><speaker>HOLMES</speaker> Uh huh. Here it is. </ln>
 
-        <ln><speaker>SOUND</speaker> PANEL SLIDES OPEN </ln>
+        <ln>
+            <sound> PANEL SLIDES OPEN</sound>
+        </ln>
 
         <ln><speaker>KING</speaker>
-            <expression> BEAT </expression> Is - is the photograph there, <mention ref="#holmes">Mr.
-                Holmes </mention>? </ln>
+            <stageDirect>BEAT</stageDirect> Is - is the photograph there, <mention ref="holmes">Mr.
+                Holmes</mention>? </ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> UNHAPPY </expression> There is a photograph, your Majesty. But it's, um, a
-            photograph of the lady alone. Here's a letter -- and it's addressed to me. </ln>
+            <stageDirect>UNHAPPY</stageDirect> There is a photograph, your Majesty. But it's, um, a
+            photograph of the lady alone. Here's a letter -- and it's addressed to me.</ln>
 
-        <ln><speaker>SOUND</speaker> ENVELOPE TORN OPEN, LETTER UNFOLDED </ln>
+        <ln>
+            <sound> ENVELOPE TORN OPEN, LETTER UNFOLDED</sound>
+        </ln>
 
-        <ln><speaker>WATSON</speaker> What does it say, <mention ref="#holmes">Holmes </mention>? </ln>
+        <ln><speaker>WATSON</speaker> What does it say,<mention ref="holmes"> Holmes</mention>?</ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> READS </expression> "My dear <mention ref="#holmes">Mr. Sherlock Holmes
-            </mention>. You really did it very well. Until after the fire alarm, I had no suspicion.
-            But then, when I realized how I had betrayed myself, I began to think. I had been warned
-            that if the King employed an agent he would certainly employ you. May I congratulate you
-            on your disguise as a dear, old clergyman." </ln>
+            <stageDirect>READS</stageDirect> "My dear Mr. <mention ref="holmes">Sherlock
+                Holmes</mention>. You really did it very well. Until after the fire alarm, I had no
+            suspicion. But then, when I realized how I had betrayed myself, I began to think. I had
+            been warned that if the King employed an agent he would certainly employ you. May I
+            congratulate you on your disguise as a dear, old clergyman."</ln>
 
         <ln><speaker>WATSON</speaker>
-            <expression> AMUSED </expression> Great Scott! She was much more clever than you
-            thought, <mention ref="#holmes">Holmes </mention>! </ln>
+            <stageDirect>AMUSED</stageDirect> Great Scott! She was much more clever than you
+                thought,<mention ref="holmes"> Holmes</mention>!</ln>
 
         <ln><speaker>KING</speaker>
-            <expression> IMPATIENT </expression> Ja, ja, go on. What else does it say? </ln>
+            <stageDirect>IMPATIENT</stageDirect> Ja, ja, go on. What else does it say?</ln>
 
         <ln><speaker>HOLMES</speaker>
-            <expression> CLEARS THROAT, READS </expression> "My husband and I both thought that the
+            <stageDirect>CLEARS THROAT, READS</stageDirect> "My husband and I both thought that the
             best recourse was flight, so you will find the nest empty. As to the photograph of the
-            King and myself, his Majesty may rest in peace." <expression>TO HIMSELF</expression> Oh,
-            thank goodness for that. <expression>READS</expression> "I love and am loved by a better
-            man than he. I leave another photograph, however, that he might care to possess; and I
-            remain, dear <mention ref="#holmes">Mr. Sherlock Holmes</mention> , very truly yours,
-            Irene Norton, ne Adler." <expression>IMPRESSED, EXCITED</expression>What a woman,
-                <mention ref="#watson">Watson </mention>; what a woman; what a magnificent woman!
-            She fooled me completely! <expression>CATCHES HIMSELF </expression> But-- Oh. I, uh--
-            I'm sorry, your Majesty, I - I've been unable to bring your business to a more
-            successful conclusion. </ln>
+            King and myself, his Majesty may rest in peace." <stageDirect>TO HIMSELF</stageDirect>
+            Oh, thank goodness for that. <stageDirect>READS</stageDirect> "I love and am loved by a
+            better man than he. I leave another photograph, however, that he might care to possess;
+            and I remain, dear Mr. <mention ref="holmes">Sherlock Holmes</mention>, very truly
+            yours, Irene Norton, ne Adler." <stageDirect>IMPRESSED, EXCITED</stageDirect> What a
+                woman,<mention ref="watson"> Watson</mention>; what a woman; what a magnificent
+            woman! She fooled me completely! <stageDirect>CATCHES HIMSELF</stageDirect> But-- Oh. I,
+            uh-- I'm sorry, your Majesty, I - I've been unable to bring your business to a more
+            successful conclusion.</ln>
+
         <ln><speaker>KING</speaker> On the contrary, my dear sir. Nothing could be more successful.
             I know that Irene's word is inviolate. The incriminating photograph is now as safe as if
-            it were in the fire. </ln>
+            it were in the fire.</ln>
 
         <ln><speaker>WATSON</speaker> Well, I'm glad to hear your Majesty say so. </ln>
 
         <ln><speaker>KING</speaker> I am immensely indebted to you. Pray tell me in what way I can
-            reward you. Uh, this - this beryl ring that I wear. I - I should be proud to-- </ln>
+            reward you. Uh, this - this beryl ring that I wear. I - I should be proud to--</ln>
 
         <ln><speaker>HOLMES</speaker> Your Majesty has something that I should value even more
-            highly. </ln>
+            highly.</ln>
 
-        <ln><speaker>KING</speaker> You have but to name it. </ln>
+        <ln><speaker>KING</speaker> You have but to name it.</ln>
 
-        <ln><speaker>HOLMES</speaker> This photograph, sir. </ln>
+        <ln><speaker>HOLMES</speaker> This photograph, sir.</ln>
 
         <ln><speaker>KING</speaker> Irene's photograph? But certainly. However, you must let me give
-            you something more substantial. </ln>
+            you something more substantial.</ln>
 
         <ln><speaker>HOLMES</speaker> Oh no, no, no, your Majesty. This is something I shall
             treasure all my life. This and a golden sovereign I received from the lady's hand. They
-            will remind me that I was once tricked by a woman! A woman that I shall never forget. </ln>
+            will remind me that I was once tricked by a woman! A woman that I shall never
+            forget.</ln>
 
-        <music> CURTAIN </music>
+        <ln>
+            <music> CURTAIN </music>
+        </ln>
 
         <ln><speaker>ANNOUNCER</speaker> Gee, doctor, what a woman, that Miss Adler. Or should I say
-            Mrs. Norton. <expression> SIGHS </expression> That's the kind of woman I could really go
-            for. </ln>
+            Mrs. Norton. <stageDirect>SIGHS</stageDirect> That's the kind of woman I could really go
+            for.</ln>
 
         <ln><speaker>WATSON</speaker> Yes, I believe you could. Just between ourselves, you know, I
-            sort of -- ahem -- sort of could go for her meself. </ln>
+            sort of -- ahem -- sort of could go for her meself.</ln>
 
-        <ln><speaker>ANNOUNCER</speaker> She was intelligent. </ln>
+        <ln><speaker>ANNOUNCER</speaker> She was intelligent.</ln>
 
-        <ln><speaker>WATSON</speaker> She was rich. </ln>
+        <ln><speaker>WATSON</speaker> She was rich.</ln>
 
         <ln><speaker>ANNOUNCER</speaker> And beautiful. That's the kind of woman you want sitting
-            next to you in front of a cozy fire on a nippy fall night. Just the three of you. </ln>
+            next to you in front of a cozy fire on a nippy fall night. Just the three of you.</ln>
 
         <ln><speaker>WATSON</speaker> The three of you? </ln>
 
         <ln><speaker>ANNOUNCER</speaker> Mm hm. You. She. And a glass of Petri Port. </ln>
 
         <ln><speaker>WATSON</speaker>
-            <expression> LAUGHS </expression> Mr. Bartell--! </ln>
+            <stageDirect>LAUGHS</stageDirect> Mr. Bartell--! </ln>
 
-        <ln><speaker>ANNOUNCER</speaker> Well, why not? </ln>
+        <ln><speaker>ANNOUNCER</speaker> Well, why not?</ln>
 
         <ln><speaker>WATSON</speaker>
-            <expression> CHUCKLES </expression> Gracious. </ln>
+            <stageDirect>CHUCKLES</stageDirect> Gracious.</ln>
 
         <ln><speaker>ANNOUNCER</speaker> Petri California Port is some wine! Boy, that Petri family
             really knows how to make good wine, all right. And no wonder. Look at all the experience
@@ -1036,46 +1153,50 @@
             fragrant, delicious wine. Those letters -- P-E-T-R-I -- on the label of every bottle of
             Petri wine are the personal assurance of the Petri family that every drop of wine in
             that bottle is good wine. It's got to be! Because Petri took time to bring you good
-            wine. <expression> TO WATSON </expression> Well, <mention ref="#watson">Dr. Watson
-            </mention>, that was a great story you told us tonight. </ln>
+            wine. <stageDirect>TO WATSON</stageDirect> Well, <mention ref="watson">Dr.
+                Watson</mention>, that was a great story you told us tonight.</ln>
 
         <ln><speaker>WATSON</speaker> I thought you'd like it, Mr. Bartell. That's why I plan to
-            tell you a sequel to it next week. </ln>
+            tell you a sequel to it next week.</ln>
 
         <ln><speaker>ANNOUNCER</speaker> A sequel? Say, that sounds exciting, doctor. </ln>
 
         <ln><speaker>WATSON</speaker> Oh, I think you'll find it proves to be, Mr. Bartell. It's a
             story that takes place twenty years after tonight's adventure. Once again, the principal
             part is played by a woman. Only in this case, it isn't Irene Adler. It's her daughter.
-                <expression> BEAT </expression> Oh, and, uh, now, Mr. Bartell, before I go I want to
+                <stageDirect>BEAT</stageDirect> Oh, and, uh, now, Mr. Bartell, before I go I want to
             remind our listeners that they owe a real debt of gratitude to the Selective Service
             Boards in their communities. At this moment, the Selective Service Boards are working
             harder than ever, making sure that every returning veteran knows his rights and
             privileges. And the Boards are helping him take full advantage of those rights and
             privileges. They're helping our veterans get jobs. Our Selective Service Boards deserve
             our sincere thanks and they deserve our cooperation. They have done -- and they are
-            doing -- a splendid job. </ln>
+            doing -- a splendid job.</ln>
 
-        <music> THEME ... THEN UNDER-- </music>
+        <ln>
+            <music> THEME ... THEN UNDER--</music>
+        </ln>
 
-        <ln><speaker>ANNOUNCER</speaker> Tonight's <mention ref="#holmes">Sherlock Holmes </mention>
+        <ln><speaker>ANNOUNCER</speaker> Tonight's <mention ref="holmes">Sherlock Holmes</mention>
             adventure was written by Denis Green and Anthony Boucher, and is an adaptation of the
             Sir Arthur Conan Doyle story "A Scandal in Bohemia." Music is by Dean Fosler. Mr.
             Rathbone appears through the courtesy of Metro-Goldwyn-Mayer and Mr. Bruce through the
-            courtesy of Universal Pictures, where they are now starring in the <mention
-                ref="#holmes">Sherlock Holmes </mention> series. </ln>
+            courtesy of Universal Pictures, where they are now starring in the <mention ref="holmes"
+                >Sherlock Holmes</mention> series.</ln>
 
-        <ln> The Petri Wine Company of San Francisco, California invites you to tune in again next
-            week -- same time, same station. "<mention ref="#holmes">Sherlock Holmes </mention>"
-            comes to you from our Hollywood studios. </ln>
+        <ln>The Petri Wine Company of San Francisco, California invites you to tune in again next
+            week -- same time, same station. "<mention ref="holmes">Sherlock Holmes</mention>" comes
+            to you from our Hollywood studios. </ln>
 
-        <music> OUT </music>
+        <ln>
+            <music> OUT</music>
+        </ln>
 
         <ln><speaker>ANNOUNCER</speaker> This is Harry Bartell saying "Good night" for the Petri
-            family. <expression> PAUSE </expression> For a solid hour of exciting mystery-dramas,
+            family. <stageDirect>PAUSE</stageDirect> For a solid hour of exciting mystery-dramas,
             listen every Monday on most of these same stations at eight o'clock to "Bulldog
-            Drummond," followed immediately by "<mention ref="#holmes">Sherlock Holmes </mention>." </ln>
+            Drummond," followed immediately by "<mention ref="holmes">Sherlock Holmes</mention>." </ln>
 
-        <ln><speaker>MUT ANNCR</speaker> This is the Mutual Broadcasting System. </ln>
-    </scene>
+        <ln><speaker>MUT ANNCR</speaker> This is the Mutual Broadcasting System.</ln>
+    </script>
 </xml>
