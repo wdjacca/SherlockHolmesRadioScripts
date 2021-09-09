@@ -4,21 +4,21 @@
         <series>Series: Sherlock Holmes</series>
         <show>Show: A Scandal in Bohemia</show>
         <date when="1945-12-10">Date: Dec 10 1945</date>
-        <castList>CAST: <cast id="#announcer">ANNOUNCER</cast>
-            <cast id="#watson">DR. JOHN H. WATSON</cast>
-            <cast id="#holmes">SHERLOCK HOLMES</cast>
-            <cast id="#bohemia">KING OF BOHEMIA, German accent</cast>
-            <cast id="#bartender">BARTENDER</cast>
+        <castList>CAST: <cast xml:id="announcer">ANNOUNCER</cast>
+            <cast xml:id="watson">DR. JOHN H. WATSON</cast>
+            <cast xml:id="holmes">SHERLOCK HOLMES</cast>
+            <cast xml:id="bohemia">KING OF BOHEMIA, German accent</cast>
+            <cast xml:id="bartender">BARTENDER</cast>
             <cast id="#cabman1">1ST CABMAN (2 lines)</cast>
-            <cast id="#norton">GEOFFREY NORTON (1 line)</cast>
-            <cast id="#adler">IRENE ADLER (PRONOUNCED eye-REE-nee ADD-ler)</cast>
+            <cast xml:id="norton">GEOFFREY NORTON (1 line)</cast>
+            <cast xml:id="adler">IRENE ADLER (PRONOUNCED eye-REE-nee ADD-ler)</cast>
             <cast id="#cabman2">2ND CABMAN (3 lines)</cast>
-            <cast id="#alfie">ALFIE</cast>
-            <cast id="#pat">PAT (1 line)</cast>
-            <cast id="#hattie">HATTIE</cast>
-            <cast id="#ernie">ERNIE (4 lines)</cast>
-            <cast id="#bert">BERT (2 lines)</cast>
-            <cast id="#maid">MAID (4 lines)</cast></castList>
+            <cast xml:id="alfie">ALFIE</cast>
+            <cast xml:id="pat">PAT (1 line)</cast>
+            <cast xml:id="hattie">HATTIE</cast>
+            <cast xml:id="ernie">ERNIE (4 lines)</cast>
+            <cast xml:id="bert">BERT (2 lines)</cast>
+            <cast xml:id="maid">MAID (4 lines)</cast></castList>
     </metadata>
 
     <script>

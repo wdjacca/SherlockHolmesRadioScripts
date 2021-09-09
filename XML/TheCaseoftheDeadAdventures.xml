@@ -5,21 +5,23 @@
         <show>Show: The Case of the Dead Adventuress</show>
         <date when="1945-02-05">Date: Feb 05 1945</date>
 
-        <author>by <person id="#green">Denis Green</person> and <person id="#taylor">Bruce
+        <author>by <person xml:id="green">Denis Green</person> and <person xml:id="taylor">Bruce
                 Taylor</person></author>
-
-        <castList>cast <cast id="#holmes">Sherlock Holmes</cast>
-            <cast id="#watson">Dr. Watson</cast>
-            <cast id="#charel">Inspector Charel</cast>
-            <cast id="#prefect">Prefect of Police</cast>
-            <cast id="#shipton">Hon. Reginald Shipton</cast>
-            <cast id="#boncourt">Duc De Boncourt</cast>
-            <cast id="#vorvey">Yvette Corvey</cast>
-            <cast id="#borel">Henri Borel</cast>
-            <cast id="#gendarme">Gendarme</cast></castList>
-
-
+        
         <note> (Script transcribed courtesy of Arizona TheatreWorks)</note>
+
+        <castList>cast <cast xml:id="holmes">Sherlock Holmes</cast>
+            <cast xml:id="watson">Dr. Watson</cast>
+            <cast xml:id="charel">Inspector Charel</cast>
+            <cast xml:id="prefect">Prefect of Police</cast>
+            <cast xml:id="shipton">Hon. Reginald Shipton</cast>
+            <cast xml:id="boncourt">Duc De Boncourt</cast>
+            <cast xml:id="vorvey">Yvette Corvey</cast>
+            <cast xml:id="borel">Henri Borel</cast>
+            <cast xml:id="gendarme">Gendarme</cast></castList>
+
+
+       
     </metadata>
     <script>
         <ln><speaker>Forman</speaker>Petri Wine brings you...</ln>
@@ -101,9 +103,7 @@
             came in...</ln>
 
         <ln><speaker>Charel</speaker><stageDirect>About forty-five...cold...precise...French
-                accent</stageDirect> Dr.</ln>
-
-        <ln>Watson...Your famous friend has made his last mistake.</ln>
+                accent</stageDirect> <mention ref="watson">Dr. Watson</mention>...Your famous friend has made his last mistake. </ln>
 
         <ln><speaker>Watson</speaker>Great Heavens! What's going on.
                 <stageDirect>Urgently</stageDirect><mention ref="holmes"> Holmes</mention>! Tell

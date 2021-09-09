@@ -3,19 +3,19 @@
         <series>Series: Sherlock Holmes</series>
         <show>Show: Murder in the Casbah</show>
         <date when="1945-12-03">Date: Dec 03 1945</date>
-        <castList>CAST: <cast id="#announcer">ANNOUNCER, Harry Bartell</cast>
-            <cast id="#holmes">SHERLOCK HOLMES</cast>
-            <cast id="#watson">DR. WATSON</cast>
-            <cast id="#tetfield">MISS TETFIELD</cast>
-            <cast id="#brisson">COLONEL DE BRISSON, of the French Foreign Legion</cast>
-            <cast id="#rafi">RAFI, charming rogue</cast>
-            <cast id="#water">WAITER (3 lines)</cast>
-            <cast id="#keaming">OLIVER LEAMING, outwardly affable Englishman</cast>
-            <cast id="#ayisha">AYISHA, a girl of violent passions who sings like a
+        <castList>CAST: <cast xml:id="announcer">ANNOUNCER, Harry Bartell</cast>
+            <cast xml:id="holmes">SHERLOCK HOLMES</cast>
+            <cast xml:id="watson">DR. WATSON</cast>
+            <cast xml:id="tetfield">MISS TETFIELD</cast>
+            <cast xml:id="brisson">COLONEL DE BRISSON, of the French Foreign Legion</cast>
+            <cast xml:id="rafi">RAFI, charming rogue</cast>
+            <cast xml:id="water">WAITER (3 lines)</cast>
+            <cast xml:id="keaming">OLIVER LEAMING, outwardly affable Englishman</cast>
+            <cast xml:id="ayisha">AYISHA, a girl of violent passions who sings like a
                 nightingale</cast>
-            <cast id="#milton">DOUGLAS MILTON</cast>
-            <cast id="#commissioner">COMMISSIONER OF OATHS, at the British consulate</cast>
-            <cast id="#langley">DR. PORTER LANGLEY, of American Relief for Italy</cast></castList>
+            <cast xml:id="milton">DOUGLAS MILTON</cast>
+            <cast xml:id="commissioner">COMMISSIONER OF OATHS, at the British consulate</cast>
+            <cast xml:id="langley">DR. PORTER LANGLEY, of American Relief for Italy</cast></castList>
     </metadata>
 
     <script>

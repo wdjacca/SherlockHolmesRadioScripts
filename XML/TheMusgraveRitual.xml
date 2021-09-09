@@ -6,15 +6,6 @@
   <date when="1939-12-11">Date: Dec 11 1939</date>
   <note>Script courtesy of Ted Meland and Radio Active</note>
 
-  <castList>Cast of Characters (in order of appearance) <cast id="#manning">Knox Manning</cast>
-   <cast id="#watson">Dr. Watson</cast>
-   <cast id="#holmes">Sherlock Holmes</cast>
-   <cast id="#musgrave">Reginald Musgrave</cast>
-   <cast id="#alfred">Alfred (butler)</cast>
-   <cast id="#brunton">Brunton</cast>
-   <cast id="#howells">Rachel Howells</cast>
-   <cast id="#man">Man</cast></castList>
-
   <FXlist>Sound Effects <fx>Violin Playing</fx>
    <fx>Footsteps</fx>
    <fx>Door opens/closes</fx>
@@ -47,14 +38,24 @@
    <fx>Dropping onto floor</fx>
    <fx>Box opening</fx>
    <fx>Slam of stone slab</fx></FXlist>
+
+  <castList>Cast of Characters (in order of appearance) <cast xml:id="manning">Knox Manning</cast>
+   <cast xml:id="watson">Dr. Watson</cast>
+   <cast xml:id="holmes">Sherlock Holmes</cast>
+   <cast xml:id="musgrave">Reginald Musgrave</cast>
+   <cast xml:id="alfred">Alfred (butler)</cast>
+   <cast xml:id="brunton">Brunton</cast>
+   <cast xml:id="howells">Rachel Howells</cast>
+   <cast xml:id="man">Man</cast></castList>
+
  </metadata>
  <script>
   <ln>
    <music>CHORD</music>
   </ln>
 
-  <ln><speaker>MANNING</speaker>AThe Adventures of <mention ref="holmes">Sherlock Holmes</mention>," starring Basil Rathbone and
-   Nigel Bruce</ln>
+  <ln><speaker>MANNING</speaker>AThe Adventures of <mention ref="holmes">Sherlock Holmes</mention>,"
+   starring Basil Rathbone and Nigel Bruce</ln>
 
   <ln>
    <music>SIGNATURE MUSIC-- "MARCH OF THE ANCESTORS" <stageDirect>BASED ON A THEME FROM RUDDIGORE BY
@@ -62,7 +63,9 @@
   </ln>
 
   <ln><speaker>MANNING</speaker>The makers or Bromo Quinine Cold Tablets bring you another adventure
-   of <mention ref="holmes">Sherlock Holmes</mention>, with Basil Rathbone as <mention ref="holmes">Sherlock Holmes</mention> and Nigel Bruce as <mention ref="watson">Doctor Watson</mention>.</ln>
+   of <mention ref="holmes">Sherlock Holmes</mention>, with Basil Rathbone as <mention ref="holmes"
+    >Sherlock Holmes</mention> and Nigel Bruce as <mention ref="watson">Doctor
+   Watson</mention>.</ln>
 
   <ln>
    <stageDirect>Pause</stageDirect>
@@ -78,36 +81,40 @@
    <stageDirect>Pause</stageDirect>
   </ln>
 
-  <ln>And now, here we are, seated once more in <mention ref="watson">Doctor Watson</mention>'s study. The good doctor is wandering
-   aimlessly about the room - tidying objects on his desk - straightening a row of books. Well, Dr.
-  <mention ref="watson"> Watson</mention> - you certainly have a passion for law and order.</ln>
+  <ln>And now, here we are, seated once more in <mention ref="watson">Doctor Watson</mention>'s
+   study. The good doctor is wandering aimlessly about the room - tidying objects on his desk -
+   straightening a row of books. Well, Dr. <mention ref="watson"> Watson</mention> - you certainly
+   have a passion for law and order.</ln>
 
   <ln><speaker>WATSON</speaker>A place for everything, and everything in it, place, I always say. I
-   do hate a mess.<mention ref="holmes"> Holmes</mention> on the contrary was one of the untidiest men that ever drove a fellow
-   lodger to desperation. When I find a man who keeps his cigars in the coal scuttle -- his tobacco
-   in the end of a Persian slipper -- and his unanswered correspondence transfixed by a jack-knife
-   in the very center of the wooden mantelpiece, then I begin to give myself virtuous airs.</ln>
+   do hate a mess.<mention ref="holmes"> Holmes</mention> on the contrary was one of the untidiest
+   men that ever drove a fellow lodger to desperation. When I find a man who keeps his cigars in the
+   coal scuttle -- his tobacco in the end of a Persian slipper -- and his unanswered correspondence
+   transfixed by a jack-knife in the very center of the wooden mantelpiece, then I begin to give
+   myself virtuous airs.</ln>
 
   <ln><speaker>MANNING</speaker><stageDirect>Laughs</stageDirect> And or course that annoyed
-   <mention ref="holmes">Sherlock Holmes</mention>. </ln>
+    <mention ref="holmes">Sherlock Holmes</mention>. </ln>
 
   <ln><speaker>WATSON</speaker>He never even noticed it. Well, now let me see - last time I think I
    promised that this week's story would be the "The Musgrave Ritual."</ln>
 
   <ln><speaker>MANNING</speaker>"The Musgrave Ritual" -- what was that? </ln>
 
-  <ln><speaker>WATSON</speaker>Patience, Mr. Manning - patience. Well, as I was saying,<mention ref="holmes"> Holmes</mention> was
-   very untidy. Our chambers were always full of chemicals and criminal relics -- but his papers
-   were my greatest trial. He had a horror of destroying documents. Once a year or so, I would
-   browbeat him into docketing and cataloguing them. One winter night, as we sat together by the
-   fire --<mention ref="holmes"> Holmes</mention> playing casual chords on his violin -- I ventured to suggest that he might spend
-   his time more profitably by making our sitting room a little more habitable.</ln>
+  <ln><speaker>WATSON</speaker>Patience, Mr. Manning - patience. Well, as I was saying,<mention
+    ref="holmes"> Holmes</mention> was very untidy. Our chambers were always full of chemicals and
+   criminal relics -- but his papers were my greatest trial. He had a horror of destroying
+   documents. Once a year or so, I would browbeat him into docketing and cataloguing them. One
+   winter night, as we sat together by the fire --<mention ref="holmes"> Holmes</mention> playing
+   casual chords on his violin -- I ventured to suggest that he might spend his time more profitably
+   by making our sitting room a little more habitable.</ln>
 
   <ln>
    <music>VIOLIN ONLY</music>
   </ln>
 
-  <ln><speaker>WATSON</speaker>I say,<mention ref="holmes"> Holmes</mention> -- I wish you'd stop that caterwauling.</ln>
+  <ln><speaker>WATSON</speaker>I say,<mention ref="holmes"> Holmes</mention> -- I wish you'd stop
+   that caterwauling.</ln>
 
   <ln><speaker>HOLMES</speaker>Hmpf!</ln>
 
@@ -150,7 +157,8 @@
    <sound>TRUNK PULLED ACROSS THE FLOOR AND SET DOWN WITH A THUD</sound>
   </ln>
 
-  <ln><speaker>WATSON</speaker>What are you doing<mention ref="holmes"> Holmes</mention> - pulling that large tin box in here?</ln>
+  <ln><speaker>WATSON</speaker>What are you doing<mention ref="holmes"> Holmes</mention> - pulling
+   that large tin box in here?</ln>
 
   <ln><speaker>HOLMES</speaker>House cleaning -- the key? Oh yes...</ln>
 
@@ -165,8 +173,8 @@
    think if you knew what I had in this box, you'd ask me to pull some out, instead of putting
    others in. </ln>
 
-  <ln><speaker>WATSON</speaker>It's no use,<mention ref="holmes"> Holmes</mention> - you can't get 'round me like that. You might
-   just as well begin putting your stuff away.</ln>
+  <ln><speaker>WATSON</speaker>It's no use,<mention ref="holmes"> Holmes</mention> - you can't get
+   'round me like that. You might just as well begin putting your stuff away.</ln>
 
   <ln><speaker>HOLMES</speaker>Hmm -- here=s the record of the Tarleton murders...the case of
    Varnberry --</ln>
@@ -191,7 +199,7 @@
   <ln><speaker>HOLMES</speaker>But look inside - look inside. </ln>
 
   <ln>
-   <sound>LID SLIDES OPEN</sound>
+   <sound><special nt="FX mispelled as FC"/>LID SLIDES OPEN</sound>
   </ln>
 
   <ln><speaker>WATSON</speaker>Hmmm - a crumpled piece of paper - with some doggerel written on it -
@@ -206,7 +214,8 @@
 
   <ln><speaker>WATSON</speaker>Hmph -- I suspected these relics had a history.</ln>
 
-  <ln><speaker>HOLMES</speaker>They are history, my dear<mention ref="watson"> Watson</mention> - they are history.</ln>
+  <ln><speaker>HOLMES</speaker>They are history, my dear<mention ref="watson"> Watson</mention> -
+   they are history.</ln>
 
   <ln><speaker>WATSON</speaker>What was it about?</ln>
 
@@ -218,7 +227,8 @@
   <ln><speaker>WATSON</speaker>Er- - what was the Musgrave Ritual?</ln>
 
   <ln><speaker>HOLMES</speaker>You want to interrupt my labors with a silly story -- dear, dear --
-   and leave all this litter as it is reprehensible, my dear<mention ref="watson"> Watson</mention> - thoroughly reprehensible.</ln>
+   and leave all this litter as it is reprehensible, my dear<mention ref="watson"> Watson</mention>
+   - thoroughly reprehensible.</ln>
 
   <ln><speaker>WATSON</speaker>Oh -- get on with the story.</ln>
 
@@ -237,19 +247,22 @@
 
   <ln><speaker>WATSON</speaker>Conceit.</ln>
 
-  <ln>HOLMES; Don't interrupt,<mention ref="watson"> Watson</mention>, don't interrupt. Well, late that night -- I arrived at
-   Hurlstone -- to find myself enthusiastically greeted by mine host.</ln>
+  <ln><speaker>HOLMES<special nt="; used instead of :"/></speaker> Don't interrupt,<mention
+    ref="watson"> Watson</mention>, don't interrupt. Well, late that night -- I arrived at Hurlstone
+   -- to find myself enthusiastically greeted by mine host.</ln>
 
   <ln>
    <music>BRIDGE TO NEXT SCENE</music>
   </ln>
 
-  <ln><speaker>MUSGRAVE</speaker>Well,<mention ref="holmes"> Holmes</mention> -- delighted to see you, my dear fellow. It's awfully
-   good of you to come. You've gotten taller and thinner than ever.</ln>
+  <ln><speaker>MUSGRAVE</speaker>Well,<mention ref="holmes"> Holmes</mention> -- delighted to see
+   you, my dear fellow. It's awfully good of you to come. You've gotten taller and thinner than
+   ever.</ln>
 
   <ln><speaker>HOLMES</speaker>You=re much the same I should say, Musgrave. </ln>
 
-  <ln><speaker>MUSGRAVE</speaker>Alfred, carry <mention ref="holmes">Mr. Holmes</mention>= bags up to his room. </ln>
+  <ln><speaker>MUSGRAVE</speaker>Alfred, carry <mention ref="holmes">Mr. Holmes</mention>= bags up
+   to his room. </ln>
 
   <ln><speaker>ALFRED</speaker>Yes sir --</ln>
 
@@ -435,7 +448,7 @@
   <ln><speaker>HOLMES</speaker>Nothing that might lead to blackmail?</ln>
 
   <ln><speaker>MUSGRAVE</speaker><stageDirect>Laughs</stageDirect> No -- sorry to disappoint you,
-  <mention ref="holmes"> Holmes</mention>. But I've led a very tame and uninteresting life.</ln>
+    <mention ref="holmes"> Holmes</mention>. But I've led a very tame and uninteresting life.</ln>
 
   <ln><speaker>HOLMES</speaker><stageDirect>Laughs</stageDirect> I see one of the drawers was broken
    into -- very amateurish -- I'm afraid Brunton had very little experience</ln>
@@ -493,8 +506,8 @@
 
   <ln><speaker>HOLMES</speaker>Why should we give it?</ln>
 
-  <ln><speaker>MUSGRAVE</speaker>For the sake of the trust. As you can see,<mention ref="holmes"> Holmes</mention> -- the paper has
-   no practical importance.</ln>
+  <ln><speaker>MUSGRAVE</speaker>For the sake of the trust. As you can see,<mention ref="holmes">
+    Holmes</mention> -- the paper has no practical importance.</ln>
 
   <ln><speaker>HOLMES</speaker>On the contrary, it has tremendous practical importance. Your butler
    seems to have been a very clever fellow. He has had more insight than ten generations of his
@@ -514,7 +527,7 @@
   <ln><speaker>HOLMES</speaker>It was there at the Norman Conquest in all probability. Listen! There
    is someone in the hall outside -- eavesdropping. I'm sure of it this time.</ln>
 
-  <ln><speaker>MUSGRAVE</speaker>I'll soon find --</ln>
+  <ln><speaker>MUSGRAVE<special nt="; used instead of :"/></speaker>I'll soon find --</ln>
 
   <ln>
    <sound>QUICK FOOTSTEPS</sound>
@@ -566,8 +579,8 @@
    <music>THEME UP AND PLAY TO END.</music>
   </ln>
 
-  <ln><speaker>MANNING</speaker>In just a moment we will rejoin <mention ref="holmes">Sherlock Holmes</mention> as he endeavors to
-   solve the mystery of the Musgrave Ritual. </ln>
+  <ln><speaker>MANNING</speaker>In just a moment we will rejoin <mention ref="holmes">Sherlock
+    Holmes</mention> as he endeavors to solve the mystery of the Musgrave Ritual. </ln>
 
   <ln>A cold, even a so-called slight cold, is something to be concerned about. For any cold, as you
    very well know, may quickly take a more serious turn. Be serious in your treatment of a cold. At
@@ -586,10 +599,10 @@
    <music>THEME UP AND PLAY AS BRIDGE TO SECOND ACT.</music>
   </ln>
 
-  <ln><speaker>MUSGRAVE</speaker>Good morning,<mention ref="holmes"> Holmes</mention> - I hope you haven't been too bored prowling
-   around the grounds by yourself. Sorry to have kept you waiting for breakfast. Fact is, I'm a bit
-   upset. There's been another disappearance. Rachel eluded her nurse again last night, and so far,
-   she hasn't been found. </ln>
+  <ln><speaker>MUSGRAVE</speaker>Good morning,<mention ref="holmes"> Holmes</mention> - I hope you
+   haven't been too bored prowling around the grounds by yourself. Sorry to have kept you waiting
+   for breakfast. Fact is, I'm a bit upset. There's been another disappearance. Rachel eluded her
+   nurse again last night, and so far, she hasn't been found. </ln>
 
   <ln><speaker>HOLMES</speaker>So I understand. Your now butler told me. I've traced her foot-prints
    to the edge of this lake.</ln>
@@ -643,7 +656,8 @@
   <ln><speaker>HOLMES</speaker>No, breakfast will have to be postponed. The sun is now over the
    oak.</ln>
 
-  <ln><speaker>MUSGRAVE</speaker>I say,<mention ref="holmes"> Holmes</mention> - you're not taking that rubbish seriously?</ln>
+  <ln><speaker>MUSGRAVE</speaker>I say,<mention ref="holmes"> Holmes</mention> - you're not taking
+   that rubbish seriously?</ln>
 
   <ln><speaker>HOLMES</speaker>The only thing that puzzles me is the absence of our ancient elm
    tree.</ln>
@@ -668,14 +682,16 @@
   <ln><speaker>HOLMES</speaker>Now then - the shadow of the oak is fairly obvious - we can see that
    for ourselves - but the shadow of the elm is a bit more difficult.</ln>
 
-  <ln><speaker>MUSGRAVE</speaker>I say,<mention ref="holmes"> Holmes</mention> - what are you doing with that fishing rod?</ln>
+  <ln><speaker>MUSGRAVE</speaker>I say,<mention ref="holmes"> Holmes</mention> - what are you doing
+   with that fishing rod?</ln>
 
   <ln><speaker>HOLMES</speaker>A fishing rod of six feet -- throws a shadow -- of -- ah -- let me
    see -- nine feet exactly. Quite simple. Therefore, a tree of sixty-four feet will throw a shadow
    of ninety six feet - and in the same direction. Where's my tape? Ah, yes -- ninety six feet --
    ninety-six yes, here we are.</ln>
 
-  <ln><speaker>MUSGRAVE</speaker>I must say,<mention ref="holmes"> Holmes</mention> that's very neat.</ln>
+  <ln><speaker>MUSGRAVE</speaker>I must say,<mention ref="holmes"> Holmes</mention> that's very
+   neat.</ln>
 
   <ln><speaker>HOLMES</speaker>That's just the beginning -- my dear fellow -- just the beginning --
    north ten and ten -- ten steps by each foot I think that means.</ln>
@@ -799,9 +815,10 @@
   </ln>
 
   <ln><speaker>MUSGRAVE</speaker>A brass bound wooden box - all covered with dust and worm eaten.
-   The lid has been thrown back. Look here,<mention ref="holmes"> Holmes</mention> -I thought you expected to find a considerable
-   treasure. All this trunk contains is a few discolored discs of metal -- old coins apparently. I
-   say, do you think that rascal Brunton has been here and robbed me?</ln>
+   The lid has been thrown back. Look here,<mention ref="holmes"> Holmes</mention> -I thought you
+   expected to find a considerable treasure. All this trunk contains is a few discolored discs of
+   metal -- old coins apparently. I say, do you think that rascal Brunton has been here and robbed
+   me?</ln>
 
   <ln><speaker>HOLMES</speaker>That was his intention undoubtedly, but I don't think he
    succeeded.</ln>
@@ -980,7 +997,8 @@
    <music>BRIDGE TO NEXT SCENE</music>
   </ln>
 
-  <ln><speaker>MUSGRAVE</speaker>I say,<mention ref="holmes"> Holmes</mention> -- what a cad he must have been. </ln>
+  <ln><speaker>MUSGRAVE</speaker>I say,<mention ref="holmes"> Holmes</mention> -- what a cad he must
+   have been. </ln>
 
   <ln><speaker>HOLMES</speaker>Quite.</ln>
 
@@ -1008,15 +1026,15 @@
    <music>BRIDGE TO NEXT SCENE</music>
   </ln>
 
-  <ln><speaker>MANNING</speaker>That's an exciting discovery, <mention ref="watson">Doctor Watson</mention>. How did it happen that
-   Charles the Second never recovered his crown? </ln>
+  <ln><speaker>MANNING</speaker>That's an exciting discovery, <mention ref="watson">Doctor
+    Watson</mention>. How did it happen that Charles the Second never recovered his crown? </ln>
 
-  <ln><speaker>WATSON</speaker>That is the one point<mention ref="holmes"> Holmes</mention> was unable to clear up. It is likely
-   that the Musgraves who held the secret died in the interval, and by some oversight left this
-   guide to his descendants without explaining the meaning of it.</ln>
+  <ln><speaker>WATSON</speaker>That is the one point<mention ref="holmes"> Holmes</mention> was
+   unable to clear up. It is likely that the Musgraves who held the secret died in the interval, and
+   by some oversight left this guide to his descendants without explaining the meaning of it.</ln>
 
-  <ln><speaker>MANNING</speaker><mention ref="watson">Dr. Watson</mention> will be back in just a moment to tell us about next
-   week's adventure. </ln>
+  <ln><speaker>MANNING</speaker><mention ref="watson">Dr. Watson</mention> will be back in just a
+   moment to tell us about next week's adventure. </ln>
 
   <ln>
    <stageDirect>PAUSE</stageDirect>
@@ -1034,8 +1052,8 @@
    your way to a drugstore and say: "Bromo Quinine cold tablets, please." And now, what story are we
    to have next week, <mention ref="watson">Doctor Watson</mention>?</ln>
 
-  <ln><speaker>WATSON</speaker>Suppose I tell you the one<mention ref="holmes"> Holmes</mention> calls "The Adventure Of The Three
-   Garriddebs."</ln>
+  <ln><speaker>WATSON</speaker>Suppose I tell you the one<mention ref="holmes"> Holmes</mention>
+   calls "The Adventure Of The Three Garriddebs."</ln>
 
   <ln><speaker>MANNING</speaker>Garridebs? What on earth are Garridebs?</ln>
 
@@ -1047,11 +1065,12 @@
    <music>SIGNATURE MUSIC UP AND THEN LOWER FOR NEXT PARAGRAPH</music>
   </ln>
 
-  <ln><speaker>MANNING</speaker>You have been listening to a <mention ref="holmes">Sherlock Holmes</mention> adventure adapted from
-   Sir Arthur Conan Doyle's story, "The Musgrave Ritual" with Basil Rathbone as <mention ref="holmes">Sherlock Holmes</mention>, and
-   Nigel Bruce as <mention ref="watson">Doctor Watson</mention>. The dramatization was by Edith Meiser. This program is presented
-   from Hollywood every week at this same time by the makers of Bromo Quinine Cold tablets - quick
-   relief for colds. This is Knox Manning speaking.</ln>
+  <ln><speaker>MANNING</speaker>You have been listening to a <mention ref="holmes">Sherlock
+    Holmes</mention> adventure adapted from Sir Arthur Conan Doyle's story, "The Musgrave Ritual"
+   with Basil Rathbone as <mention ref="holmes">Sherlock Holmes</mention>, and Nigel Bruce as
+    <mention ref="watson">Doctor Watson</mention>. The dramatization was by Edith Meiser. This
+   program is presented from Hollywood every week at this same time by the makers of Bromo Quinine
+   Cold tablets - quick relief for colds. This is Knox Manning speaking.</ln>
 
   <ln>
    <music>UP AND PLAY TO END.</music>

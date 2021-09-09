@@ -4,12 +4,12 @@
         <series>Series: Sherlock Holmes</series>
         <show>Show: The Adventure of the Tolling Bell</show>
         <date when="1947-04-07">Date: Apr 07 1947</date>
-        <castList>CAST <cast id="#announcer">Announcer</cast>
-            <cast id="#watson">Watson</cast>
-            <cast id="#holmes">Holmes</cast>
-            <cast id="#mary">Mary</cast>
-            <cast id="#michol">Mrs. Michol</cast>
-            <cast id="#gillian">Gillian (pronounced Gil'-ee-an)</cast></castList>
+        <castList>CAST <cast xml:id="announcer">Announcer</cast>
+            <cast xml:id="watson">Watson</cast>
+            <cast xml:id="holmes">Holmes</cast>
+            <cast xml:id="mary">Mary</cast>
+            <cast xml:id="michol">Mrs. Michol</cast>
+            <cast xml:id="gillian">Gillian (pronounced Gil'-ee-an)</cast></castList>
     </metadata>
     <script>
         <ln><music>INTRO</music></ln>
@@ -219,7 +219,7 @@
 
         <ln><speaker>WATSON</speaker>Well, I meant trivial for you, not for her.</ln>
 
-        <ln><speaker>MICHOL</speaker>This is <mention ref="holmes">Mr. Holmes</mention>, and Doctor<mention ref="watson"> Watson</mention>, dear.</ln>
+        <ln><speaker>MICHOL</speaker>This is <mention ref="holmes">Mr. Holmes</mention>, and <mention ref="watson">Doctor Watson</mention>, dear.</ln>
 
         <ln>MRS. LAKLAND: Thank you, Emmy. Good morning, sirs.</ln>
 

@@ -1,46 +1,57 @@
 <?xml-model href="../sherlock.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-    <metadata><series>Series: Sherlock Holmes</series> <show>Show: The Problem of Thor Bridge</show> <date when="1945-10-01">Date: Oct 01 1945</date> <castList>CAST:
-        <cast id="#announcer">ANNOUNCER, Harry Bartell</cast> <cast id="#holmes">SHERLOCK HOLMES</cast> <cast id="#watson">DR. WATSON</cast> <cast id="#gibson">NEIL GIBSON, wealthy American</cast> <cast id="#sergeant">SERGEANT
-        COVENTRY, of the local police</cast> <cast id="#cesar">CESAR, Brazilian servant</cast> <cast id="#dunbar">MISS DUNBAR, the chief suspect</cast>
-        <cast id="#singer">SINGER, of Petri Wine commercial</cast></castList></metadata>
+    <metadata>
+        <series>Series: Sherlock Holmes</series>
+        <show>Show: The Problem of Thor Bridge</show>
+        <date when="1945-10-01">Date: Oct 01 1945</date>
+        <castList>CAST: <cast xml:id="announcer">ANNOUNCER, Harry Bartell</cast>
+            <cast xml:id="holmes">SHERLOCK HOLMES</cast>
+            <cast xml:id="watson">DR. WATSON</cast>
+            <cast xml:id="gibson">NEIL GIBSON, wealthy American</cast>
+            <cast xml:id="sergeant">SERGEANT COVENTRY, of the local police</cast>
+            <cast xml:id="cesar">CESAR, Brazilian servant</cast>
+            <cast xml:id="dunbar">MISS DUNBAR, the chief suspect</cast>
+            <cast xml:id="singer">SINGER, of Petri Wine commercial</cast></castList>
+    </metadata>
     <script>
-        <ln><speaker>ANNOUNCER</speaker> This episode from the life of <mention ref="holmes">Sherlock Holmes</mention> will be
-            transmitted to our men and women overseas by short wave and through the worldwide
-            facilities of the Armed Forces Radio Service. Petri Wine brings you--</ln>
+        <ln><speaker>ANNOUNCER</speaker> This episode from the life of <mention ref="holmes"
+                >Sherlock Holmes</mention> will be transmitted to our men and women overseas by
+            short wave and through the worldwide facilities of the Armed Forces Radio Service. Petri
+            Wine brings you--</ln>
 
         <ln>
             <music>FANFARE</music>
         </ln>
 
         <ln><speaker>ANNOUNCER</speaker> Basil Rathbone and Nigel Bruce in "The New Adventures of
-            <mention ref="holmes">Sherlock Holmes</mention>."</ln>
+                <mention ref="holmes">Sherlock Holmes</mention>."</ln>
 
         <ln>
             <music>FANFARE ... THEN OUT</music>
         </ln>
 
         <ln><speaker>ANNOUNCER</speaker> The Petri Family -- "the family that took time / to bring
-            you good wine" -- invites you to listen to <mention ref="watson">Dr. Watson</mention> tell us another exciting adventure
-            he shared with his old friend, that master detective, <mention ref="holmes">Sherlock Holmes</mention>. And, while you're
-            settling back comfortably in your chair, mind if I tell you about something I'd like you
-            to share with me? It's a glass of Petri California sherry. Of course, most people think
-            of Petri California sherry as the one wine that's really swell any time but, personally,
-            I like a glass of that Petri sherry just before dinner. You know, that's the time you're
-            a little on edge, you've just finished your day's work, and you're waiting for your
-            dinner, and-- Well, that's when you want to lean back and take it easy. And, boy, that's
-            the time a glass of Petri sherry tastes like something just too good to be true. Try it.
-            Petri sherry's the perfect before-dinner wine. And, incidentally, if you like your
-            sherry dry -- you know, not sweet? -- then you'll find that Petri pale dry sherry is
-            just made for you. The important thing is the Petri label, because when it says "Petri,"
-            it always means good wine.</ln>
+            you good wine" -- invites you to listen to <mention ref="watson">Dr. Watson</mention>
+            tell us another exciting adventure he shared with his old friend, that master detective,
+                <mention ref="holmes">Sherlock Holmes</mention>. And, while you're settling back
+            comfortably in your chair, mind if I tell you about something I'd like you to share with
+            me? It's a glass of Petri California sherry. Of course, most people think of Petri
+            California sherry as the one wine that's really swell any time but, personally, I like a
+            glass of that Petri sherry just before dinner. You know, that's the time you're a little
+            on edge, you've just finished your day's work, and you're waiting for your dinner, and--
+            Well, that's when you want to lean back and take it easy. And, boy, that's the time a
+            glass of Petri sherry tastes like something just too good to be true. Try it. Petri
+            sherry's the perfect before-dinner wine. And, incidentally, if you like your sherry dry
+            -- you know, not sweet? -- then you'll find that Petri pale dry sherry is just made for
+            you. The important thing is the Petri label, because when it says "Petri," it always
+            means good wine.</ln>
 
         <ln>
             <music>THEME ... THEN OUT</music>
         </ln>
 
         <ln><speaker>ANNOUNCER</speaker> And now for our weekly visit with our good friend and host,
-            <mention ref="watson">Dr. Watson</mention>. Good evening, doctor.</ln>
+                <mention ref="watson">Dr. Watson</mention>. Good evening, doctor.</ln>
 
         <ln><speaker>WATSON</speaker> Good evening, Mr. Bartell. You're a bit late. I've been
             keeping some dinner hot for you here. Pull up your chair and join me.</ln>
@@ -55,9 +66,10 @@
             prominently in your adventure.</ln>
 
         <ln><speaker>WATSON</speaker> That's quite right, Mr. Bartell. An extremely beautiful girl.
-            In fact, I often used to say to <mention ref="holmes">Sherlock Holmes</mention> that if I'd been a little younger at the
-            time, I might-- Oh, well, you haven't come here to listen to my personal reminiscences.
-            You want to hear the story that I called "The Problem of Thor Bridge."</ln>
+            In fact, I often used to say to <mention ref="holmes">Sherlock Holmes</mention> that if
+            I'd been a little younger at the time, I might-- Oh, well, you haven't come here to
+            listen to my personal reminiscences. You want to hear the story that I called "The
+            Problem of Thor Bridge."</ln>
 
         <ln><speaker>ANNOUNCER</speaker> That's what you promised us, doctor. How did it begin?</ln>
 
@@ -74,7 +86,8 @@
             <stageDirect>CHEERY</stageDirect> Good morning, my dear fellow. I hope you slept
             well.</ln>
 
-        <ln><speaker>WATSON</speaker> Splendidly, thanks,<mention ref="holmes"> Holmes</mention>.</ln>
+        <ln><speaker>WATSON</speaker> Splendidly, thanks,<mention ref="holmes">
+            Holmes</mention>.</ln>
 
         <ln><speaker>HOLMES</speaker> I'm so glad.</ln>
 
@@ -116,12 +129,13 @@
         </ln>
 
         <ln><speaker>WATSON</speaker> Let's have a look. <stageDirect>READS</stageDirect> "Dear Mr.
-            <mention ref="holmes">Sherlock Holmes</mention>, Miss Dunbar is innocent. I can't see the finest woman in the world go
-            to her death without doing everything possible to save her. I shall call on you at
-            ten-thirty to-morrow morning to discuss the matter. Yours faithfully, Neil Gibson." Good
-            gracious me.</ln>
+                <mention ref="holmes">Sherlock Holmes</mention>, Miss Dunbar is innocent. I can't
+            see the finest woman in the world go to her death without doing everything possible to
+            save her. I shall call on you at ten-thirty to-morrow morning to discuss the matter.
+            Yours faithfully, Neil Gibson." Good gracious me.</ln>
 
-        <ln><speaker>HOLMES</speaker> There you have it,<mention ref="watson"> Watson</mention>. That is the gentleman I await. </ln>
+        <ln><speaker>HOLMES</speaker> There you have it,<mention ref="watson"> Watson</mention>.
+            That is the gentleman I await. </ln>
 
         <ln><speaker>WATSON</speaker> Do you know anything about his dead wife?</ln>
 
@@ -149,7 +163,8 @@
             bullet in the dead woman's head -- was found on the floor in Miss Dunbar's
             wardrobe.</ln>
 
-        <ln><speaker>WATSON</speaker> Oh, was it? Pretty damaging evidence,<mention ref="holmes"> Holmes</mention>.</ln>
+        <ln><speaker>WATSON</speaker> Oh, was it? Pretty damaging evidence,<mention ref="holmes">
+                Holmes</mention>.</ln>
 
         <ln><speaker>HOLMES</speaker> Mmm. So the coroner thought. And, to make the case even
             blacker against Miss Dunbar, the dead woman had a note on her making an appointment at
@@ -159,8 +174,8 @@
             clear. Mr. Gibson would be a great catch for a young girl. Love, fortune, power -- all
             dependent on one life. </ln>
 
-        <ln><speaker>HOLMES</speaker> Possibly,<mention ref="watson"> Watson</mention>, but circumstantial evidence can be very
-            misleading at times.</ln>
+        <ln><speaker>HOLMES</speaker> Possibly,<mention ref="watson"> Watson</mention>, but
+            circumstantial evidence can be very misleading at times.</ln>
 
         <ln>
             <sound>DOOR BELL JANGLES</sound>
@@ -188,7 +203,8 @@
             Mrs. Hudson a journey.</ln>
 
         <ln><speaker>WATSON</speaker>
-            <stageDirect>OFF</stageDirect> Right you are,<mention ref="holmes"> Holmes</mention>.</ln>
+            <stageDirect>OFF</stageDirect> Right you are,<mention ref="holmes">
+            Holmes</mention>.</ln>
 
         <ln>
             <sound>WATSON'S FOOTSTEPS TO DOOR ... DOOR OPENS</sound>
@@ -198,11 +214,12 @@
             <stageDirect>OFF, CALLS</stageDirect> Up here, sir!</ln>
 
         <ln><speaker>GIBSON</speaker>
-            <stageDirect>OFF, TO WATSON</stageDirect> Are you Mr. <mention ref="holmes">Sherlock Holmes</mention>?</ln>
+            <stageDirect>OFF, TO WATSON</stageDirect> Are you Mr. <mention ref="holmes">Sherlock
+                Holmes</mention>?</ln>
 
         <ln><speaker>WATSON</speaker>
-            <stageDirect>OFF</stageDirect> No, no, indeed. I'm his colleague <mention ref="watson">Dr. Watson</mention>. Come along
-            in, won't you?</ln>
+            <stageDirect>OFF</stageDirect> No, no, indeed. I'm his colleague <mention ref="watson"
+                >Dr. Watson</mention>. Come along in, won't you?</ln>
 
         <ln>
             <sound>DOOR CLOSES ... FOOTSTEPS IN</sound>
@@ -210,11 +227,13 @@
 
         <ln><speaker>HOLMES</speaker> Mr. Neil Gibson, I presume?</ln>
 
-        <ln><speaker>GIBSON</speaker> That's right. So you're the great <mention ref="holmes">Sherlock Holmes</mention>, huh?</ln>
+        <ln><speaker>GIBSON</speaker> That's right. So you're the great <mention ref="holmes"
+                >Sherlock Holmes</mention>, huh?</ln>
 
         <ln><speaker>HOLMES</speaker>
             <stageDirect>CHUCKLES</stageDirect> The adjective is your own, Mr. Gibson. Sit down,
-            won't you? By the way, you may speak quite freely in front of <mention ref="watson">Dr. Watson</mention>.</ln>
+            won't you? By the way, you may speak quite freely in front of <mention ref="watson">Dr.
+                Watson</mention>.</ln>
 
         <ln><speaker>GIBSON</speaker> Hm. Well, I may as well begin by telling you that money means
             nothing to me in this case. You can burn it if it's any use to you in lighting the
@@ -252,7 +271,8 @@
             wish you good-morning.</ln>
 
         <ln><speaker>GIBSON</speaker>
-            <stageDirect>ANGRY</stageDirect> What the devil do you mean by this, <mention ref="holmes">Mr. Holmes</mention>? </ln>
+            <stageDirect>ANGRY</stageDirect> What the devil do you mean by this, <mention
+                ref="holmes">Mr. Holmes</mention>? </ln>
 
         <ln><speaker>HOLMES</speaker> My dear sir, the case is difficult enough without your giving
             me false information.</ln>
@@ -270,8 +290,9 @@
             in the morning air and a little quiet thought will be greatly to your advantage.</ln>
 
         <ln><speaker>GIBSON</speaker> I suppose I can't make you take the case - but you've done
-            yourself no good this morning, <mention ref="holmes">Mr. Holmes</mention>! <stageDirect>MOVING OFF</stageDirect> I've
-            broken stronger men than you! No man ever crossed me and was the better for it!</ln>
+            yourself no good this morning, <mention ref="holmes">Mr. Holmes</mention>!
+                <stageDirect>MOVING OFF</stageDirect> I've broken stronger men than you! No man ever
+            crossed me and was the better for it!</ln>
 
         <ln>
             <sound>GIBSON'S FOOTSTEPS TO DOOR WHICH OPENS</sound>
@@ -286,13 +307,15 @@
         </ln>
 
         <ln><speaker>WATSON</speaker>
-            <stageDirect>CHUCKLES</stageDirect> Upon my soul,<mention ref="holmes"> Holmes</mention>, you were unusually severe with
-            him. <stageDirect>CHUCKLES</stageDirect>
+            <stageDirect>CHUCKLES</stageDirect> Upon my soul,<mention ref="holmes">
+            Holmes</mention>, you were unusually severe with him.
+                <stageDirect>CHUCKLES</stageDirect>
         </ln>
 
         <ln><speaker>HOLMES</speaker>
-            <stageDirect>STERN</stageDirect> I dislike liars,<mention ref="watson"> Watson</mention>, and I cannot tolerate
-            arrogance -- particularly when it's coupled with great wealth.</ln>
+            <stageDirect>STERN</stageDirect> I dislike liars,<mention ref="watson">
+            Watson</mention>, and I cannot tolerate arrogance -- particularly when it's coupled with
+            great wealth.</ln>
 
         <ln><speaker>WATSON</speaker> How did you know about his relations with the governess?</ln>
 
@@ -316,23 +339,26 @@
         </ln>
 
         <ln><speaker>HOLMES</speaker> Ah! <stageDirect>CHUCKLES</stageDirect> Mr. Gibson. Just
-            saying to <mention ref="watson">Dr. Watson</mention> that I was certain you'd be back.</ln>
+            saying to <mention ref="watson">Dr. Watson</mention> that I was certain you'd be
+            back.</ln>
 
         <ln>
             <sound>DOOR CLOSES ... GIBSON'S FOOTSTEPS IN</sound>
         </ln>
 
         <ln><speaker>GIBSON</speaker>
-            <stageDirect>APPROACHES</stageDirect> I've been thinking it over, <mention ref="holmes">Mr. Holmes</mention>, and I feel
-            that perhaps I was hasty in taking your remarks amiss. Just the same, I can assure you
-            that the relations between Miss Dunbar and me really don't affect this case.</ln>
+            <stageDirect>APPROACHES</stageDirect> I've been thinking it over, <mention ref="holmes"
+                >Mr. Holmes</mention>, and I feel that perhaps I was hasty in taking your remarks
+            amiss. Just the same, I can assure you that the relations between Miss Dunbar and me
+            really don't affect this case.</ln>
 
         <ln><speaker>HOLMES</speaker> Surely, that is for me to decide, Mr. Gibson.</ln>
 
         <ln><speaker>WATSON</speaker> You see, Mr. Gibson, my friend is like a doctor. He wants
             every symptom before he can give his diagnosis.</ln>
 
-        <ln><speaker>GIBSON</speaker> Fire away, <mention ref="holmes">Mr. Holmes</mention>. What is it you want to know?</ln>
+        <ln><speaker>GIBSON</speaker> Fire away, <mention ref="holmes">Mr. Holmes</mention>. What is
+            it you want to know?</ln>
 
         <ln><speaker>HOLMES</speaker> The truth.</ln>
 
@@ -348,8 +374,8 @@
         <ln><speaker>HOLMES</speaker> And then, I suppose, this young governess, Miss Dunbar,
             arrived on the scene.</ln>
 
-        <ln><speaker>GIBSON</speaker> That's right, <mention ref="holmes">Mr. Holmes</mention>. Well, the story should be obvious to
-            you from there.</ln>
+        <ln><speaker>GIBSON</speaker> That's right, <mention ref="holmes">Mr. Holmes</mention>.
+            Well, the story should be obvious to you from there.</ln>
 
         <ln><speaker>WATSON</speaker> You fell in love with this girl, I suppose, sir.</ln>
 
@@ -362,15 +388,16 @@
         <ln><speaker>HOLMES</speaker> I see. Then you made an utterly insincere proposition to
             her.</ln>
 
-        <ln><speaker>GIBSON</speaker> Now, look here, <mention ref="holmes">Mr. Holmes</mention>, I came to you on a question of
-            evidence, not of morals. I'm not asking for your criticism.</ln>
+        <ln><speaker>GIBSON</speaker> Now, look here, <mention ref="holmes">Mr. Holmes</mention>, I
+            came to you on a question of evidence, not of morals. I'm not asking for your
+            criticism.</ln>
 
         <ln><speaker>HOLMES</speaker> It's only the young lady's sake that forces me to touch your
             case at all. Now, tell me, sir. What is your own opinion as to Miss Dunbar's guilt?</ln>
 
         <ln><speaker>GIBSON</speaker> It's very black against her, I can't deny that. One
-            explanation of the tragedy did come into my head, <mention ref="holmes">Mr. Holmes</mention>. I give it to you, for what
-            it's worth. </ln>
+            explanation of the tragedy did come into my head, <mention ref="holmes">Mr.
+                Holmes</mention>. I give it to you, for what it's worth. </ln>
 
         <ln><speaker>HOLMES</speaker> Pray continue, Mr. Gibson.</ln>
 
@@ -382,17 +409,18 @@
         <ln><speaker>HOLMES</speaker> Well, that possibility has already occurred to me. It's the
             only obvious alternative to deliberate murder.</ln>
 
-        <ln><speaker>WATSON</speaker> The revolver,<mention ref="holmes"> Holmes</mention>. It was found on the floor of the
-            governess' wardrobe.</ln>
+        <ln><speaker>WATSON</speaker> The revolver,<mention ref="holmes"> Holmes</mention>. It was
+            found on the floor of the governess' wardrobe.</ln>
 
         <ln><speaker>HOLMES</speaker> Mr. Gibson, I should like to examine your house and the scene
             of the murder as soon as possible.</ln>
 
-        <ln><speaker>GIBSON</speaker> Certainly, <mention ref="holmes">Mr. Holmes</mention>. Sergeant Coventry of the local police
-            is still down there. He'll give you any help you may need.</ln>
+        <ln><speaker>GIBSON</speaker> Certainly, <mention ref="holmes">Mr. Holmes</mention>.
+            Sergeant Coventry of the local police is still down there. He'll give you any help you
+            may need.</ln>
 
-        <ln><speaker>HOLMES</speaker> Excellent!<mention ref="watson"> Watson</mention>, old fellow -- [?] the timetable! We're
-            catching the next fast train to Winchester!</ln>
+        <ln><speaker>HOLMES</speaker> Excellent!<mention ref="watson"> Watson</mention>, old fellow
+            -- [?] the timetable! We're catching the next fast train to Winchester!</ln>
 
         <ln>
             <music>BRIDGE</music>
@@ -542,7 +570,7 @@
         <ln><speaker>HOLMES</speaker>
             <stageDirect>OFF</stageDirect> Yes, but it's been done recently. Notice how the
             stonework is white just here. It took some violence to do that. Hand me your cane,
-           <mention ref="watson"> Watson</mention>, will you?</ln>
+                <mention ref="watson"> Watson</mention>, will you?</ln>
 
         <ln><speaker>WATSON</speaker>
             <stageDirect>OFF</stageDirect> Here you are.</ln>
@@ -561,8 +589,8 @@
         <ln><speaker>SERGEANT</speaker> But it's fifteen feet from where we found the body, Mr.
             'Olmes.</ln>
 
-        <ln><speaker>WATSON</speaker> Yes,<mention ref="holmes"> Holmes</mention>, I don't see how it could have any connection with
-            Mrs. Gibson's murder.</ln>
+        <ln><speaker>WATSON</speaker> Yes,<mention ref="holmes"> Holmes</mention>, I don't see how
+            it could have any connection with Mrs. Gibson's murder.</ln>
 
         <ln><speaker>HOLMES</speaker> Well, perhaps it hasn't. But it's a point worth noting. There
             were no footprints, you say, sergeant?</ln>
@@ -587,8 +615,8 @@
             new train of thought in this case, Mr. 'Olmes.</ln>
 
         <ln><speaker>HOLMES</speaker>
-            <stageDirect>LAUGHS</stageDirect> I'm delighted, sergeant. [Come,<mention ref="watson"> Watson</mention>, let's] get
-            back to the house.</ln>
+            <stageDirect>LAUGHS</stageDirect> I'm delighted, sergeant. [Come,<mention ref="watson">
+                Watson</mention>, let's] get back to the house.</ln>
 
         <ln>
             <music>BRIDGE</music>
@@ -622,15 +650,15 @@
             <sound>CESAR'S FOOTSTEPS AWAY</sound>
         </ln>
 
-        <ln><speaker>WATSON</speaker> You know,<mention ref="holmes"> Holmes</mention>, I still think the case against Miss Dunbar
-            looks very black.</ln>
+        <ln><speaker>WATSON</speaker> You know,<mention ref="holmes"> Holmes</mention>, I still
+            think the case against Miss Dunbar looks very black.</ln>
 
         <ln><speaker>HOLMES</speaker> I should agree with you if it were not for one fact -- the
             finding of the revolver in her wardrobe.</ln>
 
         <ln><speaker>WATSON</speaker>
-            <stageDirect>TAKEN ABACK</stageDirect> Upon my soul,<mention ref="holmes"> Holmes</mention>. That seems to me the
-            strongest evidence of all.</ln>
+            <stageDirect>TAKEN ABACK</stageDirect> Upon my soul,<mention ref="holmes">
+                Holmes</mention>. That seems to me the strongest evidence of all.</ln>
 
         <ln><speaker>HOLMES</speaker> I think not, old chap.</ln>
 
@@ -659,8 +687,8 @@
         <ln><speaker>WATSON</speaker> Well then, if Miss Dunbar didn't shoot Mrs. Gibson, who the
             devil did?</ln>
 
-        <ln><speaker>HOLMES</speaker> I hope I can give you the answer to that question,<mention ref="watson"> Watson</mention>,
-            when we've made one further visit.</ln>
+        <ln><speaker>HOLMES</speaker> I hope I can give you the answer to that question,<mention
+                ref="watson"> Watson</mention>, when we've made one further visit.</ln>
 
         <ln><speaker>WATSON</speaker>
             <stageDirect>WEARILY</stageDirect> Oh, Lord. Where are we going now?</ln>
@@ -676,32 +704,35 @@
             <music>TO A FINISH</music>
         </ln>
 
-        <ln><speaker>ANNOUNCER</speaker> You'll hear the rest of <mention ref="watson">Dr. Watson</mention>'s story in just a few
-            seconds. Just time enough for me to remind you that the easiest way to make good food
-            taste better is to serve that good food with a good Petri Wine. If you like a red wine,
-            well, you want a Petri California burgundy. If you'd rather have a white wine, then you
-            want a Petri California sauterne. But, red or white, Petri burgundy or Petri sauterne,
-            you're choosing a dinner wine that's sure to turn a simple meal into a feast. Your whole
-            family and all your friends will love Petri, the wine that makes good food taste better. </ln>
+        <ln><speaker>ANNOUNCER</speaker> You'll hear the rest of <mention ref="watson">Dr.
+                Watson</mention>'s story in just a few seconds. Just time enough for me to remind
+            you that the easiest way to make good food taste better is to serve that good food with
+            a good Petri Wine. If you like a red wine, well, you want a Petri California burgundy.
+            If you'd rather have a white wine, then you want a Petri California sauterne. But, red
+            or white, Petri burgundy or Petri sauterne, you're choosing a dinner wine that's sure to
+            turn a simple meal into a feast. Your whole family and all your friends will love Petri,
+            the wine that makes good food taste better. </ln>
 
         <ln>
             <music>THEME FILLS A PAUSE ... THEN IN BG, OUT AT [X]</music>
         </ln>
 
-        <ln><speaker>ANNOUNCER</speaker> And now back to <mention ref="watson">Dr. Watson</mention> and tonight's <mention ref="holmes">Sherlock Holmes</mention>
-            adventure, "The Problem of Thor Bridge." [X] Well, uh, doctor, did you go to Winchester
-            Prison and see Miss Dunbar?</ln>
+        <ln><speaker>ANNOUNCER</speaker> And now back to <mention ref="watson">Dr. Watson</mention>
+            and tonight's <mention ref="holmes">Sherlock Holmes</mention> adventure, "The Problem of
+            Thor Bridge." [X] Well, uh, doctor, did you go to Winchester Prison and see Miss
+            Dunbar?</ln>
 
         <ln><speaker>WATSON</speaker> We did, Mr. Bartell. An hour later found the two of us sitting
             in a dank and gloomy cell talking to one of the most beautiful girls that I've ever
             seen. Her bright, flashing eyes and her air of quiet confidence seemed sadly out of
-            place in such a setting.<mention ref="holmes"> Holmes</mention> spoke to her, quietly soothing her.</ln>
+            place in such a setting.<mention ref="holmes"> Holmes</mention> spoke to her, quietly
+            soothing her.</ln>
 
         <ln><speaker>HOLMES</speaker> Miss Dunbar, tell us of your true relations with the dead
             woman.</ln>
 
-        <ln><speaker>DUNBAR</speaker> She hated me, <mention ref="holmes">Mr. Holmes</mention>. She hated me with all the passion of
-            her distorted mind.</ln>
+        <ln><speaker>DUNBAR</speaker> She hated me, <mention ref="holmes">Mr. Holmes</mention>. She
+            hated me with all the passion of her distorted mind.</ln>
 
         <ln><speaker>HOLMES</speaker> Please tell us exactly what happened on the evening of Mrs.
             Gibson's death.</ln>
@@ -733,8 +764,8 @@
         <ln><speaker>HOLMES</speaker> And yet, presuming she met her death shortly after you left
             her, you heard no shot?</ln>
 
-        <ln><speaker>DUNBAR</speaker> No. No, I heard nothing. But I was so upset, <mention ref="holmes">Mr. Holmes</mention>, that
-            I rushed straight back to my room.</ln>
+        <ln><speaker>DUNBAR</speaker> No. No, I heard nothing. But I was so upset, <mention
+                ref="holmes">Mr. Holmes</mention>, that I rushed straight back to my room.</ln>
 
         <ln><speaker>HOLMES</speaker> Did you leave it again that night?</ln>
 
@@ -749,7 +780,8 @@
         <ln><speaker>HOLMES</speaker> This pistol that [was] found in your room. Had you ever seen
             it before?</ln>
 
-        <ln><speaker>DUNBAR</speaker> Never, <mention ref="holmes">Mr. Holmes</mention>, I swear it.</ln>
+        <ln><speaker>DUNBAR</speaker> Never, <mention ref="holmes">Mr. Holmes</mention>, I swear
+            it.</ln>
 
         <ln><speaker>WATSON</speaker> When was it found, Miss Dunbar?</ln>
 
@@ -778,20 +810,22 @@
             death, I noticed that a piece of stonework on the underside of the parapet of the bridge
             had been broken away. Can you suggest any possible explanation for that?</ln>
 
-        <ln><speaker>DUNBAR</speaker> Oh, surely, it must have been a mere coincidence, Mr.
-           <mention ref="holmes"> Holmes</mention>.</ln>
+        <ln><speaker>DUNBAR</speaker> Oh, surely, it must have been a mere coincidence, Mr. <mention
+                ref="holmes"> Holmes</mention>.</ln>
 
         <ln><speaker>HOLMES</speaker> Possibly. But why should it appear at the very time of the
             tragedy, and at the very place? Could it possibly be that--?
                 <stageDirect>THUNDERSTRUCK</stageDirect> Why, yes, of course! Idiot! Why didn't I
             think of it before?! Come along,<mention ref="watson"> Watson</mention>!</ln>
 
-        <ln><speaker>WATSON</speaker> Where are we going,<mention ref="holmes"> Holmes</mention>?</ln>
+        <ln><speaker>WATSON</speaker> Where are we going,<mention ref="holmes">
+            Holmes</mention>?</ln>
 
         <ln><speaker>HOLMES</speaker> Back to Thor Bridge, old fellow, as fast as we can get
             there!</ln>
 
-        <ln><speaker>DUNBAR</speaker> What have you found out, <mention ref="holmes">Mr. Holmes</mention>?</ln>
+        <ln><speaker>DUNBAR</speaker> What have you found out, <mention ref="holmes">Mr.
+                Holmes</mention>?</ln>
 
         <ln><speaker>HOLMES</speaker> The answer to this mystery I hope, my dear young lady. You
             will get news before the day is out. And meanwhile take my assurance that the clouds are
@@ -813,8 +847,9 @@
         <ln><speaker>SERGEANT</speaker> Yes, here you are, a ball of twine. What you want it for, I
             can't imagine.</ln>
 
-        <ln><speaker>HOLMES</speaker> You'll soon see, sergeant. Uh,<mention ref="watson"> Watson</mention>, I, uh, have some
-            recollection that you usually go armed on these excursions of ours.</ln>
+        <ln><speaker>HOLMES</speaker> You'll soon see, sergeant. Uh,<mention ref="watson">
+                Watson</mention>, I, uh, have some recollection that you usually go armed on these
+            excursions of ours.</ln>
 
         <ln><speaker>WATSON</speaker> Yes, I'm carrying my revolver. Why?</ln>
 
@@ -824,9 +859,9 @@
         <ln><speaker>WATSON</speaker>
             <stageDirect>CHUCKLES</stageDirect> You're joking.</ln>
 
-        <ln><speaker>HOLMES</speaker> No,<mention ref="watson"> Watson</mention>, I'm very serious. We have a test to make. If the
-            test is successful, Miss Dunbar will be free before nightfall. And the test will depend
-            on the conduct of this revolver of yours. </ln>
+        <ln><speaker>HOLMES</speaker> No,<mention ref="watson"> Watson</mention>, I'm very serious.
+            We have a test to make. If the test is successful, Miss Dunbar will be free before
+            nightfall. And the test will depend on the conduct of this revolver of yours. </ln>
 
         <ln>
             <sound>HOLMES UNLOADS BULLETS FROM REVOLVER</sound>
@@ -842,16 +877,18 @@
 
         <ln><speaker>SERGEANT</speaker> Right you are, sir.</ln>
 
-        <ln><speaker>WATSON</speaker><mention ref="holmes"> Holmes</mention>, what are you doing?</ln>
+        <ln><speaker>WATSON</speaker><mention ref="holmes"> Holmes</mention>, what are you
+            doing?</ln>
 
         <ln><speaker>HOLMES</speaker> Trying to reconstruct the killing of Mrs. Gibson. But you've
-            seen me miss the mark before,<mention ref="watson"> Watson</mention>. I have an instinct for such things, and yet it has
-            sometimes played me false. It seemed a certainty when it first flashed across my mind in
-            Miss Dunbar's cell, but one drawback of an active mind is that one can always conceive
-            alternative explanations which would make our scent a false one. And yet-- Oh, well. We
-            can but try.</ln>
+            seen me miss the mark before,<mention ref="watson"> Watson</mention>. I have an instinct
+            for such things, and yet it has sometimes played me false. It seemed a certainty when it
+            first flashed across my mind in Miss Dunbar's cell, but one drawback of an active mind
+            is that one can always conceive alternative explanations which would make our scent a
+            false one. And yet-- Oh, well. We can but try.</ln>
 
-        <ln><speaker>SERGEANT</speaker> Here's a nice stone, <mention ref="holmes">Mr. Holmes</mention>.</ln>
+        <ln><speaker>SERGEANT</speaker> Here's a nice stone, <mention ref="holmes">Mr.
+                Holmes</mention>.</ln>
 
         <ln><speaker>HOLMES</speaker> Thank you, sergeant! Now! I tie the other end of this twine to
             a stone. Wait a minute. Like that. Splendid! Uh, sergeant, will you please take this
@@ -864,11 +901,11 @@
                 <stageDirect>CALLS</stageDirect> That's it, sergeant. Over the parapet.</ln>
 
         <ln><speaker>SERGEANT</speaker>
-            <stageDirect>OFF</stageDirect> All set, <mention ref="holmes">Mr. Holmes</mention>. The stone's swinging about eight
-            feet above the water.</ln>
+            <stageDirect>OFF</stageDirect> All set, <mention ref="holmes">Mr. Holmes</mention>. The
+            stone's swinging about eight feet above the water.</ln>
 
-        <ln><speaker>HOLMES</speaker> Splendid! Now,<mention ref="watson"> Watson</mention>, watch closely. I raise the revolver to
-            my head.</ln>
+        <ln><speaker>HOLMES</speaker> Splendid! Now,<mention ref="watson"> Watson</mention>, watch
+            closely. I raise the revolver to my head.</ln>
 
         <ln><speaker>WATSON</speaker> Careful,<mention ref="holmes"> Holmes</mention>, careful.</ln>
 
@@ -886,7 +923,8 @@
                 SPLASHES AS STONE AND GUN SINK INTO STREAM</sound>
         </ln>
 
-        <ln><speaker>HOLMES</speaker> There's your answer,<mention ref="watson"> Watson</mention>!</ln>
+        <ln><speaker>HOLMES</speaker> There's your answer,<mention ref="watson">
+            Watson</mention>!</ln>
 
         <ln><speaker>WATSON</speaker> Great Scott! The revolver flashed back out of your hand --
             struck the parapet of the bridge -- and then the weight of the stone flipped it over
@@ -938,8 +976,8 @@
             hooks right away.</ln>
 
         <ln><speaker>WATSON</speaker>
-            <stageDirect>CHUCKLES</stageDirect> I must say,<mention ref="holmes"> Holmes</mention>, you've solved this case
-            brilliantly. Quite brilliantly.</ln>
+            <stageDirect>CHUCKLES</stageDirect> I must say,<mention ref="holmes"> Holmes</mention>,
+            you've solved this case brilliantly. Quite brilliantly.</ln>
 
         <ln><speaker>HOLMES</speaker> Ah, I disagree, old chap. And I fear that you will not improve
             my reputation by adding the case of the Thor Bridge mystery to your annals. </ln>
@@ -951,8 +989,8 @@
             art. I confess that the chip in the stonework was a sufficient clue to suggest the true
             solution, and I blame myself for not having attained it sooner.</ln>
 
-        <ln><speaker>WATSON</speaker> Well,<mention ref="holmes"> Holmes</mention>, personally, I agree with the sergeant's opinion
-            of you.</ln>
+        <ln><speaker>WATSON</speaker> Well,<mention ref="holmes"> Holmes</mention>, personally, I
+            agree with the sergeant's opinion of you.</ln>
 
         <ln><speaker>HOLMES</speaker> Oh? What was that, old fellow?</ln>
 
@@ -964,8 +1002,9 @@
             <music>TO A FINISH</music>
         </ln>
 
-        <ln><speaker>ANNOUNCER</speaker> Well, doctor,<mention ref="holmes"> Holmes</mention> really was a magician -- that is, if
-            you did find Mrs. Gibson's revolver, and your own, in the stream.</ln>
+        <ln><speaker>ANNOUNCER</speaker> Well, doctor,<mention ref="holmes"> Holmes</mention> really
+            was a magician -- that is, if you did find Mrs. Gibson's revolver, and your own, in the
+            stream.</ln>
 
         <ln><speaker>WATSON</speaker>
             <stageDirect>CHUCKLES</stageDirect> Oh, we found them all right. You don't think I'd
@@ -1017,15 +1056,15 @@
             the Petri Family really knows plenty about the fine art of turning luscious grapes into
             delicious wine. That's why, whether you want a wine for before dinner, with dinner, or
             for any time, you can't go wrong with a Petri Wine. "Because Petri took time / to bring
-            you good wine." And now, <mention ref="watson">Dr. Watson</mention>, what new story are you planning to tell us next
-            week?</ln>
+            you good wine." And now, <mention ref="watson">Dr. Watson</mention>, what new story are
+            you planning to tell us next week?</ln>
 
         <ln><speaker>WATSON</speaker> Well, next week, Mr. Bartell, I'm going to tell an adventure
-            that<mention ref="holmes"> Holmes</mention> and I had amid the Oriental magnificence of a maharaja's palace in
-            India.</ln>
+                that<mention ref="holmes"> Holmes</mention> and I had amid the Oriental magnificence
+            of a maharaja's palace in India.</ln>
 
-        <ln><speaker>ANNOUNCER</speaker> India? Sounds intriguing. What were you and <mention ref="holmes">Sherlock Holmes</mention>
-            doing out there, doctor?</ln>
+        <ln><speaker>ANNOUNCER</speaker> India? Sounds intriguing. What were you and <mention
+                ref="holmes">Sherlock Holmes</mention> doing out there, doctor?</ln>
 
         <ln><speaker>WATSON</speaker> Oh, well, you'll have to wait till next week for the answer to
             that question, my boy. But I can tell you that it was one of the weirdest problems that
@@ -1035,11 +1074,12 @@
             <music>THEME ... CONTINUES IN BG</music>
         </ln>
 
-        <ln><speaker>ANNOUNCER</speaker> Tonight's <mention ref="holmes">Sherlock Holmes</mention> adventure is written by Denis
-            Green and Anthony Boucher and is adapted from the Sir Arthur Conan Doyle story "The
-            Problem of Thor Bridge." Mr. Rathbone appears through the courtesy of
-            Metro-Goldwyn-Mayer and Mr. Bruce through the courtesy of Universal Pictures where they
-            are now starring in the <mention ref="holmes">Sherlock Holmes</mention> series.</ln>
+        <ln><speaker>ANNOUNCER</speaker> Tonight's <mention ref="holmes">Sherlock Holmes</mention>
+            adventure is written by Denis Green and Anthony Boucher and is adapted from the Sir
+            Arthur Conan Doyle story "The Problem of Thor Bridge." Mr. Rathbone appears through the
+            courtesy of Metro-Goldwyn-Mayer and Mr. Bruce through the courtesy of Universal Pictures
+            where they are now starring in the <mention ref="holmes">Sherlock Holmes</mention>
+            series.</ln>
 
         <ln>
             <music>UP AND OUT</music>
@@ -1068,8 +1108,8 @@
         </ln>
 
         <ln><speaker>ANNOUNCER</speaker> This is Harry Bartell, saying good night for the Petri
-            Family! <mention ref="holmes">Sherlock Holmes</mention> comes to you from our Hollywood studios. This is the Mutual
-            Broadcasting System.</ln>
+            Family! <mention ref="holmes">Sherlock Holmes</mention> comes to you from our Hollywood
+            studios. This is the Mutual Broadcasting System.</ln>
 
         <ln>
             <sound>APPLAUSE</sound>

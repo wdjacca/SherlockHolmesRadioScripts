@@ -3,17 +3,17 @@
         <series>Series: Sherlock Holmes</series>
         <show>Show: Silver Blaze</show>
         <date>Date: Mar 27 1955</date>
-        <castList>CAST: <cast id="#announcer">ANNOUNCER</cast>
-            <cast id="#watson">DR. WATSON</cast>
-            <cast id="#holmes">SHERLOCK HOLMES</cast>
-            <cast id="#stranger">STRANGER</cast>
-            <cast id="#maid">MAID</cast>
-            <cast id="#boy">BOY</cast>
-            <cast id="#inspector">INSPECTOR</cast>
-            <cast id="#colonel">COLONEL</cast>
-            <cast id="#straker">MRS. STRAKER</cast>
-            <cast id="#groom">GROOM</cast>
-            <cast id="#brown">SILAS BROWN</cast></castList>
+        <castList>CAST: <cast xml:id="announcer">ANNOUNCER</cast>
+            <cast xml:id="watson">DR. WATSON</cast>
+            <cast xml:id="holmes">SHERLOCK HOLMES</cast>
+            <cast xml:id="stranger">STRANGER</cast>
+            <cast xml:id="maid">MAID</cast>
+            <cast xml:id="boy">BOY</cast>
+            <cast xml:id="inspector">INSPECTOR</cast>
+            <cast xml:id="colonel">COLONEL</cast>
+            <cast xml:id="straker">MRS. STRAKER</cast>
+            <cast xml:id="groom">GROOM</cast>
+            <cast xml:id="brown">SILAS BROWN</cast></castList>
     </metadata>
     <script>
         <ln>
