@@ -42,9 +42,9 @@
             Well, that's when you want to lean back and take it easy. And, boy, that's the time a
             glass of Petri sherry tastes like something just too good to be true. Try it. Petri
             sherry's the perfect before-dinner wine. And, incidentally, if you like your sherry dry
-            -- you know, not sweet? -- then you'll find that Petri pale dry sherry is just made for
-            you. The important thing is the Petri label, because when it says "Petri," it always
-            means good wine.</ln>
+            -- you know, <!-- This was separated in the script -->not sweet? -- then you'll find
+            that Petri pale dry sherry is just made for you. The important thing is the Petri label,
+            because when it says "Petri," it always means good wine.</ln>
 
         <ln>
             <music>THEME ... THEN OUT</music>
@@ -1092,10 +1092,13 @@
             <music>CHEERY JINGLE ... ACCOMPANIES SINGING COMMERCIAL</music>
         </ln>
 
-        <ln><speaker>SINGER</speaker> Oh, the Petri Family took the time</ln>
-        <ln>To bring you such good wine</ln>
-        <ln>For when you eat and when you cook</ln>
-        <ln>Remember Petri Wine!</ln>
+        <ln><speaker>SINGER</speaker>
+            <lineGp>
+                <line>Oh, the Petri Family took the time</line>
+                <line>To bring you such good wine</line>
+                <line>For when you eat and when you cook</line>
+                <line>Remember Petri Wine!</line>
+            </lineGp></ln>
 
         <ln><speaker>ANNOUNCER</speaker>
             <stageDirect>SPOKEN</stageDirect> To make good food taste better, remember--</ln>

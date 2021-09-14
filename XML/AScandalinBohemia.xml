@@ -9,10 +9,10 @@
             <cast xml:id="holmes">SHERLOCK HOLMES</cast>
             <cast xml:id="bohemia">KING OF BOHEMIA, German accent</cast>
             <cast xml:id="bartender">BARTENDER</cast>
-            <cast id="#cabman1">1ST CABMAN (2 lines)</cast>
+            <cast xml:id="cabman1">1ST CABMAN (2 lines)</cast>
             <cast xml:id="norton">GEOFFREY NORTON (1 line)</cast>
             <cast xml:id="adler">IRENE ADLER (PRONOUNCED eye-REE-nee ADD-ler)</cast>
-            <cast id="#cabman2">2ND CABMAN (3 lines)</cast>
+            <cast xml:id="cabman2">2ND CABMAN (3 lines)</cast>
             <cast xml:id="alfie">ALFIE</cast>
             <cast xml:id="pat">PAT (1 line)</cast>
             <cast xml:id="hattie">HATTIE</cast>
@@ -627,13 +627,13 @@
         <ln><speaker>WATSON</speaker>
             <stageDirect>CALLS</stageDirect> Cabby! Hey, hey, cabby!</ln>
 
-        <ln>2ND <speaker>CABMAN</speaker>
+        <ln><speaker>2ND CABMAN</speaker>
             <stageDirect>SKEPTICAL</stageDirect> Have you blokes got enough money to take a
             cab?</ln>
 
         <ln><speaker>HOLMES</speaker> Here's half a sovereign for you, my man!</ln>
 
-        <ln>2ND <speaker>CABMAN</speaker> Right you are! Where to, governor?</ln>
+        <ln><speaker>2ND CABMAN</speaker> Right you are! Where to, governor?</ln>
 
         <ln><speaker>HOLMES</speaker> The Church of St. Monica in the Edgeware Road, and another
             half sovereign for you if you get us there in twenty minutes!</ln>
@@ -692,7 +692,7 @@
             after noon. That accounted for their wild dash to the church. Jump into the cab, old
             fellow. </ln>
 
-        <ln>2ND <speaker>CABMAN</speaker> Where to now, governor?</ln>
+        <ln><speaker>2NDCABMAN</speaker> Where to now, governor?</ln>
 
         <ln><speaker>HOLMES</speaker> Two Twenty-One B, Baker Street.</ln>
 
@@ -1177,16 +1177,16 @@
             <music> THEME ... THEN UNDER--</music>
         </ln>
 
-        <ln><speaker>ANNOUNCER</speaker> Tonight's <mention ref="holmes">Sherlock Holmes</mention>
+        <ln><speaker>ANNOUNCER</speaker> <lineGp><line>Tonight's <mention ref="holmes">Sherlock Holmes</mention>
             adventure was written by Denis Green and Anthony Boucher, and is an adaptation of the
             Sir Arthur Conan Doyle story "A Scandal in Bohemia." Music is by Dean Fosler. Mr.
             Rathbone appears through the courtesy of Metro-Goldwyn-Mayer and Mr. Bruce through the
             courtesy of Universal Pictures, where they are now starring in the <mention ref="holmes"
-                >Sherlock Holmes</mention> series.</ln>
+                >Sherlock Holmes</mention> series.</line>
 
-        <ln>The Petri Wine Company of San Francisco, California invites you to tune in again next
+        <line>The Petri Wine Company of San Francisco, California invites you to tune in again next
             week -- same time, same station. "<mention ref="holmes">Sherlock Holmes</mention>" comes
-            to you from our Hollywood studios. </ln>
+            to you from our Hollywood studios.</line></lineGp> </ln>
 
         <ln>
             <music> OUT</music>

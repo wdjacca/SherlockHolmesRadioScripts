@@ -46,7 +46,7 @@
 
 <ln><speaker>WATSON</speaker>It started conventionally enough.<mention ref="holmes"> Holmes</mention> and I had been to the St. James Hall to hear a noted Italian violinist, and after the concert, we returned to Baker Street to find Inspector Lestrade waiting for us. As we came up the stairs and opened the door -- there he was <stageDirect>FADING</stageDirect> pacing up and down our room . . . .</ln>
 
-<ln>SOUND EFFECT: FOOTSTEPS. DOOR OPEN AND CLOSE.</ln>
+<ln><sound>FOOTSTEPS. DOOR OPEN AND CLOSE.</sound></ln>
 
 <ln><speaker>LESTRADE</speaker><stageDirect>FADING IN</stageDirect> . . . <mention ref="holmes">Mr. Holmes</mention>, I'm certainly glad to see you! Evenin', Doctor<mention ref="watson"> Watson</mention>.</ln>
 
@@ -98,7 +98,7 @@
 
 <ln><speaker>ISABEL</speaker><stageDirect>OFF</stageDirect> Come in.</ln>
 
-<ln>SOUND EFFECT: DOOR OPEN. FOOTSTEPS</ln>
+<ln><sound>DOOR OPEN. FOOTSTEPS</sound></ln>
 
 <ln><speaker>LESTRADE</speaker>Mrs. Rush . . . this is Mr. <mention ref="holmes">Sherlock Holmes</mention> and Doctor<mention ref="watson"> Watson</mention>. They're working with me on the case.</ln>
 
@@ -118,7 +118,7 @@
 
 <ln><speaker>LESTRADE</speaker>And now, if you'll excuse me, I have to go back to the Yard and make a report. <stageDirect>FADING</stageDirect> Good evening. See you later, <mention ref="holmes">Mr. Holmes</mention>.</ln>
 
-<ln>SOUND EFFECT: DOOR CLOSE</ln>
+<ln><sound>DOOR CLOSE</sound></ln>
 
 <ln><speaker>ISABEL</speaker>Sit down, won't you? And tell me what I can do to help you.</ln>
 
@@ -156,7 +156,7 @@
 
 <ln><speaker>ISABEL</speaker>This doesn't make sense. Let's go and find out what Nathan's talking about.</ln>
 
-<ln>SOUND EFFECT: FOOTSTEPS. AFTER A MOMENT, DOOR OPENS</ln>
+<ln><sound>FOOTSTEPS. AFTER A MOMENT, DOOR OPENS</sound></ln>
 
 <ln><speaker>BLACK</speaker><stageDirect>FADING IN -- LAUGHING</stageDirect> Well, d'you believe me? Where is he?</ln>
 
@@ -274,7 +274,7 @@
 
 <ln><speaker>BLACK</speaker>Sit down, <mention ref="holmes">Mr. Holmes</mention>, won't you? And Doctor -- ? I'm very glad to meet you.</ln>
 
-<ln>SOUND EFFECT: CHAIRS BEING MOVED</ln>
+<ln><sound>CHAIRS BEING MOVED</sound></ln>
 
 <ln><speaker>BLACK</speaker>A dreadful business. Have there been any new developments?</ln>
 
@@ -306,7 +306,7 @@
 
 <ln><music>BRIDGE</music></ln>
 
-<ln>SOUND EFFECT: STREET NOISES</ln>
+<ln><sound>STREET NOISES</sound></ln>
 
 <ln><speaker>BLACK</speaker><stageDirect>AFTER A FEW MOMENTS) Here's my carriage, Mr. Holmes . . . (CALLING</stageDirect> Taylor come down here a minute, will you?</ln>
 
@@ -374,13 +374,13 @@
 
 <ln><speaker>FORMAN</speaker>And now, back to tonight's new <mention ref="holmes">Sherlock Holmes</mention> adventure. William Rush, wealthy business man, stepping back into his house for his umbrella, has apparently vanished from the face of the earth, and <mention ref="holmes">Sherlock Holmes</mention> and Doctor<mention ref="watson"> Watson</mention> are investigating the strange mystery. As we rejoin our story, it is two-thirty in the morning and the famous pair are engaged in breaking into the missing <stageDirect>FADING</stageDirect> man's house.</ln>
 
-<ln>SOUND EFFECT: SCRATCHING OF KEY IN LOCK</ln>
+<ln><sound>SCRATCHING OF KEY IN LOCK</sound></ln>
 
 <ln><speaker>WATSON</speaker><stageDirect>WHISPERING</stageDirect> I don't like this,<mention ref="holmes"> Holmes</mention> -- breaking into people's houses in the middle of the night.</ln>
 
 <ln><speaker>HOLMES</speaker>Hold the lantern a little higher, will you, old chap -- that's it. There we are.</ln>
 
-<ln>SOUND EFFECT: DOOR OPENING AND CLOSING SOFTLY. STEALTHY FOOTSTEPS</ln>
+<ln><sound>DOOR OPENING AND CLOSING SOFTLY. STEALTHY FOOTSTEPS</sound></ln>
 
 <ln><speaker>HOLMES</speaker><stageDirect>AFTER AN APPRECIABLE PAUSE</stageDirect> The umbrella stand. Now what do we find?</ln>
 
@@ -400,7 +400,7 @@
 
 <ln><speaker>HOLMES</speaker>I'd suggest the cellar as being a likely place. Also, it has the advantage of having a most convenient furnace down there. Come on . . . through the kitchen.</ln>
 
-<ln>SOUND EFFECT: STEALTHY FOOTSTEPS. AFTER A MOMENT, DOOR OPENING</ln>
+<ln><sound>STEALTHY FOOTSTEPS. AFTER A MOMENT, DOOR OPENING</sound></ln>
 
 <ln><speaker>HOLMES</speaker>And now, down these stairs . . . watch your head.</ln>
 
@@ -408,35 +408,35 @@
 
 <ln><speaker>HOLMES</speaker>Shh, old fellow. We don't want to wake the whole house.</ln>
 
-<ln>SOUND EFFECT: STEALTHY FOOTSTEPS DESCENDING STAIRS <stageDirect>NOTE: VOICES IN ENSUING SCENE ON ECHO</stageDirect></ln>
+<ln><sound>STEALTHY FOOTSTEPS DESCENDING STAIRS <stageDirect>NOTE: VOICES IN ENSUING SCENE ON ECHO</stageDirect></sound></ln>
 
 <ln><speaker>HOLMES</speaker><stageDirect>AFTER A FEW MOMENTS</stageDirect> Well, here we are.</ln>
 
-<ln>SOUND EFFECT: FOOTSTEPS ON LEVEL</ln>
+<ln><sound>FOOTSTEPS ON LEVEL</sound></ln>
 
 <ln><speaker>WATSON</speaker><stageDirect>SUDDENLY</stageDirect> Hello! That furnace is burning very brightly!</ln>
 
 <ln><speaker>HOLMES</speaker>Yes. Surely no one's been stoking it at this hour of the morning.</ln>
 
-<ln>SOUND EFFECT: FOOTSTEPS STOP </ln>
+<ln><sound>FOOTSTEPS STOP </sound></ln>
 
 <ln><speaker>HOLMES</speaker>Let's see what's burning.</ln>
 
-<ln>SOUND EFFECT: FURNACE DOOR BEING OPENED</ln>
+<ln><sound>FURNACE DOOR BEING OPENED</sound></ln>
 
 <ln><speaker>WATSON</speaker><stageDirect>EXCITEDLY</stageDirect> By George,<mention ref="holmes"> Holmes</mention>! It's a burning umbrella!</ln>
 
 <ln><speaker>HOLMES</speaker>Give me that poker . . . That's it . . . Now let's see if I can get it out again ... .</ln>
 
-<ln>SOUND EFFECT: RATTLING OF POKER AGAINST FURNACE</ln>
+<ln><sound>RATTLING OF POKER AGAINST FURNACE</sound></ln>
 
 <ln><speaker>WATSON</speaker>Good work,<mention ref="holmes"> Holmes</mention>! You've got it!</ln>
 
-<ln>SOUND EFFECT: STAMPING OF FEET</ln>
+<ln><sound>STAMPING OF FEET</sound></ln>
 
 <ln><speaker>HOLMES</speaker><stageDirect>GRUNTING</stageDirect> First of all, we'll put out the flames.</ln>
 
-<ln>SOUND EFFECT: MORE STAMPING OF FEET.</ln>
+<ln><sound>MORE STAMPING OF FEET.</sound></ln>
 
 <ln><speaker>HOLMES</speaker>There we are.</ln>
 
@@ -476,7 +476,7 @@
 
 <ln><speaker>HOLMES</speaker>I suggest you do as the Captain orders,<mention ref="watson"> Watson</mention>. He still has a revolver pointing at you, you know.</ln>
 
-<ln>SOUND EFFECT: FOOTSTEPS ON STAIRS</ln>
+<ln><sound>FOOTSTEPS ON STAIRS</sound></ln>
 
 <ln><speaker>WATSON</speaker>Outrageous -- treating us like a couple of criminals.</ln>
 
@@ -522,7 +522,7 @@
 
 <ln><speaker>STANLEY</speaker><stageDirect>FURIOUSLY</stageDirect> You killed him yourself. Just as you murdered my father!</ln>
 
-<ln>SOUND EFFECT: SCUFFLE</ln>
+<ln><sound>SCUFFLE</sound></ln>
 
 <ln><speaker>LESTRADE</speaker>Here here, gentlemen. Take it easy.</ln>
 
@@ -566,7 +566,7 @@
 
 <ln><speaker>HOLMES</speaker>Thank you. I prefer to fetch him myself.</ln>
 
-<ln>SOUND EFFECT: DOOR OPEN. FOOTSTEPS DOWN STEPS</ln>
+<ln><sound>DOOR OPEN. FOOTSTEPS DOWN STEPS</sound></ln>
 
 <ln><speaker>HOLMES</speaker><stageDirect>CALLING</stageDirect> Taylor! Taylor!</ln>
 
@@ -580,7 +580,7 @@
 
 <ln><speaker>HOLMES</speaker>I have no intention of -- <stageDirect>WITH A SUDDEN GRUNT OF EXERTION</stageDirect> -- turning round!</ln>
 
-<ln>SOUND EFFECT: SCUFFLE. REVOLVER SHOT</ln>
+<ln><sound>SCUFFLE. REVOLVER SHOT</sound></ln>
 
 <ln><speaker>HOLMES</speaker>Rather a neat trick, don't you think? It was taught to me by a Japanese wrestler. Now that you've dropped your revolver, I'll borrow it if you don't mind. I suggest that you both stand under the gaslight where I can keep my eyes on you. Thank you. By the way, Taylor -- give me back that confession, will you? I think Inspector Lestrade will find it interesting evidence.</ln>
 
@@ -614,7 +614,7 @@
 
 <ln><speaker>STANLEY</speaker><stageDirect>VIOLENTLY</stageDirect> Why, Nathan you --</ln>
 
-<ln>SOUND EFFECT: CRACK OF FIST ON JAW. GROAN, FALLING BODY</ln>
+<ln><sound>CRACK OF FIST ON JAW. GROAN, FALLING BODY</sound></ln>
 
 <ln><speaker>HOLMES</speaker>I can't say I blame you, Captain Rush. But I suggest you leave this pair to us while you go back and break the news to Mrs. Rush.</ln>
 
@@ -634,7 +634,7 @@
 
 <ln><speaker>WATSON</speaker>Good idea,<mention ref="holmes"> Holmes</mention>. Here, Lestrade. I'll give you a hand with getting Mr. Black into the carriage . . . .</ln>
 
-<ln>SOUND EFFECT: EXERTION</ln>
+<ln><sound>EXERTION</sound></ln>
 
 <ln><speaker>WATSON</speaker>There we are . . . .</ln>
 
@@ -644,9 +644,9 @@
 
 <ln><speaker>LESTRADE</speaker><stageDirect>FADING</stageDirect> Good night, gentlemen.</ln>
 
-<ln>HOLMES and WATSON: Good night.</ln>
+<ln><speaker>HOLMES and WATSON</speaker> Good night.</ln>
 
-<ln>SOUND EFFECT: CAB DOOR CLOSES</ln>
+<ln><sound>CAB DOOR CLOSES</sound></ln>
 
 <ln><speaker>LESTRADE</speaker><stageDirect>OFF A LITTLE </stageDirect> All right, Taylor. Off you go . . . and no funny tricks. I've got a revolver, remember.</ln>
 

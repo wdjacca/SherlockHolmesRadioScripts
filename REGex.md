@@ -9,7 +9,7 @@
 3 Find: '(SOUND:) (.+)\n'
     Replace: '<sound>\2</sound>\n'
 
-4 Find: '^([A-Z]+): '
+4 Find: '^([A-Z]+|.+): '
     Replace: '<speaker>\1</speaker>'
 
 5 Find: '\(([A-Z].+)\)' (6 matches)
