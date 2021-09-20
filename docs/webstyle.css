@@ -1,8 +1,11 @@
 @charset "UTF-8";
 /* CSS Document */
 
-body{
-	background-color: #EDEEE9;
+body
+{
+    background-color: #F7E1C1;
+    font-size: 17px;
+    text-align: center;
 }
 ul {
     list-style-type: none;
@@ -44,9 +47,16 @@ td a {
 }
 
 h1 {
-font-size: 60px;
+font-size: 40px;
 color:#2C2B2C ;
 font-weight: 400;
+text-align: center;
+font-family: 'Cinzel', serif;
+}
+
+h2 {
+font-size: 20px;
+color:#2C2B2C ;
 text-align: center;
 font-family: 'Cinzel', serif;
 }
