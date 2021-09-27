@@ -1,12 +1,5 @@
 @charset "UTF-8";
 /* CSS Document */
-
-body
-{
-    background-color: #F7E1C1;
-    font-size: 17px;
-    text-align: center;
-}
 ul {
     list-style-type: none;
     margin: 0;
@@ -30,12 +23,6 @@ a {
 
 }
 
-
-td a {
-    text-decoration: underline;
-    text-align: left;
-}
-
 .active {
     background-color: #6B4C33;
 	color: white;
@@ -46,23 +33,3 @@ td a {
 	color: white;
 }
 
-h1 {
-font-size: 40px;
-color:#2C2B2C ;
-font-weight: 400;
-text-align: center;
-font-family: 'Cinzel', serif;
-}
-
-h2 {
-font-size: 20px;
-color:#2C2B2C ;
-font-weight: 400;
-text-align: center;
-font-family: 'Cinzel', serif;
-}
-
-.source {
-	background-color: #EDEEE9;
-	text-decoration: underline;
-}

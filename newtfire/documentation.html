@@ -1,0 +1,36 @@
+<!doctype html>
+<html xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <title>Sherlock Holmes Radio Script</title>
+      <link rel="stylesheet" type="text/css" href="radioHolmes.css"/>
+	  <link rel="preconnect" href="https://fonts.gstatic.com">
+	  <link href="https://fonts.googleapis.com/css2?family=Cinzel&display=swap" rel="stylesheet">
+   </head>
+   <body>
+       <!--#include virtual="menu.html" -->
+       <h3>Editorial Methodology</h3>
+	   <h4> Corpus Preparation </h4>
+       <p>The radio scripts were sourced from the Generic Radio Workshop, where there were downloadable plain text (.txt) files that includes the body contents of the scripts. For the purpose of this research, metadata that was excluded from the plain text files at the top of the webpage display were also included into the files. There was a regular pattern of "series", "show", "date", and "cast", which led to the decision of strictly limiting the Relax NG schema code in this specific order. There were some discrepancies within the files, most notably being with "Murder in Casbah".</p>
+
+<ul>There were some major differences in the structure of the files in the radio script corpus, that being of:
+    <br/>
+    <br>
+    <li> some scripts included a sound effect and special effects list</li> 
+   <li> some scripts have notes that indicate the author or special notes</li>
+<li> the order of the elements in the metadata columns would be different depending on whether there was a sound effect and special effect list, and notes</li>
+<li> while most scripts have the regular pattern of [SOUND/MUSIC:] to indicate the start of a sound effect or musical tune, some have [SOUND FX] or [music]</li>
+<li> there were minor typos such as ; and FC</li>
+<li> some lines do not have a speaker attached, most likely being part of a larger paragraph of speech that was broken into separate lines in the script</li></ul>
+
+<p>The content in the files in the corpus had to be regularized so that queries could be performed easily on them in the future, taking into consideration that any changes would not affect the contextual or structural analysis of the project.</p> 
+
+<ul>The following changes to the corpus were made:
+    <br/><br/>
+    <li> a &lt;lineGrp&gt; element was added to wrap around the spilt lines</li>
+<li> a &lt;line&gt; element was added to wrap around the lines in &lt;lineGrp&gt; to preserve the original structure of the script</li>
+<li> all lines were wrapped in &lt;ln&gt; for consistency</li>
+<li> all metadata elements were formatted to be in the same order, regardless of the order it was in the original text</li>
+<li> SOUND/MUSIC tags from the original text were removed since &lt;sound&gt; and &lt;music&gt; served the same purpose.</li>
+</ul></body>
+</html>

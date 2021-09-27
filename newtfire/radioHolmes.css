@@ -8,15 +8,16 @@ body
     text-align: center;
 }
 ul {
-    list-style-type: none;
+    list-style-type:square;
     margin: 0;
-    padding: 0;
     overflow: hidden;
-    background-color: #BD906E;
+    text-align: left;
+    padding-left: 60px;
 }
 
-li {
-    float: left;
+p{
+    text-align: left;
+    padding-left: 40px;
 }
 
 a {
@@ -34,16 +35,6 @@ a {
 td a {
     text-decoration: underline;
     text-align: left;
-}
-
-.active {
-    background-color: #6B4C33;
-	color: white;
-}
-
-.Nav li a:hover {
-    background-color: #946D46;
-	color: white;
 }
 
 h1 {
