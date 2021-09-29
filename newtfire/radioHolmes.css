@@ -7,12 +7,13 @@ body
     font-size: 17px;
     text-align: center;
 }
-ul {
+ul.content {
     list-style-type:square;
     margin: 0;
     overflow: hidden;
     text-align: left;
     padding-left: 60px;
+    background-color: #F7E1C1;
 }
 
 p{
@@ -21,13 +22,8 @@ p{
 }
 
 a {
-    display: block;
-    color:#2C2B2C;
-    text-align: center;
-    padding: 14px 16px;
-    font-size: 20px;
-    font-weight: 500;
-    text-decoration: none;
+    text-decoration: underline;
+    color: inherit;
 
 }
 
