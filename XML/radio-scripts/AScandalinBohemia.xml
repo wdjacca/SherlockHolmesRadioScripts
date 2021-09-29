@@ -1,4 +1,5 @@
 <?xml-model href="../sherlock.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../sherlock.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <xml>
     <metadata>
         <series>Series: Sherlock Holmes</series>
@@ -38,7 +39,7 @@
             <music> UP AND OUT</music>
         </ln>
 
-        <ln><speaker>ANNOUNCER</speaker> The Petri family -- the family that took time to bring you
+        <ln pull="#SIB-p1"><speaker>ANNOUNCER</speaker> The Petri family -- the family that took time to bring you
             good wine -- invites you to listen to <mention ref="watson">Dr. Watson</mention> tell us
             another exciting adventure he shared with his old friend, that master detective,
                 <mention ref="holmes">Sherlock Holmes</mention>. And you know something? I had an
