@@ -1,0 +1,11 @@
+start = element xml {xmlid,metadata,\text}
+xmlid = attribute xml:id {xsd:ID}
+metadata = element metadata {title}
+title = element title {text}
+\text = element \text {chapter+}
+chapter = element chapter {num,mixed{p+}}
+num = attribute num {xsd:integer}
+p = element p {xmlid, mixed{seg*|note*}}
+seg = element seg {xmlid,text}
+note = element note {nt,text}
+nt = attribute nt {text}

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../conon-doyle.rnc" type="application/relax-ng-compact-syntax"?>
 <xml xml:id="SIB">
     <metadata>
         <title>I. A SCANDAL IN BOHEMIA</title>
