@@ -39,7 +39,7 @@
             <music> UP AND OUT</music>
         </ln>
 
-        <ln pull="#SIB-p1"><speaker>ANNOUNCER</speaker> The Petri family -- the family that took time to bring you
+        <ln><speaker>ANNOUNCER</speaker> The Petri family -- the family that took time to bring you
             good wine -- invites you to listen to <mention ref="watson">Dr. Watson</mention> tell us
             another exciting adventure he shared with his old friend, that master detective,
                 <mention ref="holmes">Sherlock Holmes</mention>. And you know something? I had an
@@ -89,14 +89,14 @@
         <ln><speaker>ANNOUNCER</speaker> Well, doctor, you told us last week that tonight's story
             centered around the activities of a brilliant and beautiful woman.</ln>
 
-        <ln><speaker>WATSON</speaker> Yes, my boy. Her name was Irene Adler. But I never
+        <ln pull="#SIB-p1-s1"><speaker>WATSON</speaker> Yes, my boy. Her name was Irene Adler. But I never
                 knew<mention ref="holmes"> Holmes</mention> to refer to her by any other name than
             "The Woman."</ln>
 
         <ln><speaker>ANNOUNCER</speaker> She sounds mighty intriguing. How did you happen to meet up
             with her?</ln>
 
-        <ln><speaker>WATSON</speaker> Well, I'll tell you the story from the beginning. One night --
+        <ln pull="#SIB-p3-s1 SIB-p2-s1"><speaker>WATSON</speaker> Well, I'll tell you the story from the beginning. One night --
             it was on the twentieth of March, Eighteen Hundred and Eighty-Eight, to be exact -- I
             was returning home from a visit to a patient, when my steps led me through Baker Street.
             Since my marriage, I hadn't seen much of <mention ref="holmes">Sherlock Holmes</mention>
@@ -105,7 +105,7 @@
         <ln><speaker>ANNOUNCER</speaker> You couldn't resist stopping by Two-Twenty-One B, I'm sure,
             doctor.</ln>
 
-        <ln><speaker>WATSON</speaker> Of course I couldn't. As I stood outside the well-remembered
+        <ln pull="#SIB-p3-s2 SIB-p3-s2"><speaker>WATSON</speaker> Of course I couldn't. As I stood outside the well-remembered
             door, I looked up at the lighted windows and saw the tall, spare figure of my old friend
             pass twice in dark silhouette against the blind. He was pacing the room swiftly,
             eagerly, with his head sunk on his chest and his hands clasped behind him. To me, who
@@ -113,20 +113,20 @@
             on the scent of some new problem. I rang the bell and a few moments later, found myself
             standing before him. <stageDirect>FADES OUT</stageDirect></ln>
 
-        <ln><speaker>HOLMES</speaker>
+        <ln pull="#SIB-p5"><speaker>HOLMES</speaker>
             <stageDirect>FADES IN</stageDirect> Marriage suits you,<mention ref="watson">
                 Watson</mention>. You look in splendid shape.</ln>
 
         <ln><speaker>WATSON</speaker> Yes,<mention ref="holmes"> Holmes</mention>, I'm feeling very
             well, thanks.</ln>
 
-        <ln><speaker>HOLMES</speaker> And in practice again, I see. You didn't tell me that you'd
+        <ln pull="#SIB-p7-s1"><speaker>HOLMES</speaker> And in practice again, I see. You didn't tell me that you'd
             gone back into harness.</ln>
 
-        <ln><speaker>WATSON</speaker>
+        <ln pull="#SIB-p8"><speaker>WATSON</speaker>
             <stageDirect>SURPRISED</stageDirect> Oh? How do you know?</ln>
 
-        <ln><speaker>HOLMES</speaker> Elementary, my dear chap. If a gentleman walks into my rooms
+        <ln pull="#SIB-p12-s1"><speaker>HOLMES</speaker> Elementary, my dear chap. If a gentleman walks into my rooms
             smelling of iodoform, with a black mark of nitrate of silver on his right forefinger and
             a bulge on the left side of his hat to show where he has secreted his stethoscope, I
             should be dull, indeed, if I didn't pronounce him to be an active member of the medical
@@ -141,10 +141,10 @@
 
         <ln><speaker>WATSON</speaker> You're working on a new case?</ln>
 
-        <ln><speaker>HOLMES</speaker> It looks like it. This letter arrived by the last post today.
+        <ln pull="#SIB-p21"><speaker>HOLMES</speaker> It looks like it. This letter arrived by the last post today.
             It's undated, and has neither signature nor address. Read it.</ln>
 
-        <ln><speaker>WATSON</speaker>
+        <ln pull="#SIB-p22 SIB-p23"><speaker>WATSON</speaker>
             <stageDirect>MUMBLES</stageDirect> Let's have a look. <stageDirect>READS</stageDirect>
             "There will call upon you tonight, at a quarter to eight o'clock, a gentleman who
             desires to consult you upon a matter of the very deepest moment. Your recent services to
@@ -155,29 +155,29 @@
                 <stageDirect>TO HOLMES</stageDirect> Great Scott, it all sounds very mysterious.
             What do you imagine it means?</ln>
 
-        <ln><speaker>HOLMES</speaker> Look carefully at the note,<mention ref="watson">
+        <ln pull="#SIB-p24-s1"><speaker>HOLMES</speaker> Look carefully at the note,<mention ref="watson">
                 Watson</mention>. What do you deduce from it?</ln>
 
-        <ln><speaker>WATSON</speaker> Oh, let's see. Well, the man who wrote it was presumably
+        <ln pull="#SIB-p26"><speaker>WATSON</speaker> Oh, let's see. Well, the man who wrote it was presumably
             well-to-do. Such paper couldn't be bought for under half a crown a packet. And it's
             peculiarly strong and stiff.</ln>
 
-        <ln><speaker>HOLMES</speaker> Peculiar -- that's the very word. It's not an English paper at
+        <ln pull="#SIB-p27"><speaker>HOLMES</speaker> Peculiar -- that's the very word. It's not an English paper at
             all. Hold it up to the light. You notice anything?</ln>
 
-        <ln><speaker>WATSON</speaker> Yes. There's a large "E" with a small "g"--</ln>
+        <ln pull="#SIB-p28"><speaker>WATSON</speaker> Yes. There's a large "E" with a small "g"--</ln>
 
         <ln><speaker>HOLMES</speaker>
             <stageDirect>AGREES</stageDirect> Mm hm.</ln>
 
-        <ln><speaker>WATSON</speaker> --and a large "G" with a small "t" woven into the texture of
+        <ln pull="#SIB-p28"><speaker>WATSON</speaker> --and a large "G" with a small "t" woven into the texture of
             the paper.</ln>
 
         <ln><speaker>HOLMES</speaker> What does that suggest to you?</ln>
 
-        <ln><speaker>WATSON</speaker> The name of the maker, no doubt; or perhaps his monogram.</ln>
+        <ln pull="#SIB-p30"><speaker>WATSON</speaker> The name of the maker, no doubt; or perhaps his monogram.</ln>
 
-        <ln><speaker>HOLMES</speaker> Not at all, my dear fellow. The "G" with the small "t" stands
+        <ln pull="#SIB-p31-s1"><speaker>HOLMES</speaker> Not at all, my dear fellow. The "G" with the small "t" stands
             for "Gesellschaft," which is the German for "Company."</ln>
 
         <ln><speaker>WATSON</speaker> And the "E - g"? </ln>
@@ -186,16 +186,16 @@
 
         <ln><speaker>WATSON</speaker> Egria?</ln>
 
-        <ln><speaker>HOLMES</speaker> It's in a German-speaking country in Bohemia, not far from
+        <ln pull="#SIB-p31-s2"><speaker>HOLMES</speaker> It's in a German-speaking country in Bohemia, not far from
             Carlsbad. </ln>
 
-        <ln><speaker>WATSON</speaker> So the paper was made in Bohemia. </ln>
+        <ln pull="#SIB-p32"><speaker>WATSON</speaker> So the paper was made in Bohemia. </ln>
 
-        <ln><speaker>HOLMES</speaker> Undoubtedly. And the man who wrote the note is a German.</ln>
+        <ln pull="#SIB-p33-s1"><speaker>HOLMES</speaker> Undoubtedly. And the man who wrote the note is a German.</ln>
 
         <ln><speaker>WATSON</speaker> How do you know that?</ln>
 
-        <ln><speaker>HOLMES</speaker> Observe the curious construction of the sentence, "This
+        <ln pull="#SIB-p33-s1 SIB-p33-s2 SIB-p33-s3"><speaker>HOLMES</speaker> Observe the curious construction of the sentence, "This
             account of you we have from all quarters received." A Frenchman or a Russian could not
             have written that. It's the German who is so discourteous to his verbs.</ln>
 
@@ -203,14 +203,14 @@
             <sound> VICTORIAN DOORBELL JANGLES, OFF</sound>
         </ln>
 
-        <ln><speaker>WATSON</speaker> There's your client now. I'd better go,<mention ref="holmes">
+        <ln pull="#SIB-p36"><speaker>WATSON</speaker> There's your client now. I'd better go,<mention ref="holmes">
                 Holmes</mention>. </ln>
 
         <ln><speaker>HOLMES</speaker> No, no, no, no -- unless you have to. </ln>
 
         <ln><speaker>WATSON</speaker> Well, I could stay; I thought perhaps that--</ln>
 
-        <ln><speaker>HOLMES</speaker> Then, my dear chap, stay. by all means. I'm lost without my
+        <ln pull="#SIB-p37"><speaker>HOLMES</speaker> Then, my dear chap, stay. by all means. I'm lost without my
             Boswell, and this promises to be interesting. I told Mrs. Hudson to let the masked
             visitor come upstairs unannounced.</ln>
 
@@ -225,7 +225,7 @@
 
         <ln><speaker>HOLMES</speaker> Good evening, sir. </ln>
 
-        <ln><speaker>KING</speaker> You, uh-- You received my note?</ln>
+        <ln pull="#SIB-p43-s1"><speaker>KING</speaker> You, uh-- You received my note?</ln>
 
         <ln><speaker>HOLMES</speaker> Yes, indeed. Come in, won't you, and sit down? </ln>
 
@@ -233,41 +233,41 @@
             <sound> KING WALKS TO CHAIR AND SITS BEHIND--</sound>
         </ln>
 
-        <ln><speaker>HOLMES</speaker> This is my friend and colleague, <mention ref="watson">Dr.
+        <ln pull="#SIB-p44-s1 SIB-p44-s2 SIB-p46-s1"><speaker>HOLMES</speaker> This is my friend and colleague, <mention ref="watson">Dr.
                 Watson</mention>. You may say anything before him that you can say to me. Whom have
             I the honor to address?</ln>
 
-        <ln><speaker>KING</speaker> You may address me as, er, Count Von Kramm.</ln>
+        <ln pull="#SIB-p45-s1"><speaker>KING</speaker> You may address me as, er, Count Von Kramm.</ln>
 
         <ln><speaker>WATSON</speaker> How do you do, sir?</ln>
 
-        <ln><speaker>KING</speaker> You must excuse this mask that I wear. The august person who
+        <ln pull="#SIB-p50"><speaker>KING</speaker> You must excuse this mask that I wear. The august person who
             employs me wishes his agent to be unknown to you, and I may confess at once that the
             title by which I have just called myself is not exactly my own.</ln>
 
-        <ln><speaker>HOLMES</speaker> I was well aware of that fact, sir. </ln>
+        <ln pull="#SIB-p51"><speaker>HOLMES</speaker> I was well aware of that fact, sir. </ln>
 
-        <ln><speaker>KING</speaker> You see, <mention ref="holmes">Mr. Holmes</mention>, the matter
+        <ln pull="#SIB-p52-s1"><speaker>KING</speaker> You see, <mention ref="holmes">Mr. Holmes</mention>, the matter
             I am about to discuss implicates the great House of Ormstein, hereditary kings of
             Bohemia.</ln>
 
-        <ln><speaker>HOLMES</speaker> That had not escaped me either, sir. In fact, if you will
+        <ln pull="#SIB-p55"><speaker>HOLMES</speaker> That had not escaped me either, sir. In fact, if you will
             state your case, I shall be better able to advise you -- your Majesty.</ln>
 
-        <ln><speaker>KING</speaker>
+        <ln pull="#SIB-p56-s1"><speaker>KING</speaker>
             <stageDirect>ASTONISHED</stageDirect> How--? How did you--?
                 <stageDirect>DECISIVELY</stageDirect> Yes. Yes, I am the King. Why should I attempt
             to conceal it?</ln>
 
-        <ln><speaker>HOLMES</speaker> Why, indeed?</ln>
+        <ln pull="#SIB-p57-s1"><speaker>HOLMES</speaker> Why, indeed?</ln>
 
-        <ln><speaker>KING</speaker> I shall remove the mask. <stageDirect>BEAT</stageDirect> There.
+        <ln pull="#SIB-p58-s1"><speaker>KING</speaker> I shall remove the mask. <stageDirect>BEAT</stageDirect> There.
                 <mention ref="holmes">Mr. Holmes</mention>, I have traveled incognito from Prague
             for the express purpose of consulting you.</ln>
 
-        <ln><speaker>HOLMES</speaker> Then, pray consult. </ln>
+        <ln pull="#SIB-p59"><speaker>HOLMES</speaker> Then, pray consult. </ln>
 
-        <ln><speaker>KING</speaker> Briefly, the facts are these. Some five years ago, during a
+        <ln pull="#SIB-p60"><speaker>KING</speaker> Briefly, the facts are these. Some five years ago, during a
             visit to Warsaw, I made the acquaintance of the well-known adventuress, Irene
             Adler.</ln>
 
@@ -285,7 +285,7 @@
         <ln><speaker>WATSON</speaker> Here we are, here we are. <stageDirect>READS</stageDirect> "A.
             Abrahams, Actongreen <stageDirect>Hatchet Murders</stageDirect>, Adler--" Adler.</ln>
 
-        <ln><speaker>HOLMES</speaker> Splendid. Hand me the file, old chap. Thank you. Mm hm!
+        <ln pull="#SIB-p62-s1"><speaker>HOLMES</speaker> Splendid. Hand me the file, old chap. Thank you. Mm hm!
                 <stageDirect>READS AND MUSES</stageDirect> "Irene Adler. Born in New Jersey in the
             United States of America in Eighteen Fifty-Eight. Contralto." Mm hm. "Prima donna,
             Imperial Opera of Warsaw." Oh. "Retired from operatic stage. Living in London." Quite
@@ -293,40 +293,40 @@
             Majesty, as I understand, became entangled with this young person, wrote her some
             compromising letters and is now desirous of getting those letters back.</ln>
 
-        <ln><speaker>KING</speaker>
+        <ln pull="#SIB-p63"><speaker>KING</speaker>
             <stageDirect>AMAZED</stageDirect> Precisely so. But how could--?</ln>
 
-        <ln><speaker>HOLMES</speaker> Was there a secret marriage?</ln>
+        <ln pull="#SIB-p64"><speaker>HOLMES</speaker> Was there a secret marriage?</ln>
 
-        <ln><speaker>KING</speaker> None.</ln>
+        <ln pull="#SIB-p65"><speaker>KING</speaker> None.</ln>
 
-        <ln><speaker>HOLMES</speaker> No legal papers or certificates?</ln>
+        <ln pull="#SIB-p66"><speaker>HOLMES</speaker> No legal papers or certificates?</ln>
 
-        <ln><speaker>KING</speaker> Er, no.</ln>
+        <ln pull="#SIB-p67"><speaker>KING</speaker> Er, no.</ln>
 
-        <ln><speaker>HOLMES</speaker> Then I fail to follow, your Majesty. If this young lady should
+        <ln pull="#SIB-p68"><speaker>HOLMES</speaker> Then I fail to follow, your Majesty. If this young lady should
             produce her letters for blackmailing purposes, how is she to prove their
             authenticity?</ln>
 
-        <ln><speaker>KING</speaker> There is the handwriting.</ln>
+        <ln pull="#SIB-p69"><speaker>KING</speaker> There is the handwriting.</ln>
 
-        <ln><speaker>WATSON</speaker> That could be a forgery, your Majesty.</ln>
+        <ln pull="#SIB-p70"><speaker>WATSON</speaker> That could be a forgery, your Majesty.</ln>
 
-        <ln><speaker>KING</speaker> But it was private note-paper.</ln>
+        <ln pull="#SIB-p71"><speaker>KING</speaker> But it was private note-paper.</ln>
 
-        <ln><speaker>HOLMES</speaker> Stolen.</ln>
+        <ln pull="#SIB-p72"><speaker>HOLMES</speaker> Stolen.</ln>
 
-        <ln><speaker>KING</speaker> My own seal.</ln>
+        <ln pull="#SIB-p73"><speaker>KING</speaker> My own seal.</ln>
 
-        <ln><speaker>HOLMES</speaker> Imitated.</ln>
+        <ln pull="#SIB-p74"><speaker>HOLMES</speaker> Imitated.</ln>
 
-        <ln><speaker>KING</speaker> My photograph.</ln>
+        <ln pull="#SIB-p75"><speaker>KING</speaker> My photograph.</ln>
 
-        <ln><speaker>HOLMES</speaker> Bought.</ln>
+        <ln pull="#SIB-p76"><speaker>HOLMES</speaker> Bought.</ln>
 
-        <ln><speaker>KING</speaker> But - we were both in the photograph.</ln>
+        <ln pull="#SIB-p77"><speaker>KING</speaker> But - we were both in the photograph.</ln>
 
-        <ln><speaker>HOLMES</speaker> Oh, dear me. Yes, that's very bad. Your Majesty has indeed
+        <ln pull="#SIB-p78"><speaker>HOLMES</speaker> Oh, dear me. Yes, that's very bad. Your Majesty has indeed
             committed an indiscretion.</ln>
 
         <ln><speaker>WATSON</speaker> Did you inscribe this photograph, your Majesty?</ln>
@@ -337,17 +337,17 @@
         <ln><speaker>WATSON</speaker>
             <stageDirect>MUMBLES</stageDirect> Good gracious me.</ln>
 
-        <ln><speaker>KING</speaker>
+        <ln pull="#SIB-p82"><speaker>KING</speaker>
             <mention ref="holmes">Mr. Holmes</mention>, it must be recovered. </ln>
 
-        <ln><speaker>HOLMES</speaker> Perhaps if you were to pay enough, the photograph might be
+        <ln pull="#SIB-84"><speaker>HOLMES</speaker> Perhaps if you were to pay enough, the photograph might be
             bought. </ln>
 
-        <ln><speaker>KING</speaker> She refuses to sell. </ln>
+        <ln pull="#SIB-p85"><speaker>KING</speaker> She refuses to sell. </ln>
 
-        <ln><speaker>HOLMES</speaker> Stolen, then.</ln>
+        <ln pull="#SIB-p86"><speaker>HOLMES</speaker> Stolen, then.</ln>
 
-        <ln><speaker>KING</speaker> Five attempts have been made. Twice burglars in my pay ransacked
+        <ln pull="#SIB-p87"><speaker>KING</speaker> Five attempts have been made. Twice burglars in my pay ransacked
             her house. Once we diverted her luggage when she traveled. Twice she has been waylaid.
             There has been no result.</ln>
 
@@ -355,37 +355,37 @@
 
         <ln><speaker>KING</speaker> It is a deadly serious one to me. </ln>
 
-        <ln><speaker>WATSON</speaker> Your Majesty, what does Miss Adler intend to do with the
+        <ln pull="#SIB-p92"><speaker>WATSON</speaker> Your Majesty, what does Miss Adler intend to do with the
             photograph? </ln>
 
-        <ln><speaker>KING</speaker> To ruin me. </ln>
+        <ln pull="#SIB-p93"><speaker>KING</speaker> To ruin me. </ln>
 
         <ln><speaker>HOLMES</speaker> How, sir?</ln>
 
-        <ln><speaker>KING</speaker> Well, I am about to be married to the second daughter of the
+        <ln pull="#SIB-p95 SIB-p97"><speaker>KING</speaker> Well, I am about to be married to the second daughter of the
             King of Scandinavia. She is the [very] soul of delicacy. A shadow of a doubt as to my
             conduct would bring the matter to an end.</ln>
 
-        <ln><speaker>HOLMES</speaker> And Irene Adler threatens to send the photograph to your
+        <ln pull="#SIB-p99-s1"><speaker>HOLMES</speaker> And Irene Adler threatens to send the photograph to your
             fiancée, I suppose? </ln>
 
-        <ln><speaker>KING</speaker> Yes, and she will do it. Rather than let me marry another woman,
+        <ln pull="#SIB-p99-s2 SIB-p99-s3"><speaker>KING</speaker> Yes, and she will do it. Rather than let me marry another woman,
             there are no lengths to which she would not go. None.</ln>
 
-        <ln><speaker>WATSON</speaker> Are you sure that she hasn't already sent it, your
+        <ln pull="#SIB-p100"><speaker>WATSON</speaker> Are you sure that she hasn't already sent it, your
             Majesty?</ln>
 
-        <ln><speaker>KING</speaker> I am sure.</ln>
+        <ln pull="#SIB-p101"><speaker>KING</speaker> I am sure.</ln>
 
-        <ln><speaker>HOLMES</speaker> And why?</ln>
+        <ln pull="#SIB-p102"><speaker>HOLMES</speaker> And why?</ln>
 
-        <ln><speaker>KING</speaker> She said she would send it on the day my betrothal is publicly
+        <ln pull="#SIB-p103"><speaker>KING</speaker> She said she would send it on the day my betrothal is publicly
             announced. That day will be next Monday.</ln>
 
-        <ln><speaker>HOLMES</speaker> Splendid! Then we still have three days. Your Majesty will, of
+        <ln pull="#SIB-p104-s1 SIB-p104-s2"><speaker>HOLMES</speaker> Splendid! Then we still have three days. Your Majesty will, of
             course, stay in London for the present?</ln>
 
-        <ln><speaker>KING</speaker> Yes, certainly. You will find me at the Langham Hotel,
+        <ln pull="#SIB-p105"><speaker>KING</speaker> Yes, certainly. You will find me at the Langham Hotel,
             registered as Count Von Kramm.</ln>
 
         <ln><speaker>HOLMES</speaker> Just two questions before you leave. </ln>
@@ -396,11 +396,11 @@
 
         <ln><speaker>KING</speaker> Quite large. And it was in a heavy frame.</ln>
 
-        <ln><speaker>HOLMES</speaker> I see. And what is Irene Adler's London address, please?</ln>
+        <ln pull="#SIB-p116"><speaker>HOLMES</speaker> I see. And what is Irene Adler's London address, please?</ln>
 
-        <ln><speaker>KING</speaker> Briony Lodge, Serpentine Avenue, St. John's Wood.</ln>
+        <ln pull="#SIB-p117"><speaker>KING</speaker> Briony Lodge, Serpentine Avenue, St. John's Wood.</ln>
 
-        <ln><speaker>HOLMES</speaker> Thank you, your Majesty. Good night, and I trust that we shall
+        <ln pull="#SIB-p120-s1"><speaker>HOLMES</speaker> Thank you, your Majesty. Good night, and I trust that we shall
             soon have some good news for you.</ln>
 
         <ln><speaker>KING</speaker>
