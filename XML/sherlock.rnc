@@ -10,7 +10,12 @@ id = attribute xml:id {xsd:ID}
 ref = attribute ref {text}
 script = element script {(music*|ln+|fx*|stageDirect*)*}
 music = element music {mixed{stageDirect*}}
-ln = element ln {speaker*,mixed{(mention|stageDirect|fx|speaker|music|sound|lineGp|pull)*}}
+ln = element ln {change?, pull?, speaker, mixed{(mention|stageDirect|fx|speaker|music|sound|lineGp)*}}
+
+change = attribute change {list{ ("interpel" | "wording")+ }}
+# ebb: This allows you to use multiple attribute values for the @change attribute, as in 
+# <ln change="interpel wording">...</ln>
+
 lineGp= element lineGp {line+} #Note: for separated lines by the same speaker where structure is important
 line = element line {mixed{mention*}}
 mention = element mention {ref,text}
@@ -25,3 +30,4 @@ FXlist = element FXlist {text,fx+}
 sound = element sound {mixed{stageDirect*|special*}}
 person = element person {id,text}
 pull = attribute pull {text}
+
