@@ -6,7 +6,8 @@
         <sch:let name="doyleColl" value="collection('conan-doyle/?select=*.xml')"/> 
         <sch:let name="xmlids" value="$doyleColl//text//@xml:id"/>
         <sch:rule context="ln[@pull]">
-            <sch:assert test="substring-after(@pull, '#') = $xmlids">The pull attribute must resolve to an xml:id in a Conan Doyle document.</sch:assert>
+            <sch:let name="pullTokens" value="tokenize(@pull, '\s+') ! substring-after(., '#')" /> 
+            <sch:assert test="every $token in $pullTokens satisfies $token = $xmlids">The pull attribute must resolve to an xml:id in a Conan Doyle document.</sch:assert>
         </sch:rule>
 
     </sch:pattern>

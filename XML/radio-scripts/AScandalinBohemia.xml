@@ -96,7 +96,7 @@
         <ln><speaker>ANNOUNCER</speaker> She sounds mighty intriguing. How did you happen to meet up
             with her?</ln>
 
-        <ln pull="#SIB-p3-s1 SIB-p2-s1"><speaker>WATSON</speaker> Well, I'll tell you the story from the beginning. One night --
+        <ln pull="#SIB-p3-s1 #SIB-p2-s1"><speaker>WATSON</speaker> Well, I'll tell you the story from the beginning. One night --
             it was on the twentieth of March, Eighteen Hundred and Eighty-Eight, to be exact -- I
             was returning home from a visit to a patient, when my steps led me through Baker Street.
             Since my marriage, I hadn't seen much of <mention ref="holmes">Sherlock Holmes</mention>
@@ -105,7 +105,7 @@
         <ln><speaker>ANNOUNCER</speaker> You couldn't resist stopping by Two-Twenty-One B, I'm sure,
             doctor.</ln>
 
-        <ln pull="#SIB-p3-s2 SIB-p3-s2"><speaker>WATSON</speaker> Of course I couldn't. As I stood outside the well-remembered
+        <ln pull="#SIB-p3-s2 #SIB-p3-s2"><speaker>WATSON</speaker> Of course I couldn't. As I stood outside the well-remembered
             door, I looked up at the lighted windows and saw the tall, spare figure of my old friend
             pass twice in dark silhouette against the blind. He was pacing the room swiftly,
             eagerly, with his head sunk on his chest and his hands clasped behind him. To me, who
@@ -144,7 +144,7 @@
         <ln pull="#SIB-p21"><speaker>HOLMES</speaker> It looks like it. This letter arrived by the last post today.
             It's undated, and has neither signature nor address. Read it.</ln>
 
-        <ln pull="#SIB-p22 SIB-p23"><speaker>WATSON</speaker>
+        <ln pull="#SIB-p22 #SIB-p23"><speaker>WATSON</speaker>
             <stageDirect>MUMBLES</stageDirect> Let's have a look. <stageDirect>READS</stageDirect>
             "There will call upon you tonight, at a quarter to eight o'clock, a gentleman who
             desires to consult you upon a matter of the very deepest moment. Your recent services to
@@ -195,7 +195,7 @@
 
         <ln><speaker>WATSON</speaker> How do you know that?</ln>
 
-        <ln pull="#SIB-p33-s1 SIB-p33-s2 SIB-p33-s3"><speaker>HOLMES</speaker> Observe the curious construction of the sentence, "This
+        <ln pull="#SIB-p33-s1 #SIB-p33-s2 #SIB-p33-s3"><speaker>HOLMES</speaker> Observe the curious construction of the sentence, "This
             account of you we have from all quarters received." A Frenchman or a Russian could not
             have written that. It's the German who is so discourteous to his verbs.</ln>
 
@@ -233,7 +233,7 @@
             <sound> KING WALKS TO CHAIR AND SITS BEHIND--</sound>
         </ln>
 
-        <ln pull="#SIB-p44-s1 SIB-p44-s2 SIB-p46-s1"><speaker>HOLMES</speaker> This is my friend and colleague, <mention ref="watson">Dr.
+        <ln pull="#SIB-p44-s1 #SIB-p44-s2 #SIB-p46-s1"><speaker>HOLMES</speaker> This is my friend and colleague, <mention ref="watson">Dr.
                 Watson</mention>. You may say anything before him that you can say to me. Whom have
             I the honor to address?</ln>
 
@@ -340,7 +340,7 @@
         <ln pull="#SIB-p82"><speaker>KING</speaker>
             <mention ref="holmes">Mr. Holmes</mention>, it must be recovered. </ln>
 
-        <ln pull="#SIB-84"><speaker>HOLMES</speaker> Perhaps if you were to pay enough, the photograph might be
+        <ln pull="#SIB-p84"><speaker>HOLMES</speaker> Perhaps if you were to pay enough, the photograph might be
             bought. </ln>
 
         <ln pull="#SIB-p85"><speaker>KING</speaker> She refuses to sell. </ln>
@@ -362,14 +362,14 @@
 
         <ln><speaker>HOLMES</speaker> How, sir?</ln>
 
-        <ln pull="#SIB-p95 SIB-p97"><speaker>KING</speaker> Well, I am about to be married to the second daughter of the
+        <ln pull="#SIB-p95 #SIB-p97"><speaker>KING</speaker> Well, I am about to be married to the second daughter of the
             King of Scandinavia. She is the [very] soul of delicacy. A shadow of a doubt as to my
             conduct would bring the matter to an end.</ln>
 
         <ln pull="#SIB-p99-s1"><speaker>HOLMES</speaker> And Irene Adler threatens to send the photograph to your
             fiancée, I suppose? </ln>
 
-        <ln pull="#SIB-p99-s2 SIB-p99-s3"><speaker>KING</speaker> Yes, and she will do it. Rather than let me marry another woman,
+        <ln pull="#SIB-p99-s2 #SIB-p99-s3"><speaker>KING</speaker> Yes, and she will do it. Rather than let me marry another woman,
             there are no lengths to which she would not go. None.</ln>
 
         <ln pull="#SIB-p100"><speaker>WATSON</speaker> Are you sure that she hasn't already sent it, your
@@ -382,7 +382,7 @@
         <ln pull="#SIB-p103"><speaker>KING</speaker> She said she would send it on the day my betrothal is publicly
             announced. That day will be next Monday.</ln>
 
-        <ln pull="#SIB-p104-s1 SIB-p104-s2"><speaker>HOLMES</speaker> Splendid! Then we still have three days. Your Majesty will, of
+        <ln pull="#SIB-p104-s1 #SIB-p104-s2"><speaker>HOLMES</speaker> Splendid! Then we still have three days. Your Majesty will, of
             course, stay in London for the present?</ln>
 
         <ln pull="#SIB-p105"><speaker>KING</speaker> Yes, certainly. You will find me at the Langham Hotel,
