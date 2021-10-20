@@ -437,7 +437,7 @@
         <ln><speaker>WATSON</speaker> Well,<mention ref="holmes"> Holmes</mention>, I guess the
             examination of Briony Lodge didn't prove very illuminating.</ln>
 
-        <ln><speaker>HOLMES</speaker> No. A bijou residence that represents the essence of dignified
+        <ln change="wording" pull="#SIB-p127-s1"><speaker>HOLMES</speaker> No. A bijou residence that represents the essence of dignified
             suburbia, but tells us very little about the owner. I think a visit to the local public
             house might prove more instructive. Come on, old chap. I see the door of the Coach and
             Horse is inviting us from across the road.</ln>
@@ -448,7 +448,7 @@
 
         <ln><speaker>WATSON</speaker> Well, our disguises shouldn't cause any suspicion.</ln>
 
-        <ln><speaker>HOLMES</speaker> [That's why] I suggested them. In the character of a couple of
+        <ln type="unmatched" change="interpel"><speaker>HOLMES</speaker> [That's why] I suggested them. In the character of a couple of
             stable hands, I felt that we might inspire confidence. This is a horsy neighborhood, and
             there's a wonderful sympathy and freemasonry among their fraternity. Here we are. Better
             let me do most of the talking.</ln>
@@ -521,7 +521,7 @@
         <ln><speaker>WATSON</speaker>
             <stageDirect>COCKNEY</stageDirect> Work you hard?</ln>
 
-        <ln><speaker>BARTENDER</speaker> No. No, no. She lives quiet, like. Goes out singing at
+        <ln pull="#SIB-p130-s1" change="wording"><speaker>BARTENDER</speaker> No. No, no. She lives quiet, like. Goes out singing at
             concerts once in a while. Rest of the time, it's money for gin. She goes out for a drive
             in the park every day at five and comes back to dinner at six-thirty. Rest of the time's
             your own.</ln>
@@ -529,7 +529,7 @@
         <ln><speaker>HOLMES</speaker>
             <stageDirect>COCKNEY</stageDirect> Oh, she ain't married, you say?</ln>
 
-        <ln><speaker>BARTENDER</speaker> No, no. But she's got a bloke what comes to see her all the
+        <ln pull="#SIB-p130-s2" change="wording"><speaker>BARTENDER</speaker> No, no. But she's got a bloke what comes to see her all the
             time. He's a barrister; nice gentleman. Mr. Geoffrey Norton is his name. Good looking
             fella; wouldn't be surprised to see 'em get spliced.</ln>
 
@@ -579,7 +579,7 @@
 
         <ln><speaker>1ST CABMAN</speaker> Where to now, Mr. Norton?</ln>
 
-        <ln><speaker>NORTON</speaker> Drive like the devil! First to Gross and Hankey's in Regent
+        <ln pull="#SIB-p134-s1"><speaker>NORTON</speaker> Drive like the devil! First to Gross and Hankey's in Regent
             Street, and then to the Church of St. Monica in the Edgeware Road. Half a sovereign if
             you do it in twenty minutes!</ln>
 
@@ -610,7 +610,7 @@
 
         <ln><speaker>COACHMAN</speaker> Where to, Miss Adler?</ln>
 
-        <ln><speaker>ADLER</speaker> The Church of St. Monica, John, and half a sovereign if you
+        <ln pull="#SIB-p136"><speaker>ADLER</speaker> The Church of St. Monica, John, and half a sovereign if you
             reach it in twenty minutes.</ln>
 
         <ln>
@@ -636,7 +636,7 @@
 
         <ln><speaker>2ND CABMAN</speaker> Right you are! Where to, governor?</ln>
 
-        <ln><speaker>HOLMES</speaker> The Church of St. Monica in the Edgeware Road, and another
+        <ln pull="#SIB-p137-s1" change="wording"><speaker>HOLMES</speaker> The Church of St. Monica in the Edgeware Road, and another
             half sovereign for you if you get us there in twenty minutes!</ln>
 
         <ln>
@@ -658,7 +658,7 @@
             exciting point. Did you and <mention ref="holmes">Sherlock Holmes</mention> reach that
             church inside the twenty minutes?</ln>
 
-        <ln><speaker>WATSON</speaker> Yes, Mr. Bartell, we did, but the other carriages were there
+        <ln pull="#SIB-p138-s1" change="wording"><speaker>WATSON</speaker> Yes, Mr. Bartell, we did, but the other carriages were there
             before us.<mention ref="holmes"> Holmes</mention> went into the church after telling me
             to guard the outside. I must have waited for ten minutes or more before Mr. Geoffrey
             Norton and Miss Adler came out, spoke a few words to each other and then left -- then
@@ -709,7 +709,7 @@
 
         <ln><speaker>WATSON</speaker> You did? But how did that happen?</ln>
 
-        <ln><speaker>HOLMES</speaker>
+        <ln type="unmatched"><speaker>HOLMES</speaker>
             <stageDirect>LAUGHS</stageDirect> Their own witness had failed to appear and I was
             dragged into the breach. The bride gave me this sovereign as a memento. I, uh, think
             I'll wear it on my watch-chain in memory of the occasion.</ln>
@@ -741,31 +741,31 @@
 
         <ln><speaker>WATSON</speaker> You're going to try and enter, then? </ln>
 
-        <ln><speaker>HOLMES</speaker> I must, my dear fellow. I'm sure the photograph is there. Miss
+        <ln pull="#SIB-p156-s1"><speaker>HOLMES</speaker> I must, my dear fellow. I'm sure the photograph is there. Miss
             Adler -- or, rather, Mrs. Norton -- will return from her drive in the park at
             six-thirty. We must be at Briony Lodge to meet her.</ln>
 
         <ln><speaker>WATSON</speaker> And what then?</ln>
 
-        <ln><speaker>HOLMES</speaker> You must leave that to me. I've already made my arrangements.
+        <ln pull="#SIB-p158"><speaker>HOLMES</speaker> You must leave that to me. I've already made my arrangements.
             There is only one point on which I must insist -- you must not interfere, come what may.
             You understand?</ln>
 
-        <ln><speaker>WATSON</speaker> I'm to remain neutral?</ln>
+        <ln pull="#SIB-p159"><speaker>WATSON</speaker> I'm to remain neutral?</ln>
 
-        <ln><speaker>HOLMES</speaker> Yes. There will be some small unpleasantness. Don't join in.
+        <ln pull="#SIB-p160-s1 #SIB-p164"><speaker>HOLMES</speaker> Yes. There will be some small unpleasantness. Don't join in.
             It will end in my being conveyed into the house. As soon as I am able to, I shall open
             one of the windows. You are to watch from outside. When I raise my hand, you will throw
             an object -- that I shall give you -- through the window and, at the same time, cry
             "Fire!" You follow me?</ln>
 
-        <ln><speaker>WATSON</speaker> Entirely. But what am I to throw? </ln>
+        <ln pull="#SIB-p165"><speaker>WATSON</speaker> Entirely. But what am I to throw? </ln>
 
-        <ln><speaker>HOLMES</speaker> Oh, it's nothing very formidable. Here it is. </ln>
+        <ln pull="#SIB-p166-s1"><speaker>HOLMES</speaker> Oh, it's nothing very formidable. Here it is. </ln>
 
         <ln><speaker>WATSON</speaker> Huh. Looks like a great big cigar. What is it?</ln>
 
-        <ln><speaker>HOLMES</speaker> An ordinary plumber's smoke-rocket, fitted with a cap at
+        <ln pull="#SIB-p166-s2"><speaker>HOLMES</speaker> An ordinary plumber's smoke-rocket, fitted with a cap at
             either end to make it self-lighting. Your task is confined to throwing it through the
             window. When you raise the cry of fire, it will be taken up by quite a number of people.
             You may then walk to the end of the street, and I'll rejoin you in ten minutes. I hope
@@ -794,22 +794,22 @@
 
         <ln><speaker>WATSON</speaker> You still think the photograph is inside the house?</ln>
 
-        <ln><speaker>HOLMES</speaker> Yes. It's most unlikely that she carries it about with her.
+        <ln pull="#SIB-p175"><speaker>HOLMES</speaker> Yes. It's most unlikely that she carries it about with her.
             Remember, the king told us it was a large, framed picture. And also remember that she
             planned to use it within a few days. It must be where she can lay her hands on it. It
             must be inside her house.</ln>
 
-        <ln><speaker>WATSON</speaker> But her house has been burgled. Twice. </ln>
+        <ln pull="#SIB-p178" change="wording" ><speaker>WATSON</speaker> But her house has been burgled. Twice. </ln>
 
-        <ln><speaker>HOLMES</speaker> Oh, psh! They didn't know how to look.</ln>
+        <ln pull="#SIB-p179" change="wording"><speaker>HOLMES</speaker> Oh, psh! They didn't know how to look.</ln>
 
-        <ln><speaker>WATSON</speaker> How will you look? </ln>
+        <ln pull="#SIB-p180"><speaker>WATSON</speaker> How will you look? </ln>
 
-        <ln><speaker>HOLMES</speaker> I won't. I'll get her to show me. </ln>
+        <ln pull="#SIB-p181 #SIB-p183"><speaker>HOLMES</speaker> I won't. I'll get her to show me. </ln>
 
-        <ln><speaker>WATSON</speaker> Oh, she'll refuse.</ln>
+        <ln pull="#SIB-p184"><speaker>WATSON</speaker> Oh, she'll refuse.</ln>
 
-        <ln><speaker>HOLMES</speaker> She won't be able to-- </ln>
+        <ln pull="#SIB-p185-s1"><speaker>HOLMES</speaker> She won't be able to-- </ln>
 
         <ln>
             <sound> CARRIAGE APPROACHES</sound>
@@ -825,49 +825,49 @@
             <sound> CARRIAGE ROLLS TO A STOP</sound>
         </ln>
 
-        <ln><speaker>ALFIE</speaker>
+        <ln type="unmatched" change="sig"><speaker>ALFIE</speaker>
             <stageDirect>SARCASTIC</stageDirect> Blimey! 'Ere comes the Duchess of Tiddlywinks! </ln>
 
-        <ln>
+        <ln type="unmatched" change="sig">
             <sound> CROWD LAUGHS ... BUZZES IN BACKGROUND</sound>
         </ln>
 
-        <ln><speaker>ALFIE</speaker> Let's put out a carpet; she might get her tootsies wet!</ln>
+        <ln type="unmatched" change="sig"><speaker>ALFIE</speaker> Let's put out a carpet; she might get her tootsies wet!</ln>
 
-        <ln><speaker>PAT</speaker> Awwww, put a sock in it, Alfie!</ln>
+        <ln type="unmatched" change="sig"><speaker>PAT</speaker> Awwww, put a sock in it, Alfie!</ln>
 
-        <ln><speaker>HATTIE</speaker> Leave him alone! She's no better than she ought to be! </ln>
+        <ln type="unmatched" change="sig"><speaker>HATTIE</speaker> Leave him alone! She's no better than she ought to be! </ln>
 
-        <ln>
+        <ln type="unmatched" change="sig">
             <sound> CROWD JEERS</sound>
         </ln>
 
-        <ln><speaker>ADLER</speaker> Please, please -- let me through! I live here!</ln>
+        <ln type="unmatched" change="sig"><speaker>ADLER</speaker> Please, please -- let me through! I live here!</ln>
 
-        <ln><speaker>ALFIE</speaker> Well, ain't that nice! We'll all come in and have a cup of
+        <ln type="unmatched" change="sig"><speaker>ALFIE</speaker> Well, ain't that nice! We'll all come in and have a cup of
             cocoa! </ln>
 
         <ln>
             <sound> CROWD JEERS AND LAUGHS ... GROWS INCREASINGLY UNRULY IN BACKGROUND</sound>
         </ln>
 
-        <ln><speaker>HOLMES</speaker>
+        <ln type="unmatched" change="sig"><speaker>HOLMES</speaker>
             <stageDirect>AS THE CLERGYMAN</stageDirect> Move out of the way, please, and let the
             lady through.</ln>
 
-        <ln><speaker>HATTIE</speaker> Mind your own business! Just 'cause your collar's turned the
+        <ln type="unmatched" change="sig"><speaker>HATTIE</speaker> Mind your own business! Just 'cause your collar's turned the
             wrong way round, you can't spoil our fun!</ln>
 
-        <ln><speaker>ALFIE</speaker> That's right, Hattie! Keep your nose out of it, parson! </ln>
+        <ln type="unmatched" change="sig"><speaker>ALFIE</speaker> That's right, Hattie! Keep your nose out of it, parson! </ln>
 
-        <ln><speaker>HATTIE</speaker> Stop shovin', will ya? </ln>
+        <ln type="unmatched" change="sig"><speaker>HATTIE</speaker> Stop shovin', will ya? </ln>
 
-        <ln><speaker>ADLER</speaker> Please, please, don't fight about it!</ln>
+        <ln type="unmatched" change="sig"><speaker>ADLER</speaker> Please, please, don't fight about it!</ln>
 
-        <ln><speaker>HOLMES</speaker> I'll - I'll tell you what-- <stageDirect>HAUGHTY</stageDirect>
+        <ln type="unmatched" change="sig"><speaker>HOLMES</speaker> I'll - I'll tell you what-- <stageDirect>HAUGHTY</stageDirect>
             Stop molesting the lady, please!</ln>
 
-        <ln><speaker>ALFIE</speaker> Do ya? Then how would you like a biff on the nose, Mr.
+        <ln type="unmatched" change="sig"><speaker>ALFIE</speaker> Do ya? Then how would you like a biff on the nose, Mr.
             Clergyman? </ln>
 
         <ln>
@@ -875,7 +875,7 @@
                 REACTS ... ALFIE RUNS AWAY ... CROWD DISPERSES BEHIND--</sound>
         </ln>
 
-        <ln><speaker>ADLER</speaker>
+        <ln pull="#SIB-p187" change="wording"><speaker>ADLER</speaker>
             <stageDirect>DISTRAUGHT</stageDirect> Oh, he hit the poor man! And then he ran away, the
             coward! Is the clergyman badly hurt?</ln>
 
@@ -884,7 +884,7 @@
 
         <ln><speaker>BERT</speaker> He's bleedin' something terrible.</ln>
 
-        <ln><speaker>ERNIE</speaker> Can we bring him in, mum? He can't lie here in the street.</ln>
+        <ln pull="#SIB-p191-s1" change="wording interpel"><speaker>ERNIE</speaker> Can we bring him in, mum? He can't lie here in the street.</ln>
 
         <ln><speaker>ADLER</speaker> Oh, why, of course. Bring him in.</ln>
 
@@ -898,31 +898,31 @@
             <sound> MEN GRUNT AS THEY LIFT BODY AND CARRY IT INTO THE HOUSE</sound>
         </ln>
 
-        <ln><speaker>HATTIE</speaker>
+        <ln type="unmatched" change="sig"><speaker>HATTIE</speaker>
             <stageDirect>SADLY</stageDirect> Coo. Poor fella. 'Joo see what happened to him,
             mister?</ln>
 
-        <ln><speaker>WATSON</speaker> Yes, I saw, my good woman. A very convincing
+        <ln type="unmatched" change="sig"><speaker>WATSON</speaker> Yes, I saw, my good woman. A very convincing
             demonstration.</ln>
 
-        <ln><speaker>HATTIE</speaker>
+        <ln type="unmatched" change="sig"><speaker>HATTIE</speaker>
             <stageDirect>DEFENSIVE</stageDirect> Whatcha mean?</ln>
 
-        <ln><speaker>WATSON</speaker>
+        <ln type="unmatched" change="sig"><speaker>WATSON</speaker>
             <stageDirect>LOW</stageDirect> Weren't you paid by, uh, a certain gentleman for this
             performance?</ln>
 
-        <ln><speaker>HATTIE</speaker>
+        <ln type="unmatched" change="sig"><speaker>HATTIE</speaker>
             <stageDirect>DROPS HER ACT</stageDirect> Ohhh -- you knows about it, too. You must be a
             friend of Mr. <mention ref="holmes">Sherlock Holmes</mention>.</ln>
 
-        <ln><speaker>WATSON</speaker> Yes, I am.</ln>
+        <ln type="unmatched" change="sig"><speaker>WATSON</speaker> Yes, I am.</ln>
 
-        <ln><speaker>HATTIE</speaker> A nice gentleman. He give us five bob apiece for tonight's
+        <ln type="unmatched" change="sig"><speaker>HATTIE</speaker> A nice gentleman. He give us five bob apiece for tonight's
             work. We ain't through yet, though. We gotta start yelling "Fire" when somebody tells
             us.</ln>
 
-        <ln><speaker>WATSON</speaker> I'm that somebody, my dear lady. There's <mention ref="holmes"
+        <ln type="unmatched" change="sig"><speaker>WATSON</speaker> I'm that somebody, my dear lady. There's <mention ref="holmes"
                 >Mr. Holmes</mention> now. He's inside the house!</ln>
 
         <ln><speaker>HATTIE</speaker> Yes! He's opening a window! </ln>
@@ -943,15 +943,15 @@
             <sound> HOLMES' BRISK FOOTSTEPS APPROACH</sound>
         </ln>
 
-        <ln><speaker>WATSON</speaker><mention ref="holmes"> Holmes</mention> -- there you are! You -
+        <ln pull="#SIB-p196"><speaker>WATSON</speaker><mention ref="holmes"> Holmes</mention> -- there you are! You -
             you have the photograph? </ln>
 
-        <ln><speaker>HOLMES</speaker> No, but I know where it is. She showed me, as I told you she
+        <ln pull="#SIB-p197" change="wording"><speaker>HOLMES</speaker> No, but I know where it is. She showed me, as I told you she
             would. </ln>
 
-        <ln><speaker>WATSON</speaker> Well, I'm still in the dark.</ln>
+        <ln pull="#SIB-p200"><speaker>WATSON</speaker> Well, I'm still in the dark.</ln>
 
-        <ln><speaker>HOLMES</speaker> There's no mystery, old chap. When my accomplices started the
+        <ln pull="#SIB-p203-s1 #SIB-p203-s2"><speaker>HOLMES</speaker> There's no mystery, old chap. When my accomplices started the
             row in the street, I had a little moist red paint in my hand. My good friend Alfie
             pretended to strike me; I clapped my hand to my head and fell down. It's an old
             trick.</ln>
@@ -959,21 +959,21 @@
         <ln><speaker>WATSON</speaker> Yes, I understand that, but how did my throwing the rocket
             help you?</ln>
 
-        <ln><speaker>HOLMES</speaker> It was all-important, my dear fellow. When a woman thinks her
+        <ln pull="#SIB-p207-s1 #SIB-p207-s2"><speaker>HOLMES</speaker> It was all-important, my dear fellow. When a woman thinks her
             house is on fire, her instinct is at once to rush for the thing that she values most. A
             married woman grabs her baby; an unmarried one reaches for her jewel-box. In this case,
             of course, it was the photograph.</ln>
 
         <ln><speaker>WATSON</speaker> Where was it?</ln>
 
-        <ln><speaker>HOLMES</speaker> In a recess in the living room, just above the right-hand
+        <ln pull="#SIB-p207-s3" change="wording sig"><speaker>HOLMES</speaker> In a recess in the living room, just above the right-hand
             bell-pull. I caught a glimpse of it as she drew it out. When I made it known that the
             fire was a false alarm, she replaced the photograph. As soon as I was able to, I advised
             her that I was feeling well enough to leave.</ln>
 
-        <ln><speaker>WATSON</speaker> You didn't take the photograph, then.</ln>
+        <ln pull="#SIB-p207-s3" change="wording sig"><speaker>WATSON</speaker> You didn't take the photograph, then.</ln>
 
-        <ln><speaker>HOLMES</speaker> No, I felt that over-precipitance at this stage might ruin
+        <ln pull="#SIB-p207-s3" change="wording sig"><speaker>HOLMES</speaker> No, I felt that over-precipitance at this stage might ruin
             everything.</ln>
 
         <ln><speaker>WATSON</speaker> What do we do now? </ln>
@@ -1011,19 +1011,19 @@
             <sound> KNOCKS ON FRONT DOOR ... DOOR OPENS</sound>
         </ln>
 
-        <ln><speaker>MAID</speaker> Mr. <mention ref="holmes">Sherlock Holmes</mention>, I
+        <ln pull="#SIB-p236"><speaker>MAID</speaker> Mr. <mention ref="holmes">Sherlock Holmes</mention>, I
             believe?</ln>
 
         <ln><speaker>HOLMES</speaker>
             <stageDirect>MILDLY SURPRISED</stageDirect> Yes. I am <mention ref="holmes">Mr.
                 Holmes</mention>. But - how did you know?</ln>
 
-        <ln><speaker>MAID</speaker> My mistress told me you would be likely to call. She's left for
+        <ln pull="#SIB-p238" change="wording"><speaker>MAID</speaker> My mistress told me you would be likely to call. She's left for
             the Continent with her husband.</ln>
 
-        <ln><speaker>WATSON</speaker> You mean she's left England? </ln>
+        <ln pull="#SIB-p239-s1"><speaker>WATSON</speaker> You mean she's left England? </ln>
 
-        <ln><speaker>MAID</speaker> Never to return. </ln>
+        <ln pull="#SIB-p240"><speaker>MAID</speaker> Never to return. </ln>
 
         <ln><speaker>KING</speaker>
             <stageDirect>DISTRESSED</stageDirect> Then the papers -- and the photograph? Oh, all is
@@ -1065,7 +1065,7 @@
 
         <ln><speaker>WATSON</speaker> What does it say,<mention ref="holmes"> Holmes</mention>?</ln>
 
-        <ln><speaker>HOLMES</speaker>
+        <ln pull="#SIB-p243"><speaker>HOLMES</speaker>
             <stageDirect>READS</stageDirect> "My dear Mr. <mention ref="holmes">Sherlock
                 Holmes</mention>. You really did it very well. Until after the fire alarm, I had no
             suspicion. But then, when I realized how I had betrayed myself, I began to think. I had
@@ -1079,7 +1079,7 @@
         <ln><speaker>KING</speaker>
             <stageDirect>IMPATIENT</stageDirect> Ja, ja, go on. What else does it say?</ln>
 
-        <ln><speaker>HOLMES</speaker>
+        <ln pull="#SIB-p243"><speaker>HOLMES</speaker>
             <stageDirect>CLEARS THROAT, READS</stageDirect> "My husband and I both thought that the
             best recourse was flight, so you will find the nest empty. As to the photograph of the
             King and myself, his Majesty may rest in peace." <stageDirect>TO HIMSELF</stageDirect>
@@ -1098,20 +1098,20 @@
 
         <ln><speaker>WATSON</speaker> Well, I'm glad to hear your Majesty say so. </ln>
 
-        <ln><speaker>KING</speaker> I am immensely indebted to you. Pray tell me in what way I can
+        <ln pull="#SIB-p251"><speaker>KING</speaker> I am immensely indebted to you. Pray tell me in what way I can
             reward you. Uh, this - this beryl ring that I wear. I - I should be proud to--</ln>
 
-        <ln><speaker>HOLMES</speaker> Your Majesty has something that I should value even more
+        <ln pull="#SIB-p252"><speaker>HOLMES</speaker> Your Majesty has something that I should value even more
             highly.</ln>
 
-        <ln><speaker>KING</speaker> You have but to name it.</ln>
+        <ln pull="#SIB-p253"><speaker>KING</speaker> You have but to name it.</ln>
 
-        <ln><speaker>HOLMES</speaker> This photograph, sir.</ln>
+        <ln pull="#SIB-p254"><speaker>HOLMES</speaker> This photograph, sir.</ln>
 
-        <ln><speaker>KING</speaker> Irene's photograph? But certainly. However, you must let me give
+        <ln pull="#SIB-p256"><speaker>KING</speaker> Irene's photograph? But certainly. However, you must let me give
             you something more substantial.</ln>
 
-        <ln><speaker>HOLMES</speaker> Oh no, no, no, your Majesty. This is something I shall
+        <ln type="unmatched" change="sig"><speaker>HOLMES</speaker> Oh no, no, no, your Majesty. This is something I shall
             treasure all my life. This and a golden sovereign I received from the lady's hand. They
             will remind me that I was once tricked by a woman! A woman that I shall never
             forget.</ln>

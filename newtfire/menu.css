@@ -53,3 +53,23 @@ text-align: center;
 font-family: 'Cinzel', serif;
 }
 
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.container div#pic{
+    flex: 1;
+}
+
+div#pic img{
+    width: 45%;
+    max-width: 200px;
+    float: right;
+}
+
+div#flex{
+    flex:4;
+    padding-right: 10em;
+}
