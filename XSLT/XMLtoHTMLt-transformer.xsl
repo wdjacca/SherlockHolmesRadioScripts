@@ -25,6 +25,9 @@
         </div>
         
     </xsl:template>
+    <xsl:template match="lineGp">
+        <xsl:apply-templates/>
+    </xsl:template>
     
     <xsl:template match="line">
         <span class="lineGp">
