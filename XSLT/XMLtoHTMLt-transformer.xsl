@@ -20,22 +20,16 @@
     </xsl:template>
     
     <xsl:template match="ln">
-        <p>
+        <div>
             <xsl:apply-templates/>
-        </p>
+        </div>
         
     </xsl:template>
     
-    <xsl:template match="lineGp">
-        <p>
-            <xsl:apply-templates select=".//line"/>
-        </p>
-    </xsl:template>
-    
     <xsl:template match="line">
-        <p>
+        <span class="lineGp">
             <xsl:apply-templates/>
-        </p>
+        </span>
     </xsl:template>
     <xsl:template match="speaker">
         <xsl:analyze-string select="." regex="ANNOUNCER">
