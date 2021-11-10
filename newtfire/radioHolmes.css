@@ -53,3 +53,15 @@ font-family: 'Cinzel', serif;
 	background-color: #EDEEE9;
 	text-decoration: underline;
 }
+
+.music{
+    color:darkolivegreen;
+}
+
+.speaker{
+    color:darkslategray;
+}
+
+.mention{
+    color: maroon;
+}

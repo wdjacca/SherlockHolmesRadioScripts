@@ -38,9 +38,18 @@
         </p>
     </xsl:template>
     <xsl:template match="speaker">
-        <emph class="speaker">
-            <xsl:apply-templates/>
+        <xsl:analyze-string select="." regex="ANNOUNCER">
+            <xsl:matching-substring>
+                <emph class="announcer">
+                    <xsl:value-of select="."/>
+                </emph>
+            </xsl:matching-substring>
+        <xsl:non-matching-substring>
+            <emph class="speaker">
+                <xsl:value-of select="."/>
         </emph>
+        </xsl:non-matching-substring>
+        </xsl:analyze-string>
     </xsl:template>
     
     <xsl:template match="mention">
@@ -61,5 +70,11 @@
                 <xsl:apply-templates/>
             </emph>
         </p>
+    </xsl:template>
+    <xsl:template match="sound">
+            <emph class="sound">
+                <xsl:apply-templates/>
+            </emph>
+        
     </xsl:template>
 </xsl:stylesheet>
