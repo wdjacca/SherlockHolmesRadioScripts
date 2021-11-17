@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.announcer {
+	color: indigo;
+}
+
+.music{
+    color:darkolivegreen;
+}
+
+.speaker{
+    color:darkslategray;
+}
+
+.mention{
+    color: maroon;
+}
+
+.sound{
+    color:darkblue;
+}
+
+body
+{
+    background-color: #F7E1C1;
+    font-size: 17px;
+}
+
+body div {
+    padding-bottom: 15px;
+}
