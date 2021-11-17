@@ -1,12 +1,16 @@
 // JavaScript Document
-var divs = document.getElementsByElement('span');
+window.addEventListener('DOMContentLoaded',pageLoadUp,false);
 
-var toggle = function() {    
-    for (var i = 0, l = divs.length; i < l; i++) {
-        if (divs[i].getAttribute('class') == 'announcer') 
-            if (divs[i].style.display == 'none') divs[i].style.display = '';
-            else divs[i].style.display = 'none';
-    }
+function pageLoadUp() {
+document.getElementById('toggle').addEventListener('click', toggle, false)  
+    
 }
 
-document.getElementById('Toggle').onclick = toggle;
+var toggle = function() {  
+    var spans = document.getElementsByClassName('announcer');
+    for (var i = 0; i < spans.length; i++) {
+     console.log('divs at position i is now: ' + spans[i] + "i is: " + i)
+     spans[i].parentNode.classList.toggle("off")
+       
+    } 
+}
