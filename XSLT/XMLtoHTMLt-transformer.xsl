@@ -2,10 +2,12 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
+    xmlns="http://www.w3.org/1999/xhtml"
     exclude-result-prefixes="xs math"
     version="3.0">
     
-    <xsl:mode on-no-match="shallow-copy"/>
+    <xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes" 
+        include-content-type="no" indent="yes"/>
     
     <xsl:template match="/">
         <html>
@@ -37,41 +39,41 @@
     <xsl:template match="speaker">
         <xsl:analyze-string select="." regex="ANNOUNCER">
             <xsl:matching-substring>
-                <emph class="announcer">
+                <em class="announcer">
                     <xsl:value-of select="."/>
-                </emph>
+                </em>
             </xsl:matching-substring>
         <xsl:non-matching-substring>
-            <emph class="speaker">
+            <em class="speaker">
                 <xsl:value-of select="."/>
-        </emph>
+        </em>
         </xsl:non-matching-substring>
         </xsl:analyze-string>
     </xsl:template>
     
     <xsl:template match="mention">
-        <emph class="mention">
+        <em class="mention">
             <xsl:apply-templates/>
-        </emph>
+        </em>
     </xsl:template>
     
     <xsl:template match="stageDirect">
-        <emph class="stageDirect">
+        <em class="stageDirect">
             <xsl:apply-templates/>
-        </emph>
+        </em>
     </xsl:template>
     
     <xsl:template match="music">
         <p>
-            <emph class="music">
+            <em class="music">
                 <xsl:apply-templates/>
-            </emph>
+            </em>
         </p>
     </xsl:template>
     <xsl:template match="sound">
-            <emph class="sound">
+            <em class="sound">
                 <xsl:apply-templates/>
-            </emph>
+            </em>
         
     </xsl:template>
 </xsl:stylesheet>
