@@ -2,10 +2,23 @@
    <head>
       <title>A Scandal in Bohemia</title>
    <link href="scriptDisplay.css" rel="stylesheet" type="text/css"/>
+   <link href="radioHolmes.css" rel="alternate stylesheet" type="text/css"/>
     <script src="showhideToggle.js"></script>
    </head>
    <body>
-       <button id="toggle"> Hide Announcer </button>
+       <!--#include virtual="menu.html" -->
+       <h3> A Scandal in Bohemia</h3>
+       <div id="side">
+            <div><input type="checkbox" id="announToggle" name="annoucer">
+            <label for="announcer"> Hide Announcer </label></div>
+            <div><input type="checkbox" id="stageToggle" name="stageDirect">
+            <label for="stageDirect"> Hide Stage Directions </label></div>
+            <div><input type="checkbox" id="soundToggle" name="sound">
+            <label for="sound"> Hide Sound Effects </label></div>
+            <div><input type="checkbox" id="musicToggle" name="music">
+            <label for="music"> Hide Music Effects </label></div>
+        </div>
+      <div id="main">
       <div><span class="announcer">ANNOUNCER</span> This episode from the life of <span class="mention">Sherlock Holmes</span> will be transmitted to our men and women overseas by
          short wave and through the worldwide facilities of the Armed Forces Radio Service.
          Petri
@@ -872,5 +885,6 @@
          listen every Monday on most of these same stations at eight o'clock to "Bulldog
          Drummond," followed immediately by "<span class="mention">Sherlock Holmes</span>." </div>
       <div><span class="speaker">MUT ANNCR</span> This is the Mutual Broadcasting System.</div>
+       </div>
    </body>
 </html>

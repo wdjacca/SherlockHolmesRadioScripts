@@ -2,25 +2,43 @@
 /* CSS Document */
 
 .announcer {
-	color: indigo;
+	background: #7B3F00;
+    color: white;
+    font-size: 14px;
+    
+}
+.off { 
+    display:none;
 }
 
-.off { display:none;}
-
 .music{
-    color:darkolivegreen;
+    background: #6F4E37;
+    color: white;
+    font-size: 14px;
+    
 }
 
 .speaker{
-    color:darkslategray;
+    background: #5C4033;
+    font-size: 14px;
+    color:white;
 }
 
 .mention{
-    color: maroon;
+    background: #966919;
+    color:white;
 }
 
 .sound{
-    color:darkblue;
+    background:#80461B;
+    color:white;
+    font-size: 14px;
+}
+
+.stageDirect{
+    background:#4A0404;
+    color: white;
+    font-size: 14px;
 }
 
 body
@@ -30,5 +48,34 @@ body
 }
 
 body div {
-    padding-bottom: 15px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+h3 {
+    font-size: 23px;
+    text-align: center;
+    padding-left: 150px;
+}
+
+#side {
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 20px;
+  left: 10px;
+  background: #C19A6B;
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+
+#main {
+  margin-left: 210px; /* Same width as the sidebar + left position in px */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
 }
