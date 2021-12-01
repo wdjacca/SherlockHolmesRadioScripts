@@ -1,62 +1,44 @@
 // JavaScript Document
-window.addEventListener('DOMContentLoaded',announ,false);
-window.addEventListener('DOMContentLoaded',SD,false);
-window.addEventListener('DOMContentLoaded',music,false);
-window.addEventListener('DOMContentLoaded',sound,false);
+window.addEventListener('DOMContentLoaded',nontoggle,false);
+window.addEventListener('DOMContentLoaded',mention,false);
+window.addEventListener('DOMContentLoaded',toggle,false);
 
-function announ() {
-document.getElementById('announToggle').addEventListener('click', announToggle, false)  
+function nontoggle() {
+document.getElementById('nonToggle').addEventListener('click', nonToggle, false)  
     
 }
 
-var announToggle = function() {  
-    var spans = document.getElementsByClassName('announcer');
+var nonToggle = function() {  
+    var spans = document.getElementsByClassName('nonstory');
     for (var i = 0; i < spans.length; i++) {
-     console.log('divs at position i is now: ' + spans[i] + "i is: " + i)
      spans[i].parentNode.classList.toggle("off")
        
     } 
 }
 
-function SD() {
-document.getElementById('stageToggle').addEventListener('click', SDtoggle, false)  
+
+function mention() {
+document.getElementById('mentionToggle').addEventListener('click', mentionToggle, false)  
     
 }
 
-var SDtoggle = function() {  
-    var spans = document.getElementsByClassName('stageDirect');
+var mentionToggle = function() {  
+    var spans = document.getElementsByClassName('mention');
     for (var i = 0; i < spans.length; i++) {
-     console.log('divs at position i is now: ' + spans[i] + "i is: " + i)
-     spans[i].classList.toggle("off")
+     spans[i].classList.toggle("on")
        
     } 
 }
 
-function music() {
-document.getElementById('musicToggle').addEventListener('click', musicToggle, false)  
+function toggle() {
+document.getElementById('nonToggle').addEventListener('click', Toggle, false)  
     
 }
 
-var musicToggle = function() {  
-    var spans = document.getElementsByClassName('music');
+var Toggle = function() {  
+    var spans = document.querySelectorAll('.stageDirect, .music, .sound');
     for (var i = 0; i < spans.length; i++) {
-     console.log('divs at position i is now: ' + spans[i] + "i is: " + i)
      spans[i].classList.toggle("off")
        
     } 
 }
-
-function sound() {
-document.getElementById('soundToggle').addEventListener('click', soundToggle, false)  
-    
-}
-
-var soundToggle = function() {  
-    var spans = document.getElementsByClassName('sound');
-    for (var i = 0; i < spans.length; i++) {
-     console.log('divs at position i is now: ' + spans[i] + "i is: " + i)
-     spans[i].classList.toggle("off")
-       
-    } 
-}
-

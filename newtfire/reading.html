@@ -7,33 +7,29 @@
    </head>
    <body>
        <!--#include virtual="menu.html" -->
-       <h3> A Scandal in Bohemia</h3>
+      
        <div id="side">
-            <div><input type="checkbox" id="announToggle" name="annoucer">
-            <label for="announcer"> Hide Announcer </label></div>
-            <div><input type="checkbox" id="stageToggle" name="stageDirect">
-            <label for="stageDirect"> Hide Stage Directions </label></div>
-            <div><input type="checkbox" id="soundToggle" name="sound">
-            <label for="sound"> Hide Sound Effects </label></div>
-            <div><input type="checkbox" id="musicToggle" name="music">
-            <label for="music"> Hide Music Effects </label></div>
-        </div>
-      <div id="main">
-      <div><span class="announcer">ANNOUNCER</span> This episode from the life of <span class="mention">Sherlock Holmes</span> will be transmitted to our men and women overseas by
+            <div><input type="checkbox" id="nonToggle" name="nonstory">
+            <label for="nonstory" id="nonstory"> Hide Radio Portion </label></div>
+            <div><input type="checkbox" id="mentionToggle" name="mention">
+            <label for="mention" id="mention"> Show Mentions of Main Characters </label></div>
+        </div><h3> A Scandal in Bohemia</h3>
+       <div id="main">
+      <div><span class="nonstory">ANNOUNCER</span> This episode from the life of <span class="mention">Sherlock Holmes</span> will be transmitted to our men and women overseas by
          short wave and through the worldwide facilities of the Armed Forces Radio Service.
          Petri
          Wine brings you--</div>
       <div>
          
-         <p><span class="music"> STING</span></p>
+         <p><span class="music nonstory"> STING</span></p>
          </div>
-      <div><span class="announcer">ANNOUNCER</span> Basil Rathbone and Nigel Bruce in "The New Adventures of
+      <div><span class="nonstory">ANNOUNCER</span> Basil Rathbone and Nigel Bruce in "The New Adventures of
          <span class="mention">Sherlock Holmes</span>."</div>
       <div>
          
-         <p><span class="music"> UP AND OUT</span></p>
+         <p><span class="music nonstory"> UP AND OUT</span></p>
          </div>
-      <div><span class="announcer">ANNOUNCER</span> The Petri family -- the family that took time to bring you
+      <div><span class="nonstory">ANNOUNCER</span> The Petri family -- the family that took time to bring you
          good wine -- invites you to listen to <span class="mention">Dr. Watson</span> tell us
          another exciting adventure he shared with his old friend, that master detective,
          <span class="mention">Sherlock Holmes</span>. And you know something? I had an
@@ -51,43 +47,43 @@
          wines.</div>
       <div>
          
-         <p><span class="music"> THEME</span></p>
+         <p><span class="music nonstory"> THEME</span></p>
          </div>
-      <div><span class="announcer">ANNOUNCER</span> And now I know <span class="mention">Dr. Watson</span>'s
+      <div><span class="nonstory">ANNOUNCER</span> And now I know <span class="mention">Dr. Watson</span>'s
          waiting for us, so let's go in and join him.</div>
       <div>
-         <span class="sound"> KNOCK ON DOOR </span>
+         <span class="sound nonstory"> KNOCK ON DOOR </span>
          </div>
-      <div><span class="speaker">WATSON</span>
+      <div><span class="speaker nonstory">WATSON</span>
          <span class="stageDirect">BEHIND DOOR</span> Come in. Come in, come in.</div>
       <div>
-         <span class="sound"> DOOR OPENS </span>
+         <span class="sound nonstory"> DOOR OPENS </span>
          </div>
-      <div><span class="announcer">ANNOUNCER</span> Good evening, <span class="mention">Dr. Watson</span>. </div>
-      <div><span class="speaker">WATSON</span> Good evening, Mr. Bartell.</div>
+      <div><span class="nonstory">ANNOUNCER</span> Good evening, <span class="mention">Dr. Watson</span>. </div>
+      <div><span class="speaker nonstory">WATSON</span> Good evening, Mr. Bartell.</div>
       <div>
-         <span class="sound"> DOOR SHUTS </span>
+         <span class="sound nonstory"> DOOR SHUTS </span>
          </div>
-      <div><span class="speaker">WATSON</span> You're quite muffled up tonight, I see. Overcoat, scarf and
+      <div><span class="speaker nonstory">WATSON</span> You're quite muffled up tonight, I see. Overcoat, scarf and
          gloves. Slip 'em off and come and join me by the fire.</div>
-      <div><span class="announcer">ANNOUNCER</span> Thanks, doctor. Quite a nip in the air tonight.</div>
-      <div><span class="speaker">WATSON</span> Yes, there is indeed.</div>
-      <div><span class="announcer">ANNOUNCER</span> Well, doctor, you told us last week that tonight's story
+      <div><span class="nonstory">ANNOUNCER</span> Thanks, doctor. Quite a nip in the air tonight.</div>
+      <div><span class="speaker nonstory">WATSON</span> Yes, there is indeed.</div>
+      <div><span class="nonstory">ANNOUNCER</span> Well, doctor, you told us last week that tonight's story
          centered around the activities of a brilliant and beautiful woman.</div>
-      <div><span class="speaker">WATSON</span> Yes, my boy. Her name was Irene Adler. But I never
+      <div><span class="speaker nonstory">WATSON</span> Yes, my boy. Her name was Irene Adler. But I never
          knew<span class="mention"> Holmes</span> to refer to her by any other name than
          "The Woman."</div>
-      <div><span class="announcer">ANNOUNCER</span> She sounds mighty intriguing. How did you happen to meet up
+      <div><span class="nonstory">ANNOUNCER</span> She sounds mighty intriguing. How did you happen to meet up
          with her?</div>
-      <div><span class="speaker">WATSON</span> Well, I'll tell you the story from the beginning. One night --
+      <div><span class="speaker nonstory">WATSON</span> Well, I'll tell you the story from the beginning. One night --
          it was on the twentieth of March, Eighteen Hundred and Eighty-Eight, to be exact --
          I
          was returning home from a visit to a patient, when my steps led me through Baker Street.
          Since my marriage, I hadn't seen much of <span class="mention">Sherlock Holmes</span>
          and--</div>
-      <div><span class="announcer">ANNOUNCER</span> You couldn't resist stopping by Two-Twenty-One B, I'm sure,
+      <div><span class="nonstory">ANNOUNCER</span> You couldn't resist stopping by Two-Twenty-One B, I'm sure,
          doctor.</div>
-      <div><span class="speaker">WATSON</span> Of course I couldn't. As I stood outside the well-remembered
+      <div><span class="speaker nonstory">WATSON</span> Of course I couldn't. As I stood outside the well-remembered
          door, I looked up at the lighted windows and saw the tall, spare figure of my old
          friend
          pass twice in dark silhouette against the blind. He was pacing the room swiftly,
@@ -105,7 +101,7 @@
       <div><span class="speaker">HOLMES</span> And in practice again, I see. You didn't tell me that you'd
          gone back into harness.</div>
       <div><span class="speaker">WATSON</span>
-         <span class="stageDirect">SURPRISED</span> Oh? How do you know?</div>
+         <span class="stageDirect toggle">SURPRISED</span> Oh? How do you know?</div>
       <div><span class="speaker">HOLMES</span> Elementary, my dear chap. If a gentleman walks into my rooms
          smelling of iodoform, with a black mark of nitrate of silver on his right forefinger
          and
@@ -114,7 +110,7 @@
          should be dull, indeed, if I didn't pronounce him to be an active member of the medical
          profession.</div>
       <div><span class="speaker">WATSON</span>
-         <span class="stageDirect">CHUCKLES</span> Same as ever,<span class="mention">
+         <span class="stageDirect toggle">CHUCKLES</span> Same as ever,<span class="mention">
             Holmes</span>. By the way, I'm, uh-- I'm not interrupting you, am I?</div>
       <div><span class="speaker">HOLMES</span> Yes, you are, old fellow, but it's a most welcome
          interruption.</div>
@@ -122,15 +118,15 @@
       <div><span class="speaker">HOLMES</span> It looks like it. This letter arrived by the last post today.
          It's undated, and has neither signature nor address. Read it.</div>
       <div><span class="speaker">WATSON</span>
-         <span class="stageDirect">MUMBLES</span> Let's have a look. <span class="stageDirect">READS</span>
+         <span class="stageDirect toggle">MUMBLES</span> Let's have a look. <span class="stageDirect toggle">READS</span>
          "There will call upon you tonight, at a quarter to eight o'clock, a gentleman who
          desires to consult you upon a matter of the very deepest moment. Your recent services
          to
          one of the royal houses of Europe have shown that you are one who may safely be trusted.
-         This account of you we have from all quarters received." <span class="stageDirect">TO
-            HIMSELF</span> Hm! <span class="stageDirect">READS</span> "Be in your chamber,
+         This account of you we have from all quarters received." <span class="stageDirect toggle">TO
+            HIMSELF</span> Hm! <span class="stageDirect toggle">READS</span> "Be in your chamber,
          then, at that hour, and do not take it amiss if your visitor wears a mask."
-         <span class="stageDirect">TO HOLMES</span> Great Scott, it all sounds very mysterious.
+         <span class="stageDirect toggle">TO HOLMES</span> Great Scott, it all sounds very mysterious.
          What do you imagine it means?</div>
       <div><span class="speaker">HOLMES</span> Look carefully at the note,<span class="mention">
             Watson</span>. What do you deduce from it?</div>
@@ -141,7 +137,7 @@
          all. Hold it up to the light. You notice anything?</div>
       <div><span class="speaker">WATSON</span> Yes. There's a large "E" with a small "g"--</div>
       <div><span class="speaker">HOLMES</span>
-         <span class="stageDirect">AGREES</span> Mm hm.</div>
+         <span class="stageDirect toggle">AGREES</span> Mm hm.</div>
       <div><span class="speaker">WATSON</span> --and a large "G" with a small "t" woven into the texture of
          the paper.</div>
       <div><span class="speaker">HOLMES</span> What does that suggest to you?</div>
@@ -161,7 +157,7 @@
          not
          have written that. It's the German who is so discourteous to his verbs.</div>
       <div>
-         <span class="sound"> VICTORIAN DOORBELL JANGLES, OFF</span>
+         <span class="sound nonstory"> VICTORIAN DOORBELL JANGLES, OFF</span>
          </div>
       <div><span class="speaker">WATSON</span> There's your client now. I'd better go,<span class="mention">
             Holmes</span>. </div>
@@ -171,17 +167,17 @@
          Boswell, and this promises to be interesting. I told Mrs. Hudson to let the masked
          visitor come upstairs unannounced.</div>
       <div>
-         <span class="sound"> KNOCK ON DOOR</span>
+         <span class="sound nonstory"> KNOCK ON DOOR</span>
          </div>
       <div><span class="speaker">HOLMES</span> Come in.</div>
       <div>
-         <span class="sound"> DOOR OPENS AND SHUTS </span>
+         <span class="sound nonstory"> DOOR OPENS AND SHUTS </span>
          </div>
       <div><span class="speaker">HOLMES</span> Good evening, sir. </div>
       <div><span class="speaker">KING</span> You, uh-- You received my note?</div>
       <div><span class="speaker">HOLMES</span> Yes, indeed. Come in, won't you, and sit down? </div>
       <div>
-         <span class="sound"> KING WALKS TO CHAIR AND SITS BEHIND--</span>
+         <span class="sound nonstory"> KING WALKS TO CHAIR AND SITS BEHIND--</span>
          </div>
       <div><span class="speaker">HOLMES</span> This is my friend and colleague, <span class="mention">Dr.
             Watson</span>. You may say anything before him that you can say to me. Whom have
@@ -198,11 +194,11 @@
       <div><span class="speaker">HOLMES</span> That had not escaped me either, sir. In fact, if you will
          state your case, I shall be better able to advise you -- your Majesty.</div>
       <div><span class="speaker">KING</span>
-         <span class="stageDirect">ASTONISHED</span> How--? How did you--?
-         <span class="stageDirect">DECISIVELY</span> Yes. Yes, I am the King. Why should I attempt
+         <span class="stageDirect toggle">ASTONISHED</span> How--? How did you--?
+         <span class="stageDirect toggle">DECISIVELY</span> Yes. Yes, I am the King. Why should I attempt
          to conceal it?</div>
       <div><span class="speaker">HOLMES</span> Why, indeed?</div>
-      <div><span class="speaker">KING</span> I shall remove the mask. <span class="stageDirect">BEAT</span> There.
+      <div><span class="speaker">KING</span> I shall remove the mask. <span class="stageDirect toggle">BEAT</span> There.
          <span class="mention">Mr. Holmes</span>, I have traveled incognito from Prague
          for the express purpose of consulting you.</div>
       <div><span class="speaker">HOLMES</span> Then, pray consult. </div>
@@ -213,19 +209,19 @@
       <div><span class="speaker">HOLMES</span> Look her up in the index for me, will you,<span class="mention"> Watson</span>? It's right beside you on the desk there.</div>
       <div><span class="speaker">KING</span> I imagined that her name would not be unfamiliar to you. </div>
       <div>
-         <span class="sound"> SHUFFLE OF PAPERS ... IN AGREEMENT WITH FOLLOWING--</span>
+         <span class="sound nonstory"> SHUFFLE OF PAPERS ... IN AGREEMENT WITH FOLLOWING--</span>
          </div>
-      <div><span class="speaker">WATSON</span> Here we are, here we are. <span class="stageDirect">READS</span> "A.
-         Abrahams, Actongreen <span class="stageDirect">Hatchet Murders</span>, Adler--" Adler.</div>
+      <div><span class="speaker">WATSON</span> Here we are, here we are. <span class="stageDirect toggle">READS</span> "A.
+         Abrahams, Actongreen <span class="stageDirect toggle">Hatchet Murders</span>, Adler--" Adler.</div>
       <div><span class="speaker">HOLMES</span> Splendid. Hand me the file, old chap. Thank you. Mm hm!
-         <span class="stageDirect">READS AND MUSES</span> "Irene Adler. Born in New Jersey in the
+         <span class="stageDirect toggle">READS AND MUSES</span> "Irene Adler. Born in New Jersey in the
          United States of America in Eighteen Fifty-Eight. Contralto." Mm hm. "Prima donna,
          Imperial Opera of Warsaw." Oh. "Retired from operatic stage. Living in London." Quite
-         so. And here's a recent notation -- uh huh. <span class="stageDirect">TO KING</span> Your
+         so. And here's a recent notation -- uh huh. <span class="stageDirect toggle">TO KING</span> Your
          Majesty, as I understand, became entangled with this young person, wrote her some
          compromising letters and is now desirous of getting those letters back.</div>
       <div><span class="speaker">KING</span>
-         <span class="stageDirect">AMAZED</span> Precisely so. But how could--?</div>
+         <span class="stageDirect toggle">AMAZED</span> Precisely so. But how could--?</div>
       <div><span class="speaker">HOLMES</span> Was there a secret marriage?</div>
       <div><span class="speaker">KING</span> None.</div>
       <div><span class="speaker">HOLMES</span> No legal papers or certificates?</div>
@@ -248,7 +244,7 @@
       <div><span class="speaker">KING</span> Yes, <span class="mention">Dr. Watson</span>, I am afraid I
          did. </div>
       <div><span class="speaker">WATSON</span>
-         <span class="stageDirect">MUMBLES</span> Good gracious me.</div>
+         <span class="stageDirect toggle">MUMBLES</span> Good gracious me.</div>
       <div><span class="speaker">KING</span>
          <span class="mention">Mr. Holmes</span>, it must be recovered. </div>
       <div><span class="speaker">HOLMES</span> Perhaps if you were to pay enough, the photograph might be
@@ -295,7 +291,7 @@
          <span class="mention">Dr. Watson</span>.</div>
       <div><span class="speaker">WATSON</span> Good night, your Majesty. </div>
       <div>
-         <span class="sound"> DOOR OPENS AND SHUTS</span>
+         <span class="sound nonstory"> DOOR OPENS AND SHUTS</span>
          </div>
       <div><span class="speaker">WATSON</span> Fascinating problem,<span class="mention"> Holmes</span>. I
          wish I could help you with it. </div>
@@ -310,7 +306,7 @@
          Briony Lodge, Serpentine Avenue, St. John's Wood.</div>
       <div>
          
-         <p><span class="music"> BRIDGE </span></p>
+         <p><span class="music nonstory"> BRIDGE </span></p>
          </div>
       <div><span class="speaker">WATSON</span> Well,<span class="mention"> Holmes</span>, I guess the
          examination of Briony Lodge didn't prove very illuminating.</div>
@@ -320,7 +316,7 @@
          and
          Horse is inviting us from across the road.</div>
       <div>
-         <span class="sound"> TWO PAIRS OF FOOTSTEPS ON COBBLESTONE</span>
+         <span class="sound nonstory"> TWO PAIRS OF FOOTSTEPS ON COBBLESTONE</span>
          </div>
       <div><span class="speaker">WATSON</span> Well, our disguises shouldn't cause any suspicion.</div>
       <div><span class="speaker">HOLMES</span> [That's why] I suggested them. In the character of a couple of
@@ -333,7 +329,7 @@
          than mine.</div>
       <div><span class="speaker">HOLMES</span> Let's go in, shall we? </div>
       <div>
-         <span class="sound"> PUB DOOR OPENS AND SHUTS ... PUB BACKGROUND; PIANO</span>
+         <span class="sound nonstory"> PUB DOOR OPENS AND SHUTS ... PUB BACKGROUND; PIANO</span>
          </div>
       <div><span class="speaker">BARTENDER</span> Well, what'll it be, mateys? </div>
       <div><span class="speaker">HOLMES</span>
@@ -343,7 +339,7 @@
          <span class="stageDirect">COCKNEY</span> I'll have the same.</div>
       <div><span class="speaker">BARTENDER</span> Two half of old and mild. </div>
       <div>
-         <span class="sound"> PUB BACKGROUND AND PIANO FILLS PAUSE ... THEN DRINKS ARE SET DOWN
+         <span class="sound nonstory"> PUB BACKGROUND AND PIANO FILLS PAUSE ... THEN DRINKS ARE SET DOWN
             <span class="stageDirect">AND PIANO OUT</span> BEHIND--</span>
          </div>
       <div><span class="speaker">BARTENDER</span> Here we are, mateys. Here. That'll be a tenner.</div>
@@ -395,7 +391,7 @@
          <span class="stageDirect">COCKNEY</span> Good night.</div>
       <div><span class="speaker">BARTENDER</span> And thanks for the Guinness! </div>
       <div>
-         <span class="sound"> PUB DOOR OPENS AND SHUTS ... PUB BACKGROUND OUT</span>
+         <span class="sound nonstory"> PUB DOOR OPENS AND SHUTS ... PUB BACKGROUND OUT</span>
          </div>
       <div><span class="speaker">WATSON</span> What's our next move,<span class="mention">
             Holmes</span>?</div>
@@ -408,7 +404,7 @@
       <div><span class="speaker">HOLMES</span> Hurry,<span class="mention"> Watson</span>. It may be Mr.
          Norton's.</div>
       <div>
-         <span class="sound"> THEIR HURRIED FOOTSTEPS TO THE FRONT GATE</span>
+         <span class="sound nonstory"> THEIR HURRIED FOOTSTEPS TO THE FRONT GATE</span>
          </div>
       <div><span class="speaker">WATSON</span>
          <span class="stageDirect">LOW</span> Here we are at the gate.</div>
@@ -416,7 +412,7 @@
          <span class="stageDirect">LOW</span> Yes! And here comes a man hurrying down the pathway.
          Quick -- behind this post. Listen!</div>
       <div>
-         <span class="sound"> NORTON'S FOOTSTEPS RUN TO CAB </span>
+         <span class="sound nonstory"> NORTON'S FOOTSTEPS RUN TO CAB </span>
          </div>
       <div><span class="speaker">1ST CABMAN</span> Where to now, Mr. Norton?</div>
       <div><span class="speaker">NORTON</span> Drive like the devil! First to Gross and Hankey's in Regent
@@ -425,13 +421,13 @@
          you do it in twenty minutes!</div>
       <div><span class="speaker">1ST CABMAN</span> Right you are, Mr. Norton! Hop in! </div>
       <div>
-         <span class="sound"> NORTON CLIMBS IN ... CAB DOOR SHUTS </span>
+         <span class="sound nonstory"> NORTON CLIMBS IN ... CAB DOOR SHUTS </span>
          </div>
       <div><span class="speaker">HOLMES</span>
          <span class="stageDirect">LOW</span> Try and signal a cab,<span class="mention">
             Watson</span>! We must follow him!</div>
       <div>
-         <span class="sound"> CAB DRIVES DOWN ROAD </span>
+         <span class="sound nonstory"> CAB DRIVES DOWN ROAD </span>
          </div>
       <div><span class="speaker">WATSON</span> Here comes one! No, no, it isn't. It's a private
          carriage.</div>
@@ -439,18 +435,18 @@
          she comes down the pathway. Back again behind the post,<span class="mention">
             Watson</span>!</div>
       <div>
-         <span class="sound"> ADLER'S FOOTSTEPS RUNNING TOWARD CARRIAGE </span>
+         <span class="sound nonstory"> ADLER'S FOOTSTEPS RUNNING TOWARD CARRIAGE </span>
          </div>
       <div><span class="speaker">COACHMAN</span> Where to, Miss Adler?</div>
       <div><span class="speaker">ADLER</span> The Church of St. Monica, John, and half a sovereign if you
          reach it in twenty minutes.</div>
       <div>
-         <span class="sound"> CARRIAGE DOOR SHUTS ... CARRIAGE DRIVES DOWN ROAD </span>
+         <span class="sound nonstory"> CARRIAGE DOOR SHUTS ... CARRIAGE DRIVES DOWN ROAD </span>
          </div>
       <div><span class="speaker">HOLMES</span> The game's afoot! Quick, we must get a cab and follow them! </div>
       <div><span class="speaker">WATSON</span> Here comes a hansom!</div>
       <div>
-         <span class="sound"> HANSOM CAB PULLS UP ... THEN STOPS BEHIND--</span>
+         <span class="sound nonstory"> HANSOM CAB PULLS UP ... THEN STOPS BEHIND--</span>
          </div>
       <div><span class="speaker">WATSON</span>
          <span class="stageDirect">CALLS</span> Cabby! Hey, hey, cabby!</div>
@@ -462,13 +458,13 @@
       <div><span class="speaker">HOLMES</span> The Church of St. Monica in the Edgeware Road, and another
          half sovereign for you if you get us there in twenty minutes!</div>
       <div>
-         <span class="sound"> CAB DOOR SHUTS ... CAB DRIVES DOWN ROAD </span>
+         <span class="sound nonstory"> CAB DOOR SHUTS ... CAB DRIVES DOWN ROAD </span>
          </div>
       <div>
          
-         <p><span class="music"> CURTAIN</span></p>
+         <p><span class="music nonstory"> CURTAIN</span></p>
          </div>
-      <div><span class="announcer">ANNOUNCER</span> We'll hear the rest of <span class="mention">Dr.
+      <div><span class="nonstory">ANNOUNCER</span> We'll hear the rest of <span class="mention">Dr.
             Watson</span>'s story in just a second, but let me tell you something. If you're
          going to have chicken for dinner tomorrow night or - or any night, don't forget to
          serve
@@ -496,7 +492,7 @@
          usual." </div>
       <div><span class="speaker">HOLMES</span> Splendid. Then come on -- we can return to Baker Street. </div>
       <div>
-         <span class="sound"> THEIR FOOTSTEPS TO CAB, DURING FOLLOWING--</span>
+         <span class="sound nonstory"> THEIR FOOTSTEPS TO CAB, DURING FOLLOWING--</span>
          </div>
       <div><span class="speaker">WATSON</span> What happened inside the church,<span class="mention">
             Holmes</span>? </div>
@@ -508,7 +504,7 @@
       <div><span class="speaker">2NDCABMAN</span> Where to now, governor?</div>
       <div><span class="speaker">HOLMES</span> Two Twenty-One B, Baker Street.</div>
       <div>
-         <span class="sound"> CAB DOOR OPENS ... HOLMES AND WATSON CLIMB IN ... CAB DOOR SHUTS ... CAB DRIVES
+         <span class="sound nonstory"> CAB DOOR OPENS ... HOLMES AND WATSON CLIMB IN ... CAB DOOR SHUTS ... CAB DRIVES
             DOWN ROAD, CONTINUES IN BACKGROUND </span>
          </div>
       <div><span class="speaker">WATSON</span> Oh, so they got married, eh? </div>
@@ -528,7 +524,7 @@
          closer grips with the lady!</div>
       <div>
          
-         <p><span class="music"> BRIDGE</span></p>
+         <p><span class="music nonstory"> BRIDGE</span></p>
          </div>
       <div><span class="speaker">WATSON</span> Well,<span class="mention"> Holmes</span>, now that we've
          eaten, perhaps you'll tell me your plan.</div>
@@ -571,7 +567,7 @@
          attire, let's be on our way. There's no time to be lost.</div>
       <div>
          
-         <p><span class="music"> BRIDGE </span></p>
+         <p><span class="music nonstory"> BRIDGE </span></p>
          </div>
       <div><span class="speaker">WATSON</span> It's nearly six-thirty,<span class="mention">
             Holmes</span>. We've been pacing up and down in front of her house for half an hour
@@ -595,30 +591,30 @@
       <div><span class="speaker">WATSON</span> Oh, she'll refuse.</div>
       <div><span class="speaker">HOLMES</span> She won't be able to-- </div>
       <div>
-         <span class="sound"> CARRIAGE APPROACHES</span>
+         <span class="sound nonstory"> CARRIAGE APPROACHES</span>
          </div>
       <div><span class="speaker">HOLMES</span> Shh! Here comes the carriage now. Remember,<span class="mention"> Watson</span> -- carry out my orders to the letter. </div>
       <div><span class="speaker">WATSON</span>
          <span class="stageDirect">MOVING OFF</span> You can trust me. Good luck.</div>
       <div>
-         <span class="sound"> CARRIAGE ROLLS TO A STOP</span>
+         <span class="sound nonstory"> CARRIAGE ROLLS TO A STOP</span>
          </div>
       <div><span class="speaker">ALFIE</span>
          <span class="stageDirect">SARCASTIC</span> Blimey! 'Ere comes the Duchess of Tiddlywinks! </div>
       <div>
-         <span class="sound"> CROWD LAUGHS ... BUZZES IN BACKGROUND</span>
+         <span class="sound nonstory"> CROWD LAUGHS ... BUZZES IN BACKGROUND</span>
          </div>
       <div><span class="speaker">ALFIE</span> Let's put out a carpet; she might get her tootsies wet!</div>
       <div><span class="speaker">PAT</span> Awwww, put a sock in it, Alfie!</div>
       <div><span class="speaker">HATTIE</span> Leave him alone! She's no better than she ought to be! </div>
       <div>
-         <span class="sound"> CROWD JEERS</span>
+         <span class="sound nonstory"> CROWD JEERS</span>
          </div>
       <div><span class="speaker">ADLER</span> Please, please -- let me through! I live here!</div>
       <div><span class="speaker">ALFIE</span> Well, ain't that nice! We'll all come in and have a cup of
          cocoa! </div>
       <div>
-         <span class="sound"> CROWD JEERS AND LAUGHS ... GROWS INCREASINGLY UNRULY IN BACKGROUND</span>
+         <span class="sound nonstory"> CROWD JEERS AND LAUGHS ... GROWS INCREASINGLY UNRULY IN BACKGROUND</span>
          </div>
       <div><span class="speaker">HOLMES</span>
          <span class="stageDirect">AS THE CLERGYMAN</span> Move out of the way, please, and let the
@@ -633,7 +629,7 @@
       <div><span class="speaker">ALFIE</span> Do ya? Then how would you like a biff on the nose, Mr.
          Clergyman? </div>
       <div>
-         <span class="sound"> CROWD JEERS ... ALFIE PUNCHES THE CLERGYMAN WHO FALLS TO THE GROUND ... CROWD
+         <span class="sound nonstory"> CROWD JEERS ... ALFIE PUNCHES THE CLERGYMAN WHO FALLS TO THE GROUND ... CROWD
             REACTS ... ALFIE RUNS AWAY ... CROWD DISPERSES BEHIND--</span>
          </div>
       <div><span class="speaker">ADLER</span>
@@ -648,7 +644,7 @@
       <div><span class="speaker">BERT</span> Righto.</div>
       <div><span class="speaker">ERNIE</span> --give us a hand. </div>
       <div>
-         <span class="sound"> MEN GRUNT AS THEY LIFT BODY AND CARRY IT INTO THE HOUSE</span>
+         <span class="sound nonstory"> MEN GRUNT AS THEY LIFT BODY AND CARRY IT INTO THE HOUSE</span>
          </div>
       <div><span class="speaker">HATTIE</span>
          <span class="stageDirect">SADLY</span> Coo. Poor fella. 'Joo see what happened to him,
@@ -673,14 +669,14 @@
          the rocket! <span class="stageDirect">GRUNTS WITH EFFORT</span> Ah! There we are.
          <span class="stageDirect">YELLS</span> Fire! </div>
       <div>
-         <span class="sound"> CROWD STARTS YELLING "FIRE! FIRE!" </span>
+         <span class="sound nonstory"> CROWD STARTS YELLING "FIRE! FIRE!" </span>
          </div>
       <div>
          
-         <p><span class="music"> BRIDGE </span></p>
+         <p><span class="music nonstory"> BRIDGE </span></p>
          </div>
       <div>
-         <span class="sound"> HOLMES' BRISK FOOTSTEPS APPROACH</span>
+         <span class="sound nonstory"> HOLMES' BRISK FOOTSTEPS APPROACH</span>
          </div>
       <div><span class="speaker">WATSON</span><span class="mention"> Holmes</span> -- there you are! You -
          you have the photograph? </div>
@@ -714,24 +710,24 @@
          ended!</div>
       <div>
          
-         <p><span class="music"> BRIDGE </span></p>
+         <p><span class="music nonstory"> BRIDGE </span></p>
          </div>
       <div>
-         <span class="sound"> CAB PULLS TO A STOP</span>
+         <span class="sound nonstory"> CAB PULLS TO A STOP</span>
          </div>
       <div><span class="speaker">WATSON</span> This is Briony Lodge, your Majesty. </div>
       <div><span class="speaker">KING</span> I am all impatience. You are certain the photograph will still
          be there, <span class="mention">Mr. Holmes</span>?</div>
       <div><span class="speaker">HOLMES</span> I have every reason to believe so, your Majesty.</div>
       <div>
-         <span class="sound"> THE THREE CLIMB OUT OF THE CAB AND WALK TO FRONT DOOR, DURING
+         <span class="sound nonstory"> THE THREE CLIMB OUT OF THE CAB AND WALK TO FRONT DOOR, DURING
             FOLLOWING--</span>
          </div>
       <div><span class="speaker">KING</span> I must confess, this is going to be something of an ordeal.</div>
       <div><span class="speaker">HOLMES</span> Then I suggest that you let me do the talking, your Majesty. I
          think I know how to handle the lady.</div>
       <div>
-         <span class="sound"> KNOCKS ON FRONT DOOR ... DOOR OPENS</span>
+         <span class="sound nonstory"> KNOCKS ON FRONT DOOR ... DOOR OPENS</span>
          </div>
       <div><span class="speaker">MAID</span> Mr. <span class="mention">Sherlock Holmes</span>, I
          believe?</div>
@@ -747,18 +743,18 @@
          lost!</div>
       <div><span class="speaker">HOLMES</span> We'll soon see. Follow me. </div>
       <div>
-         <span class="sound"> THEIR HURRIED FOOTSTEPS INTO THE HOUSE</span>
+         <span class="sound nonstory"> THEIR HURRIED FOOTSTEPS INTO THE HOUSE</span>
          </div>
       <div><span class="speaker">MAID</span>
          <span class="stageDirect">SLIGHTLY MOCKING</span> She said you'd be looking for something. I
          hope you find it! </div>
       <div><span class="speaker">HOLMES</span> This was the bell-rope. Sliding panel behind it. </div>
       <div>
-         <span class="sound"> HOLMES TAPS SEVERAL TIMES ON THE WALL</span>
+         <span class="sound nonstory"> HOLMES TAPS SEVERAL TIMES ON THE WALL</span>
          </div>
       <div><span class="speaker">HOLMES</span> Uh huh. Here it is. </div>
       <div>
-         <span class="sound"> PANEL SLIDES OPEN</span>
+         <span class="sound nonstory"> PANEL SLIDES OPEN</span>
          </div>
       <div><span class="speaker">KING</span>
          <span class="stageDirect">BEAT</span> Is - is the photograph there, <span class="mention">Mr.
@@ -767,7 +763,7 @@
          <span class="stageDirect">UNHAPPY</span> There is a photograph, your Majesty. But it's, um, a
          photograph of the lady alone. Here's a letter -- and it's addressed to me.</div>
       <div>
-         <span class="sound"> ENVELOPE TORN OPEN, LETTER UNFOLDED</span>
+         <span class="sound nonstory"> ENVELOPE TORN OPEN, LETTER UNFOLDED</span>
          </div>
       <div><span class="speaker">WATSON</span> What does it say,<span class="mention"> Holmes</span>?</div>
       <div><span class="speaker">HOLMES</span>
@@ -816,25 +812,25 @@
          forget.</div>
       <div>
          
-         <p><span class="music"> CURTAIN </span></p>
+         <p><span class="music nonstory"> CURTAIN </span></p>
          </div>
-      <div><span class="announcer">ANNOUNCER</span> Gee, doctor, what a woman, that Miss Adler. Or should I say
+      <div><span class="nonstory">ANNOUNCER</span> Gee, doctor, what a woman, that Miss Adler. Or should I say
          Mrs. Norton. <span class="stageDirect">SIGHS</span> That's the kind of woman I could really go
          for.</div>
-      <div><span class="speaker">WATSON</span> Yes, I believe you could. Just between ourselves, you know, I
+      <div><span class="nonstory">WATSON</span> Yes, I believe you could. Just between ourselves, you know, I
          sort of -- ahem -- sort of could go for her meself.</div>
-      <div><span class="announcer">ANNOUNCER</span> She was intelligent.</div>
-      <div><span class="speaker">WATSON</span> She was rich.</div>
-      <div><span class="announcer">ANNOUNCER</span> And beautiful. That's the kind of woman you want sitting
+      <div><span class="nonstory">ANNOUNCER</span> She was intelligent.</div>
+      <div><span class="nonstory">WATSON</span> She was rich.</div>
+      <div><span class="nonstory">ANNOUNCER</span> And beautiful. That's the kind of woman you want sitting
          next to you in front of a cozy fire on a nippy fall night. Just the three of you.</div>
       <div><span class="speaker">WATSON</span> The three of you? </div>
-      <div><span class="announcer">ANNOUNCER</span> Mm hm. You. She. And a glass of Petri Port. </div>
-      <div><span class="speaker">WATSON</span>
+      <div><span class="nonstory">ANNOUNCER</span> Mm hm. You. She. And a glass of Petri Port. </div>
+      <div><span class="nonstory">WATSON</span>
          <span class="stageDirect">LAUGHS</span> Mr. Bartell--! </div>
-      <div><span class="announcer">ANNOUNCER</span> Well, why not?</div>
-      <div><span class="speaker">WATSON</span>
+      <div><span class="nonstory">ANNOUNCER</span> Well, why not?</div>
+      <div><span class="nonstory">WATSON</span>
          <span class="stageDirect">CHUCKLES</span> Gracious.</div>
-      <div><span class="announcer">ANNOUNCER</span> Petri California Port is some wine! Boy, that Petri family
+      <div><span class="nonstory">ANNOUNCER</span> Petri California Port is some wine! Boy, that Petri family
          really knows how to make good wine, all right. And no wonder. Look at all the experience
          they've had. Ever since they started the Petri business, way back in the eighteen
          hundreds, the Petri family has handed down from father to son -- from father to son
@@ -849,8 +845,8 @@
             Watson</span>, that was a great story you told us tonight.</div>
       <div><span class="speaker">WATSON</span> I thought you'd like it, Mr. Bartell. That's why I plan to
          tell you a sequel to it next week.</div>
-      <div><span class="announcer">ANNOUNCER</span> A sequel? Say, that sounds exciting, doctor. </div>
-      <div><span class="speaker">WATSON</span> Oh, I think you'll find it proves to be, Mr. Bartell. It's a
+      <div><span class="nonstory">ANNOUNCER</span> A sequel? Say, that sounds exciting, doctor. </div>
+      <div><span class="nonstory">WATSON</span> Oh, I think you'll find it proves to be, Mr. Bartell. It's a
          story that takes place twenty years after tonight's adventure. Once again, the principal
          part is played by a woman. Only in this case, it isn't Irene Adler. It's her daughter.
          <span class="stageDirect">BEAT</span> Oh, and, uh, now, Mr. Bartell, before I go I want to
@@ -863,9 +859,9 @@
          doing -- a splendid job.</div>
       <div>
          
-         <p><span class="music"> THEME ... THEN UNDER--</span></p>
+         <p><span class="music nonstory"> THEME ... THEN UNDER--</span></p>
          </div>
-      <div><span class="announcer">ANNOUNCER</span> <span class="lineGp">Tonight's <span class="mention">Sherlock Holmes</span>
+      <div><span class="nonstory">ANNOUNCER</span> <span class="lineGp">Tonight's <span class="mention">Sherlock Holmes</span>
             adventure was written by Denis Green and Anthony Boucher, and is an adaptation of
             the
             Sir Arthur Conan Doyle story "A Scandal in Bohemia." Music is by Dean Fosler. Mr.
@@ -878,9 +874,9 @@
             to you from our Hollywood studios.</span> </div>
       <div>
          
-         <p><span class="music"> OUT</span></p>
+         <p><span class="music nonstory"> OUT</span></p>
          </div>
-      <div><span class="announcer">ANNOUNCER</span> This is Harry Bartell saying "Good night" for the Petri
+      <div><span class="nonstory">ANNOUNCER</span> This is Harry Bartell saying "Good night" for the Petri
          family. <span class="stageDirect">PAUSE</span> For a solid hour of exciting mystery-dramas,
          listen every Monday on most of these same stations at eight o'clock to "Bulldog
          Drummond," followed immediately by "<span class="mention">Sherlock Holmes</span>." </div>

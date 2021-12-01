@@ -1,81 +1,82 @@
 @charset "UTF-8";
 /* CSS Document */
 
-.announcer {
+/* toggles */
+#nonstory, .nonstory {
 	background: #7B3F00;
     color: white;
-    font-size: 14px;
+    font-size: 16px;
     
 }
 .off { 
     display:none;
 }
 
-.music{
+#music, .music{
     background: #6F4E37;
     color: white;
-    font-size: 14px;
+    font-size: 16px;
     
 }
 
-.speaker{
+#sound, .speaker{
     background: #5C4033;
-    font-size: 14px;
+    font-size: 16px;
     color:white;
 }
 
-.mention{
+.on{
     background: #966919;
     color:white;
+}
+
+#mention{
+    background: #966919;
+    color:white;
+    font-size: 16px;
 }
 
 .sound{
     background:#80461B;
     color:white;
-    font-size: 14px;
+    font-size: 16px;
 }
 
-.stageDirect{
+#stageDirect, .stageDirect{
     background:#4A0404;
     color: white;
-    font-size: 14px;
+    font-size: 16px;
 }
 
+/* content */
 body
 {
     background-color: #F7E1C1;
-    font-size: 17px;
+    font-size: 18px;
 }
 
 body div {
-    padding-bottom: 5px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 0px 15px 5px 15px;
 }
 
 h3 {
-    font-size: 23px;
+    font-size: 25px;
     text-align: center;
     padding-left: 150px;
 }
 
+/* side bar */
 #side {
   width: 200px;
-  position: fixed;
-  z-index: 1;
-  top: 20px;
-  left: 10px;
+  position: sticky;
+  top: 5px;
   background: #C19A6B;
+  padding: 8px;
   overflow-x: hidden;
-  padding: 8px 0;
+  z-index: 1; /* Stay on top */
 }
 
 #main {
   margin-left: 210px; /* Same width as the sidebar + left position in px */
-  padding: 0px 10px;
-}
-
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+  padding: 0px 10px 0px 0px;
 }
