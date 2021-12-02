@@ -4,7 +4,7 @@
 body{
     background-color: #F7E1C1;
 }
-ul {
+ul.Nav{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -12,7 +12,11 @@ ul {
     background-color: #BD906E;
 }
 
-li {
+.Nav li a:hover {
+    background-color: #946D46;
+	color: white;
+}
+ul.Nav li{
     float: left;
 }
 
@@ -32,10 +36,6 @@ a {
 	color: white;
 }
 
-.Nav li a:hover {
-    background-color: #946D46;
-	color: white;
-}
 
 h1 {
 font-size: 40px;

@@ -62,7 +62,6 @@ body div {
 h3 {
     font-size: 25px;
     text-align: center;
-    padding-left: 150px;
 }
 
 /* side bar */
@@ -77,6 +76,16 @@ h3 {
 }
 
 #main {
-  margin-left: 210px; /* Same width as the sidebar + left position in px */
   padding: 0px 10px 0px 0px;
+  flex: 7;
+}
+
+section#scriptflex{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+secton#sideflex{
+     flex: 1;
 }

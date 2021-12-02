@@ -39,7 +39,7 @@
     <xsl:template match="speaker">
         <xsl:analyze-string select="." regex="ANNOUNCER">
             <xsl:matching-substring>
-                <span class="announcer">
+                <span class="nonstory">
                     <xsl:value-of select="."/>
                 </span>
             </xsl:matching-substring>
@@ -58,22 +58,21 @@
     </xsl:template>
     
     <xsl:template match="stageDirect">
-        <span class="stageDirect">
+        <span class="stageDirect toggle">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
     
     <xsl:template match="music">
         <p>
-            <span class="music">
+            <span class="music toggle">
                 <xsl:apply-templates/>
             </span>
         </p>
     </xsl:template>
     <xsl:template match="sound">
-            <span class="sound">
+            <span class="sound toggle">
                 <xsl:apply-templates/>
             </span>
-        
     </xsl:template>
 </xsl:stylesheet>
