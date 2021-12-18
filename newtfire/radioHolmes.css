@@ -73,3 +73,37 @@ ul.innercontent{
 ul.innercontent li.innercontent{
     list-style: circle;
 }
+
+code.highlight{
+    color: red;
+}
+
+p.head{
+	text-align:left;
+    text-emphasis: bold;
+	font-size: 19px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	text-decoration: overline;
+}
+
+div.imgflex{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+div.imgflex img{
+    flex: 1;
+    width: 20%;
+}
+
+div.imgflex div{
+    flex: 7;
+}
+
+pre blockquote{
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    text-align: left;
+    padding-left: 100px;
+}

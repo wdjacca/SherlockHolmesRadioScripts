@@ -12,10 +12,26 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title>A Scandal in Bohemia</title>
+                <title>Reading View</title>
+                <link href="scriptDisplay.css" rel="stylesheet" type="text/css"/>
+                <link href="radioHolmes.css" rel="alternate stylesheet" type="text/css"/>
+                <script src="showhideToggle.js"></script>
+                <link rel="stylesheet" type="text/css" href="menu.css"/>
+                <link rel="preconnect" href="https://fonts.gstatic.com"/>
+                <link href="https://fonts.googleapis.com/css2?family=Cinzel&amp;mp;display=swap" rel="stylesheet"/>
             </head>
             <body>
+                <section id="scriptflex"><section id="sideflex"><div id="side">
+                    <div><input type="checkbox" id="nonToggle" name="nonstory"/>
+                        <label for="nonstory" id="nonstory"> Hide Radio Portion </label></div>
+                    <div><input type="checkbox" id="mentionToggle" name="mention"/>
+                        <label for="mention" id="mention"> Show Mentions of Main Characters </label></div>
+                </div></section>
+                    <div id="main">
+                        <h3> A Scandal in Bohemia</h3>
             <xsl:apply-templates select=".//ln"/>
+                    </div>
+                </section>
             </body> 
         </html>
         
@@ -25,7 +41,6 @@
         <div>
             <xsl:apply-templates/>
         </div>
-        
     </xsl:template>
     <xsl:template match="lineGp">
         <xsl:apply-templates/>
@@ -74,5 +89,11 @@
             <span class="sound toggle">
                 <xsl:apply-templates/>
             </span>
+    </xsl:template>
+    
+    <xsl:template match="ln[@*]">
+        <div class="{@*}">
+            <xsl:apply-templates select="node()"/>
+        </div>
     </xsl:template>
 </xsl:stylesheet>

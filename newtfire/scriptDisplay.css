@@ -3,7 +3,7 @@
 
 /* toggles */
 #nonstory, .nonstory {
-	background: #7B3F00;
+	background-color: #7B3F00;
     color: white;
     font-size: 16px;
     
@@ -13,41 +13,47 @@
 }
 
 #music, .music{
-    background: #6F4E37;
+    background-color: #6F4E37;
     color: white;
     font-size: 16px;
     
 }
 
 #sound, .speaker{
-    background: #5C4033;
+    background-color: #5C4033;
     font-size: 16px;
     color:white;
 }
 
-.on{
+#mention, .mention.on{
     background: #966919;
-    color:white;
-}
-
-#mention{
-    background: #966919;
-    color:white;
+    color: white;
     font-size: 16px;
 }
 
 .sound{
-    background:#80461B;
+    background-color:#80461B;
     color:white;
     font-size: 16px;
 }
 
 #stageDirect, .stageDirect{
-    background:#4A0404;
+    background-color:#4A0404;
     color: white;
     font-size: 16px;
 }
 
+#sig, .sig.on{
+    background-color: #8B0000;
+    color: white;
+    font-size: 16px;
+}
+
+#interpel, .interpel.on{
+    background-color: #C04000;
+    color: white;
+    font-size: 16px;
+}
 /* content */
 body
 {

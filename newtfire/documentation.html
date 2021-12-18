@@ -4,9 +4,9 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>Sherlock Holmes Radio Script</title>
         <link rel="stylesheet" type="text/css" href="radioHolmes.css" />
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Cinzel&amp;display=swap"
-            rel="stylesheet">
+         <link rel="stylesheet" type="text/css" href="menu.css"/>
+         <link rel="preconnect" href="https://fonts.gstatic.com"/>
+         <link href="https://fonts.googleapis.com/css2?family=Cinzel&amp;mp;display=swap" rel="stylesheet"/>
     </head>
     <body>
         <!--#include virtual="menu.html" -->
@@ -85,7 +85,7 @@
             <li> In the Arthur Conan Doyle text, the <code>&lt;xml:id&gt;</code>'s are structured as
                 followed: </li>
             <pre><code class="block">
-            &lt;p xml:id="SIB-p4"&gt;His manner was not effusive. It seldom was; but he was glad, I think,
+            &lt;p <code class="highlight">xml:id="SIB-p4"</code>&gt;His manner was not effusive. It seldom was; but he was glad, I think,
                 to see me. With hardly a word spoken, but with a kindly eye, he waved me to an
                 armchair, threw across his case of cigars, and indicated a spirit case and a
                 gasogene in the corner. Then he stood before the fire and looked me over in his
@@ -94,19 +94,19 @@
             <pre><code class="block">
                 &lt;p xml:id="SIB-p7"&gt;“Indeed, I should have thought a little more. Just a trifle more, I
                 fancy, Watson. 
-                &lt;seg xml:id="SIB-p7-s1"&gt;And in practice again, I observe. You did not tell me that you
+                <code class="highlight">&lt;seg xml:id="SIB-p7-s1"&gt;</code>And in practice again, I observe. You did not tell me that you
                 intended to go into harness.”&lt;/seg&gt;
                 &lt;/p&gt;</code></pre>
             <li> After the <code>&lt;seg&gt;</code> tags are put in place, I then stitch the radio
                 script <code>&lt;ln&gt;</code> tags together manually after comparing the texts
                 side-by-side, by using the <code>@pull</code> attribute, as followed:</li>
             <pre><code class="block">
-                &lt;ln pull="#SIB-p7-s1"&gt;&lt;speaker&gt;HOLMES&lt;/speaker&gt; And in practice again, I see. You didn't tell me that you'd gone back into harness.&lt;/ln&gt;</code></pre>
+                <code class="highlight">&lt;ln pull="#SIB-p7-s1"&gt;</code>&lt;speaker&gt;HOLMES&lt;/speaker&gt; And in practice again, I see. You didn't tell me that you'd gone back into harness.&lt;/ln&gt;</code></pre>
             <li> For some <code>&lt;ln&gt;</code> elements, it matches to several
                     <code>&lt;seg&gt;</code> elements. The multiple <code>&lt;seg&gt;</code>
                 elements are separated by white spaces in the following structure: </li>
             <pre><code class="block"> 
-                &lt;ln pull="#SIB-p44-s1 #SIB-p44-s2 #SIB-p46-s1"&gt;
+                <code class="highlight">&lt;ln pull="#SIB-p44-s1 #SIB-p44-s2 #SIB-p46-s1"&gt;</code>
                 &lt;speaker&gt;HOLMES&lt;/speaker&gt;
                 This is my friend and colleague, &lt;mention ref="watson"&gt;Dr.Watson&lt;/mention&gt;. You may say anything before him that you can say to me. Whom have I the honor to address?&lt;/ln&gt;</code></pre>
             <li> Additional attributes are added to the <code>&lt;ln&gt;</code> tags to signify the
@@ -114,15 +114,14 @@
                     <li><code>@change</code> is used to show the nature of the change by using the
                         values "wording", "interpel", and "sig". </li>
                     <pre><code class="block">
-                &lt;ln pull="#SIB-p55" change="wording"&gt;
+                &lt;ln pull="#SIB-p55" <code class="highlight">change="wording"</code>&gt;
                     &lt;speaker&gt;HOLMES&lt;/speaker&gt; 
                     That had not escaped me either, sir. In fact, if you will state your case, I shall be better able to advise you -- your Majesty.&lt;/ln&gt;</code></pre>
                     <li>
                         <code>@type</code> is used to show unmatched lines that were significant to
                         the radio script but do not match up to any part of Arthur Conan Doyle's
                         publication, by using the value "unmatched". </li>
-                    <pre><code class="block">
-                &lt;ln type="unmatched" change="interpel sig"&gt;&lt;speaker&gt;WATSON&lt;/speaker&gt; How do you do, sir?&lt;/ln&gt;</code></pre>
+                    <pre><code class="block">&lt;ln <code class="highlight">type="unmatched"</code> change="interpel sig"&gt;&lt;speaker&gt;WATSON&lt;/speaker&gt; How do you do, sir?&lt;/ln&gt;</code></pre>
                 </ul></li>
         </ul>
     </body>
