@@ -11,9 +11,9 @@
         Society
         Major event
 2. Section 1: Interpellation (4 - 5 pages)
-   *Define interpellation
-   *Significance
-   *CD Sherlock Holmes V.S. RS Sherlock Holmes
+* Define interpellation
+   * Significance
+   * CD Sherlock Holmes V.S. RS Sherlock Holmes
 3. Section 2: Digital Methodology (8 - 10 pages)
    *Corpus preparation
         Direct adaptations
