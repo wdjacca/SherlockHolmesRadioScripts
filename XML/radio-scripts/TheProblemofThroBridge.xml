@@ -73,7 +73,7 @@
 
         <ln><speaker>ANNOUNCER</speaker> That's what you promised us, doctor. How did it begin?</ln>
 
-        <ln><speaker>WATSON</speaker>
+        <ln pull="TB-p2"><speaker>WATSON</speaker>
             <stageDirect>NARRATES</stageDirect> On a windy morning in October -- in 1890, it was --
             as I was dressing, I observed how the last remaining leaves were being whirled away from
             the solitary plane tree which graced the yard behind our Baker Street house. I descended
