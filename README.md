@@ -1,9 +1,11 @@
-#Introduction [8-10 pgs]
--History of Sherlock Holmes
-  CD Sherlock Holmes
-          Setting
-          Society
-          Crime rates / nature
+# Thesis Outline
+
+1. Introduction
+ * History of Sherlock Holmes
+    CD Sherlock Holmes
+    Setting
+    Society
+    Crime rates / nature
 RS Sherlock Holmes
 Setting
 Society
