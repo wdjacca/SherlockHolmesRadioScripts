@@ -105,5 +105,15 @@ div.imgflex div{
 pre blockquote{
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
     text-align: left;
-    padding-left: 100px;
+   padding-left: 100px;
+}
+
+p a{
+    text-decoration: underline;
+    text-decoration-color: brown;
+    color: brown;
+    font-size: inherit;
+    padding: 0;
+    display: inline;
+    
 }

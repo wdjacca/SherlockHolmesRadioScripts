@@ -12,14 +12,9 @@
         <!--#include virtual="menu.html" -->
         <!-- it is the server side inlcude that is messing up the css -->
         <h3>Editorial Methodology</h3>
-        <h4> Corpus Preparation </h4>
+        <section id="#CP"><h4> Corpus Preparation </h4>
         <p>The radio scripts were sourced from the Generic Radio Workshop, where there were
-            downloadable plain text (.txt) files that includes the body contents of the scripts. For
-            the purpose of this research, metadata that was excluded from the plain text files at
-            the top of the webpage display were also included into the files. There was a regular
-            pattern of "series", "show", "date", and "cast", which led to the decision of strictly
-            limiting the Relax NG schema code in this specific order. There were some discrepancies
-            within the files, most notably being with "Murder in Casbah".</p>
+            downloadable plain text <a href="../PlainText.zip" download="../PlainText.zip">(.txt)</a> files that includes the body contents of the scripts. For the purpose of this research, metadata that was excluded from the plain text files at the top of the webpage display were also included into the files. There was a regular pattern of "series", "show", "date", and "cast", which led to the decision of strictly limiting the Relax NG schema code in this specific order. There were some discrepancies within the files, most notably being with "Murder in Casbah".</p>
         <ul class="content">
             <li>There were some major differences in the structure of the files in the radio script
                 corpus, that being of: <ul class="innercontent">
@@ -28,21 +23,19 @@
                     <li class="innercontent">some scripts have notes that indicate the author or
                         special notes</li>
                     <li class="innercontent">the order of the elements in the metadata columns would
-                        be different depending on whether there was a sound effect and special
+                        be different depending on whether there was a sound effect list, special
                         effect list, and notes</li>
-                    <li class="innercontent">while most scripts have the regular pattern of
+                    <li class="innercontent">most scripts have the regular pattern of
                         [SOUND/MUSIC:] to indicate the start of a sound effect or musical tune, some
                         have [SOUND FX] or [music]</li>
                     <li class="innercontent">there were minor typos such as ; and FC</li>
-                    <li class="innercontent"> ome lines do not have a speaker attached, most likely
+                    <li class="innercontent"> some lines do not have a speaker attached, most likely
                         being part of a larger paragraph of speech that was broken into separate
                         lines in the script</li>
                 </ul>
             </li>
         </ul>
-        <p>The content in the files in the corpus had to be regularized so that queries could be
-            performed easily on them in the future, taking into consideration that any changes would
-            not affect the contextual or structural analysis of the project.</p>
+        <p>The content of the <a href="../XML.zip" download="../XML.zip">radio scripts</a> had to be regularized during mark-up so that queries could be performed easily on them in the future, taking into consideration that any changes would not affect the contextual or structural analysis of the project.</p>
         <ul class="content">
             <li>The following changes to the corpus were made: <ul class="innercontent">
                     <li class="innercontent">a <code>&lt;lineGrp&gt;</code> element was added to
@@ -59,14 +52,16 @@
                         same purpose.</li>
                 </ul></li>
         </ul>
-        <h4> Radio Script V.S. Arthur Conan Doyle </h4>
+        </section>
+        <section id="#SW">
+        <h4> Stitchwork </h4>
         <p> The first step of analysis for the corpus was to mark the changes to the story from
             Arthur Conan Doyle's publication for the radio scripts. Text from Arthur Conan Doyle's
             original publication was sourced from Project Gutenberg, which allowed me to copy the
             text needed for the specific chapters into an XML file. For the initial stage of the
             analysis portion, I focused on the story "A Scandal in Bohemia", where there was a radio
-            recording, the radio script, and original publication available online for comparison
-            purposes. XSLT was used to plant <code> &lt;xml:id&gt;</code>s in the Arthur Conan Doyle
+            recording, the radio script, and original publication are available online for comparison
+            purposes. <a href="../XSLT/conandoyle-xmlid-planter.xsl" download="../XSLT/conandoyle-xmlid-planter.xsl">XSLT</a> was used to plant <code> &lt;xml:id&gt;</code>s in the Arthur Conan Doyle
             texts.</p>
         <pre><code class="block">&lt;xsl:template match="p"&gt;
         &lt;p xml:id="{ancestor::xml/@xml:id}-p{count(preceding::p) + 1}"&gt;
@@ -124,5 +119,6 @@
                     <pre><code class="block">&lt;ln <code class="highlight">type="unmatched"</code> change="interpel sig"&gt;&lt;speaker&gt;WATSON&lt;/speaker&gt; How do you do, sir?&lt;/ln&gt;</code></pre>
                 </ul></li>
         </ul>
+        </section>
     </body>
 </html>

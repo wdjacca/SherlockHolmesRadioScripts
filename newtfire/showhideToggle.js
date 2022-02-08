@@ -1,16 +1,18 @@
 // JavaScript Document
-window.addEventListener('DOMContentLoaded',nontoggle,false);
+window.addEventListener('DOMContentLoaded',radiotoggle,false);
 window.addEventListener('DOMContentLoaded',mention,false);
-window.addEventListener('DOMContentLoaded',toggle,false);
-window.addEventListener('DOMContentLoaded',sigChange,false);
-window.addEventListener('DOMContentLoaded',interpel,false);
+window.addEventListener('DOMContentLoaded',stagetoggle,false);
+/*window.addEventListener('DOMContentLoaded',sigChange,false);
+window.addEventListener('DOMContentLoaded',interpel,false);*/
 
-function nontoggle() {
-document.getElementById('nonToggle').addEventListener('click', nonToggle, false)  
+
+function radiotoggle() {
+document.getElementById('radioToggle').addEventListener('click', announToggle, false)  
     
 }
 
-var nonToggle = function() {  
+var announToggle = function() {
+// Toggling radio elements
     var spans = document.getElementsByClassName('nonstory');
     for (var i = 0; i < spans.length; i++) {
      spans[i].parentNode.classList.toggle("off")
@@ -32,12 +34,12 @@ var mentionToggle = function() {
     } 
 }
 
-function toggle() {
-document.getElementById('nonToggle').addEventListener('click', Toggle, false)  
+function stagetoggle() {
+document.getElementById('radioToggle').addEventListener('click', stageToggle, false)  
     
 }
 
-var Toggle = function() {  
+var stageToggle = function() {  
     var spans = document.querySelectorAll('.stageDirect, .music, .sound');
     for (var i = 0; i < spans.length; i++) {
      spans[i].classList.toggle("off")
@@ -45,6 +47,7 @@ var Toggle = function() {
     } 
 }
 
+/*
 
 function sigChange() {
 document.getElementById('sigToggle').addEventListener('click', sigToggle, false)  
@@ -71,4 +74,25 @@ var interpelToggle = function() {
      spans[i].classList.toggle("on")
        
     } 
+}*/
+
+function change(){
+    document.getElementById ('changeToggle').addEventListener ('click', changeToggle, false)
 }
+var changeInfo = document.getElementsByClassName ('change')
+var changeToggle = function(){
+    for (var i = 0; i < lineips.length; i++) {
+/* Show the lineInfoGloss associated with "this".  */
+    var change = lineips[i].getAttribute("change").split(' ');
+    console.log('Spiltting attributes! = ' + changeInfo)
+    if (changeInfo.includes('interpel')) {
+    console.log ('Interpel detected')
+     changeInfo[i].classList.toggle("on");
+     if (changeInfo.includes('sig')) {
+    console.log ('Sig Change detected')
+     changeInfo[i].classList.toggle("on");
+                    }
+                }
+            }         
+        } 
+    
