@@ -75,15 +75,15 @@ var interpelToggle = function() {
        
     } 
 }*/
-
+/*
 function change(){
     document.getElementById ('changeToggle').addEventListener ('click', changeToggle, false)
 }
-var changeInfo = document.getElementsByClassName ('change')
+var changeInfo = document.get ('change')
 var changeToggle = function(){
     for (var i = 0; i < lineips.length; i++) {
-/* Show the lineInfoGloss associated with "this".  */
-    var change = lineips[i].getAttribute("change").split(' ');
+/\* Show the lineInfoGloss associated with "this".  *\/
+    var change = changeInfo[i].getElementsByClassName('').split(' ');
     console.log('Spiltting attributes! = ' + changeInfo)
     if (changeInfo.includes('interpel')) {
     console.log ('Interpel detected')
@@ -94,5 +94,5 @@ var changeToggle = function(){
                     }
                 }
             }         
-        } 
+        } */
     

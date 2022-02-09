@@ -7,14 +7,39 @@
       <link href="https://fonts.googleapis.com/css2?family=Cinzel&amp;mp;display=swap" rel="stylesheet"/>
    </head>
    <body>
+        <section class="container">
+        <div id="pic">
+            <img src="images/sherlockClipArt.png" alt="sherlock_silhouette"/>
+        </div>
+        <div id="flex">
+            <h1>Sherlock Holmes on the British Airwaves</h1>
+            <h2>A Digital Remediation and Analysis</h2> 
+        </div></section>
+      <ul class="Nav">
+         <li><a href="index.html">Home</a></li>
+         <li><a href="reading.html">Reading View</a></li>
+         <li><a href="analysis.html" >Analysis</a></li>
+         <li><a href="documentation.html">Documentation</a></li>
+      </ul>
       <section id="scriptflex">
          <section id="sideflex">
-            <div id="side">
-               <div><input type="checkbox" id="radioToggle" name="nonstory"/><label data-for="nonstory" id="nonstory"> Hide Radio Portion </label></div>
-               <div><input type="checkbox" id="mentionToggle" name="mention"/><label data-for="mention" id="mention"> Show Mentions of Main Characters </label></div>
+            <div class="side">
+               <div class="head"><h4> Click to interact: </h4>
+               <div><input type="checkbox" id="radioToggle" name="nonstory"/><label data-for="nonstory" id="nonstory">Hide Radio Portion</label></div>
+               <div><input type="checkbox" id="mentionToggle" name="mention"/><label data-for="mention" id="mention">Show  Main Character Interpellation</label></div>
+                
+                <div class="head"><h4> Key </h4>
+                    <div><label id="sig">Significant Changes</label></div>
+                    <div><label id="interpel">Interpellation Changes</label></div>
+                    <div><label id="wording">Wording changes</label></div>
+                    <div><label id="unmatched">Unmatched portions</label></div>
+                <div></div></div>
+                </div>
+                
             </div>
          </section>
          <div id="main">
+             <section id="SB">
             <h3> A Scandal in Bohemia</h3>
             <div><span class="nonstory">ANNOUNCER</span> This episode from the life of <span class="mention">Sherlock Holmes</span> will be transmitted to our men and women overseas by
                short wave and through the worldwide facilities of the Armed Forces Radio Service.
@@ -881,8 +906,8 @@
                family. <span class="stageDirect toggle">PAUSE</span> For a solid hour of exciting mystery-dramas,
                listen every Monday on most of these same stations at eight o'clock to "Bulldog
                Drummond," followed immediately by "<span class="mention">Sherlock Holmes</span>." </div>
-            <div><span class="speaker">MUT ANNCR</span> This is the Mutual Broadcasting System.</div>
-         </div>
+            <div><span class="nonstory">MUT ANNCR</span> This is the Mutual Broadcasting System.</div>
+        </section> </div>
       </section>
    </body>
 </html>
