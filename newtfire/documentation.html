@@ -14,7 +14,7 @@
         <h3>Editorial Methodology</h3>
         <section id="CP"><h4> Corpus Preparation </h4>
         <p>The radio scripts were sourced from the Generic Radio Workshop, where there were
-            downloadable plain text <a href="../PlainText.zip" download="../PlainText.zip">(.txt)</a> files that includes the body contents of the scripts. For the purpose of this research, metadata that was excluded from the plain text files at the top of the webpage display were also included into the files. There was a regular pattern of "series", "show", "date", and "cast", which led to the decision of strictly limiting the Relax NG schema code in this specific order. There were some discrepancies within the files, most notably being with "Murder in Casbah".</p>
+            downloadable plain text <a href="code/PlainText.zip" download="code/PlainText.zip">(.txt)</a> files that includes the body contents of the scripts. For the purpose of this research, metadata that was excluded from the plain text files at the top of the webpage display were also included into the files. There was a regular pattern of "series", "show", "date", and "cast", which led to the decision of strictly limiting the Relax NG schema code in this specific order. There were some discrepancies within the files, most notably being with "Murder in Casbah".</p>
         <ul class="content">
             <li>There were some major differences in the structure of the files in the radio script
                 corpus, that being of: <ul class="innercontent">
@@ -35,7 +35,7 @@
                 </ul>
             </li>
         </ul>
-        <p>The content of the <a href="../XML.zip" download="../XML.zip">radio scripts</a> had to be regularized during mark-up so that queries could be performed easily on them in the future, taking into consideration that any changes would not affect the contextual or structural analysis of the project.</p>
+        <p>The content of the <a href="code/radio-scripts.zip" download="code/radio-scripts.zip">radio scripts</a> had to be regularized during mark-up so that queries could be performed easily on them in the future, taking into consideration that any changes would not affect the contextual or structural analysis of the project.</p>
         <ul class="content">
             <li>The following changes to the corpus were made: <ul class="innercontent">
                     <li class="innercontent">a <code>&lt;lineGrp&gt;</code> element was added to
@@ -61,7 +61,7 @@
             text needed for the specific chapters into an XML file. For the initial stage of the
             analysis portion, I focused on the story "A Scandal in Bohemia", where there was a radio
             recording, the radio script, and original publication are available online for comparison
-            purposes. <a href="../XSLT/conandoyle-xmlid-planter.xsl" download="../XSLT/conandoyle-xmlid-planter.xsl">XSLT</a> was used to plant <code> &lt;xml:id&gt;</code>s in the Arthur Conan Doyle
+            purposes. <a href="code/conandoyle-xmlid-planter.xsl" download="codeT/conandoyle-xmlid-planter.xsl">XSLT</a> was used to plant <code> &lt;xml:id&gt;</code>s in the Arthur Conan Doyle
             texts.</p>
         <pre><code class="block">&lt;xsl:template match="p"&gt;
         &lt;p xml:id="{ancestor::xml/@xml:id}-p{count(preceding::p) + 1}"&gt;
