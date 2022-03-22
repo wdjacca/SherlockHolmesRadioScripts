@@ -84,7 +84,7 @@
 
 <ln><speaker>WATSON</speaker>That's what it looks like,<mention ref="holmes"> Holmes</mention>. What are you going to do about it?</ln>
 
-<ln><speaker>HOLMES</speaker>Do, old chap? I'm going to do the obvious thing. I'm going to pay a visit to Onslow Square.</ln>
+<ln><speaker>HOLMES</speaker>Do, <mention>old chap</mention> I'm going to do the obvious thing. I'm going to pay a visit to Onslow Square.</ln>
 
 <ln><music>BRIDGE</music></ln>
 
@@ -332,7 +332,7 @@
 
 <ln><speaker>WATSON</speaker><stageDirect>SLEEPILY</stageDirect><mention ref="holmes"> Holmes</mention>, it's nearly two o'clock in the morning, you're smoking your fifth pipe -- and yet you said it was only a three-pipe problem.</ln>
 
-<ln><speaker>HOLMES</speaker>Obviously, therefore, old chap, I underestimated the problem.</ln>
+<ln><speaker>HOLMES</speaker>Obviously, therefore, <mention>old chap</mention> I underestimated the problem.</ln>
 
 <ln><speaker>WATSON</speaker>I've been puzzling about the case, and I have a couple of theories.</ln>
 
@@ -352,7 +352,7 @@
 
 <ln><speaker>WATSON</speaker><stageDirect>HURT</stageDirect> Well, that's very rude,<mention ref="holmes"> Holmes</mention>. I'm not pretending they're very sound theories.</ln>
 
-<ln><speaker>HOLMES</speaker>No, old chap. I'm the idiot!</ln>
+<ln><speaker>HOLMES</speaker>No, <mention>old chap</mention> I'm the idiot!</ln>
 
 <ln><speaker>WATSON</speaker>What d'you mean?</ln>
 
@@ -378,7 +378,7 @@
 
 <ln><speaker>WATSON</speaker><stageDirect>WHISPERING</stageDirect> I don't like this,<mention ref="holmes"> Holmes</mention> -- breaking into people's houses in the middle of the night.</ln>
 
-<ln><speaker>HOLMES</speaker>Hold the lantern a little higher, will you, old chap -- that's it. There we are.</ln>
+<ln><speaker>HOLMES</speaker>Hold the lantern a little higher, will you, <mention>old chap</mention>-- that's it. There we are.</ln>
 
 <ln><sound>DOOR OPENING AND CLOSING SOFTLY. STEALTHY FOOTSTEPS</sound></ln>
 
@@ -586,7 +586,7 @@
 
 <ln><speaker>WATSON</speaker><stageDirect>FADING IN EXCITEDLY</stageDirect><mention ref="holmes"> Holmes</mention>! Are you all right?</ln>
 
-<ln><speaker>HOLMES</speaker>Perfectly, thank you, old chap. </ln>
+<ln><speaker>HOLMES</speaker>Perfectly, thank you, <mention>old chap</mention> </ln>
 
 <ln><speaker>WATSON</speaker>But that shot?</ln>
 

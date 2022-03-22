@@ -199,7 +199,7 @@
         <ln><speaker>WATSON</speaker>
             <stageDirect>OFF</stageDirect> Mrs. Hudson's opening the door to him now.</ln>
 
-        <ln><speaker>HOLMES</speaker> Ah, meet him on the stairs, will you, old chap? It'll save
+        <ln><speaker>HOLMES</speaker> Ah, meet him on the stairs, will you, <mention>old chap</mention> It'll save
             Mrs. Hudson a journey.</ln>
 
         <ln><speaker>WATSON</speaker>
@@ -660,7 +660,7 @@
             <stageDirect>TAKEN ABACK</stageDirect> Upon my soul,<mention ref="holmes">
                 Holmes</mention>. That seems to me the strongest evidence of all.</ln>
 
-        <ln><speaker>HOLMES</speaker> I think not, old chap.</ln>
+        <ln><speaker>HOLMES</speaker> I think not, <mention>old chap</mention></ln>
 
         <ln><speaker>WATSON</speaker> Huh?</ln>
 
@@ -693,7 +693,7 @@
         <ln><speaker>WATSON</speaker>
             <stageDirect>WEARILY</stageDirect> Oh, Lord. Where are we going now?</ln>
 
-        <ln><speaker>HOLMES</speaker> To prison, old chap.</ln>
+        <ln><speaker>HOLMES</speaker> To prison, <mention>old chap</mention></ln>
 
         <ln><speaker>WATSON</speaker> Prison?</ln>
 
@@ -853,7 +853,7 @@
 
         <ln><speaker>WATSON</speaker> Yes, I'm carrying my revolver. Why?</ln>
 
-        <ln><speaker>HOLMES</speaker> Give it to me, old chap, will you? Thanks. I believe your
+        <ln><speaker>HOLMES</speaker> Give it to me, <mention>old chap</mention> will you? Thanks. I believe your
             revolver may have a very intimate connection with the mystery we're investigating.</ln>
 
         <ln><speaker>WATSON</speaker>
@@ -909,7 +909,7 @@
 
         <ln><speaker>WATSON</speaker> Careful,<mention ref="holmes"> Holmes</mention>, careful.</ln>
 
-        <ln><speaker>HOLMES</speaker> Don't worry, old chap, it's not loaded. Now, let us imagine I
+        <ln><speaker>HOLMES</speaker> Don't worry, <mention>old chap</mention> it's not loaded. Now, let us imagine I
             am the late Mrs. Gibson. I raise the revolver to my head and fire it.</ln>
 
         <ln>
@@ -979,7 +979,7 @@
             <stageDirect>CHUCKLES</stageDirect> I must say,<mention ref="holmes"> Holmes</mention>,
             you've solved this case brilliantly. Quite brilliantly.</ln>
 
-        <ln><speaker>HOLMES</speaker> Ah, I disagree, old chap. And I fear that you will not improve
+        <ln><speaker>HOLMES</speaker> Ah, I disagree, <mention>old chap</mention> And I fear that you will not improve
             my reputation by adding the case of the Thor Bridge mystery to your annals. </ln>
 
         <ln><speaker>WATSON</speaker> Oh, nonsense. But that's ridiculous.</ln>

@@ -285,7 +285,7 @@
         <ln><speaker>WATSON</speaker> Here we are, here we are. <stageDirect>READS</stageDirect> "A.
             Abrahams, Actongreen <stageDirect>Hatchet Murders</stageDirect>, Adler--" Adler.</ln>
 
-        <ln pull="#SIB-p62-s1" change="wording"><speaker>HOLMES</speaker> Splendid. Hand me the file, old chap. Thank you. Mm hm!
+        <ln pull="#SIB-p62-s1" change="wording"><speaker>HOLMES</speaker> Splendid. Hand me the file, <mention>old chap</mention> Thank you. Mm hm!
                 <stageDirect>READS AND MUSES</stageDirect> "Irene Adler. Born in New Jersey in the
             United States of America in Eighteen Fifty-Eight. Contralto." Mm hm. "Prima donna,
             Imperial Opera of Warsaw." Oh. "Retired from operatic stage. Living in London." Quite
@@ -439,7 +439,7 @@
 
         <ln change="wording" pull="#SIB-p127-s1"><speaker>HOLMES</speaker> No. A bijou residence that represents the essence of dignified
             suburbia, but tells us very little about the owner. I think a visit to the local public
-            house might prove more instructive. Come on, old chap. I see the door of the Coach and
+            house might prove more instructive. Come on, <mention>old chap</mention> I see the door of the Coach and
             Horse is inviting us from across the road.</ln>
 
         <ln>
@@ -789,7 +789,7 @@
         <ln><speaker>WATSON</speaker> There seem to be a lot of loafers hanging around her
             gate.</ln>
 
-        <ln><speaker>HOLMES</speaker> All part of my conspiracy, old chap. You'll see them play
+        <ln><speaker>HOLMES</speaker> All part of my conspiracy, <mention>old chap</mention> You'll see them play
             their parts in a few minutes.</ln>
 
         <ln><speaker>WATSON</speaker> You still think the photograph is inside the house?</ln>
@@ -951,7 +951,7 @@
 
         <ln pull="#SIB-p200"><speaker>WATSON</speaker> Well, I'm still in the dark.</ln>
 
-        <ln pull="#SIB-p203-s1 #SIB-p203-s2"><speaker>HOLMES</speaker> There's no mystery, old chap. When my accomplices started the
+        <ln pull="#SIB-p203-s1 #SIB-p203-s2"><speaker>HOLMES</speaker> There's no mystery, <mention>old chap</mention> When my accomplices started the
             row in the street, I had a little moist red paint in my hand. My good friend Alfie
             pretended to strike me; I clapped my hand to my head and fell down. It's an old
             trick.</ln>
