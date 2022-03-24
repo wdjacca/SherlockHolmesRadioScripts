@@ -54,7 +54,7 @@
             <p xml:id="TB-p8">'You have heard of Neil Gibson, the Gold King?' he said.</p>
             <p xml:id="TB-p9">'You mean the American Senator?'</p>
             <p xml:id="TB-p10">'Well, he was once Senator for some Western state, but is better
-                known as the greatest gold-mining magnate in the world.'</p>
+                known as <seg xml:id="TB-p10-s1">the greatest gold-mining magnate in the world</seg>.'</p>
             <p xml:id="TB-p11">'Yes, I know of him. He has surely lived in England for some time.
                 His name is very familiar.'</p>
             <p xml:id="TB-p12">'Yes, he bought a considerable estate in Hampshire some five years
@@ -66,10 +66,10 @@
                 my extracts ready,' said he. 'The fact is that the problem, though exceedingly
                 sensational, appeared to present no difficulty. The interesting personality of the
                 accused does not obscure the clearness of the evidence. That was the view taken by
-                the coroner's jury and also in the police-court proceedings. It is now referred to
-                the Assizes at Winchester. I fear it is a thankless business. I can discover facts,
-                Watson, but I cannot change them. Unless some entirely new and unexpected ones come
-                to light I do not see what my client can hope for.'</p>
+                the coroner's jury and also in the police-court proceedings. <seg xml:id="TB-p15-s1">It is now referred to
+                the Assizes at Winchester.</seg> I fear it is a thankless business. I can discover facts,
+                Watson, but I cannot change them. <seg xml:id="TB-p15-s2">Unless some entirely new and unexpected ones come
+                to light I do not see what my client can hope for.</seg>'</p>
             <p xml:id="TB-p16">'Your client?'</p>
             <p xml:id="TB-p17">'Ah, I forgot I had not told you. I am getting into your involved
                 habit, Watson, of telling a story backwards. You had best read this first.'</p>
@@ -84,36 +84,36 @@
             dark. Maybe I have a clue and don't know it. Anyhow, all I know and all I have and all I
             am are for your use if only you can save her. If ever in your life you showed your
             powers, put them now into this case. Yours faithfully, J. NEIL GIBSON <p xml:id="TB-p19"
-                >'There you have it,' said Sherlock Holmes, knocking out the ashes of his
-                after-breakfast pipe and slowly refilling it. 'That is the gentleman I await. As to
-                the story, you have hardly time to master all these papers, so I must give it to you
+                >'<seg xml:id="TB-p19-s1">There you have it</seg>,' said Sherlock Holmes, knocking out the ashes of his
+                after-breakfast pipe and slowly refilling it. '<seg xml:id="TB-p19-s2">That is the gentleman I await.</seg> As to
+                the story, <seg xml:id="TB-p19-s3">you have hardly time to master all these papers, so I must give it to you
                 in a nutshell if you are to take an intellectual interest in the proceedings. This
                 man is the greatest financial power in the world, and a man, as I understand, of
                 most violent and formidable character. He married a wife, the victim of this
                 tragedy, of whom I know nothing save that she was past her prime, which was the more
                 unfortunate as a very attractive governess superintended the education of two young
-                children. These are the three people concerned, and the scene is a grand old
-                manor-house, the centre of an historical English estate. Then as to the tragedy. The
+                children.</seg> These are the three people concerned, and <seg xml:id="TB-p19-s4">the scene is a grand old
+                manor-house, the centre of an historical English estate.</seg> Then as to the tragedy. <seg xml:id="TB-p19-s5">The
                 wife was found in the grounds nearly half a mile from the house, late at night, clad
                 in her dinner dress, with a shawl over her shoulders and a revolver bullet through
                 her brain. No weapon was found near her and there was no local clue as to the
-                murder. No weapon near her, Watson - mark that! The crime seems to have been
+                murder. No weapon near her, Watson - mark that!</seg> The crime seems to have been
                 committed late in the evening, and the body was found by a gamekeeper about eleven
                 o'clock, when it was examined by the police and by a doctor before being carried up
-                to the house. Is this too condensed, or can you follow it clearly?'</p>
+                to the house. <seg xml:id="TB-p19-s6">Is this too condensed, or can you follow it clearly?'</seg></p>
             <p xml:id="TB-p20">'It is all very clear. But why suspect the governess?'</p>
-            <p xml:id="TB-p21">'Well, in the first place there is some very direct evidence. A
+            <p xml:id="TB-p21">'<seg xml:id="TB-p21-s1">Well, in the first place there is some very direct evidence. A
                 revolver with one discharged chamber and a calibre which corresponded with the
-                bullet was found on the floor of her wardrobe.' His eyes fixed and he repeated in
+                bullet was found on the floor of her wardrobe.</seg>' His eyes fixed and he repeated in
                 broken words, 'On-the-floor-of-her-wardrobe.' Then he sank into silence, and I saw
                 that some train of thought had been set moving which I should be foolish to
                 interrupt. Suddenly with a start he emerged into brisk life once more. 'Yes, Watson,
-                it was found. Pretty damning, eh? So the two juries thought. Then the dead woman had
+                it was found. Pretty damning, eh? <seg xml:id="TB-p21-s2">So the two juries thought. Then the dead woman had
                 a note upon her making an appointment at that very place and signed by the
-                governess. How's that? Finally, there is the motive. Senator Gibson is an attractive
+                governess.</seg> How's that? Finally, <seg xml:id="TB-p21-s3">there is the motive. Senator Gibson is an attractive
                 person. If his wife dies, who more likely to succeed her than the young lady who had
                 already by all accounts received pressing attentions from her employer. Love,
-                fortune, power, all depending upon one middle-aged life. Ugly, Watson - very
+                fortune, power, all depending upon one middle-aged life.</seg> Ugly, Watson - very
                 ugly!'</p>
             <p xml:id="TB-p22">'Yes, indeed, Holmes.'</p>
             <p xml:id="TB-p23">'Nor could she prove an alibi. On the contrary, she had to admit that
@@ -123,8 +123,8 @@
             <p xml:id="TB-p25">'And yet, Watson - and yet! This bridge - a single broad span of
                 stone with balustraded sides - carries the drive over the narrowest part of a long,
                 deep, reed-girt sheet of water. Thor Mere it is called. In the mouth of the bridge
-                lay the dead woman. Such are the main facts. But here, if I mistake not, is our
-                client, considerably before his time.'</p>
+                lay the dead woman. Such are the main facts. <seg xml:id="TB-p25-s1">But here, if I mistake not, is our
+                client, considerably before his time.</seg>'</p>
             <p xml:id="TB-p26">Billy had opened the door, but the name he announced was an
                 unexpected one. Mr Marlow Bates was a stranger to both of us. He was a thin, nervous
                 wisp of a man with frightened eyes, and a twitching, hesitating manner - a man whom
@@ -243,7 +243,7 @@
             <p xml:id="TB-p67">'Exactly. And to me also.'</p>
             <p xml:id="TB-p68">'But what were his relations with the governess, and how did you
                 discover them?'</p>
-            <p xml:id="TB-p69">'Bluff, Watson, bluff! When I considered the passionate,
+            <p xml:id="TB-p69">'<seg xml:id="TB-p69-s1">Bluff, Watson, bluff</seg>! When I considered the passionate,
                 unconventional, unbusiness-like tone of his letter, and contrasted it with his
                 self-contained manner and appearance, it was pretty clear that there was some deep
                 emotion which centred upon the accused woman rather than upon the victim. We've got
@@ -252,16 +252,16 @@
                 received it. Then I bluffed him by giving him the impression that I was absolutely
                 certain, when in reality I was only extremely suspicious.'</p>
             <p xml:id="TB-p70">'Perhaps he will come back?'</p>
-            <p xml:id="TB-p71">'He is sure to come back. He must come back. He can't leave it where
-                it is. Ha! isn't that a ring? Yes, there is his footstep. Well, Mr Gibson, I was
-                just saying to Dr Watson that you were somewhat overdue.'</p>
+            <p xml:id="TB-p71"><seg xml:id="TB-p71-s1">'He is sure to come back. He must come back. He can't leave it where
+                it is.</seg> Ha! isn't that a ring? Yes, there is his footstep. <seg xml:id="TB-p71-s2">Well, Mr Gibson, I was
+                just saying to Dr Watson that you were somewhat overdue.</seg>'</p>
             <p xml:id="TB-p72">The Gold King had re-entered the room in a more chastened mood than
                 he had left it. His wounded pride still showed in his resentful eyes, but his common
                 sense had shown him that he must yield if he would attain his end.</p>
-            <p xml:id="TB-p73">'I've been thinking it over, Mr Holmes, and I feel that I have been
-                hasty in taking your remarks amiss. You are justified in getting down to the facts,
-                whatever they may be, and I think the more of you for it. I can assure you, however,
-                that the relations between Miss Dunbar and me don't really touch this case.'</p>
+            <p xml:id="TB-p73">'<seg xml:id="TB-p73-s1">I've been thinking it over, Mr Holmes, and I feel that I have been
+                hasty in taking your remarks amiss.</seg> You are justified in getting down to the facts,
+                whatever they may be, and I think the more of you for it. <seg xml:id="TB-p73-s2">I can assure you, however,
+                that the relations between Miss Dunbar and me don't really touch this case.</seg>'</p>
             <p xml:id="TB-p74">'That is for me to decide, is it not?'</p>
             <p xml:id="TB-p75">'Yes, I guess that is so. You're like a surgeon who wants every
                 symptom before he can give his diagnosis.'</p>
@@ -273,21 +273,21 @@
                 little private reserve of their own in some corner of their souls where they don't
                 welcome intruders. And you burst suddenly into it. But the object excuses you, since
                 it was to try and save her. Well, the stakes are down and the reserve open and you
-                can explore where you will. What is it you want?'</p>
+                can explore where you will. <seg xml:id="TB-p77-s1">What is it you want?</seg>'</p>
             <p xml:id="TB-p78">'The truth.'</p>
             <p xml:id="TB-p79">The Gold King paused for a moment as one who marshals his thoughts.
                 His grim, deep-lined face had become even sadder and more grave.</p>
-            <p xml:id="TB-p80">'I can give it to you in a very few words, Mr Holmes,' said he at
+            <p xml:id="TB-p80">'<seg xml:id="TB-p80-s1">I can give it to you in a very few words, Mr Holmes</seg>,' said he at
                 last. 'There are some things that are painful as well as difficult to say, so I
-                won't go deeper than is needful. I met my wife when I was gold-hunting in Brazil.
+                won't go deeper than is needful. <seg xml:id="TB-p80-s2">I met my wife when I was gold-hunting in Brazil.
                 Maria Pinto was the daughter of a Government official at Manaos, and she was very
-                beautiful. I was young and ardent in those days, but even now, as I look back with
+                beautiful. </seg>I was young and ardent in those days, but even now, as I look back with
                 colder blood and a more critical eye, I can see that she was rare and wonderful in
                 her beauty. It was a deep rich nature, too, passionate, wholehearted, tropical,
-                ill-balanced, very different from the American women whom I had known. Well, to make
+                ill-balanced, very different from the American women whom I had known. <seg xml:id="TB-p80-s3">Well, to make
                 a long story short, I loved her and I married her. It was only when the romance had
                 passed — and it lingered for years — that I realized that we had nothing —
-                absolutely nothing — in common. My love faded. If hers had faded also it might have
+                absolutely nothing — in common.</seg> My love faded. If hers had faded also it might have
                 been easier. But you know the wonderful way of women! Do what I might nothing could
                 turn her from me. If I have been harsh to her, even brutal as some have said, it has
                 been because I knew that if I could kill her love, or if it turned to hate, it would
@@ -315,7 +315,7 @@
             <p xml:id="TB-p87">'Very generous, I am sure,' said Holmes, with a sneer.</p>
             <p xml:id="TB-p88">'See here, Mr Holmes. I came to you on a question of evidence, not on
                 a question of morals. I'm not asking for your criticism.'</p>
-            <p xml:id="TB-p89">'It is only for the young lady's sake that I touch your case at all,'
+            <p xml:id="TB-p89">'<seg xml:id="TB-p89-s1">It is only for the young lady's sake that I touch your case at all</seg>,'
                 said Holmes, sternly. 'I don't know that anything she is accused of is really worse
                 than what you have yourself admitted, that you have tried to ruin a defenceless girl
                 who was under your roof. Some of you rich men have to be taught that all the world
@@ -346,19 +346,19 @@
             <p xml:id="TB-p96">'Can you throw any light upon that?'</p>
             <p xml:id="TB-p97">The Gold King paused for a minute or more, his head sunk in his
                 hands, lost in deep thought.</p>
-            <p xml:id="TB-p98">'It's very black against her. I can't deny that. And women lead an
+            <p xml:id="TB-p98"><seg xml:id="TB-p98-s1">'It's very black against her. I can't deny that.</seg> And women lead an
                 inward life and may do things beyond the judgement of a man. At first I was so
                 rattled and taken aback that I was ready to think she had been led away in some
-                extraordinary fashion that was clean against her usual nature. One explanation came
-                into my head. I give it to you, Mr Holmes, for what it is worth. There is no doubt
-                that my wife was bitterly jealous. There is a soul-jealousy that can be as frantic
+                extraordinary fashion that was clean against her usual nature. <seg xml:id="TB-p98-s2">One explanation came
+                into my head. I give it to you, Mr Holmes, for what it is worth.</seg> There is no doubt
+                that <seg xml:id="TB-p98-s3">my wife was bitterly jealous.</seg> There is a soul-jealousy that can be as frantic
                 as any body-jealousy, and though my wife had no cause - and I think she understood
                 this - for the latter, she was aware that this English girl exerted an influence
                 upon my mind and my acts that she herself never had. It was an influence for good,
-                but that did not mend the matter. She was crazy with hatred, and the heat of the
+                but that did not mend the matter. <seg xml:id="TB-p98-s4">She was crazy with hatred, and the heat of the
                 Amazon was always in her blood. She might have planned to murder Miss Dunbar - or we
                 will say to threaten her with a gun and so frighten her into leaving us. Then there
-                might have been a scuffle and the gun gone off and shot the woman who held it.'</p>
+                might have been a scuffle and the gun gone off and shot the woman who held it.</seg>'</p>
             <p xml:id="TB-p99">'That possibility had already occurred to me,' said Holmes.</p>
             <p xml:id="TB-p100">'Indeed, it is the only obvious alternative to deliberate
                 murder.'</p>
@@ -377,8 +377,8 @@
                 you desire.'</p>
             <p xml:id="TB-p106">There was some delay in the official pass, and instead of reaching
                 Winchester that day we went down to Thor Place, the Hampshire estate of Mr Neil
-                Gibson. He did not accompany us himself, but we had the address of Sergeant
-                Coventry, of the local police, who had first examined into the affair. He was a
+                Gibson. He did not accompany us himself, but we had the address of <seg xml:id="TB-p106-s1">Sergeant
+                Coventry, of the local police</seg>, who had first examined into the affair. He was a
                 tall, thin, cadaverous man, with a secretive and mysterious manner, which conveyed
                 the idea that he knew or suspected a very great deal more than he dared to say. He
                 had a trick, too, of suddenly sinking his voice to a whisper as if he had come upon
@@ -389,18 +389,18 @@
             <p xml:id="TB-p107">'Anyhow, I'd rather have you than Scotland Yard, Mr Holmes,' said
                 he. 'If the Yard gets called into a case, then the local loses all credit for
                 success and may be blamed for failure. Now, you play straight, so I've heard.'</p>
-            <p xml:id="TB-p108">'I need not appear in the matter at all,' said Holmes, to the
-                evident relief of our melancholy acquaintance. 'If I can clear it up I don't ask to
-                have my name mentioned.'</p>
-            <p xml:id="TB-p109">'Well, it's very handsome of you, I am sure. And your friend, Dr
-                Watson, can be trusted, I know. Now, Mr Holmes, as we walk down to the place there
+            <p xml:id="TB-p108">'<seg xml:id="TB-p108-s1">I need not appear in the matter at all</seg>,' said Holmes, to the
+                evident relief of our melancholy acquaintance. '<seg xml:id="TB-p108-s2">If I can clear it up I don't ask to
+                have my name mentioned.</seg>'</p>
+            <p xml:id="TB-p109">'<seg xml:id="TB-p109-s1">Well, it's very handsome of you, I am sure. And your friend, Dr
+                Watson, can be trusted, I know.</seg> Now, Mr Holmes, as we walk down to the place there
                 is one question I should like to ask you. I'd breathe it to no soul but you.' He
-                looked round as though he hardly dare utter the words. 'Don't you think there might
-                be a case against Mr Neil Gibson himself?'</p>
+                looked round as though he hardly dare utter the words. '<seg xml:id="TB-p109-s2">Don't you think there might
+                be a case against Mr Neil Gibson himself?</seg>'</p>
             <p xml:id="TB-p110">'I have been considering that.'</p>
             <p xml:id="TB-p111">'You've not seen Miss Dunbar. She is a wonderful fine woman in every
-                way. He may well have wished his wife out of the road. And these Americans are
-                readier with pistols than our folk are. It was his pistol, you know.'</p>
+                way. <seg xml:id="TB-p111-s1">He may well have wished his wife out of the road. And these Americans are
+                readier with pistols than our folk are. It was his pistol, you know.</seg>'</p>
             <p xml:id="TB-p112">'Was that clearly made out?'</p>
             <p xml:id="TB-p113">'Yes, sir. It was one of a pair that he had.'</p>
             <p xml:id="TB-p114">'One of a pair? Where is the other?'</p>
@@ -439,10 +439,10 @@
                 short note from Miss Dunbar was clutched in her left hand.'</p>
             <p xml:id="TB-p131">'Clutched, you say?'</p>
             <p xml:id="TB-p132">'Yes, sir, we could hardly open the fingers.'</p>
-            <p xml:id="TB-p133">'That is of great importance. It excludes the idea that anyone could
-                have placed the note there after death in order to furnish a false clue. Dear me!
-                The note, as I remember, was quite short. "I will be at Thor Bridge at nine o'clock.
-                - G. Dunbar." Was that not so?'</p>
+            <p xml:id="TB-p133">'<seg xml:id="TB-p133-s1">That is of great importance. It excludes the idea that anyone could
+                have placed the note there after death in order to furnish a false clue.</seg> Dear me!
+                The note, as I remember, was quite short. <seg xml:id="TB-p133-s2">"I will be at Thor Bridge at nine o'clock.
+                - G. Dunbar</seg>." Was that not so?'</p>
             <p xml:id="TB-p134">'Yes, sir.'</p>
             <p xml:id="TB-p135">'Did Miss Dunbar admit writing it?'</p>
             <p xml:id="TB-p136">'Yes, sir.'</p>
@@ -469,16 +469,16 @@
             <p xml:id="TB-p146">The stonework was grey, but at this one point it showed white for a
                 space not larger than a sixpence. When examined closely one could see that the
                 surface was chipped as by a sharp blow.</p>
-            <p xml:id="TB-p147">'It took some violence to do that,' said Holmes thoughtfully. With
-                his cane he struck the ledge several times without leaving a mark. 'Yes, it was a
-                hard knock. In a curious place, too. It was not from above but from below, for you
+            <p xml:id="TB-p147">'<seg xml:id="TB-p147-s1">It took some violence to do that,</seg>' said Holmes thoughtfully. With
+                his cane he struck the ledge several times without leaving a mark. '<seg xml:id="TB-p147-s2">Yes, it was a
+                hard knock. In a curious place, too.</seg> It was not from above but from below, for you
                 see that it is on the lower edge of the parapet.'</p>
             <p xml:id="TB-p148">'But it is at least fifteen feet from the body.'</p>
             <p xml:id="TB-p149">'Yes, it is fifteen feet from the body. It may have nothing to do
                 with the matter, but it is a point worth nothing. I do not think we have anything
                 more to learn here. There were no footsteps, you say?'</p>
             <p xml:id="TB-p150">'The ground was iron hard, sir. There were no traces at all.'</p>
-            <p xml:id="TB-p151">'Then we can go. We will go up to the house first and look over
+            <p xml:id="TB-p151">'<seg xml:id="TB-p151-s1">Then we can go. We will go up to the house first and look over</seg>
                 these weapons of which you speak. Then we shall get on to Winchester, for I should
                 desire to see Miss Dunbar before we go farther.'</p>
             <p xml:id="TB-p152">Mr Neil Gibson had not returned from town, but we saw in the house
@@ -504,30 +504,30 @@
                 it, admits that she had made an appointment to meet Mrs Gibson at the bridge. Beyond
                 this she would say nothing, as her lawyer had advised her to reserve her defence. We
                 have several very vital questions to ask that young lady, and my mind will not be
-                easy until we have seen her. I must confess that the case would seem to me to be
-                very black against her if it were not for one thing.'</p>
+                easy until we have seen her. <seg xml:id="TB-p156-s1">I must confess that the case would seem to me to be
+                very black against her if it were not for one thing.</seg>'</p>
             <p xml:id="TB-p157">'And what is that, Holmes?'</p>
             <p xml:id="TB-p158">'The finding of the pistol in her wardrobe.'</p>
             <p xml:id="TB-p159">'Dear me, Holmes!' I cried, 'that seemed to me to be the most
                 damning incident of all.'</p>
-            <p xml:id="TB-p160">'Not so, Watson. It had struck me even at my first perfunctory
+            <p xml:id="TB-p160">'<seg xml:id="TB-p160-s1">Not so, Watson</seg>. It had struck me even at my first perfunctory
                 reading as very strange, and now that I am in closer touch with the case it is my
                 only firm ground for hope. We must look for consistency. Where there is a want of it
                 we must suspect deception.'</p>
             <p xml:id="TB-p161">'I hardly follow you.'</p>
-            <p xml:id="TB-p162">'Well, now, Watson, suppose for a moment that we visualize you in
+            <p xml:id="TB-p162"><seg xml:id="TB-p162-s1">'Well, now, Watson, suppose for a moment that we visualize you in
                 the character of a woman who, in a cold, premeditated fashion, is about to get rid
                 of a rival. You have planned it. A note has been written. The victim has come. You
                 have your weapon. The crime is done. It has been workmanlike and complete. Do you
                 tell me that after carrying out so crafty a crime you would now ruin your reputation
                 as a criminal by forgetting to fling your weapon into those adjacent reed-beds which
                 would for ever cover it, but you must needs carry it carefully home and put it in
-                your own wardrobe, the very first place that would be searched? Your best friends
+                your own wardrobe, the very first place that would be searched?</seg> Your best friends
                 would hardly call you a schemer, Watson, and yet I could not picture you doing
                 anything so crude as that.'</p>
             <p xml:id="TB-p163">'In the excitement of the moment-'</p>
-            <p xml:id="TB-p164">'No, no, Watson, I will not admit that it is possible. Where a crime
-                is coolly premeditated, then the means of covering it are coolly premeditated also.
+            <p xml:id="TB-p164">'<seg xml:id="TB-p164-s1">No, no, Watson, I will not admit that it is possible. Where a crime
+                is coolly premeditated, then the means of covering it are coolly premeditated also.</seg>
                 I hope, therefore, that we are in the presence of a serious misconception.'</p>
             <p xml:id="TB-p165">'But there is so much to explain.'</p>
             <p xml:id="TB-p166">'Well, we shall set about explaining it. When once your point of
@@ -540,9 +540,9 @@
             <p xml:id="TB-p167">We were compelled to spend the night at Winchester, as the
                 formalities had not yet been completed, but next morning, in the company of Mr Joyce
                 Cummings, the rising barrister who was entrusted with the defence, we were allowed
-                to see the young lady in her cell. I had expected from all that we had heard to see
+                to see the young lady in her cell. <seg xml:id="TB-p167-s1">I had expected from all that we had heard to see
                 a beautiful woman, but I can never forget the effect which Miss Dunbar produced upon
-                me. It was no wonder that even the masterful millionaire had found in her something
+                me. </seg>It was no wonder that even the masterful millionaire had found in her something
                 more powerful than himself - something which could control and guide him. One felt,
                 too, as one looked at that strong, clear-cut and yet sensitive face, that even
                 should she be capable of some impetuous deed, none the less there was an innate
@@ -571,8 +571,8 @@
                 danger. Give me all the help you can, then, to get at the truth.'</p>
             <p xml:id="TB-p172">'I will conceal nothing.'</p>
             <p xml:id="TB-p173">'Tell us, then, of your true relations with Mr Gibson's wife.'</p>
-            <p xml:id="TB-p174">'She hated me, Mr Holmes. She hated me with all the fervour of her
-                tropical nature. She was a woman who would do nothing by halves, and the measure of
+            <p xml:id="TB-p174"><seg xml:id="TB-p174-s1">'She hated me, Mr Holmes. She hated me with all the fervour of her
+                tropical nature.</seg> She was a woman who would do nothing by halves, and the measure of
                 her love for her husband was the measure also of her hatred for me. It is probable
                 that she misunderstood our relations. I would not wish to wrong her, but she loved
                 so vividly in a physical sense that she could hardly understand the mental, and even
@@ -588,14 +588,14 @@
                 I can neither explain nor can I imagine any explanation.'</p>
             <p xml:id="TB-p177">'If you will find the facts, perhaps others may find the
                 explanation.'</p>
-            <p xml:id="TB-p178">'With regard, then, to my presence at Thor Bridge that night, I
-                received a note from Mrs Gibson in the morning. It lay on the table of the
-                schoolroom, and it may have been left there by her own hand. It implored me to see
-                her there after dinner, said she had something important to say to me, and asked me
+            <p xml:id="TB-p178">'With regard, then, to my presence at Thor Bridge that night, <seg xml:id="TB-p178-s1">I
+                received a note from Mrs Gibson in the morning.</seg> It lay on the table of the
+                schoolroom, and it may have been left there by her own hand. <seg xml:id="TB-p178-s2">It implored me to see
+                her there after dinner, said she had something important to say to me,</seg> and asked me
                 to leave an answer on the sundial in the garden, as she desired no one to be in our
-                confidence. I saw no reason for such secrecy, but I did as she asked, accepting the
+                confidence. <seg xml:id="TB-p178-s3">I saw no reason for such secrecy, but I did as she asked, accepting the
                 appointment. She asked me to destroy her note and I burned it in the schoolroom
-                grate. She was very much afraid of her husband, who treated her with a harshness for
+                grate.</seg> She was very much afraid of her husband, who treated her with a harshness for
                 which I frequently reproached him, and I could only imagine that she acted in this
                 way because she did not wish him to know of our interview.'</p>
             <p xml:id="TB-p179">'Yet she kept your reply very carefully?'</p>
@@ -618,8 +618,8 @@
             <p xml:id="TB-p186">'No, I heard nothing. But, indeed, Mr Holmes, I was so agitated and
                 horrified by this terrible outbreak that I rushed to get back to the peace of my own
                 room, and I was incapable of noticing anything which happened.'</p>
-            <p xml:id="TB-p187">'You say that you returned to your room. Did you leave it again
-                before next morning?'</p>
+            <p xml:id="TB-p187">'You say that you returned to your room. <seg xml:id="TB-p187-s1">Did you leave it again
+                before next morning?</seg>'</p>
             <p xml:id="TB-p188">'Yes, when the alarm came that the poor creature had met her death I
                 ran out with the others.'</p>
             <p xml:id="TB-p189">'Did you see Mr Gibson?'</p>
@@ -629,8 +629,8 @@
             <p xml:id="TB-p192">'Mr Gibson is a very strong, self-contained man. I do not think that
                 he would ever show his emotions on the surface. But I, who knew him so well, could
                 see that he was deeply concerned.'</p>
-            <p xml:id="TB-p193">'Then we come to the all-important point. This pistol that was found
-                in your room. Had you ever seen it before?'</p>
+            <p xml:id="TB-p193">'Then we come to the all-important point. <seg xml:id="TB-p193-s1">This pistol that was found
+                in your room. Had you ever seen it before?</seg>'</p>
             <p xml:id="TB-p194">'Never, I swear it.'</p>
             <p xml:id="TB-p195">'When was it found?'</p>
             <p xml:id="TB-p196">'Next morning, when the police made their search.'</p>
@@ -667,11 +667,11 @@
                 nervous energy and the pressing need for action.</p>
             <p xml:id="TB-p216">'Come, Watson, come!' he cried.</p>
             <p xml:id="TB-p217">'What is it, Mr Holmes?'</p>
-            <p xml:id="TB-p218">'Never mind, my dear lady. You will hear from me, Mr Cummings. With
+            <p xml:id="TB-p218"><seg xml:id="TB-p218-s1">'Never mind, my dear lady.</seg> You will hear from me, Mr Cummings. With
                 the help of the God of justice I will give you a case which will make England ring.
-                You will get news by tomorrow, Miss Dunbar, and meanwhile take my assurance that the
+               <seg xml:id="TB-p218-s2"> You will get news by tomorrow, Miss Dunbar, and meanwhile take my assurance that the
                 clouds are lifting and that I have every hope that the light of truth is breaking
-                through.'</p>
+                through.</seg>'</p>
             <p xml:id="TB-p219">It was not a long journey from Winchester to Thor Place, but it was
                 long to me in my impatience, while for Holmes it was evident that it seemed endless,
                 for, in his nervous restlessness, he could not sit still, but paced the carriage or
@@ -685,20 +685,20 @@
             <p xml:id="TB-p222">It was as well for him that I did so, for he took little care for
                 his own safety when his mind was once absorbed by a problem, so that more than once
                 my revolver had been a good friend in need. I reminded him of the fact.</p>
-            <p xml:id="TB-p223">'Yes, yes, I am a little absent-minded in such matters. But have you
-                your revolver on you?'</p>
+            <p xml:id="TB-p223">'Yes, yes, I am a little absent-minded in such matters. <seg xml:id="TB-p223-s1">But have you
+                your revolver on you?'</seg></p>
             <p xml:id="TB-p224">I produced it from my hip-pocket, a short, handy, but very
                 serviceable little weapon. He undid the catch, shook out the cartridges, and
                 examined it with care.</p>
             <p xml:id="TB-p225">'It's heavy - remarkably heavy,' said he.</p>
             <p xml:id="TB-p226">'Yes, it is a solid bit of work.'</p>
             <p xml:id="TB-p227">He mused over it for a minute.</p>
-            <p xml:id="TB-p228">'Do you know, Watson,' said he, 'I believe your revolver is going to
-                have a very intimate connection with the mystery which we are investigating.'</p>
+            <p xml:id="TB-p228">'Do you know, Watson,' said he, <seg xml:id="TB-p228-s1">'I believe your revolver is going to
+                have a very intimate connection with the mystery which we are investigating.'</seg></p>
             <p xml:id="TB-p229">'My dear Holmes, you are joking.'</p>
-            <p xml:id="TB-p230">'No, Watson, I am very serious. There is a test before us. If the
+            <p xml:id="TB-p230">'<seg xml:id="TB-p230-s1">No, Watson, I am very serious. There is a test before us. If the
                 test comes off, all will be clear. And the test will depend upon the conduct of this
-                little weapon. One cartridge out. Now we will replace the other five and put on the
+                little weapon. </seg>One cartridge out. Now we will replace the other five and put on the
                 safety-catch. So! That increases the weight and makes it a better reproduction.'</p>
             <p xml:id="TB-p231">I had no glimmer of what was in his mind nor did he enlighten me,
                 but sat lost in thought until we pulled up in the little Hampshire station. We
@@ -736,10 +736,10 @@
                 with a sharp crack against the parapet, and had vanished over the side into the
                 water. It had hardly gone before Holmes was kneeling beside the stonework, and a
                 joyous cry showed that he had found what he expected.</p>
-            <p xml:id="TB-p241">'Was there ever a more exact demonstration?' he cried. 'See, Watson,
-                your revolver has solved the problem!' As he spoke he pointed to a second chip of
+            <p xml:id="TB-p241">'<seg xml:id="TB-p241-s1">Was there ever a more exact demonstration?</seg>' he cried. 'See, Watson,
+                your revolver has solved the problem!' <seg xml:id="TB-p241-s2">As he spoke he pointed to a second chip of
                 the exact size and shape of the first which had appeared on the under edge of the
-                stone balustrade.</p>
+                stone balustrade.</seg></p>
             <p xml:id="TB-p242">'We'll stay at the inn to-night,' he continued, as he rose and faced
                 the astonished sergeant. 'You will, of course, get a grappling-hook and you will
                 easily restore my friend's revolver. You will also find beside it the revolver,
@@ -769,7 +769,7 @@
                 which would make it appear that she had chosen the scene of the crime. In her
                 anxiety that it should be discovered she somewhat overdid it, by holding it in her
                 hand to the last. This alone should have excited my suspicions earlier than it
-                did.</p> 'Then she took one of her husband's revolvers — there was, as you saw, an
+                did.</p><p xml:id="TB-p247">'Then she took one of her husband's revolvers — there was, as you saw, an
             arsenal in the house - and kept it for her own use. A similar one she concealed that
             morning in Miss Dunbar's wardrobe after discharging one barrel, which she could easily
             do in the woods without attracting attention. She then went down to the bridge where she
@@ -782,6 +782,6 @@
             you are looking for and where. Well, Watson, we have helped a remarkable woman, and also
             a formidable man. Should they in the future join their forces, as seems not unlikely,
             the financial world may find that Mr Neil Gibson has learned something in that
-            schoolroom of Sorrow where our earthly lessons are taught.' </chapter>
+            schoolroom of Sorrow where our earthly lessons are taught.'</p>  </chapter>
     </text>
 </xml>

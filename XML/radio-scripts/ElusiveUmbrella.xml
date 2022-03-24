@@ -22,11 +22,11 @@
 
 <ln>OPENING COMMERCIAL</ln>
 
-<ln><speaker>FORMAN</speaker>The Petri family -- the family that took time to bring you good wine -- invites you to listen to Doctor<mention ref="watson"> Watson</mention> tell us about another exciting adventure he shared with his old friend -- that master detective -- <mention ref="holmes">Sherlock Holmes</mention>. I'm all set for a good story tonight -- because I had a swell dinner this evening. My family had chicken -- fried chicken -- and with that chicken, naturally, we had Petri California Sauterne. You know, what with rationing tightening up and chicken being ration free, we're having chicken more often than I suppose we ought to. But when you can have chicken and Petri Sauterne -- boy, you're really eating! That Petri Sauterne is a wine that can make any meal taste better. Petri Sauterne has a beautiful golden color that brings sparkle and cheer to your table . . . it makes even a simple wartime meal look fancy. And when it comes to flavor -- well, that Petri Sauterne has a flavor right from the heart of luscious, hand-picked, California grapes, a flavor that's subtle . . . delicate and intriguing. Try Petri Sauterne the next time you have chicken. Share Petri Sauterne with your friends -- Yes, and serve it proudly, because the name "Petri" is the proudest name in the history of American Wines!</ln>
+<ln><speaker>FORMAN</speaker>The Petri family -- the family that took time to bring you good wine -- invites you to listen to <mention ref="watson">Doctor Watson</mention> tell us about another exciting adventure he shared with his old friend -- that master detective -- <mention ref="holmes">Sherlock Holmes</mention>. I'm all set for a good story tonight -- because I had a swell dinner this evening. My family had chicken -- fried chicken -- and with that chicken, naturally, we had Petri California Sauterne. You know, what with rationing tightening up and chicken being ration free, we're having chicken more often than I suppose we ought to. But when you can have chicken and Petri Sauterne -- boy, you're really eating! That Petri Sauterne is a wine that can make any meal taste better. Petri Sauterne has a beautiful golden color that brings sparkle and cheer to your table . . . it makes even a simple wartime meal look fancy. And when it comes to flavor -- well, that Petri Sauterne has a flavor right from the heart of luscious, hand-picked, California grapes, a flavor that's subtle . . . delicate and intriguing. Try Petri Sauterne the next time you have chicken. Share Petri Sauterne with your friends -- Yes, and serve it proudly, because the name "Petri" is the proudest name in the history of American Wines!</ln>
 
 <ln><music>SCOTCH POEM</music></ln>
 
-<ln><speaker>FORMAN</speaker>And now for our weekly visit with the good Doctor<mention ref="watson"> Watson</mention>. Evening, Doctor.</ln>
+<ln><speaker>FORMAN</speaker>And now for our weekly visit with the good <mention ref="watson">Doctor Watson</mention>. Evening, Doctor.</ln>
 
 <ln><speaker>WATSON</speaker>Good evening, Mr. Forman. Quite foggy out tonight, isn't it, my boy?</ln>
 
@@ -48,7 +48,7 @@
 
 <ln><sound>FOOTSTEPS. DOOR OPEN AND CLOSE.</sound></ln>
 
-<ln><speaker>LESTRADE</speaker><stageDirect>FADING IN</stageDirect> . . . <mention ref="holmes">Mr. Holmes</mention>, I'm certainly glad to see you! Evenin', Doctor<mention ref="watson"> Watson</mention>.</ln>
+<ln><speaker>LESTRADE</speaker><stageDirect>FADING IN</stageDirect> . . . <mention ref="holmes">Mr. Holmes</mention>, I'm certainly glad to see you! Evenin', <mention ref="watson">Doctor Watson</mention>.</ln>
 
 <ln><speaker>WATSON</speaker>Hello, Lestrade.</ln>
 
@@ -84,7 +84,7 @@
 
 <ln><speaker>WATSON</speaker>That's what it looks like,<mention ref="holmes"> Holmes</mention>. What are you going to do about it?</ln>
 
-<ln><speaker>HOLMES</speaker>Do, <mention>old chap</mention> I'm going to do the obvious thing. I'm going to pay a visit to Onslow Square.</ln>
+<ln><speaker>HOLMES</speaker>Do, <mention ref="watson">old chap</mention> I'm going to do the obvious thing. I'm going to pay a visit to Onslow Square.</ln>
 
 <ln><music>BRIDGE</music></ln>
 
@@ -100,7 +100,7 @@
 
 <ln><sound>DOOR OPEN. FOOTSTEPS</sound></ln>
 
-<ln><speaker>LESTRADE</speaker>Mrs. Rush . . . this is Mr. <mention ref="holmes">Sherlock Holmes</mention> and Doctor<mention ref="watson"> Watson</mention>. They're working with me on the case.</ln>
+<ln><speaker>LESTRADE</speaker>Mrs. Rush . . . this is <mention ref="holmes">Mr. Sherlock Holmes</mention> and <mention ref="watson">Doctor Watson</mention>. They're working with me on the case.</ln>
 
 <ln><speaker>ISABEL</speaker>Good evening, <mention ref="holmes">Mr. Holmes</mention>. <mention ref="watson">Dr. Watson</mention>.</ln>
 
@@ -266,7 +266,7 @@
 
 <ln><speaker>BLACK</speaker><stageDirect>FADING IN</stageDirect> Yes, gentlemen. What can I do for you?</ln>
 
-<ln><speaker>HOLMES</speaker>My name is <mention ref="holmes">Sherlock Holmes</mention>, and this is my friend, Doctor<mention ref="watson"> Watson</mention>.</ln>
+<ln><speaker>HOLMES</speaker>My name is <mention ref="holmes">Sherlock Holmes</mention>, and this is my friend, <mention ref="watson">Doctor Watson</mention>.</ln>
 
 <ln><stageDirect>AD LIB "HOW DO YOU DO'S"</stageDirect></ln>
 
@@ -332,7 +332,7 @@
 
 <ln><speaker>WATSON</speaker><stageDirect>SLEEPILY</stageDirect><mention ref="holmes"> Holmes</mention>, it's nearly two o'clock in the morning, you're smoking your fifth pipe -- and yet you said it was only a three-pipe problem.</ln>
 
-<ln><speaker>HOLMES</speaker>Obviously, therefore, <mention>old chap</mention> I underestimated the problem.</ln>
+<ln><speaker>HOLMES</speaker>Obviously, therefore, <mention ref="watson">old chap</mention> I underestimated the problem.</ln>
 
 <ln><speaker>WATSON</speaker>I've been puzzling about the case, and I have a couple of theories.</ln>
 
@@ -352,7 +352,7 @@
 
 <ln><speaker>WATSON</speaker><stageDirect>HURT</stageDirect> Well, that's very rude,<mention ref="holmes"> Holmes</mention>. I'm not pretending they're very sound theories.</ln>
 
-<ln><speaker>HOLMES</speaker>No, <mention>old chap</mention> I'm the idiot!</ln>
+<ln><speaker>HOLMES</speaker>No, <mention ref="watson">old chap</mention> I'm the idiot!</ln>
 
 <ln><speaker>WATSON</speaker>What d'you mean?</ln>
 
@@ -368,17 +368,17 @@
 
 <ln><music>UP STRONG</music></ln>
 
-<ln><speaker>FORMAN</speaker>We'll bring you the rest of Doctor<mention ref="watson"> Watson</mention>'s story in just a few seconds, which gives me plenty of time to mention a wine that can make even a sandwich taste like a feast -- That wine is Petri California Burgundy. Petri Burgundy is the best friend a good meal ever had, and it's a friend indeed to simple, war-time meals. A rich deep red in color and hearty, full and delicious in flavor -- Petri Burgundy is the perfect companion for all your old standby dishes. Petri Burgundy is great with hamburger sandwiches . . . it's just about the last word when you have good old-fashioned spaghetti. And if you're planning a piping hot pot roast or your favorite beef stew -- well, you just can't forget Petri Burgundy. Believe me, with food, nothing can take the place of that good Petri Wine!</ln>
+<ln><speaker>FORMAN</speaker>We'll bring you the rest of <mention ref="watson">Doctor Watson</mention>'s story in just a few seconds, which gives me plenty of time to mention a wine that can make even a sandwich taste like a feast -- That wine is Petri California Burgundy. Petri Burgundy is the best friend a good meal ever had, and it's a friend indeed to simple, war-time meals. A rich deep red in color and hearty, full and delicious in flavor -- Petri Burgundy is the perfect companion for all your old standby dishes. Petri Burgundy is great with hamburger sandwiches . . . it's just about the last word when you have good old-fashioned spaghetti. And if you're planning a piping hot pot roast or your favorite beef stew -- well, you just can't forget Petri Burgundy. Believe me, with food, nothing can take the place of that good Petri Wine!</ln>
 
 <ln><music>SCOTCH POEM</music></ln>
 
-<ln><speaker>FORMAN</speaker>And now, back to tonight's new <mention ref="holmes">Sherlock Holmes</mention> adventure. William Rush, wealthy business man, stepping back into his house for his umbrella, has apparently vanished from the face of the earth, and <mention ref="holmes">Sherlock Holmes</mention> and Doctor<mention ref="watson"> Watson</mention> are investigating the strange mystery. As we rejoin our story, it is two-thirty in the morning and the famous pair are engaged in breaking into the missing <stageDirect>FADING</stageDirect> man's house.</ln>
+<ln><speaker>FORMAN</speaker>And now, back to tonight's new <mention ref="holmes">Sherlock Holmes</mention> adventure. William Rush, wealthy business man, stepping back into his house for his umbrella, has apparently vanished from the face of the earth, and <mention ref="holmes">Sherlock Holmes</mention> and <mention ref="watson">Doctor Watson</mention> are investigating the strange mystery. As we rejoin our story, it is two-thirty in the morning and the famous pair are engaged in breaking into the missing <stageDirect>FADING</stageDirect> man's house.</ln>
 
 <ln><sound>SCRATCHING OF KEY IN LOCK</sound></ln>
 
 <ln><speaker>WATSON</speaker><stageDirect>WHISPERING</stageDirect> I don't like this,<mention ref="holmes"> Holmes</mention> -- breaking into people's houses in the middle of the night.</ln>
 
-<ln><speaker>HOLMES</speaker>Hold the lantern a little higher, will you, <mention>old chap</mention>-- that's it. There we are.</ln>
+<ln><speaker>HOLMES</speaker>Hold the lantern a little higher, will you, <mention ref="watson">old chap</mention>-- that's it. There we are.</ln>
 
 <ln><sound>DOOR OPENING AND CLOSING SOFTLY. STEALTHY FOOTSTEPS</sound></ln>
 
@@ -394,7 +394,7 @@
 
 <ln><speaker>WATSON</speaker>Then William Rush's umbrella isn't here, and that means he had it with him all the time -- and that he didn't come back.</ln>
 
-<ln><speaker>HOLMES</speaker>That would appear to be what happened, my dear<mention ref="watson"> Watson</mention>. On the other hand, someone might have assumed we would reason along those lines, and in consequence have hidden or destroyed the umbrella.</ln>
+<ln><speaker>HOLMES</speaker>That would appear to be what happened, <mention ref="watson">my dear Watson</mention>. On the other hand, someone might have assumed we would reason along those lines, and in consequence have hidden or destroyed the umbrella.</ln>
 
 <ln><speaker>WATSON</speaker>That's true. I wonder where they might have hidden it?</ln>
 
@@ -406,7 +406,7 @@
 
 <ln><speaker>WATSON</speaker>Holmes, you don't need to tell me to -- <stageDirect>EXCLAIMING</stageDirect> Ouch! Confound it! Why do they design staircases for midgets?</ln>
 
-<ln><speaker>HOLMES</speaker>Shh, old fellow. We don't want to wake the whole house.</ln>
+<ln><speaker>HOLMES</speaker>Shh, <mention>old fellow</mention>. We don't want to wake the whole house.</ln>
 
 <ln><sound>STEALTHY FOOTSTEPS DESCENDING STAIRS <stageDirect>NOTE: VOICES IN ENSUING SCENE ON ECHO</stageDirect></sound></ln>
 
@@ -486,7 +486,7 @@
 
 <ln><music>BRIDGE</music></ln>
 
-<ln><speaker>LESTRADE</speaker><stageDirect>REPROACHFULLY</stageDirect> What's this Captain Rush has been telling me, <mention ref="holmes">Mr. Holmes</mention>? Breaking into people's houses at three in the morning? You and Doctor<mention ref="watson"> Watson</mention> ought to know better than that, y'know.</ln>
+<ln><speaker>LESTRADE</speaker><stageDirect>REPROACHFULLY</stageDirect> What's this Captain Rush has been telling me, <mention ref="holmes">Mr. Holmes</mention>? Breaking into people's houses at three in the morning? You and <mention ref="watson">Doctor Watson</mention> ought to know better than that, y'know.</ln>
 
 <ln><speaker>HOLMES</speaker>I had excellent reasons. Good evening, Mr. Black.</ln>
 
@@ -494,7 +494,7 @@
 
 <ln><speaker>STANLEY</speaker>Yes, <mention ref="holmes">Mr. Holmes</mention>, I think you'd better explain what the devil you think you're up to.</ln>
 
-<ln><speaker>HOLMES</speaker>Gentlemen, I am trying to discover what became of William Rush. Doctor<mention ref="watson"> Watson</mention> and I came here tonight in search of evidence. Here it is . . . this twisted umbrella frame.</ln>
+<ln><speaker>HOLMES</speaker>Gentlemen, I am trying to discover what became of William Rush. <mention ref="watson">Doctor Watson</mention> and I came here tonight in search of evidence. Here it is . . . this twisted umbrella frame.</ln>
 
 <ln><speaker>BLACK</speaker>That's William's umbrella --</ln>
 
@@ -586,7 +586,7 @@
 
 <ln><speaker>WATSON</speaker><stageDirect>FADING IN EXCITEDLY</stageDirect><mention ref="holmes"> Holmes</mention>! Are you all right?</ln>
 
-<ln><speaker>HOLMES</speaker>Perfectly, thank you, <mention>old chap</mention> </ln>
+<ln><speaker>HOLMES</speaker>Perfectly, thank you, <mention ref="watson">old chap</mention> </ln>
 
 <ln><speaker>WATSON</speaker>But that shot?</ln>
 
@@ -676,7 +676,7 @@
 
 <ln><speaker>WATSON</speaker><stageDirect>LAUGHS</stageDirect> I'm afraid you're as bad a detective as I am. You know, determining a man's character is like determining the character of a wine. You don't judge a man by the clothes he wears any more than you judge a wine by the glass it's served in.</ln>
 
-<ln><speaker>FORMAN</speaker>Well -- get him! <mention ref="watson">Dr. Watson</mention>, the philosopher. <stageDirect>LAUGHS</stageDirect> But you've got something there, Doctor. A good wine does taste good in any kind of glass, and that's particularly true about Petri California Wine. You can serve Petri wine in water tumblers or even tea cups and it will still be clear, fragrant and delicious. That's because the Petri family really knows how to make good wine. They've been making wine for generations -- ever since they first started the Petri business way back in the eighteen-hundreds. And because their business has always been a family affair -- well, they've been able to hand on down in the family -- from father to son, from father to son -- everything they've ever learned about the art of making fine wine. Yes sir -- the Petri family knows all there is to know about turning plump, hand-picked grapes into wonderful wine. That's why you can't go wrong with a Petri wine . . . because Petri took time to bring you good wine! And now, Doctor<mention ref="watson"> Watson</mention>, how's about a clue to next week's story?</ln>
+<ln><speaker>FORMAN</speaker>Well -- get him! <mention ref="watson">Dr. Watson</mention>, the philosopher. <stageDirect>LAUGHS</stageDirect> But you've got something there, Doctor. A good wine does taste good in any kind of glass, and that's particularly true about Petri California Wine. You can serve Petri wine in water tumblers or even tea cups and it will still be clear, fragrant and delicious. That's because the Petri family really knows how to make good wine. They've been making wine for generations -- ever since they first started the Petri business way back in the eighteen-hundreds. And because their business has always been a family affair -- well, they've been able to hand on down in the family -- from father to son, from father to son -- everything they've ever learned about the art of making fine wine. Yes sir -- the Petri family knows all there is to know about turning plump, hand-picked grapes into wonderful wine. That's why you can't go wrong with a Petri wine . . . because Petri took time to bring you good wine! And now, <mention ref="watson">Doctor Watson</mention>, how's about a clue to next week's story?</ln>
 
 <ln><speaker>WATSON</speaker>Next week, Mr. Forman, I'm going to tell you about a strange and terrifying adventure that <mention ref="holmes">Sherlock Holmes</mention> and I had on the rocky coasts of Cornwall. It concerns a most unusual house, two brothers -- and a werewolf!</ln>
 

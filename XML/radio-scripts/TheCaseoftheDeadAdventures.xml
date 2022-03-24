@@ -137,7 +137,7 @@
 
         <ln><speaker>Watson</speaker><stageDirect>hotly</stageDirect> Tell that policeman to take
             his hands off you,<mention ref="holmes"> Holmes</mention>!</ln>
-        <ln><speaker>Holmes</speaker>But I haven't the right to, my dear chap. You see, just before
+        <ln><speaker>Holmes</speaker>But I haven't the right to, <mention>my dear chap</mention>. You see, just before
             you arrived, Monsieur Charel had <stageDirect>fading</stageDirect> arrested me for
             murder.</ln>
         <ln><speaker>Watson</speaker>And there my old friend was, spending the night in custody. </ln>

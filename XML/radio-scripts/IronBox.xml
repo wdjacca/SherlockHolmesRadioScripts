@@ -66,7 +66,7 @@
 
 <ln><speaker>HOLMES</speaker> Care for a cigar,<mention ref="watson"> Watson</mention>?</ln>
 
-<ln><speaker>WATSON</speaker> No. No, thanks, old fellow; I'll stick to my pipe.</ln>
+<ln><speaker>WATSON</speaker> No. No, thanks, <mention>old fellow</mention>; I'll stick to my pipe.</ln>
 
 <ln><speaker>HOLMES</speaker> Flying Scotsman's living up to its name. We're going splendidly. Our present rate is fifty-three-and-a-half miles an hour.</ln>
 
@@ -122,7 +122,7 @@
 
 <ln><speaker>WATSON</speaker> Problem?</ln>
 
-<ln><speaker>HOLMES</speaker> Yes, I'm reasonably certain that the agèd Sir Walter Dunbar will not get his iron box full of gold on this New Year's Eve, either. But we shall see, old fellow; we shall see.</ln>
+<ln><speaker>HOLMES</speaker> Yes, I'm reasonably certain that the agèd Sir Walter Dunbar will not get his iron box full of gold on this New Year's Eve, either. But we shall see, <mention>old fellow</mention>; we shall see.</ln>
 
 <ln><music>BRIDGE ... WITH A SCOTS FLAVOR</music></ln>
 
@@ -304,7 +304,7 @@
 
 <ln><speaker>WATSON</speaker> Oh, what a miserable meal,<mention ref="holmes"> Holmes</mention>. Sir Walter's gone to his room, the young lovers are nearly in tears, and Small and the lawyer Murdock seem to be positively gloating.</ln>
 
-<ln><speaker>HOLMES</speaker> Yes, a most depressing atmosphere in which to welcome the new year. But let us, at least, make the best of it. I think I'll go and have a talk with Sir Walter. And you, my dear chap, why not try and cheer up the young folks? <stageDirect>MOVING OFF</stageDirect> Some of your experiences in India may help them take their minds off their troubles.</ln>
+<ln><speaker>HOLMES</speaker> Yes, a most depressing atmosphere in which to welcome the new year. But let us, at least, make the best of it. I think I'll go and have a talk with Sir Walter. And you, <mention>my dear chap</mention>, why not try and cheer up the young folks? <stageDirect>MOVING OFF</stageDirect> Some of your experiences in India may help them take their minds off their troubles.</ln>
 
 <ln><speaker>WATSON</speaker> Yes. Quite an idea. I'll join you in the library. Call me if you want me,<mention ref="holmes"> Holmes</mention>.</ln>
 
@@ -344,7 +344,7 @@
 
 <ln><speaker>WATSON</speaker> <stageDirect>TENSE</stageDirect><mention ref="holmes"> Holmes</mention>? What is it? What's wrong?</ln>
 
-<ln><speaker>HOLMES</speaker> <stageDirect>BRISK, URGENT</stageDirect> The devil's work afoot,<mention ref="watson"> Watson</mention>. Come with me, old fellow; and you, Mr. Dunbar. </ln>
+<ln><speaker>HOLMES</speaker> <stageDirect>BRISK, URGENT</stageDirect> The devil's work afoot,<mention ref="watson"> Watson</mention>. Come with me, <mention>old fellow</mention>; and you, Mr. Dunbar. </ln>
 
 <ln><speaker>DOROTHY</speaker> <mention ref="holmes">Mr. Holmes</mention>, what's happened?</ln>
 

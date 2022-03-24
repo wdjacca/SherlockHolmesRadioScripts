@@ -126,7 +126,7 @@
         <ln pull="#SIB-p8"><speaker>WATSON</speaker>
             <stageDirect>SURPRISED</stageDirect> Oh? How do you know?</ln>
 
-        <ln pull="#SIB-p12-s1"><speaker>HOLMES</speaker> Elementary, my dear chap. If a gentleman walks into my rooms
+        <ln pull="#SIB-p12-s1"><speaker>HOLMES</speaker> Elementary, <mention>my dear chap</mention>. If a gentleman walks into my rooms
             smelling of iodoform, with a black mark of nitrate of silver on his right forefinger and
             a bulge on the left side of his hat to show where he has secreted his stethoscope, I
             should be dull, indeed, if I didn't pronounce him to be an active member of the medical
@@ -136,7 +136,7 @@
             <stageDirect>CHUCKLES</stageDirect> Same as ever,<mention ref="holmes">
             Holmes</mention>. By the way, I'm, uh-- I'm not interrupting you, am I?</ln>
 
-        <ln><speaker>HOLMES</speaker> Yes, you are, old fellow, but it's a most welcome
+        <ln><speaker>HOLMES</speaker> Yes, you are, <mention>old fellow</mention>, but it's a most welcome
             interruption.</ln>
 
         <ln><speaker>WATSON</speaker> You're working on a new case?</ln>
@@ -210,7 +210,7 @@
 
         <ln><speaker>WATSON</speaker> Well, I could stay; I thought perhaps that--</ln>
 
-        <ln pull="#SIB-p37"><speaker>HOLMES</speaker> Then, my dear chap, stay. by all means. I'm lost without my
+        <ln pull="#SIB-p37"><speaker>HOLMES</speaker> Then, <mention>my dear chap</mention>, stay. by all means. I'm lost without my
             Boswell, and this promises to be interesting. I told Mrs. Hudson to let the masked
             visitor come upstairs unannounced.</ln>
 
@@ -417,7 +417,7 @@
         <ln><speaker>WATSON</speaker> Fascinating problem,<mention ref="holmes"> Holmes</mention>. I
             wish I could help you with it. </ln>
 
-        <ln><speaker>HOLMES</speaker> You can, my dear chap. I shall be glad of your company. </ln>
+        <ln><speaker>HOLMES</speaker> You can, <mention>my dear chap</mention>. I shall be glad of your company. </ln>
 
         <ln><speaker>WATSON</speaker> What's our first move,<mention ref="holmes"> Holmes</mention>? </ln>
 
@@ -773,7 +773,7 @@
 
         <ln><speaker>WATSON</speaker> Perfectly. </ln>
 
-        <ln><speaker>HOLMES</speaker> Good. And now, old fellow, as soon as I've donned my clerical
+        <ln><speaker>HOLMES</speaker> Good. And now, <mention>old fellow</mention>, as soon as I've donned my clerical
             attire, let's be on our way. There's no time to be lost.</ln>
 
         <ln>
@@ -979,7 +979,7 @@
         <ln><speaker>WATSON</speaker> What do we do now? </ln>
 
         <ln><speaker>HOLMES</speaker> Drive to the Langham Hotel and inform his Majesty of what has
-            happened. Then return with him here. And after that, my dear chap, the case will be
+            happened. Then return with him here. And after that, <mention>my dear chap</mention>, the case will be
             ended!</ln>
 
         <ln>
