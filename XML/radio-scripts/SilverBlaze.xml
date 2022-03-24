@@ -79,18 +79,18 @@
             sleep on the moor when I saw your lantern. </ln>
 
         <ln><speaker>MAID</speaker><stageDirect>NERVOUS</stageDirect> You're close to King's Pyland
-            training stable, sir. </ln>
+            training stable, <mention>sir</mention>. </ln>
 
         <ln><speaker>STRANGER</speaker>I am? What a stroke of luck. I understand that the stable boy
             sleeps there alone every night. Perhaps that's his supper you're carrying. </ln>
 
-        <ln><speaker>MAID</speaker>Yes, sir, but it'll be gettin' cold. </ln>
+        <ln><speaker>MAID</speaker>Yes, <mention>sir</mention>, but it'll be gettin' cold. </ln>
 
         <ln><speaker>STRANGER</speaker>Yes, but, um-- You wouldn't be too proud to earn the price of
             a new dress, now would you? See the boy gets this - <stageDirect>CHUCKLES</stageDirect>
             - note tonight and you'll have the prettiest dress that money can buy. </ln>
 
-        <ln><speaker>MAID</speaker><stageDirect>DEFIANT, MOVING OFF</stageDirect> Let me pass, sir!
+        <ln><speaker>MAID</speaker><stageDirect>DEFIANT, MOVING OFF</stageDirect> Let me pass, <mention>sir</mention>!
             I'm not giving notes to anybody! </ln>
 
         <ln>
@@ -146,7 +146,7 @@
                 to bed he got up again at one o'clock in the morning telling his wife that he was
                 going down to the stable to see if all was well. He put on a mackintosh, for it was
                 raining heavily, and left the house." (TO WATSON</stageDirect> Hm! Quite a wealth of
-            detail, my dear<mention ref="watson"> Watson</mention>. And here I have the notes of Mrs. Straker's statement. </ln>
+            detail, <mention ref="watson">my dear Watson</mention>. And here I have the notes of Mrs. Straker's statement. </ln>
 
         <ln>
             <sound>RUSTLE OF NOTES</sound>
@@ -206,7 +206,7 @@
             here has done all that could possibly be suggested, but I wish to leave no stone
             unturned in trying to avenge poor Straker and recover my horse.</ln>
 
-        <ln><speaker>HOLMES</speaker>I trust that I may be able to assist you, sir. Has there been
+        <ln><speaker>HOLMES</speaker>I trust that I may be able to assist you, <mention>sir</mention>. Has there been
             any fresh development?</ln>
 
         <ln><speaker>INSPECTOR</speaker>I'm sorry to say we've made very little progress. As you
@@ -220,7 +220,7 @@
         <ln><speaker>WATSON</speaker>Of course Straker himself was wounded, wasn't he? In the thigh.
             He may have wounded himself in the convulsive struggles which follow any brain injury. </ln>
 
-        <ln><speaker>HOLMES</speaker>Excellent, my dear<mention ref="watson"> Watson</mention>. It's more than possible; it's
+        <ln><speaker>HOLMES</speaker>Excellent, <mention ref="watson">my dear Watson</mention>. It's more than possible; it's
             probable. In which case one of the main points in favor of the accused disappears. </ln>
 
         <ln><speaker>WATSON</speaker><stageDirect>NARRATES</stageDirect> A minute later we were all
@@ -342,21 +342,21 @@
             <sound>DURING ABOVE, MRS. STRAKER'S STEPS APPROACH</sound>
         </ln>
 
-        <ln>MRS. STRAKER: How do you do, sir? </ln>
+        <ln>MRS. STRAKER: How do you do, <mention>sir</mention>? </ln>
 
         <ln><speaker>HOLMES</speaker>How do you do, Mrs. Straker? Surely we've met before. At a
             garden party in Plymouth recently. </ln>
 
-        <ln>MRS. STRAKER: No, sir. You must be mistaken.</ln>
+        <ln>MRS. STRAKER: No, <mention>sir</mention>. You must be mistaken.</ln>
 
         <ln><speaker>HOLMES</speaker>Dear me, I could have sworn it. You wore a costume of
             dove-colored silk with ostrich feather trimmings. </ln>
 
-        <ln>MRS. STRAKER: Never had such a dress, sir. </ln>
+        <ln>MRS. STRAKER: Never had such a dress, <mention>sir</mention>. </ln>
 
         <ln><speaker>HOLMES</speaker>Oh. Well, that settles it then. </ln>
 
-        <ln>MRS. STRAKER: If you'll excuse me, sir, I'd like a word with the colonel. </ln>
+        <ln>MRS. STRAKER: If you'll excuse me, <mention>sir</mention>, I'd like a word with the colonel. </ln>
 
         <ln><speaker>HOLMES</speaker>Of course.</ln>
 
@@ -437,7 +437,7 @@
         <ln><speaker>HOLMES</speaker>Certainly not, Colonel! I should let the name stand. </ln>
 
         <ln><speaker>COLONEL</speaker><stageDirect>SURPRISED</stageDirect> I am very glad to have
-            your opinion, sir. We shall see you later on when you've finished your walk. </ln>
+            your opinion, <mention>sir</mention>. We shall see you later on when you've finished your walk. </ln>
 
         <ln>
             <sound>SCENE FADES OUT</sound>
@@ -478,7 +478,7 @@
             see your master, Mr. Silas Brown, if I were to call here at five o'clock tomorrow
             morning? </ln>
 
-        <ln><speaker>GROOM</speaker>Oy, bless you, sir. If anyone's about, it'll be him. He's always
+        <ln><speaker>GROOM</speaker>Oy, bless you, <mention>sir</mention>. If anyone's about, it'll be him. He's always
             the first stirring.</ln>
 
         <ln>
@@ -489,7 +489,7 @@
                 about your business! (TO HOLMES</stageDirect> And you there! What the devil do you
             want here?!</ln>
 
-        <ln><speaker>HOLMES</speaker>Ten minutes talk with you, my good sir. </ln>
+        <ln><speaker>HOLMES</speaker>Ten minutes talk with you, my good <mention>sir</mention>. </ln>
 
         <ln><speaker>BROWN</speaker>Well, I've no time to talk to every gadabout. And we don't want
             strangers here. Be off, or you may find a dog at your heels.</ln>
@@ -515,7 +515,7 @@
         </ln>
 
         <ln><speaker>BROWN</speaker><stageDirect>UTTERLY OBSEQUIOUS</stageDirect> It shall be done,
-            sir, just as you wish it. </ln>
+            <mention>sir</mention>, just as you wish it. </ln>
 
         <ln><speaker>HOLMES</speaker>There must be no mistake. </ln>
 
@@ -530,7 +530,7 @@
         <ln><speaker>HOLMES</speaker>Yes, I think I can. Well, you shall hear from me tomorrow. Good
             day to you. </ln>
 
-        <ln><speaker>BROWN</speaker>Good day, sir. </ln>
+        <ln><speaker>BROWN</speaker>Good day, <mention>sir</mention>. </ln>
 
         <ln>
             <sound>BROWN'S STEPS AWAY</sound>
@@ -644,7 +644,7 @@
         <ln><speaker>HOLMES</speaker>Yes, I found him in the hands of a fakir, and took the liberty
             of running him just as he was sent over. </ln>
 
-        <ln><speaker>COLONEL</speaker>My dear sir, you've done wonders! I owe you a thousand
+        <ln><speaker>COLONEL</speaker>My dear <mention>sir</mention>, you've done wonders! I owe you a thousand
             apologies! You've done me a very great service by recovering my horse. You would do me a
             greater still if you could lay your hands on the murderer of John Straker. </ln>
 
@@ -749,7 +749,7 @@
             forehead. He'd already taken off his mackintosh to be freer -- and, as he fell, gashed
             his thigh on his own knife. </ln>
 
-        <ln><speaker>COLONEL</speaker><stageDirect>ASTONISHED</stageDirect> But, my dear fellow, you
+        <ln><speaker>COLONEL</speaker><stageDirect>ASTONISHED</stageDirect> But, <mention>my dear fellow</mention>, you
             - you might have been there. Wonderful! </ln>
 
         <ln><speaker>WATSON</speaker>And the cravat? Fitzroy Simpson's, which was in the dead man's
@@ -758,7 +758,7 @@
         <ln><speaker>HOLMES</speaker>Simpson said that he lost it; no doubt he did. Straker must
             have found it and picked it up, perhaps with the idea of using it to secure the horse's
             leg. Well, that disposes of everything. Quite simple. Perhaps we could while away the
-            rest of this journey, my dear<mention ref="watson"> Watson</mention>, with a game of chess. </ln>
+            rest of this journey, <mention ref="watson">my dear Watson</mention>, with a game of chess. </ln>
 
         <ln>
             <sound>TRAIN INTERIOR UP TO FILL A PAUSE ... THEN FADES OUT</sound>

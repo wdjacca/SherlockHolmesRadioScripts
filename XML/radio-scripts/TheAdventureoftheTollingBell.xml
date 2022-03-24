@@ -87,7 +87,7 @@
         <ln><speaker>WATSON</speaker>Splendid, Marian. Oh, ah, Mary, the church bell is tolling a
             funeral nell. Do you know who's being buried?</ln>
 
-        <ln><speaker>MARY</speaker><stageDirect>on the verge of tears</stageDirect> That I do, sir.
+        <ln><speaker>MARY</speaker><stageDirect>on the verge of tears</stageDirect> That I do, <mention ref="watson">sir</mention>.
             I wish it was me. It will be my turn soon.</ln>
 
         <ln><sound>Door CLOSES</sound></ln>
@@ -171,12 +171,12 @@
 
         <ln><speaker>HOLMES</speaker>You're a busy man, Gillian.</ln>
 
-        <ln><speaker>GILLIAN</speaker>That I am, sir. Take this afternoon now. I'm to ring those
+        <ln><speaker>GILLIAN</speaker>That I am, <mention ref="holmes">sir</mention>. Take this afternoon now. I'm to ring those
             bells again.</ln>
 
         <ln><speaker>WATSON</speaker>Not another funeral, surely?</ln>
 
-        <ln><speaker>GILLIAN</speaker>No, sir. A wedding this time.</ln>
+        <ln><speaker>GILLIAN</speaker>No, <mention ref="watson">sir</mention>. A wedding this time.</ln>
 
         <ln><speaker>WATSON</speaker>Oh, I'm glad to hear it.</ln>
 
@@ -221,24 +221,24 @@
 
         <ln><speaker>MICHOL</speaker>This is <mention ref="holmes">Mr. Holmes</mention>, and <mention ref="watson">Doctor Watson</mention>, dear.</ln>
 
-        <ln>MRS. LAKLAND: Thank you, Emmy. Good morning, sirs.</ln>
+        <ln>MRS. LAKLAND: Thank you, Emmy. Good morning, <mention ref="holmes+watson">sirs</mention>.</ln>
 
         <ln><speaker>WATSON</speaker>Good morning.</ln>
 
         <ln><speaker>HOLMES</speaker>Good morning. Please sit down, Mrs. Lakland. That's it. Now
             what's the trouble?</ln>
 
-        <ln>MRS. LAKLAND: It's Tom, sir. Me only son. He left me four months ago and I've not seen
+        <ln>MRS. LAKLAND: It's Tom, <mention ref="holmes">sir</mention>. Me only son. He left me four months ago and I've not seen
             heir a night of him since.</ln>
 
         <ln><speaker>HOLMES</speaker>You've had no message from him since he left?</ln>
 
-        <ln>MRS. LAKLAND: Not one word, I'm fair out of me mind, sir.</ln>
+        <ln>MRS. LAKLAND: Not one word, I'm fair out of me mind, <mention ref="holmes">sir</mention>.</ln>
 
         <ln><speaker>HOLMES</speaker>Have you any idea of his reason for leaving the village, Mrs.
             Lakland?</ln>
 
-        <ln>MRS. LAKLAND: None, sir. He was a good boy and he worked hard, and he didn't fool around
+        <ln>MRS. LAKLAND: None, <mention ref="holmes">sir</mention>. He was a good boy and he worked hard, and he didn't fool around
             with those flibbity gibbit girls in the village. I think he's met with foul play
             gentlemen, and I want you to find out about him for me, <mention ref="holmes">Mr. Holmes</mention>. I've heard say in
             the village that you're the greatest detective in England.</ln>
@@ -253,7 +253,7 @@
             shall give your problem some thought. If I arrive at any conclusions, I'll get in touch
             with you at once.</ln>
 
-        <ln>MRS. LAKLAND: God bless you, <mention ref="holmes">Mr. Holmes</mention>. Good morning to you, sirs.</ln>
+        <ln>MRS. LAKLAND: God bless you, <mention ref="holmes">Mr. Holmes</mention>. Good morning to you, <mention ref="holmes+watson">sirs</mention>.</ln>
 
         <ln><speaker>HOLMES</speaker>Good day.</ln>
 
@@ -323,7 +323,7 @@
             Conforth have a burial every morning? I really don't see how the population can run to
             it.</ln>
 
-        <ln><speaker>MICHOL</speaker>It's another suicide, sir.</ln>
+        <ln><speaker>MICHOL</speaker>It's another suicide, <mention ref="holmes">sir</mention>.</ln>
 
         <ln><speaker>WATSON</speaker>Another suicide! Good Lord!</ln>
 
@@ -333,7 +333,7 @@
 
         <ln><speaker>WATSON</speaker>No, no I haven't much of an appetite, thank you very much.</ln>
 
-        <ln><speaker>MICHOL</speaker>Yes, sir.</ln>
+        <ln><speaker>MICHOL</speaker>Yes, <mention ref="watson">sir</mention>.</ln>
 
         <ln><speaker>WATSON</speaker>That woman seems absolutely heartless. She almost smacks her
             lips when she tells us about these tragedies.</ln>
@@ -368,7 +368,7 @@
         <ln><speaker>HOLMES</speaker>No,<mention ref="watson"> Watson</mention>. Let's be honest and admit we didn't come here
             because of our concern for Mary's health. </ln>
 
-        <ln><speaker>MARY</speaker>Then why did you come here, sir?</ln>
+        <ln><speaker>MARY</speaker>Then why did you come here, <mention ref="holmes">sir</mention>?</ln>
 
         <ln><speaker>HOLMES</speaker>Mrs. Lakland asked me to try to find her son, Tom.</ln>
 
@@ -395,7 +395,7 @@
         <ln><speaker>WATSON</speaker>How did you know it was from a lady?</ln>
 
         <ln><speaker>GILLIAN</speaker>Reeked with the smell of violets, it did. And it was written
-            in green ink on gray paper, sir.</ln>
+            in green ink on gray paper, <mention ref="watson">sir</mention>.</ln>
 
         <ln><speaker>WATSON</speaker>Amazing deduction.</ln>
 
@@ -407,14 +407,14 @@
         <ln><speaker>HOLMES</speaker>Quite. Gilly, you tolled another funeral bell today, didn't
             you?</ln>
 
-        <ln><speaker>GILLIAN</speaker>Aye sir, and a tragic thing it was. Old Letterby hanged
+        <ln><speaker>GILLIAN</speaker>Aye <mention ref="holmes">sir</mention>, and a tragic thing it was. Old Letterby hanged
             himself because he didn't get money from his son in Australia. I found him, I did. I was
             the one to cut him down. And right in me post bag was the letter he was waiting for. The
             letter that would have saved his life.</ln>
 
         <ln><speaker>WATSON</speaker>Great Scott! What a ghastly piece of irony.</ln>
 
-        <ln><speaker>GILLIAN</speaker>That it was, sir. That it was. Well, gentlemen, I'll be on my
+        <ln><speaker>GILLIAN</speaker>That it was, <mention ref="watson">sir</mention>. That it was. Well, gentlemen, I'll be on my
             way. Good day. Good day, Mary. Perhaps that letter will arrive tomorrow.</ln>
 
         <ln><speaker>MARY</speaker>No. I'll never hear from Tom, now He's ashamed of me. That's why
@@ -482,7 +482,7 @@
         <ln><speaker>TOM</speaker>Now what are you talking about?</ln>
 
         <ln><speaker>WATSON</speaker>Leaving your dear old mother and deserting your pretty little
-            bride, because you're ashamed of her. You're a scoundrel sir. You deserve a good
+            bride, because you're ashamed of her. You're a scoundrel <mention ref="tome">sir</mention>. You deserve a good
             horsewhipping, and I have a good mind to give it to you.</ln>
 
         <ln><speaker>TOM</speaker>I don't know what you're talking about <mention ref="watson">Dr. Watson</mention>, but I don't
@@ -625,7 +625,7 @@
         <ln><speaker>WATSON</speaker>Holmes this farce is beginning to get on my nerves. What are we
             accomplishing by burying an empty coffin?</ln>
 
-        <ln><speaker>HOLMES</speaker>You'll soon see, <mention>old chap</mention> Come on. Let's slip into the vestry.
+        <ln><speaker>HOLMES</speaker>You'll soon see, <mention ref="watson">old chap</mention> Come on. Let's slip into the vestry.
             This way.</ln>
 
         <ln><sound>BELLS TOLLING throughout</sound></ln>
@@ -672,13 +672,13 @@
             destiny of this village. In your position as postman you thought you have the power to
             give life and death.</ln>
 
-        <ln><speaker>GILLIAN</speaker>That I am sir, and it's a great power. It makes a man feel
+        <ln><speaker>GILLIAN</speaker>That I am <mention ref="holmes">sir</mention>, and it's a great power. It makes a man feel
             good. Almost like a god you might say.</ln>
 
         <ln><speaker>WATSON</speaker>That's sacrilege you scoundrel. You were responsible for the
             murder of Mrs. Threadgold.</ln>
 
-        <ln><speaker>GILLIAN</speaker>Aye sir. That I was, and for the old man hanging himself.</ln>
+        <ln><speaker>GILLIAN</speaker>Aye <mention ref="gillian">sir</mention>. That I was, and for the old man hanging himself.</ln>
 
         <ln><speaker>HOLMES</speaker>You were responsible for John Letterby's suicide weren't
             you?</ln>

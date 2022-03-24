@@ -211,10 +211,10 @@
         </ln>
 
         <ln><speaker>WATSON</speaker>
-            <stageDirect>OFF, CALLS</stageDirect> Up here, sir!</ln>
+            <stageDirect>OFF, CALLS</stageDirect> Up here, <mention ref="gibson">sir</mention>!</ln>
 
         <ln><speaker>GIBSON</speaker>
-            <stageDirect>OFF, TO WATSON</stageDirect> Are you Mr. <mention ref="holmes">Sherlock
+            <stageDirect>OFF, TO WATSON</stageDirect> Are you <mention ref="holmes">Mr. Sherlock
                 Holmes</mention>?</ln>
 
         <ln><speaker>WATSON</speaker>
@@ -274,10 +274,10 @@
             <stageDirect>ANGRY</stageDirect> What the devil do you mean by this, <mention
                 ref="holmes">Mr. Holmes</mention>? </ln>
 
-        <ln pull="#TB-p56" change="interpel wording"><speaker>HOLMES</speaker> My dear sir, the case is difficult enough without your giving
+        <ln pull="#TB-p56" change="interpel wording"><speaker>HOLMES</speaker> <mention ref="gibson">My dear sir</mention>, the case is difficult enough without your giving
             me false information.</ln>
 
-        <ln pull="#TB-57" change="interpel"><speaker>GIBSON</speaker> Meaning that I lie, sir?</ln>
+        <ln pull="#TB-57" change="interpel"><speaker>GIBSON</speaker> Meaning that I lie, <mention ref="holmes">sir</mention>?</ln>
 
         <ln pull="#TB-p58"><speaker>HOLMES</speaker> I was trying to express it as delicately as possible, but -
                 <stageDirect>CLEARS THROAT</stageDirect> - if you insist on the word I won't
@@ -365,7 +365,7 @@
         <ln pull="#TB-p80-s1 TB-p80-s2" change="sig"><speaker>GIBSON</speaker> I can give it to you in a very few words. To begin with, I met
             my wife when I was gold-mining in Brazil. </ln>
 
-        <ln><speaker>WATSON</speaker> Your wife was Brazilian by birth, wasn't she, sir?</ln>
+        <ln><speaker>WATSON</speaker> Your wife was Brazilian by birth, wasn't she, <mention ref="gibson">sir</mention>?</ln>
 
         <ln pull="#TB-p80-s2 TB-p80-s3" change="wording sig"><speaker>GIBSON</speaker> Yes, doctor, and very beautiful. Well, to make a long story
             short, I fell in love and married her and brought her to England. After a few years, I
@@ -377,7 +377,7 @@
         <ln type="unmatched" change="sig interpel"><speaker>GIBSON</speaker> That's right, <mention ref="holmes">Mr. Holmes</mention>.
             Well, the story should be obvious to you from there.</ln>
 
-        <ln type="unmatched" change="sig interpel"><speaker>WATSON</speaker> You fell in love with this girl, I suppose, sir.</ln>
+        <ln type="unmatched" change="sig interpel"><speaker>WATSON</speaker> You fell in love with this girl, I suppose, <mention ref="gibson">sir</mention>.</ln>
 
         <ln type="unmatched" change="sig"><speaker>GIBSON</speaker> Who could help it?</ln>
 
@@ -393,7 +393,7 @@
             criticism.</ln>
 
         <ln pull="#TB-p89-s1 TB-p96" change="wording"><speaker>HOLMES</speaker> It's only the young lady's sake that forces me to touch your
-            case at all. Now, tell me, sir. What is your own opinion as to <mention ref="dunbar">Miss Dunbar</mention>'s guilt?</ln>
+            case at all. Now, tell me, <mention ref="gibson">sir</mention>. What is your own opinion as to <mention ref="dunbar">Miss Dunbar</mention>'s guilt?</ln>
 
         <ln pull="#TB-p98-s1 TB-p98-s2"><speaker>GIBSON</speaker> It's very black against her, I can't deny that. One
             explanation of the tragedy did come into my head, <mention ref="holmes">Mr.
@@ -468,7 +468,7 @@
         <ln><speaker>HOLMES</speaker> Then please ask it.</ln>
 
         <ln pull="#TB-p109-s2"><speaker>SERGEANT</speaker> Don't you think there might be a case against Mr. Gibson
-            hisself, sir?</ln>
+            hisself, <mention ref="holmes">sir</mention>?</ln>
 
         <ln pull="#TB-p110" change="wording"><speaker>HOLMES</speaker> I've been considering that possibility.</ln>
 
@@ -499,17 +499,17 @@
 
         <ln><speaker>HOLMES</speaker> Ah! This, I presume, is Thor Bridge.</ln>
 
-        <ln><speaker>SERGEANT</speaker> That's right, sir. Found Mrs. Gibson's body lying right here
+        <ln><speaker>SERGEANT</speaker> That's right, <mention ref="holmes">sir</mention>. Found Mrs. Gibson's body lying right here
             at the approach to the bridge. </ln>
 
         <ln pull="#TB-p125"><speaker>HOLMES</speaker> I see. I gathered from the newspaper reports that the shot was
             fired at very close quarters.</ln>
 
-        <ln pull="#TB-p126"><speaker>SERGEANT</speaker> Yes, sir, very close.</ln>
+        <ln pull="#TB-p126"><speaker>SERGEANT</speaker> Yes, <mention ref="holmes">sir</mention>, very close.</ln>
 
         <ln pull="#TB-p127"><speaker>HOLMES</speaker> Near the right temple, wasn't it?</ln>
 
-        <ln pull="#TB-p128"><speaker>SERGEANT</speaker> Just behind it, sir.</ln>
+        <ln pull="#TB-p128"><speaker>SERGEANT</speaker> Just behind it, <mention ref="holmes">sir</mention>.</ln>
 
         <ln pull="#TB-p129" change="interpel"><speaker>WATSON</speaker> How did the body lie, sergeant?</ln>
 
@@ -518,7 +518,7 @@
 
         <ln pull="#TB-p131"><speaker>HOLMES</speaker> Clutched, you say?</ln>
 
-        <ln pull="#TB-p132"><speaker>SERGEANT</speaker> Yes, sir, we could hardly open the fingers to get at
+        <ln pull="#TB-p132"><speaker>SERGEANT</speaker> Yes, <mention ref="holmes">sir</mention>, we could hardly open the fingers to get at
             it.</ln>
 
         <ln pull="#TB-p133-s1"><speaker>HOLMES</speaker> Ah, that's of greatest importance. It excludes the idea that
@@ -531,7 +531,7 @@
 
         <ln pull="#TB-p135"><speaker>HOLMES</speaker> Did <mention ref="dunbar">Miss Dunbar</mention> admit writing it?</ln>
 
-        <ln pull="#TB-p136"><speaker>SERGEANT</speaker> Oh, yes, sir.</ln>
+        <ln pull="#TB-p136"><speaker>SERGEANT</speaker> Oh, yes, <mention ref="holmes">sir</mention>.</ln>
 
         <ln pull="#TB-137"><speaker>HOLMES</speaker> What was her explanation?</ln>
 
@@ -562,7 +562,7 @@
             <stageDirect>OFF</stageDirect> Did you notice this, sergeant?</ln>
 
         <ln pull="#TB-p145" change="wording"><speaker>SERGEANT</speaker> Oh, you mean that chip out of that stone on the underside of
-            the parapet of the bridge, sir? Yes, I noticed it. Didn't think nothin' of it, though. </ln>
+            the parapet of the bridge, <mention ref="holmes">sir</mention>? Yes, I noticed it. Didn't think nothin' of it, though. </ln>
 
         <ln><speaker>WATSON</speaker>
             <stageDirect>OFF</stageDirect> Not a very large chip.</ln>
@@ -601,7 +601,7 @@
         <ln pull="#TB-p151-s1" change="wording"><speaker>HOLMES</speaker> That's a pity. Hmm. Well, sergeant, I'm much obliged to you
             and now I think we'll go back to the house.</ln>
 
-        <ln type="unmatched" change="interpel sig"><speaker>SERGEANT</speaker> Right. Cesar'll show you where the firearms are, sir.</ln>
+        <ln type="unmatched" change="interpel sig"><speaker>SERGEANT</speaker> Right. Cesar'll show you where the firearms are, <mention ref="holmes">sir</mention>.</ln>
 
         <ln type="unmatched" change="interpel sig"><speaker>HOLMES</speaker> Oh, uh, who is Cesar?</ln>
 
@@ -870,12 +870,12 @@
         <ln><speaker>HOLMES</speaker> I take the precaution of unloading it. Uh huh. There we are.
             Now, sergeant, ball of twine, please.</ln>
 
-        <ln><speaker>SERGEANT</speaker> Wish I knew what you was up to, sir.</ln>
+        <ln><speaker>SERGEANT</speaker> Wish I knew what you was up to, <mention ref="holmes">sir</mention>.</ln>
 
         <ln><speaker>HOLMES</speaker> I tie one end of the twine -- like this -- to the handle of
             the revolver. So. Sergeant, see if you can find me a heavy stone, will you?</ln>
 
-        <ln><speaker>SERGEANT</speaker> Right you are, sir.</ln>
+        <ln><speaker>SERGEANT</speaker> Right you are, <mention ref="holmes">sir</mention>.</ln>
 
         <ln><speaker>WATSON</speaker><mention ref="holmes"> Holmes</mention>, what are you
             doing?</ln>
@@ -895,7 +895,7 @@
             stone and stretch the twine across the parapet of the bridge there -- so that the stone
             will swing just clear of the water on the other side of the bridge?</ln>
 
-        <ln type="unmatched" change="sig"><speaker>SERGEANT</speaker> Right you are, sir.</ln>
+        <ln type="unmatched" change="sig"><speaker>SERGEANT</speaker> Right you are, <mention ref="holmes">sir</mention>.</ln>
 
         <ln type="unmatched" change="sig"><speaker>HOLMES</speaker> I'll stand on the spot where Mrs. Gibson's body was found.
                 <stageDirect>CALLS</stageDirect> That's it, sergeant. Over the parapet.</ln>

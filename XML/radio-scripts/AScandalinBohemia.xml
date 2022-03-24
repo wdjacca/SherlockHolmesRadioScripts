@@ -147,7 +147,7 @@
         <ln pull="#SIB-p22 #SIB-p23" change="wording"><speaker>WATSON</speaker>
             <stageDirect>MUMBLES</stageDirect> Let's have a look. <stageDirect>READS</stageDirect>
             "There will call upon you tonight, at a quarter to eight o'clock, a gentleman who
-            desires to consult you upon a matter of the very deepest moment. Your recent services to
+            de<mention>sir</mention>es to consult you upon a matter of the very deepest moment. Your recent services to
             one of the royal houses of Europe have shown that you are one who may safely be trusted.
             This account of you we have from all quarters received." <stageDirect>TO
                 HIMSELF</stageDirect> Hm! <stageDirect>READS</stageDirect> "Be in your chamber,
@@ -177,7 +177,7 @@
 
         <ln pull="#SIB-p30"><speaker>WATSON</speaker> The name of the maker, no doubt; or perhaps his monogram.</ln>
 
-        <ln pull="#SIB-p31-s1"><speaker>HOLMES</speaker> Not at all, my dear fellow. The "G" with the small "t" stands
+        <ln pull="#SIB-p31-s1"><speaker>HOLMES</speaker> Not at all, <mention>my dear fellow</mention>. The "G" with the small "t" stands
             for "Gesellschaft," which is the German for "Company."</ln>
 
         <ln><speaker>WATSON</speaker> And the "E - g"? </ln>
@@ -223,7 +223,7 @@
             <sound> DOOR OPENS AND SHUTS </sound>
         </ln>
 
-        <ln><speaker>HOLMES</speaker> Good evening, sir. </ln>
+        <ln><speaker>HOLMES</speaker> Good evening, <mention>sir</mention>. </ln>
 
         <ln pull="#SIB-p43-s1"><speaker>KING</speaker> You, uh-- You received my note?</ln>
 
@@ -239,19 +239,19 @@
 
         <ln pull="#SIB-p45-s1"><speaker>KING</speaker> You may address me as, er, Count Von Kramm.</ln>
 
-        <ln type="unmatched" change="interpel sig"><speaker>WATSON</speaker> How do you do, sir?</ln>
+        <ln type="unmatched" change="interpel sig"><speaker>WATSON</speaker> How do you do, <mention>sir</mention>?</ln>
 
         <ln pull="#SIB-p50"><speaker>KING</speaker> You must excuse this mask that I wear. The august person who
             employs me wishes his agent to be unknown to you, and I may confess at once that the
             title by which I have just called myself is not exactly my own.</ln>
 
-        <ln pull="#SIB-p51" change="interpel sig"><speaker>HOLMES</speaker> I was well aware of that fact, sir. </ln>
+        <ln pull="#SIB-p51" change="interpel sig"><speaker>HOLMES</speaker> I was well aware of that fact, <mention>sir</mention>. </ln>
 
         <ln pull="#SIB-p52-s1"><speaker>KING</speaker> You see, <mention ref="holmes">Mr. Holmes</mention>, the matter
             I am about to discuss implicates the great House of Ormstein, hereditary kings of
             Bohemia.</ln>
 
-        <ln pull="#SIB-p55" change="wording"><speaker>HOLMES</speaker> That had not escaped me either, sir. In fact, if you will
+        <ln pull="#SIB-p55" change="wording"><speaker>HOLMES</speaker> That had not escaped me either, <mention>sir</mention>. In fact, if you will
             state your case, I shall be better able to advise you -- your Majesty.</ln>
 
         <ln pull="#SIB-p56-s1" change="sig"><speaker>KING</speaker>
@@ -291,7 +291,7 @@
             Imperial Opera of Warsaw." Oh. "Retired from operatic stage. Living in London." Quite
             so. And here's a recent notation -- uh huh. <stageDirect>TO KING</stageDirect> Your
             Majesty, as I understand, became entangled with this young person, wrote her some
-            compromising letters and is now desirous of getting those letters back.</ln>
+            compromising letters and is now de<mention>sir</mention>ous of getting those letters back.</ln>
 
         <ln pull="#SIB-p63"><speaker>KING</speaker>
             <stageDirect>AMAZED</stageDirect> Precisely so. But how could--?</ln>
@@ -360,7 +360,7 @@
 
         <ln pull="#SIB-p93"><speaker>KING</speaker> To ruin me. </ln>
 
-        <ln pull="#SIB-p94" change="interpel"><speaker>HOLMES</speaker> How, sir?</ln>
+        <ln pull="#SIB-p94" change="interpel"><speaker>HOLMES</speaker> How, <mention>sir</mention>?</ln>
 
         <ln pull="#SIB-p95 #SIB-p97" change="wording"><speaker>KING</speaker> Well, I am about to be married to the second daughter of the
             King of Scandinavia. She is the [very] soul of delicacy. A shadow of a doubt as to my
@@ -426,7 +426,7 @@
 
         <ln><speaker>WATSON</speaker> And then?</ln>
 
-        <ln><speaker>HOLMES</speaker> Then, my dear fellow, we will see what we can find out about
+        <ln><speaker>HOLMES</speaker> Then, <mention>my dear fellow</mention>, we will see what we can find out about
             Miss Irene Adler, late of the Warsaw Imperial Opera Company and at present residing at
             Briony Lodge, Serpentine Avenue, St. John's Wood.</ln>
 
@@ -729,7 +729,7 @@
         <ln><speaker>WATSON</speaker> Well,<mention ref="holmes"> Holmes</mention>, now that we've
             eaten, perhaps you'll tell me your plan.</ln>
 
-        <ln><speaker>HOLMES</speaker> With pleasure, my dear fellow -- and while I'm so doing, I'll
+        <ln><speaker>HOLMES</speaker> With pleasure, <mention>my dear fellow</mention> -- and while I'm so doing, I'll
             proceed with applying the makeup for my new disguise.</ln>
 
         <ln><speaker>WATSON</speaker>
@@ -741,7 +741,7 @@
 
         <ln><speaker>WATSON</speaker> You're going to try and enter, then? </ln>
 
-        <ln pull="#SIB-p156-s1"><speaker>HOLMES</speaker> I must, my dear fellow. I'm sure the photograph is there. Miss
+        <ln pull="#SIB-p156-s1"><speaker>HOLMES</speaker> I must, <mention>my dear fellow</mention>. I'm sure the photograph is there. Miss
             Adler -- or, rather, Mrs. Norton -- will return from her drive in the park at
             six-thirty. We must be at Briony Lodge to meet her.</ln>
 
@@ -959,7 +959,7 @@
         <ln><speaker>WATSON</speaker> Yes, I understand that, but how did my throwing the rocket
             help you?</ln>
 
-        <ln pull="#SIB-p207-s1 #SIB-p207-s2"><speaker>HOLMES</speaker> It was all-important, my dear fellow. When a woman thinks her
+        <ln pull="#SIB-p207-s1 #SIB-p207-s2"><speaker>HOLMES</speaker> It was all-important, <mention>my dear fellow</mention>. When a woman thinks her
             house is on fire, her instinct is at once to rush for the thing that she values most. A
             married woman grabs her baby; an unmarried one reaches for her jewel-box. In this case,
             of course, it was the photograph.</ln>
@@ -1092,7 +1092,7 @@
             uh-- I'm sorry, your Majesty, I - I've been unable to bring your business to a more
             successful conclusion.</ln>
 
-        <ln><speaker>KING</speaker> On the contrary, my dear sir. Nothing could be more successful.
+        <ln><speaker>KING</speaker> On the contrary, my dear <mention>sir</mention>. Nothing could be more successful.
             I know that Irene's word is inviolate. The incriminating photograph is now as safe as if
             it were in the fire.</ln>
 
@@ -1106,7 +1106,7 @@
 
         <ln pull="#SIB-p253"><speaker>KING</speaker> You have but to name it.</ln>
 
-        <ln pull="#SIB-p254"><speaker>HOLMES</speaker> This photograph, sir.</ln>
+        <ln pull="#SIB-p254"><speaker>HOLMES</speaker> This photograph, <mention>sir</mention>.</ln>
 
         <ln pull="#SIB-p256"><speaker>KING</speaker> Irene's photograph? But certainly. However, you must let me give
             you something more substantial.</ln>

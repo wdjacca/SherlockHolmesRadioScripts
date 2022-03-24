@@ -52,13 +52,13 @@
 
 <ln><speaker>WATSON</speaker>Hello, Lestrade.</ln>
 
-<ln><speaker>HOLMES</speaker>Lestrade, my dear fellow, you seem very agitated. I shall presume, therefore, that this is not entirely a social call.</ln>
+<ln><speaker>HOLMES</speaker>Lestrade, <mention ref="lestrade">my dear fellow</mention>, you seem very agitated. I shall presume, therefore, that this is not entirely a social call.</ln>
 
 <ln><speaker>LESTRADE</speaker>It isn't, <mention ref="holmes">Mr. Holmes</mention>. I'm onto one of the most puzzling cases I've ever had -- and that's a fact.</ln>
 
 <ln><speaker>HOLMES</speaker>And you want my help in the matter?</ln>
 
-<ln><speaker>LESTRADE</speaker>I certainly do, sir.</ln>
+<ln><speaker>LESTRADE</speaker>I certainly do, <mention ref="holmes">sir</mention>.</ln>
 
 <ln><speaker>HOLMES</speaker>Splendid. Sit down and tell me all about it.</ln>
 
@@ -76,7 +76,7 @@
 
 <ln><speaker>HOLMES</speaker>And the couple inside the house swore he didn't come back, eh, Lestrade?</ln>
 
-<ln><speaker>LESTRADE</speaker>That's right, sir.</ln>
+<ln><speaker>LESTRADE</speaker>That's right, <mention ref="holmes">sir</mention>.</ln>
 
 <ln><speaker>WATSON</speaker>But people just don't vanish in thin air, y' know.</ln>
 
@@ -110,7 +110,7 @@
 
 <ln><speaker>LESTRADE</speaker>And this is her husband's brother, Captain Stanley Rush.</ln>
 
-<ln><speaker>HOLMES</speaker>How are you, sir?</ln>
+<ln><speaker>HOLMES</speaker>How are you, <mention ref="rush">sir</mention>?</ln>
 
 <ln><speaker>WATSON</speaker>How do you do, Captain Rush.</ln>
 
@@ -152,7 +152,7 @@
 
 <ln><speaker>BLACK</speaker>Yes he did, Stanley, I saw him go in the front door.</ln>
 
-<ln><speaker>STANLEY</speaker><stageDirect>CALLING) Better come back here, Nathan. (TO ISABEL</stageDirect> I don't know what he's talking about. He says that Bill came back for his umbrella.</ln>
+<ln><speaker>STANLEY</speaker><stageDirect>CALLING</stageDirect> Better come back here, Nathan. <stageDirect>TO ISABEL</stageDirect> I don't know what he's talking about. He says that Bill came back for his umbrella.</ln>
 
 <ln><speaker>ISABEL</speaker>This doesn't make sense. Let's go and find out what Nathan's talking about.</ln>
 
@@ -286,7 +286,7 @@
 
 <ln><speaker>BLACK</speaker><stageDirect>LAUGHING</stageDirect> I see that Stanley Rush has been talking to you! All I can tell you, gentlemen, is that if their father had any interest in copper in South America, or silk in France, that it's the first I ever heard of it.</ln>
 
-<ln><speaker>WATSON</speaker>Then may I ask, sir, how you account for those entries in the diary?</ln>
+<ln><speaker>WATSON</speaker>Then may I ask, <mention ref="black">sir</mention>, how you account for those entries in the diary?</ln>
 
 <ln><speaker>BLACK</speaker>I could answer that question a little better if I'd seen this supposed entry in the diary. Personally, I don't think it exists -- except in Stanley's imagination.</ln>
 
@@ -308,7 +308,7 @@
 
 <ln><sound>STREET NOISES</sound></ln>
 
-<ln><speaker>BLACK</speaker><stageDirect>AFTER A FEW MOMENTS) Here's my carriage, Mr. Holmes . . . (CALLING</stageDirect> Taylor come down here a minute, will you?</ln>
+<ln><speaker>BLACK</speaker><stageDirect>AFTER A FEW MOMENTS</stageDirect> Here's my carriage, Mr. Holmes . . . <stageDirect>CALLING</stageDirect> Taylor come down here a minute, will you?</ln>
 
 <ln><speaker>TAYLOR</speaker><stageDirect>FADING IN -- MIDDLE-AGED COCKNEY</stageDirect> Right y'are, Mr. Black.</ln>
 
@@ -406,7 +406,7 @@
 
 <ln><speaker>WATSON</speaker>Holmes, you don't need to tell me to -- <stageDirect>EXCLAIMING</stageDirect> Ouch! Confound it! Why do they design staircases for midgets?</ln>
 
-<ln><speaker>HOLMES</speaker>Shh, <mention>old fellow</mention>. We don't want to wake the whole house.</ln>
+<ln><speaker>HOLMES</speaker>Shh, <mention ref="watson">old fellow</mention>. We don't want to wake the whole house.</ln>
 
 <ln><sound>STEALTHY FOOTSTEPS DESCENDING STAIRS <stageDirect>NOTE: VOICES IN ENSUING SCENE ON ECHO</stageDirect></sound></ln>
 
@@ -550,7 +550,7 @@
 
 <ln><speaker>HOLMES</speaker>That I shall demonstrate to you after I have the confessions. Now, I see pen and papers on the writing desk over there. If you'll write what I dictate, please: "I hereby confess that I murdered William Rush and lied about what happened to him." And now sign it, please.</ln>
 
-<ln><speaker>BLACK</speaker><stageDirect>OFF A LITTLE) I must say, Mr. Holmes, this seems the most arrant nonsense. (FADING IN</stageDirect> Here you are.</ln>
+<ln><speaker>BLACK</speaker><stageDirect>OFF A LITTLE</stageDirect> I must say, Mr. Holmes, this seems the most arrant nonsense. <stageDirect>FADING IN</stageDirect> Here you are.</ln>
 
 <ln><speaker>HOLMES</speaker>Thank you.</ln>
 
@@ -656,7 +656,7 @@
 
 <ln><speaker>HOLMES</speaker>Sure you don't want to take us with you?</ln>
 
-<ln><speaker>LESTRADE</speaker>How d'you mean, sir?</ln>
+<ln><speaker>LESTRADE</speaker>How d'you mean, <mention ref="lestrade">sir</mention>?</ln>
 
 <ln><speaker>HOLMES</speaker>After all . . . technically we're criminals. We're guilty of housebreaking, you know.</ln>
 
@@ -676,7 +676,7 @@
 
 <ln><speaker>WATSON</speaker><stageDirect>LAUGHS</stageDirect> I'm afraid you're as bad a detective as I am. You know, determining a man's character is like determining the character of a wine. You don't judge a man by the clothes he wears any more than you judge a wine by the glass it's served in.</ln>
 
-<ln><speaker>FORMAN</speaker>Well -- get him! <mention ref="watson">Dr. Watson</mention>, the philosopher. <stageDirect>LAUGHS</stageDirect> But you've got something there, Doctor. A good wine does taste good in any kind of glass, and that's particularly true about Petri California Wine. You can serve Petri wine in water tumblers or even tea cups and it will still be clear, fragrant and delicious. That's because the Petri family really knows how to make good wine. They've been making wine for generations -- ever since they first started the Petri business way back in the eighteen-hundreds. And because their business has always been a family affair -- well, they've been able to hand on down in the family -- from father to son, from father to son -- everything they've ever learned about the art of making fine wine. Yes sir -- the Petri family knows all there is to know about turning plump, hand-picked grapes into wonderful wine. That's why you can't go wrong with a Petri wine . . . because Petri took time to bring you good wine! And now, <mention ref="watson">Doctor Watson</mention>, how's about a clue to next week's story?</ln>
+<ln><speaker>FORMAN</speaker>Well -- get him! <mention ref="watson">Dr. Watson</mention>, the philosopher. <stageDirect>LAUGHS</stageDirect> But you've got something there, Doctor. A good wine does taste good in any kind of glass, and that's particularly true about Petri California Wine. You can serve Petri wine in water tumblers or even tea cups and it will still be clear, fragrant and delicious. That's because the Petri family really knows how to make good wine. They've been making wine for generations -- ever since they first started the Petri business way back in the eighteen-hundreds. And because their business has always been a family affair -- well, they've been able to hand on down in the family -- from father to son, from father to son -- everything they've ever learned about the art of making fine wine. Yes <mention ref="watson">sir</mention> -- the Petri family knows all there is to know about turning plump, hand-picked grapes into wonderful wine. That's why you can't go wrong with a Petri wine . . . because Petri took time to bring you good wine! And now, <mention ref="watson">Doctor Watson</mention>, how's about a clue to next week's story?</ln>
 
 <ln><speaker>WATSON</speaker>Next week, Mr. Forman, I'm going to tell you about a strange and terrifying adventure that <mention ref="holmes">Sherlock Holmes</mention> and I had on the rocky coasts of Cornwall. It concerns a most unusual house, two brothers -- and a werewolf!</ln>
 

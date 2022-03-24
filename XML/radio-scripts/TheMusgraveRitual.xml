@@ -214,7 +214,7 @@
 
   <ln><speaker>WATSON</speaker>Hmph -- I suspected these relics had a history.</ln>
 
-  <ln><speaker>HOLMES</speaker>They are history, my dear<mention ref="watson"> Watson</mention> -
+  <ln><speaker>HOLMES</speaker>They are history, <mention ref="watson">my dear Watson</mention> -
    they are history.</ln>
 
   <ln><speaker>WATSON</speaker>What was it about?</ln>
@@ -227,7 +227,7 @@
   <ln><speaker>WATSON</speaker>Er- - what was the Musgrave Ritual?</ln>
 
   <ln><speaker>HOLMES</speaker>You want to interrupt my labors with a silly story -- dear, dear --
-   and leave all this litter as it is reprehensible, my dear<mention ref="watson"> Watson</mention>
+   and leave all this litter as it is reprehensible, <mention ref="watson">my dear Watson</mention>
    - thoroughly reprehensible.</ln>
 
   <ln><speaker>WATSON</speaker>Oh -- get on with the story.</ln>
@@ -237,7 +237,7 @@
    the oldest families in the Kingdom. Well, I hadn't seen Reginald Musgrave for several years --
    until one morning I received a note from him. Here it is.</ln>
 
-  <ln><speaker>WATSON</speaker><stageDirect>Reads</stageDirect> "My dear Sherlock: I hear that you
+  <ln><speaker>WATSON</speaker><stageDirect>Reads</stageDirect> "<mention ref="sherlock">My dear Sherlock</mention>: I hear that you
    are turning to practical ends these powers with which you used to analyze us. Could you spare
    time to visit us at Hurlstone? I can promise you a problem which will tax even your nimble wits.
    Hopefully yours, Reggie Musgrave."</ln>
@@ -256,7 +256,7 @@
   </ln>
 
   <ln><speaker>MUSGRAVE</speaker>Well,<mention ref="holmes"> Holmes</mention> -- delighted to see
-   you, my dear fellow. It's awfully good of you to come. You've gotten taller and thinner than
+   you, <mention ref="holmes">my dear fellow</mention>. It's awfully good of you to come. You've gotten taller and thinner than
    ever.</ln>
 
   <ln><speaker>HOLMES</speaker>You=re much the same I should say, Musgrave. </ln>
@@ -264,7 +264,7 @@
   <ln><speaker>MUSGRAVE</speaker>Alfred, carry <mention ref="holmes">Mr. Holmes</mention>= bags up
    to his room. </ln>
 
-  <ln><speaker>ALFRED</speaker>Yes sir --</ln>
+  <ln><speaker>ALFRED</speaker>Yes <mention ref="musgrave">sir</mention> --</ln>
 
   <ln><speaker>HOLMES</speaker>Your -- ah - butler is new at his job, isn't he? </ln>
 
@@ -332,23 +332,23 @@
 
   <ln><speaker>MUSGRAVE</speaker>Don't move -- if you value your life.</ln>
 
-  <ln><speaker>BRUNTON</speaker>Oh, sir --</ln>
+  <ln><speaker>BRUNTON</speaker>Oh, <mention ref="musgrave">sir</mention> --</ln>
 
   <ln><speaker>MUSGRAVE</speaker>Why -- why -- God bless me - it's Brunton! What are you doing down
    here in the middle of the night?</ln>
 
-  <ln><speaker>BRUNTON</speaker>Well, you see sir -- I --</ln>
+  <ln><speaker>BRUNTON</speaker>Well, you see <mention ref="musgrave">sir</mention> -- I --</ln>
 
   <ln><speaker>MUSGRAVE</speaker>And my desk has been broken into - and my private papers strewn on
    the table -- what do you mean by going through my private papers? You scoundrel -- after the
    trust we=ve had in you.</ln>
 
-  <ln><speaker>BRUNTON</speaker>Well, sir -- I meant no harm.</ln>
+  <ln><speaker>BRUNTON</speaker>Well, <mention ref="musgrave">sir</mention> -- I meant no harm.</ln>
 
   <ln><speaker>MUSGRAVE</speaker>The impudence -- the rank impudence. Brunton -- you will leave my
    service tomorrow.</ln>
 
-  <ln><speaker>BRUNTON</speaker>Oh, Mr. Musgrave, sir -- I can't bear the disgrace. I've always been
+  <ln><speaker>BRUNTON</speaker>Oh, Mr. Musgrave, <mention ref="musgrave">sir</mention> -- I can't bear the disgrace. I've always been
    proud about my station in life.</ln>
 
   <ln><speaker>MUSGRAVE</speaker>Yes, and look what it has led you into!</ln>
@@ -426,7 +426,7 @@
    <sound>STEPS UP STAIRS, RECEDING</sound>
   </ln>
 
-  <ln><speaker>HOLMES</speaker>Be careful -- my dear fellow -- be careful. </ln>
+  <ln><speaker>HOLMES</speaker>Be careful -- <mention ref="musgrave">my dear fellow</mention> -- be careful. </ln>
 
   <ln><speaker>MUSGRAVE</speaker><stageDirect>In distance</stageDirect> No -- there's no one
    here.</ln>
@@ -618,7 +618,7 @@
   <ln><speaker>HOLMES</speaker>Nothing -- exactly nothing -- hello, there seems to be some
    excitement now. The drags have caught on something. </ln>
 
-  <ln><speaker>MAN</speaker><stageDirect>In distance</stageDirect> We've got 'er -- sir -- we've got
+  <ln><speaker>MAN</speaker><stageDirect>In distance</stageDirect> We've got 'er -- <mention ref="holmes">sir</mention> -- we've got
    'er this time for sure.</ln>
 
   <ln><speaker>MUSGRAVE</speaker>Pull hard boys --</ln>
@@ -635,7 +635,7 @@
   <ln><speaker>MUSGRAVE</speaker><stageDirect>Fading in</stageDirect> Here, boys -- give it to
    me.</ln>
 
-  <ln><speaker>MAN</speaker>Yes sir. </ln>
+  <ln><speaker>MAN</speaker>Yes <mention ref="musgrave">sir</mention>. </ln>
 
   <ln><speaker>HOLMES</speaker>What's in it?</ln>
 
@@ -693,7 +693,7 @@
   <ln><speaker>MUSGRAVE</speaker>I must say,<mention ref="holmes"> Holmes</mention> that's very
    neat.</ln>
 
-  <ln><speaker>HOLMES</speaker>That's just the beginning -- my dear fellow -- just the beginning --
+  <ln><speaker>HOLMES</speaker>That's just the beginning -- <mention ref="musgrave">my dear fellow</mention> -- just the beginning --
    north ten and ten -- ten steps by each foot I think that means.</ln>
 
   <ln><speaker>MUSGRAVE</speaker>That takes you parallel to the well of the old wing of the
