@@ -21,17 +21,10 @@
                 <link href="https://fonts.googleapis.com/css2?family=Cinzel&amp;mp;display=swap" rel="stylesheet"/>
             </head>
             <body>
-                <section id="scriptflex"><section id="sideflex"><div id="side">
-                    <div><input type="checkbox" id="radioToggle" name="nonstory"/>
-                        <label data-for="nonstory" id="nonstory"> Hide Radio Portion </label></div>
-                    <div><input type="checkbox" id="mentionToggle" name="mention"/>
-                        <label data-for="mention" id="mention"> Show Mentions of Main Characters </label></div>
-                </div></section>
                     <div id="main">
-                        <h3> A Scandal in Bohemia</h3>
+                        <h3>The Problem of Thor Bridge</h3>
             <xsl:apply-templates select=".//ln"/>
                     </div>
-                </section>
             </body> 
         </html>
         

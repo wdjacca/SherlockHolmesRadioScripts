@@ -117,3 +117,14 @@ p a{
     display: inline;
     
 }
+
+table.interpel td{
+    width: 300px;
+}
+#cy {
+     width: 65vw;
+     height:100vh;
+     position:absolute;
+     margin:auto;
+     border-style:double;
+ }
