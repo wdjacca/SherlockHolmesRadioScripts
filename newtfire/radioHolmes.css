@@ -128,3 +128,15 @@ table.interpel td{
      margin:auto;
      border-style:double;
  }
+canvas {
+    padding: 0;
+    margin: auto;
+    display:block;
+    width: 800px;
+}
+
+div.graphics {
+    display:flex;
+    height:75vh;
+    justify-content:center;
+}
