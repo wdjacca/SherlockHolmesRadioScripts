@@ -88,7 +88,7 @@
 
 <ln><speaker>WIFE</speaker> <stageDirect>WEEPS ... THEN IN BG</stageDirect></ln>
 
-<ln><speaker>THOMAS</speaker> There. Dinna grieve, lass. I fetched the baronetcy home from Waterloo, but I fetched a mortal wound as well. <stageDirect>BEAT) Aw, hush, lass. I'm not afraid to die. All that niggles me is that I shall ne'er see the child you bear. Is Sir Walter Scott not comin' yet? Eh, can't he be here at the deathbed of his old friend? (UP</stageDirect> Who's there? Is that you, Sandy Murdock?</ln>
+<ln><speaker>THOMAS</speaker> There. Dinna grieve, lass. I fetched the baronetcy home from Waterloo, but I fetched a mortal wound as well. <stageDirect>BEAT</stageDirect> Aw, hush, lass. I'm not afraid to die. All that niggles me is that I shall ne'er see the child you bear. Is Sir Walter Scott not comin' yet? Eh, can't he be here at the deathbed of his old friend? <stageDirect>UP</stageDirect> Who's there? Is that you, Sandy Murdock?</ln>
 
 <ln><speaker>SANDY</speaker> Aye, Thomas. It's me.</ln>
 
@@ -386,7 +386,7 @@
 
 <ln><speaker>WATSON</speaker> Well,<mention ref="holmes"> Holmes</mention>? Have - have you given up hope?</ln>
 
-<ln><speaker>HOLMES</speaker> <stageDirect>APPROACHES) I'm afraid we'll never find him without dragnets and grappling hooks. Have to call the police. What time is it? (NO ANSWER, CALLS</stageDirect> Sir Ian? Do you know the time?</ln>
+<ln><speaker>HOLMES</speaker> <stageDirect>APPROACHES</stageDirect> I'm afraid we'll never find him without dragnets and grappling hooks. Have to call the police. What time is it? <stageDirect>NO ANSWER, CALLS</stageDirect> Sir Ian? Do you know the time?</ln>
 
 <ln><speaker>IAN</speaker> <stageDirect>APPROACHES</stageDirect> What did you call me, <mention ref="holmes">Mr. Holmes</mention>?</ln>
 
@@ -400,7 +400,7 @@
 
 <ln><speaker>HOLMES</speaker> <stageDirect>PLEASED</stageDirect> A quarter of an hour to the new year. Sir Ian, doesn't that fact suggest something to you?</ln>
 
-<ln><speaker>IAN</speaker> <stageDirect>REALIZES) Yes! Yes, it does. So I'm the new baronet, am I? Very well then. (DELIBERATELY</stageDirect> There'll be no more talk of the police for fifteen minutes. I want all of you to come back to the castle with me. As the last chime of midnight rings out, I shall have a statement to make. A statement that I want you all to hear.</ln>
+<ln><speaker>IAN</speaker> <stageDirect>REALIZES</stageDirect> Yes! Yes, it does. So I'm the new baronet, am I? Very well then. <stageDirect>DELIBERATELY</stageDirect> There'll be no more talk of the police for fifteen minutes. I want all of you to come back to the castle with me. As the last chime of midnight rings out, I shall have a statement to make. A statement that I want you all to hear.</ln>
 
 <ln><music>BRIDGE</music></ln>
 

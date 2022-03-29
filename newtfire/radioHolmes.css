@@ -124,7 +124,6 @@ table.interpel td{
 #cy {
      width: 65vw;
      height:100vh;
-     position:absolute;
      margin:auto;
      border-style:double;
  }
@@ -139,4 +138,14 @@ div.graphics {
     display:flex;
     height:75vh;
     justify-content:center;
+    flex: 1;
+}
+
+div.text{
+    flext:3;
+}
+
+body#interpellation{
+    display:flex;
+    flex-direction: column;
 }

@@ -17,7 +17,7 @@ change = attribute change {list{ ("interpel" | "wording"|"sig")+ }}
 # <ln change="interpel wording">...</ln>
 
 lineGp= element lineGp {line+} #Note: for separated lines by the same speaker where structure is important
-line = element line {mixed{mention*|interpel*}}
+line = element line {mixed{mention*|interpel*|stageDirect*}}
 mention = element mention {ref,text}
 speaker = element speaker {mixed{special*}}
 special = element special {nt}

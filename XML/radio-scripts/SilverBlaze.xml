@@ -118,35 +118,35 @@
             and you won't be the loser. Is it a fact that at the weights Bayard could give the other
             a hundred yards? </ln>
 
-        <ln><speaker>BOY</speaker><stageDirect>REALIZES, UPSET) So-- So you're one of them damn
+        <ln><speaker>BOY</speaker><stageDirect>REALIZES, UPSET</stageDirect>So-- So you're one of them damn
                 touts. Well, I'll show you how we serve them at King's Pyland. Just wait till I set
-                the dog free. (CALLS</stageDirect> Rover! Rover!</ln>
+                the dog free.<stageDirect>CALLS</stageDirect> Rover! Rover!</ln>
 
         <ln>
             <sound>DOG BARKS ... SCENE FADES OUT ... THEN FADE IN MOVING TRAIN INTERIOR
                 BACKGROUND</sound>
         </ln>
 
-        <ln><speaker>WATSON</speaker><stageDirect>READS) "The boy ran to unleash the dog and the
+        <ln><speaker>WATSON</speaker><stageDirect>READS</stageDirect> "The boy ran to unleash the dog and the
                 maid hurried towards the house. But, looking back, she saw the stranger leaning in
                 through the stable window. A minute later when Hunter rushed out with the dog, the
-                stranger was gone." (TO HOLMES</stageDirect> Yes, um-- That's as far as we can get
+                stranger was gone." <stageDirect>TO HOLMES</stageDirect> Yes, um-- That's as far as we can get
             with the Morning Post, I'm afraid. Mrs. Hudson very stupidly used the other half of the
             paper to light the fire this morning. I - I'm sorry.</ln>
 
-        <ln><speaker>HOLMES</speaker><stageDirect>CHUCKLES</stageDirect> Oh, no matter, my dear
-            fellow; the Telegraph has also covered the occurrence very fully. I have it here. </ln>
+        <ln><speaker>HOLMES</speaker><stageDirect>CHUCKLES</stageDirect> Oh, no matter, <mention ref="watson">my dear
+            fellow</mention>; the Telegraph has also covered the occurrence very fully. I have it here. </ln>
 
         <ln>
             <sound>RUSTLE OF NEWSPAPER</sound>
         </ln>
 
-        <ln><speaker>HOLMES</speaker>Er-- <stageDirect>READS) "Hunter, on the return of his fellow
+        <ln><speaker>HOLMES</speaker>Er-- <stageDirect>READS</stageDirect> "Hunter, on the return of his fellow
                 grooms, sent a message up to the trainer, Straker, to tell him what had happened.
                 Straker seems to have been vaguely uneasy about the matter, for although he'd been
                 to bed he got up again at one o'clock in the morning telling his wife that he was
                 going down to the stable to see if all was well. He put on a mackintosh, for it was
-                raining heavily, and left the house." (TO WATSON</stageDirect> Hm! Quite a wealth of
+                raining heavily, and left the house." <stageDirect>TO WATSON</stageDirect> Hm! Quite a wealth of
             detail, <mention ref="watson">my dear Watson</mention>. And here I have the notes of Mrs. Straker's statement. </ln>
 
         <ln>
@@ -162,16 +162,16 @@
 
         <ln><speaker>WATSON</speaker>Hunter had obviously being drugged! </ln>
 
-        <ln><speaker>HOLMES</speaker>Undoubtedly. <stageDirect>READS) "Mrs. Straker and the maid
+        <ln><speaker>HOLMES</speaker>Undoubtedly. <stageDirect>READS</stageDirect> "Mrs. Straker and the maid
                 left him and ran up to the moor to see whether Straker had merely taken the horse
-                out for exercise. And so the murder was discovered." (TO WATSON</stageDirect>
+                out for exercise. And so the murder was discovered." <stageDirect>TO WATSON</stageDirect>
             Suppose you read me the rest of Mrs. Straker's statement.</ln>
 
         <ln>
             <sound>RUSTLE OF NOTES</sound>
         </ln>
 
-        <ln><speaker>WATSON</speaker>Oh. Well-- Yes, here it is. Er-- <stageDirect>READS) "Some
+        <ln><speaker>WATSON</speaker>Oh. Well-- Yes, here it is. Er-- <stageDirect>READS</stageDirect>"Some
                 quarter of a mile from the stables Mrs. Straker and the maid found Straker's coat
                 flapping from a furze-bush. Immediately beyond, there was a bowl-shaped depression
                 on the moor, and at the bottom of this John Straker's body was found -- his head
@@ -181,7 +181,7 @@
                 was recognized by the maid as having been worn by the stranger who'd spoken to her
                 outside the stables. Hunter, the stable boy, also identified it when he'd recovered
                 from the effects of the drug. This was apparently powdered opium which had been put
-                into his curried mutton." (TO HOLMES</stageDirect> Now that - that explains what the
+                into his curried mutton."<stageDirect>TO HOLMES</stageDirect> Now that - that explains what the
             stranger was doing as he leant through the stable window--</ln>
 
         <ln><speaker>HOLMES</speaker><stageDirect>AGREES</stageDirect> Mm hm. </ln>
@@ -231,12 +231,12 @@
             <sound>FADE IN CLIP-CLOP OF HORSE AND MOVING LANDAU BACKGROUND</sound>
         </ln>
 
-        <ln><speaker>HOLMES</speaker><stageDirect>TO INSPECTOR) A clever counsel would tear your
+        <ln><speaker>HOLMES</speaker><stageDirect>TO INSPECTOR</stageDirect> A clever counsel would tear your
                 case to rags. Why should Simpson take the horse out of the stable? If he wished to
                 injure it, he could do it there. Has a duplicate key to the stable door been found
                 in his possession? What chemist sold him the powdered opium? Above all, where could
                 he -- he, a stranger to the district -- hide a horse? And such a horse as this!
-                (BEAT</stageDirect> Tell me, what is his own explanation as to the note which he
+                <stageDirect>BEAT</stageDirect> Tell me, what is his own explanation as to the note which he
             wished the maid to give to the stable boy? </ln>
 
         <ln><speaker>INSPECTOR</speaker>He says it was a ten-pound note, and one was found in his
@@ -337,7 +337,7 @@
         <ln><speaker>HOLMES</speaker>Had he been staying here then? Did Mrs. Straker know him? </ln>
 
         <ln><speaker>INSPECTOR</speaker>I gather not, but, er-- Here is Mrs. Straker.
-                <stageDirect>INTRODUCTIONS</stageDirect> Er, Mr. <mention ref="holmes">Sherlock Holmes</mention>, Mrs. Straker. </ln>
+                <stageDirect>INTRODUCTIONS</stageDirect> Er, <mention ref="holmes">Mr. Sherlock Holmes</mention>, Mrs. Straker. </ln>
 
         <ln>
             <sound>DURING ABOVE, MRS. STRAKER'S STEPS APPROACH</sound>
@@ -457,7 +457,7 @@
 
         <ln><speaker>WATSON</speaker>Almost anywhere on Dartmoor I should imagine. </ln>
 
-        <ln><speaker>HOLMES</speaker>Oh, dear, no. The horse is a gregarious animal. If left to
+        <ln><speaker>HOLMES</speaker>Oh, <mention ref="watson">dear</mention>, no. The horse is a gregarious animal. If left to
             himself, his instincts would have been either to return to King's Pyland or go on over
             to Capleton yonder. Why should he run wild upon the moor? As he's not at King's Pyland,
             he must be over there - at Capleton! Come along. </ln>
@@ -486,16 +486,16 @@
             <sound>BROWN'S STEPS APPROACH AND GROOM'S DEPART BEHIND--</sound>
         </ln>
 
-        <ln><speaker>BROWN</speaker><stageDirect>ANGRY) What's this, Dawson? No gossiping! Go on
-                about your business! (TO HOLMES</stageDirect> And you there! What the devil do you
+        <ln><speaker>BROWN</speaker><stageDirect>ANGRY</stageDirect> What's this, Dawson? No gossiping! Go on
+                about your business! <stageDirect>TO HOLMES</stageDirect> And you there! What the devil do you
             want here?!</ln>
 
-        <ln><speaker>HOLMES</speaker>Ten minutes talk with you, my good <mention ref="brown">sir</mention>. </ln>
+        <ln><speaker>HOLMES</speaker>Ten minutes talk with you, <mention ref="brown">my good sir</mention>. </ln>
 
         <ln><speaker>BROWN</speaker>Well, I've no time to talk to every gadabout. And we don't want
             strangers here. Be off, or you may find a dog at your heels.</ln>
 
-        <ln><speaker>HOLMES</speaker>One word in your ear, my friend. In your own interest.
+        <ln><speaker>HOLMES</speaker>One word in your ear,<mention ref="brown"> my friend</mention>. In your own interest.
                 <stageDirect>WHISPERS INDECIPHERABLY FOR A FEW SECONDS</stageDirect>
         </ln>
 
@@ -560,7 +560,7 @@
         <ln><speaker>WATSON</speaker>Ah, but aren't you afraid to leave the horse in his power now,
             since he has every interest in injuring it?</ln>
 
-        <ln><speaker>HOLMES</speaker>My dear fellow, he'll guard it like the apple of his eye. He
+        <ln><speaker>HOLMES</speaker><mention ref="watson">My dear fellow</mention>, he'll guard it like the apple of his eye. He
             knows that his only hope of mercy is to produce it safely at the racetrack for the
             Wessex Cup. I made that perfectly clear to him. But I have a little trick to play on
             Colonel Ross. You may have noticed that his manner to me was just a trifle cavalier. So
@@ -611,7 +611,7 @@
         <ln><speaker>WATSON</speaker><stageDirect>NARRATES</stageDirect> We went outside.</ln>
 
         <ln><speaker>HOLMES</speaker>Goodbye. Goodbye, colonel! I hope to see you at the Wessex Cup
-            -- and Silver Blaze. [Goodbye, Inspector.</ln>
+            -- and Silver Blaze. Goodbye, Inspector.</ln>
 
         <ln><speaker>INSPECTOR</speaker><stageDirect>TROUBLED</stageDirect> But, <mention ref="holmes">Mr. Holmes</mention>, isn't
             there any point to which you would wish to draw my attention?</ln>
@@ -621,7 +621,7 @@
         <ln><speaker>INSPECTOR</speaker><stageDirect>PUZZLED</stageDirect> The dog did nothing in
             the night-time.</ln>
 
-        <ln><speaker>HOLMES</speaker>That was the curious incident.]</ln>
+        <ln><speaker>HOLMES</speaker>That was the curious incident.</ln>
 
         <ln>
             <sound>HORSE AND CARRIAGE DEPART ... SCENE FADES OUT ... FADE IN RACETRACK BACKGROUND
@@ -645,7 +645,7 @@
         <ln><speaker>HOLMES</speaker>Yes, I found him in the hands of a fakir, and took the liberty
             of running him just as he was sent over. </ln>
 
-        <ln><speaker>COLONEL</speaker>My dear <mention ref="holmes">sir</mention>, you've done wonders! I owe you a thousand
+        <ln><speaker>COLONEL</speaker> <mention ref="holmes">My dear sir</mention>, you've done wonders! I owe you a thousand
             apologies! You've done me a very great service by recovering my horse. You would do me a
             greater still if you could lay your hands on the murderer of John Straker. </ln>
 

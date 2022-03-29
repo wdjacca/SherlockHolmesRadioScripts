@@ -98,9 +98,9 @@
 
         <ln><speaker>WATSON</speaker>Perhaps her father or mother just died. Or a young man, yes, I
             bet that's it. She's a pretty girl. She'd obviously been crying when she came in.
-            Perhaps that's her fianc? they're burying now.</ln>
+            Perhaps that's her fiance they're burying now.</ln>
 
-        <ln><speaker>HOLMES</speaker>Watson, you have the sentimental imagination of the true
+        <ln><speaker>HOLMES</speaker><mention ref="watson">Watson</mention>, you have the sentimental imagination of the true
             storyteller. But we've come here for a holiday. You must give your imagination a rest,
             too. So, drink your tea, remove your whiskers, and we'll go downstairs and investigate
             those kippers.</ln>
@@ -109,21 +109,21 @@
 
         <ln><sound>CUPS, SAUCERS and general BREAKFAST NOISES under the following.</sound></ln>
 
-        <ln>MRS. MICHOL: You like your kippers, gentlemen?</ln>
+        <ln><speaker>MRS. MICHOL</speaker> You like your kippers, gentlemen?</ln>
 
         <ln><speaker>WATSON</speaker>Excellent, Mrs. Michol, excellent. Never eaten better.</ln>
 
         <ln><speaker>HOLMES</speaker>Yes, indeed. By the way, Mrs. Michol, we heard the funeral bell
             tolling earlier on. Do you know who was being buried?</ln>
 
-        <ln>MRS. MICHOL: Yes, I do. Two souls were being buried. And one of them was a
+        <ln><speaker>MRS. MICHOL</speaker> Yes, I do. Two souls were being buried. And one of them was a
             murderer.</ln>
 
         <ln><speaker>WATSON</speaker>A murderer? Lord, in this peaceful village.</ln>
 
         <ln><speaker>HOLMES</speaker>What happened, Mrs. Michol?</ln>
 
-        <ln>MRS. MICHOL: Old Threadgold the corn merchant found out his wife had been gallivanting
+        <ln><speaker>MRS. MICHOL</speaker> Old Threadgold the corn merchant found out his wife had been gallivanting
             around with a young fellow from Bolton. Cut her throat, he did, and then hanged himself.
             More tea?</ln>
 
@@ -135,7 +135,7 @@
         <ln><speaker>HOLMES</speaker>Thank that I frequently had occasion to point out to you,
            <mention ref="watson"> Watson</mention>. Has the morning post arrived yet, Mrs. Michol?</ln>
 
-        <ln>MRS. MICHOL: Here comes ol' Gilly up the path with it now. I'll see if he's got anything
+        <ln><speaker>MRS. MICHOL</speaker> Here comes ol' Gilly up the path with it now. I'll see if he's got anything
             for you.</ln>
 
         <ln><speaker>WATSON</speaker>A murder. What do you make of it,<mention ref="holmes"> Holmes</mention>?</ln>
@@ -166,7 +166,7 @@
         <ln><speaker>WATSON</speaker>Did you say that you're the bell ringer as well as the
             postman?</ln>
 
-        <ln><speaker>GILLIAN</speaker>Bless your heart, yes, Doctor. President of the Choral
+        <ln><speaker>GILLIAN</speaker>Bless your heart, yes, <mention ref="watson">Doctor</mention>. President of the Choral
             Society, too, as well as being on the Perries council.</ln>
 
         <ln><speaker>HOLMES</speaker>You're a busy man, Gillian.</ln>
@@ -185,31 +185,31 @@
             did. They looked each other up to exchange them, and, presto, before you know what's
             happening, they're getting married. Regular cupid you might say I am.</ln>
 
-        <ln>MRS. MICHOL: Be off with you, Gilly. Other people want their letters. <mention ref="holmes">Mr. Holmes</mention> doesn't
+        <ln><speaker>MRS. MICHOL</speaker> Be off with you, Gilly. Other people want their letters. <mention ref="holmes">Mr. Holmes</mention> doesn't
             want his kippers spoiled with your idle chatter.</ln>
 
         <ln><speaker>GILLIAN</speaker>All right, Mrs. Crab-Apples-and-Vinegar. </ln>
 
-        <ln>MRS. MICHOL: Ahh.</ln>
+        <ln><speaker>MRS. MICHOL</speaker> Ahh.</ln>
 
         <ln><speaker>GILLIAN</speaker>One of these fine days you'll smile, and the world will come
             to an end. Good day, gentlemen.</ln>
 
-        <ln>MRS. MICHOL: Talkative ol' busybody he is. Oh, <mention ref="holmes">Mr. Holmes</mention>, Mrs. Lakland's in the hall.
+        <ln><speaker>MRS. MICHOL</speaker> Talkative ol' busybody he is. Oh, <mention ref="holmes">Mr. Holmes</mention>, Mrs. Lakland's in the hall.
             The poor old lady is most anxious to talk to you.</ln>
 
         <ln><speaker>HOLMES</speaker>Mrs. Lakland?</ln>
 
-        <ln>MRS. MICHOL: She has the seamstress shop on the high street. Her only son ran away from
+        <ln><speaker>MRS. MICHOL</speaker> She has the seamstress shop on the high street. Her only son ran away from
             home a few months back. I think that's what she wants to speak to you about.</ln>
 
         <ln><speaker>WATSON</speaker>Oh, but my friend's here for a rest, Mrs. Michol.</ln>
 
-        <ln>MRS. MICHOL: I told her that Dr, but she won't go away without seeing <mention ref="holmes">Mr. Holmes</mention>.</ln>
+        <ln><speaker>MRS. MICHOL</speaker> I told her that <mention ref="watson">Dr</mention>, but she won't go away without seeing <mention ref="holmes">Mr. Holmes</mention>.</ln>
 
         <ln><speaker>HOLMES</speaker>Oh, very well. Ask her to come in, please, Mrs. Michol.</ln>
 
-        <ln>MRS. MICHOL: Yes, <mention ref="holmes">Mr. Holmes</mention>.</ln>
+        <ln><speaker>MRS. MICHOL</speaker> Yes, <mention ref="holmes">Mr. Holmes</mention>.</ln>
 
         <ln><speaker>WATSON</speaker>Oh, I do bother to see her,<mention ref="holmes"> Holmes</mention>. Sounds like a trivial
             matter. </ln>

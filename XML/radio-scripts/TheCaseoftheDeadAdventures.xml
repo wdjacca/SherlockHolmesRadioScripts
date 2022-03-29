@@ -699,17 +699,17 @@
         <ln><speaker>Prefect</speaker>Quiet! <stageDirect>After a moment</stageDirect> I did not say
             that you gentlemen did it. I'm saying that you both had the opportunity.</ln>
 
-        <ln><speaker>Holmes</speaker>Monsieur le Prefect...as I am under arrest, may I have the
+        <ln><speaker>Holmes</speaker><mention ref="prefect">Monsieur le Prefect</mention>...as I am under arrest, may I have the
             privilege of proving myself innocent?</ln>
 
-        <ln><speaker>Prefect</speaker>Mais certainment, monsieur...if you can.</ln>
+        <ln><speaker>Prefect</speaker>Mais certainment, <mention ref="holmes">monsieur</mention>...if you can.</ln>
 
         <ln><speaker>Holmes</speaker>I think the identity of the murderer will be obvious when we
             find the jewels stolen from Madame Corvey's safe. Now the three people present at, or
             about, the time of the lady's murder-were <speaker>searched</speaker>myself-the Duc-and
             Mr. Shipton here. Am I right Inspector Charel?</ln>
 
-        <ln><speaker>Charel</speaker>Yes, monsieur, and the jewels were not found-so what does that
+        <ln><speaker>Charel</speaker>Yes, <mention ref="holmes">monsieur</mention>, and the jewels were not found-so what does that
             prove?</ln>
 
         <ln><speaker>Holmes</speaker>One other person that had a motive for killing Madame Corvey

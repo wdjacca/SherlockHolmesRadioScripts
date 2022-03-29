@@ -22,7 +22,7 @@
             </head>
             <body>
                     <div id="main">
-                        <h3>The Problem of Thor Bridge</h3>
+                        <h3>A Scandal in Bohemia</h3>
             <xsl:apply-templates select=".//ln"/>
                     </div>
             </body> 
