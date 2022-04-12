@@ -122,7 +122,7 @@
    <music>VIOLIN CONTINUES</music>
   </ln>
 
-  <ln><speaker>WATSON</speaker>Oh -- stop that racket -- why don=t you do something worth while --
+  <ln><speaker>WATSON</speaker>Oh -- stop that racket -- why don't you do something worth while --
    instead of lolling around like that?</ln>
 
   <ln>VIOLIN STOPS</ln>
@@ -132,14 +132,14 @@
   <ln><speaker>WATSON</speaker>Well -- ah - -well you could straighten up this room. It looks more
    like a pig sty every day.</ln>
 
-  <ln><speaker>HOLMES</speaker>Oh, very well - <mention ref="watson">yawns</mention></ln>
+  <ln><speaker>HOLMES</speaker>Oh, very well - <stageDirect>yawns</stageDirect></ln>
 
   <ln>
    <sound>FOOTSTEPS FADING </sound>
   </ln>
 
 
-  <ln>WATSON : Now where are you going?</ln>
+  <ln><speaker>WATSON</speaker> Now where are you going?</ln>
 
   <ln>
    <sound>DOOR OPENS AND SLAMS</sound>
