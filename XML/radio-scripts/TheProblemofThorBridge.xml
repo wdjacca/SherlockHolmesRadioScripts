@@ -73,7 +73,7 @@
 
         <ln><speaker>ANNOUNCER</speaker> That's what you promised us, doctor. How did it begin?</ln>
 
-        <ln pull="TB-p2"><speaker>WATSON</speaker>
+        <ln pull="#TB-p2" change="wording"><speaker>WATSON</speaker>
             <stageDirect>NARRATES</stageDirect> On a windy morning in October -- in 1890, it was --
             as I was dressing, I observed how the last remaining leaves were being whirled away from
             the solitary plane tree which graced the yard behind our Baker Street house. I descended
@@ -83,7 +83,7 @@
             spoke.</ln>
 
         <ln><speaker>HOLMES</speaker>
-            <stageDirect>CHEERY</stageDirect> Good morning, my dear fellow. I hope you slept
+            <stageDirect>CHEERY</stageDirect> Good morning, <mention ref="watson">my dear fellow</mention>. I hope you slept
             well.</ln>
 
         <ln><speaker>WATSON</speaker> Splendidly, thanks,<mention ref="holmes">
@@ -91,36 +91,36 @@
 
         <ln><speaker>HOLMES</speaker> I'm so glad.</ln>
 
-        <ln><speaker>WATSON</speaker> Well, you're very solicitous this morning. I - I think you
+        <ln pull="#TB-p3" change="wording"><speaker>WATSON</speaker> Well, you're very solicitous this morning. I - I think you
             must have got a new case. <stageDirect>CHUCKLES</stageDirect> Am I right?</ln>
 
-        <ln><speaker>HOLMES</speaker> The faculty of deduction is certainly contagious. Yes, I have
+        <ln pull="#TB-p4"><speaker>HOLMES</speaker> The faculty of deduction is certainly contagious. Yes, I have
             a new case. After a month of trivialities and stagnation, the wheels revolve once
             more.</ln>
 
         <ln><speaker>WATSON</speaker> Good. Tell me all about it.</ln>
 
-        <ln><speaker>HOLMES</speaker> Well, as yet, there isn't much to tell. Have you ever heard of
+        <ln pull="#TB-p8" change="wording"><speaker>HOLMES</speaker> Well, as yet, there isn't much to tell. Have you ever heard of
             Neil Gibson?</ln>
 
         <ln><speaker>WATSON</speaker> Neil Gibson? Oh, yes, yes, yes. Something to do with gold
             mining, hasn't he?</ln>
 
-        <ln><speaker>HOLMES</speaker> A great deal to do with it, my dear fellow. In fact, he's
+        <ln pull="#TB-p10-s1 #TB-p12" change="wording"><speaker>HOLMES</speaker> A great deal to do with it, <mention ref="watson">my dear fellow</mention>. In fact, he's
             considered the greatest mining magnate in the world. About five years ago, he bought a
             large estate in Hampshire. Perhaps you've read of the tragic death of his wife.</ln>
 
-        <ln><speaker>WATSON</speaker> Oh, yes, of course. I remember the case now. She was murdered
+        <ln pull="#TB-p13" change="sig"><speaker>WATSON</speaker> Oh, yes, of course. I remember the case now. She was murdered
             by a jealous governess who was in her employ, wasn't she?</ln>
 
-        <ln><speaker>HOLMES</speaker> That point will be decided when the lady in question -- Grace
-            Dunbar, I believe her name is -- comes up for trial at the forthcoming Winchester
+        <ln pull="#TB-p15-s1 #TB-p15-s2" change="wording interpel"><speaker>HOLMES</speaker> That point will be decided when the lady in question -- <mention ref="Dunbar">Grace
+            Dunbar</mention>, I believe her name is -- comes up for trial at the forthcoming Winchester
             Assizes. In any case, it's hard to see what I can do for my client at this late
             date.</ln>
 
-        <ln><speaker>WATSON</speaker> Your client?</ln>
+        <ln pull="#TB-p16"><speaker>WATSON</speaker> Your client?</ln>
 
-        <ln><speaker>HOLMES</speaker> Oh, yes. I forgot I hadn't told you. I'm getting into your
+        <ln pull="#TB-p17"><speaker>HOLMES</speaker> Oh, yes. I forgot I hadn't told you. I'm getting into your
             involved habit of telling a story backwards. You'd better read this letter; came this
             morning.</ln>
 
@@ -128,19 +128,19 @@
             <sound>RATTLE OF PAPER</sound>
         </ln>
 
-        <ln><speaker>WATSON</speaker> Let's have a look. <stageDirect>READS</stageDirect> "Dear Mr.
-                <mention ref="holmes">Sherlock Holmes</mention>, Miss Dunbar is innocent. I can't
+        <ln pull="#TB-p18" change="sig"><speaker>WATSON</speaker> Let's have a look. <stageDirect>READS</stageDirect> "Dear Mr.
+                <mention ref="holmes">Sherlock Holmes</mention>, <mention ref="dunbar">Miss Dunbar</mention> is innocent. I can't
             see the finest woman in the world go to her death without doing everything possible to
             save her. I shall call on you at ten-thirty to-morrow morning to discuss the matter.
             Yours faithfully, Neil Gibson." Good gracious me.</ln>
 
-        <ln><speaker>HOLMES</speaker> There you have it,<mention ref="watson"> Watson</mention>.
+        <ln pull="#TB-p19-s1 TB-p19-s2"><speaker>HOLMES</speaker> There you have it,<mention ref="watson"> Watson</mention>.
             That is the gentleman I await. </ln>
 
         <ln><speaker>WATSON</speaker> Do you know anything about his dead wife?</ln>
 
-        <ln><speaker>HOLMES</speaker> Only what I've been reading in the papers. Apparently, she was
-            past her prime, which was the more unfortunate as this Miss Dunbar, who superintended
+        <ln pull="#TB-p19-s3" change="interpel sig"><speaker>HOLMES</speaker> Only what I've been reading in the papers. Apparently, she was
+            past her prime, which was the more unfortunate as this <mention ref="dunbar">Miss Dunbar</mention>, who superintended
             the education of the two young children, is reputed to be a very attractive young
             lady.</ln>
 
@@ -148,43 +148,43 @@
             <stageDirect>CHUCKLES</stageDirect> The eternal triangle, eh? Well, where did the murder
             take place?</ln>
 
-        <ln><speaker>HOLMES</speaker> On Gibson's estate in Hampshire. His wife was found on the
+        <ln pull="#TB-p19-s4 TB-p19-s5" change="wording"><speaker>HOLMES</speaker> On Gibson's estate in Hampshire. His wife was found on the
             grounds nearly half a mile from the manor house, late at night, clad in her dinner
             dress, with a shawl over her shoulders and -- a revolver bullet through her brain. </ln>
 
-        <ln><speaker>WATSON</speaker> Any weapon found near her?</ln>
+        <ln pull="#TB-p19-s4" change="sig wording"><speaker>WATSON</speaker> Any weapon found near her?</ln>
 
-        <ln><speaker>HOLMES</speaker> No, there were no clues found at the scene of the crime.</ln>
+        <ln pull="#TB-p19-s4" change="sig wording"><speaker>HOLMES</speaker> No, there were no clues found at the scene of the crime.</ln>
 
-        <ln><speaker>WATSON</speaker> What made them suspect the governess?</ln>
+        <ln pull="#TB-p20" change="wording sig"><speaker>WATSON</speaker> What made them suspect the governess?</ln>
 
-        <ln><speaker>HOLMES</speaker> Well, in the first place, there was some very incriminating
+        <ln pull="#TB-p21-s1"><speaker>HOLMES</speaker> Well, in the first place, there was some very incriminating
             evidence. A revolver with one discharged chamber -- the calibre corresponding with the
-            bullet in the dead woman's head -- was found on the floor in Miss Dunbar's
+            bullet in the dead woman's head -- was found on the floor in <mention ref="dunbar">Miss Dunbar</mention>'s
             wardrobe.</ln>
 
         <ln><speaker>WATSON</speaker> Oh, was it? Pretty damaging evidence,<mention ref="holmes">
                 Holmes</mention>.</ln>
 
-        <ln><speaker>HOLMES</speaker> Mmm. So the coroner thought. And, to make the case even
-            blacker against Miss Dunbar, the dead woman had a note on her making an appointment at
+        <ln pull="#TB-p21-s2" change="sig"><speaker>HOLMES</speaker> Mmm. So the coroner thought. And, to make the case even
+            blacker against <mention ref="dunbar">Miss Dunbar</mention>, the dead woman had a note on her making an appointment at
             that very spot -- and the note was signed by the governess.</ln>
 
-        <ln><speaker>WATSON</speaker> It seems obvious that the girl's guilty. And the motive's
+        <ln pull="#TB-p21-s3" change="wording"><speaker>WATSON</speaker> It seems obvious that the girl's guilty. And the motive's
             clear. Mr. Gibson would be a great catch for a young girl. Love, fortune, power -- all
             dependent on one life. </ln>
 
-        <ln><speaker>HOLMES</speaker> Possibly,<mention ref="watson"> Watson</mention>, but
+        <ln type="unmatched" change="sig"><speaker>HOLMES</speaker> Possibly,<mention ref="watson"> Watson</mention>, but
             circumstantial evidence can be very misleading at times.</ln>
 
         <ln>
             <sound>DOOR BELL JANGLES</sound>
         </ln>
 
-        <ln><speaker>HOLMES</speaker> Ah, there's the gentleman in question, unless I'm very much
+        <ln pull="#TB-p25-s1" change="wording"><speaker>HOLMES</speaker> Ah, there's the gentleman in question, unless I'm very much
             mistaken, considerably before his time.</ln>
 
-        <ln><speaker>WATSON</speaker>
+        <ln type="unmatched" change="sig"><speaker>WATSON</speaker>
             <stageDirect>OFF</stageDirect> Well, I can see him from the window here.
             Formidable-looking fellow. Must be well over six foot tall.</ln>
 
@@ -192,14 +192,14 @@
             <sound>DOOR BELL JANGLES, LOUDER</sound>
         </ln>
 
-        <ln><speaker>HOLMES</speaker>
+        <ln type="unmatched" change="sig"><speaker>HOLMES</speaker>
             <stageDirect>LAUGHS</stageDirect> Judging by the way he's wrenching at that door bell,
             he's a man with a violent temper.</ln>
 
         <ln><speaker>WATSON</speaker>
             <stageDirect>OFF</stageDirect> Mrs. Hudson's opening the door to him now.</ln>
 
-        <ln><speaker>HOLMES</speaker> Ah, meet him on the stairs, will you, <mention>old chap</mention> It'll save
+        <ln><speaker>HOLMES</speaker> Ah, meet him on the stairs, will you, <mention ref="watson">old chap</mention> It'll save
             Mrs. Hudson a journey.</ln>
 
         <ln><speaker>WATSON</speaker>
@@ -211,10 +211,10 @@
         </ln>
 
         <ln><speaker>WATSON</speaker>
-            <stageDirect>OFF, CALLS</stageDirect> Up here, sir!</ln>
+            <stageDirect>OFF, CALLS</stageDirect> Up here, <mention ref="gibson">sir</mention>!</ln>
 
         <ln><speaker>GIBSON</speaker>
-            <stageDirect>OFF, TO WATSON</stageDirect> Are you Mr. <mention ref="holmes">Sherlock
+            <stageDirect>OFF, TO WATSON</stageDirect> Are you <mention ref="holmes">Mr. Sherlock
                 Holmes</mention>?</ln>
 
         <ln><speaker>WATSON</speaker>
@@ -227,69 +227,69 @@
 
         <ln><speaker>HOLMES</speaker> Mr. Neil Gibson, I presume?</ln>
 
-        <ln><speaker>GIBSON</speaker> That's right. So you're the great <mention ref="holmes"
+        <ln type="unmatched" change="sig interpel"><speaker>GIBSON</speaker> That's right. So you're the great <mention ref="holmes"
                 >Sherlock Holmes</mention>, huh?</ln>
 
-        <ln><speaker>HOLMES</speaker>
+        <ln type="unmatched" change="sig interpel"><speaker>HOLMES</speaker>
             <stageDirect>CHUCKLES</stageDirect> The adjective is your own, Mr. Gibson. Sit down,
             won't you? By the way, you may speak quite freely in front of <mention ref="watson">Dr.
                 Watson</mention>.</ln>
 
-        <ln><speaker>GIBSON</speaker> Hm. Well, I may as well begin by telling you that money means
+        <ln pull="#TB-p38"><speaker>GIBSON</speaker> Hm. Well, I may as well begin by telling you that money means
             nothing to me in this case. You can burn it if it's any use to you in lighting the
-            truth. Miss Dunbar is innocent and it's up to you to prove it. Just name your fee.</ln>
+            truth. <mention ref="dunbar">Miss Dunbar</mention> is innocent and it's up to you to prove it. Just name your fee.</ln>
 
-        <ln><speaker>HOLMES</speaker> Mr. Gibson, my professional charges are on a fixed scale. I
+        <ln pull="#TB-p39"><speaker>HOLMES</speaker> Mr. Gibson, my professional charges are on a fixed scale. I
             don't vary them, except when I omit them altogether.</ln>
 
-        <ln><speaker>GIBSON</speaker> Very well. I imagine that you read the newspaper reports of
+        <ln pull="#TB-p42" change="wording"><speaker>GIBSON</speaker> Very well. I imagine that you read the newspaper reports of
             the coroner's inquest.</ln>
 
         <ln><speaker>HOLMES</speaker> Yes, very thoroughly.</ln>
 
-        <ln><speaker>GIBSON</speaker> I don't see that I can add anything that'll help you. But if
+        <ln pull="#TB-p42" change="wording"><speaker>GIBSON</speaker> I don't see that I can add anything that'll help you. But if
             there are any questions you'd like to ask, I'll answer them.</ln>
 
-        <ln><speaker>HOLMES</speaker> Well, thank you. First, what were the exact relations between
-            you and Miss Dunbar?</ln>
+        <ln pull="#TB-p45"><speaker>HOLMES</speaker> Well, thank you. First, what were the exact relations between
+            you and <mention ref="dunbar">Miss Dunbar</mention>?</ln>
 
-        <ln><speaker>GIBSON</speaker>
+        <ln pull="#TB-p47"><speaker>GIBSON</speaker>
             <stageDirect>TENSE</stageDirect> I suppose you're within your rights in asking such a
             question, <mention ref="holmes">Mr. Holmes</mention>.</ln>
 
-        <ln><speaker>HOLMES</speaker>
+        <ln pull="#TB-p48"><speaker>HOLMES</speaker>
             <stageDirect>CHUCKLES</stageDirect> We will agree to suppose so, shall we?</ln>
 
-        <ln><speaker>GIBSON</speaker>
+        <ln pull="#TB-p49"><speaker>GIBSON</speaker>
             <stageDirect>UNCONVINCINGLY</stageDirect> Then I can assure you that my relations with
-            Miss Dunbar were always those of an employer towards a young lady whom he never
+            <mention ref="dunbar">Miss Dunbar</mention> were always those of an employer towards a young lady whom he never
             conversed with, or ever saw, except in the company of his children.</ln>
 
-        <ln><speaker>HOLMES</speaker>
+        <ln pull="#TB-p51" change="interpel sig"><speaker>HOLMES</speaker>
             <stageDirect>DISGUSTED</stageDirect> Ohh. <stageDirect>DISMISSIVE</stageDirect> I'm
             rather a busy man, Mr. Gibson, and I've no time or taste for aimless conversation. I
             wish you good-morning.</ln>
 
-        <ln><speaker>GIBSON</speaker>
+        <ln pull="#TB-p53"><speaker>GIBSON</speaker>
             <stageDirect>ANGRY</stageDirect> What the devil do you mean by this, <mention
                 ref="holmes">Mr. Holmes</mention>? </ln>
 
-        <ln><speaker>HOLMES</speaker> My dear sir, the case is difficult enough without your giving
+        <ln pull="#TB-p56" change="interpel wording"><speaker>HOLMES</speaker> <mention ref="gibson">My dear sir</mention>, the case is difficult enough without your giving
             me false information.</ln>
 
-        <ln><speaker>GIBSON</speaker> Meaning that I lie, sir?</ln>
+        <ln pull="#TB-57" change="interpel"><speaker>GIBSON</speaker> Meaning that I lie, <mention ref="holmes">sir</mention>?</ln>
 
-        <ln><speaker>HOLMES</speaker> I was trying to express it as delicately as possible, but -
+        <ln pull="#TB-p58"><speaker>HOLMES</speaker> I was trying to express it as delicately as possible, but -
                 <stageDirect>CLEARS THROAT</stageDirect> - if you insist on the word I won't
             contradict you.</ln>
 
-        <ln><speaker>GIBSON</speaker> Why, you confounded--!</ln>
+        <ln type="unmatched" change="interpel sig"><speaker>GIBSON</speaker> Why, you confounded--!</ln>
 
-        <ln><speaker>HOLMES</speaker> Don't be noisy, Mr. Gibson. Please, don't be noisy. I find
+        <ln pull="#TB-p60"><speaker>HOLMES</speaker> Don't be noisy, Mr. Gibson. Please, don't be noisy. I find
             that after breakfast even the smallest argument is unsettling. I suggest that a stroll
             in the morning air and a little quiet thought will be greatly to your advantage.</ln>
 
-        <ln><speaker>GIBSON</speaker> I suppose I can't make you take the case - but you've done
+        <ln pull="#TB-p62" change="wording"><speaker>GIBSON</speaker> I suppose I can't make you take the case - but you've done
             yourself no good this morning, <mention ref="holmes">Mr. Holmes</mention>!
                 <stageDirect>MOVING OFF</stageDirect> I've broken stronger men than you! No man ever
             crossed me and was the better for it!</ln>
@@ -298,7 +298,7 @@
             <sound>GIBSON'S FOOTSTEPS TO DOOR WHICH OPENS</sound>
         </ln>
 
-        <ln><speaker>HOLMES</speaker>
+        <ln pull="#TB-p63"><speaker>HOLMES</speaker>
             <stageDirect>CALLS</stageDirect> Good-morning, Mr. Gibson. You've a great deal yet to
             learn.</ln>
 
@@ -317,14 +317,14 @@
             Watson</mention>, and I cannot tolerate arrogance -- particularly when it's coupled with
             great wealth.</ln>
 
-        <ln><speaker>WATSON</speaker> How did you know about his relations with the governess?</ln>
+        <ln pull="#TB-p68" change="wording"><speaker>WATSON</speaker> How did you know about his relations with the governess?</ln>
 
-        <ln><speaker>HOLMES</speaker> I didn't. It was pure bluff.</ln>
+        <ln pull="#TB-p69-s1" change="interpel"><speaker>HOLMES</speaker> I didn't. It was pure bluff.</ln>
 
-        <ln><speaker>WATSON</speaker> Bluff! <stageDirect>CHUCKLES</stageDirect> Well, it certainly
+        <ln pull="#TB-p70" change="interpel wording"><speaker>WATSON</speaker> Bluff! <stageDirect>CHUCKLES</stageDirect> Well, it certainly
             worked. Think he'll come back?</ln>
 
-        <ln><speaker>HOLMES</speaker> Oh, of course he will. He needs my help too badly. He'll
+        <ln pull="#TB-p71-s1" change="wording"><speaker>HOLMES</speaker> Oh, of course he will. He needs my help too badly. He'll
             probably change his mind before he's halfway down the stairs.</ln>
 
         <ln>
@@ -338,7 +338,7 @@
             <sound>DOOR OPENS</sound>
         </ln>
 
-        <ln><speaker>HOLMES</speaker> Ah! <stageDirect>CHUCKLES</stageDirect> Mr. Gibson. Just
+        <ln pull="#TB-p71-s2" change="wording"><speaker>HOLMES</speaker> Ah! <stageDirect>CHUCKLES</stageDirect> Mr. Gibson. Just
             saying to <mention ref="watson">Dr. Watson</mention> that I was certain you'd be
             back.</ln>
 
@@ -346,80 +346,80 @@
             <sound>DOOR CLOSES ... GIBSON'S FOOTSTEPS IN</sound>
         </ln>
 
-        <ln><speaker>GIBSON</speaker>
+        <ln pull="#TB-p73-s1 TB-p73-s2" change="wording"><speaker>GIBSON</speaker>
             <stageDirect>APPROACHES</stageDirect> I've been thinking it over, <mention ref="holmes"
                 >Mr. Holmes</mention>, and I feel that perhaps I was hasty in taking your remarks
-            amiss. Just the same, I can assure you that the relations between Miss Dunbar and me
+            amiss. Just the same, I can assure you that the relations between <mention ref="dunbar">Miss Dunbar</mention> and me
             really don't affect this case.</ln>
 
-        <ln><speaker>HOLMES</speaker> Surely, that is for me to decide, Mr. Gibson.</ln>
+        <ln pull="#TB-p74" change="interpel"><speaker>HOLMES</speaker> Surely, that is for me to decide, Mr. Gibson.</ln>
 
-        <ln><speaker>WATSON</speaker> You see, Mr. Gibson, my friend is like a doctor. He wants
+        <ln pull="#TB-p75" change="wording"><speaker>WATSON</speaker> You see, Mr. Gibson, my friend is like a doctor. He wants
             every symptom before he can give his diagnosis.</ln>
 
-        <ln><speaker>GIBSON</speaker> Fire away, <mention ref="holmes">Mr. Holmes</mention>. What is
+        <ln pull="#TB-p77-s1"><speaker>GIBSON</speaker> Fire away, <mention ref="holmes">Mr. Holmes</mention>. What is
             it you want to know?</ln>
 
-        <ln><speaker>HOLMES</speaker> The truth.</ln>
+        <ln pull="#TB-p78"><speaker>HOLMES</speaker> The truth.</ln>
 
-        <ln><speaker>GIBSON</speaker> I can give it to you in a very few words. To begin with, I met
+        <ln pull="#TB-p80-s1 TB-p80-s2" change="sig"><speaker>GIBSON</speaker> I can give it to you in a very few words. To begin with, I met
             my wife when I was gold-mining in Brazil. </ln>
 
-        <ln><speaker>WATSON</speaker> Your wife was Brazilian by birth, wasn't she, sir?</ln>
+        <ln><speaker>WATSON</speaker> Your wife was Brazilian by birth, wasn't she, <mention ref="gibson">sir</mention>?</ln>
 
-        <ln><speaker>GIBSON</speaker> Yes, doctor, and very beautiful. Well, to make a long story
+        <ln pull="#TB-p80-s2 TB-p80-s3" change="wording sig"><speaker>GIBSON</speaker> Yes, doctor, and very beautiful. Well, to make a long story
             short, I fell in love and married her and brought her to England. After a few years, I
             realized that we had nothing -- absolutely nothing -- in common. </ln>
 
-        <ln><speaker>HOLMES</speaker> And then, I suppose, this young governess, Miss Dunbar,
+        <ln type="unmatched" change="sig interpel"><speaker>HOLMES</speaker> And then, I suppose, this young governess, <mention ref="dunbar">Miss Dunbar</mention>,
             arrived on the scene.</ln>
 
-        <ln><speaker>GIBSON</speaker> That's right, <mention ref="holmes">Mr. Holmes</mention>.
+        <ln type="unmatched" change="sig interpel"><speaker>GIBSON</speaker> That's right, <mention ref="holmes">Mr. Holmes</mention>.
             Well, the story should be obvious to you from there.</ln>
 
-        <ln><speaker>WATSON</speaker> You fell in love with this girl, I suppose, sir.</ln>
+        <ln type="unmatched" change="sig interpel"><speaker>WATSON</speaker> You fell in love with this girl, I suppose, <mention ref="gibson">sir</mention>.</ln>
 
-        <ln><speaker>GIBSON</speaker> Who could help it?</ln>
+        <ln type="unmatched" change="sig"><speaker>GIBSON</speaker> Who could help it?</ln>
 
-        <ln><speaker>HOLMES</speaker> Did you suggest marriage to her?</ln>
+        <ln type="unmatched" change="sig"><speaker>HOLMES</speaker> Did you suggest marriage to her?</ln>
 
-        <ln><speaker>GIBSON</speaker> Yes. Though I knew that my wife would never divorce me.</ln>
+        <ln type="unmatched" change="sig"><speaker>GIBSON</speaker> Yes. Though I knew that my wife would never divorce me.</ln>
 
-        <ln><speaker>HOLMES</speaker> I see. Then you made an utterly insincere proposition to
+        <ln type="unmatched" change="sig interpel"><speaker>HOLMES</speaker> I see. Then you made an utterly insincere proposition to
             her.</ln>
 
-        <ln><speaker>GIBSON</speaker> Now, look here, <mention ref="holmes">Mr. Holmes</mention>, I
+        <ln pull="#TB-p88"><speaker>GIBSON</speaker> Now, look here, <mention ref="holmes">Mr. Holmes</mention>, I
             came to you on a question of evidence, not of morals. I'm not asking for your
             criticism.</ln>
 
-        <ln><speaker>HOLMES</speaker> It's only the young lady's sake that forces me to touch your
-            case at all. Now, tell me, sir. What is your own opinion as to Miss Dunbar's guilt?</ln>
+        <ln pull="#TB-p89-s1 TB-p96" change="wording"><speaker>HOLMES</speaker> It's only the young lady's sake that forces me to touch your
+            case at all. Now, tell me, <mention ref="gibson">sir</mention>. What is your own opinion as to <mention ref="dunbar">Miss Dunbar</mention>'s guilt?</ln>
 
-        <ln><speaker>GIBSON</speaker> It's very black against her, I can't deny that. One
+        <ln pull="#TB-p98-s1 TB-p98-s2"><speaker>GIBSON</speaker> It's very black against her, I can't deny that. One
             explanation of the tragedy did come into my head, <mention ref="holmes">Mr.
                 Holmes</mention>. I give it to you, for what it's worth. </ln>
 
         <ln><speaker>HOLMES</speaker> Pray continue, Mr. Gibson.</ln>
 
-        <ln><speaker>GIBSON</speaker> My wife was bitterly jealous. She was half-crazy with hatred.
-            She might have planned to murder Miss Dunbar -- or, we'll say, to threaten the girl with
+        <ln pull="#TB-p98-s3 TB-p98-s4" change="sig interpel wording"><speaker>GIBSON</speaker> My wife was bitterly jealous. She was half-crazy with hatred.
+            She might have planned to murder <mention ref="dunbar">Miss Dunbar</mention> -- or, we'll say, to threaten the girl with
             a revolver and so frighten her into leaving us. There might have been a struggle in
             which the gun exploded and gone off and shot my wife who was holding it.</ln>
 
-        <ln><speaker>HOLMES</speaker> Well, that possibility has already occurred to me. It's the
+        <ln pull="#TB-p99 TB-p100"><speaker>HOLMES</speaker> Well, that possibility has already occurred to me. It's the
             only obvious alternative to deliberate murder.</ln>
 
-        <ln><speaker>WATSON</speaker> The revolver,<mention ref="holmes"> Holmes</mention>. It was
+        <ln type="unmatched" change="sig"><speaker>WATSON</speaker> The revolver,<mention ref="holmes"> Holmes</mention>. It was
             found on the floor of the governess' wardrobe.</ln>
 
         <ln><speaker>HOLMES</speaker> Mr. Gibson, I should like to examine your house and the scene
             of the murder as soon as possible.</ln>
 
-        <ln><speaker>GIBSON</speaker> Certainly, <mention ref="holmes">Mr. Holmes</mention>.
+        <ln pull="#TB-p106-s1"><speaker>GIBSON</speaker> Certainly, <mention ref="holmes">Mr. Holmes</mention>.
             Sergeant Coventry of the local police is still down there. He'll give you any help you
             may need.</ln>
 
-        <ln><speaker>HOLMES</speaker> Excellent!<mention ref="watson"> Watson</mention>, old fellow
+        <ln><speaker>HOLMES</speaker> Excellent!<mention ref="watson"> Watson</mention>, <mention ref="watson">old fellow</mention>
             -- [?] the timetable! We're catching the next fast train to Winchester!</ln>
 
         <ln>
@@ -430,23 +430,23 @@
             <sound>PASTORAL AMBIANCE -- BIRDS WHISTLE, AN OCCASIONAL DOG BARKS </sound>
         </ln>
 
-        <ln><speaker>SERGEANT</speaker> So if I have to have someone else on the case, I'd rather
-            have you, Mr. 'Olmes. The Yard gets called in, then we local police loses all credit for
+        <ln pull="#TB-p107" change="interpel sig wording"><speaker>SERGEANT</speaker> So if I have to have someone else on the case, I'd rather
+            have you, <mention ref="holmes">Mr. 'Olmes</mention>. The Yard gets called in, then we local police loses all credit for
             success; generally gets blamed for the failures. Now, I've heard that you play
             straight.</ln>
 
-        <ln><speaker>HOLMES</speaker>
+        <ln pull="#TB-p108-s1 TB-p108-s2" change="interpel sig"><speaker>HOLMES</speaker>
             <stageDirect>CHUCKLES</stageDirect> I need not appear in the matter at all, Sergeant
             Coventry. If I can clear it up, I don't ask to even have my name mentioned.</ln>
 
-        <ln><speaker>SERGEANT</speaker> Well, that's handsome of you, I'm sure now. I know your
+        <ln pull="#TB-p109-s1"><speaker>SERGEANT</speaker> Well, that's handsome of you, I'm sure now. I know your
             friend, <mention ref="watson">Dr. Watson</mention>, can be trusted, too. </ln>
 
-        <ln><speaker>WATSON</speaker>
-            <stageDirect>CHUCKLES</stageDirect> Don't worry, my dear fellow. We won't steal any of
+        <ln type="unmatched" change="interpel"><speaker>WATSON</speaker>
+            <stageDirect>CHUCKLES</stageDirect> Don't worry, <mention ref="sergeant">my dear fellow</mention>. We won't steal any of
             your thunder.</ln>
 
-        <ln><speaker>SERGEANT</speaker> Oh, that's nice and friendly of you, doctor. Well, come on,
+        <ln type="unmatched" change="interpel wording"><speaker>SERGEANT</speaker> Oh, that's nice and friendly of you, doctor. Well, come on,
             gentlemen, I'll walk you down to the bridge. That's where we found Mrs. Gibson's body.
             It's not far from the 'ouse 'ere.</ln>
 
@@ -458,7 +458,7 @@
             be sixty or seventy acres.</ln>
 
         <ln><speaker>SERGEANT</speaker> Oh, nearly twice that, doctor. The woods back o' the house
-            there belongs to him, too. <stageDirect>BEAT</stageDirect> Mr. 'Olmes?</ln>
+            there belongs to him, too. <stageDirect>BEAT</stageDirect> <mention ref="holmes">Mr. 'Olmes</mention>?</ln>
 
         <ln><speaker>HOLMES</speaker> Yes, sergeant?</ln>
 
@@ -467,28 +467,28 @@
 
         <ln><speaker>HOLMES</speaker> Then please ask it.</ln>
 
-        <ln><speaker>SERGEANT</speaker> Don't you think there might be a case against Mr. Gibson
-            hisself, sir?</ln>
+        <ln pull="#TB-p109-s2"><speaker>SERGEANT</speaker> Don't you think there might be a case against Mr. Gibson
+            hisself, <mention ref="holmes">sir</mention>?</ln>
 
-        <ln><speaker>HOLMES</speaker> I've been considering that possibility.</ln>
+        <ln pull="#TB-p110" change="wording"><speaker>HOLMES</speaker> I've been considering that possibility.</ln>
 
-        <ln><speaker>SERGEANT</speaker> That there Miss Dunbar's a bit of all right. If y'ask me, he
+        <ln pull="#TB-p111-s1" change="wording"><speaker>SERGEANT</speaker> That there <mention ref="dunbar">Miss Dunbar</mention>'s a bit of all right. If y'ask me, he
             wanted his wife out of the way. And the pistol she was shot with was his pistol, you
             know.</ln>
 
-        <ln><speaker>WATSON</speaker> Oh? Was that fact proven?</ln>
+        <ln pull="#TB-p112" change="wording"><speaker>WATSON</speaker> Oh? Was that fact proven?</ln>
 
-        <ln><speaker>SERGEANT</speaker> Yes, doctor. It was one of a pair that he had.</ln>
+        <ln pull="#TB-p113" change="interpel"><speaker>SERGEANT</speaker> Yes, doctor. It was one of a pair that he had.</ln>
 
-        <ln><speaker>HOLMES</speaker> One of a pair? Where's the other?</ln>
+        <ln pull="#TB-p114"><speaker>HOLMES</speaker> One of a pair? Where's the other?</ln>
 
-        <ln><speaker>SERGEANT</speaker> Well, Mr. Gibson has a lot of firearms. We never quite
+        <ln pull="#TB-p115" change="interpel"><speaker>SERGEANT</speaker> Well, Mr. Gibson has a lot of firearms. We never quite
             matched that particular pistol -- but the box was made for two.</ln>
 
-        <ln><speaker>WATSON</speaker> Well, if it was one of a pair, surely you'd be able to match
+        <ln pull="#TB-p116"><speaker>WATSON</speaker> Well, if it was one of a pair, surely you'd be able to match
             it.</ln>
 
-        <ln><speaker>SERGEANT</speaker> Well, we 'ave 'em all laid out at the house if you want to
+        <ln pull="#TB-p117" change="wording"><speaker>SERGEANT</speaker> Well, we 'ave 'em all laid out at the house if you want to
             look 'em over.</ln>
 
         <ln><speaker>HOLMES</speaker> We'll do that later. </ln>
@@ -499,43 +499,43 @@
 
         <ln><speaker>HOLMES</speaker> Ah! This, I presume, is Thor Bridge.</ln>
 
-        <ln><speaker>SERGEANT</speaker> That's right, sir. Found Mrs. Gibson's body lying right here
+        <ln><speaker>SERGEANT</speaker> That's right, <mention ref="holmes">sir</mention>. Found Mrs. Gibson's body lying right here
             at the approach to the bridge. </ln>
 
-        <ln><speaker>HOLMES</speaker> I see. I gathered from the newspaper reports that the shot was
+        <ln pull="#TB-p125"><speaker>HOLMES</speaker> I see. I gathered from the newspaper reports that the shot was
             fired at very close quarters.</ln>
 
-        <ln><speaker>SERGEANT</speaker> Yes, sir, very close.</ln>
+        <ln pull="#TB-p126"><speaker>SERGEANT</speaker> Yes, <mention ref="holmes">sir</mention>, very close.</ln>
 
-        <ln><speaker>HOLMES</speaker> Near the right temple, wasn't it?</ln>
+        <ln pull="#TB-p127"><speaker>HOLMES</speaker> Near the right temple, wasn't it?</ln>
 
-        <ln><speaker>SERGEANT</speaker> Just behind it, sir.</ln>
+        <ln pull="#TB-p128"><speaker>SERGEANT</speaker> Just behind it, <mention ref="holmes">sir</mention>.</ln>
 
-        <ln><speaker>WATSON</speaker> How did the body lie, sergeant?</ln>
+        <ln pull="#TB-p129" change="interpel"><speaker>WATSON</speaker> How did the body lie, sergeant?</ln>
 
-        <ln><speaker>SERGEANT</speaker> Oh, on its back, doctor. No trace of a struggle. No marks.
-            No weapon. The note from Miss Dunbar was clutched in her left hand.</ln>
+        <ln pull="#TB-p130" change="interpel wording"><speaker>SERGEANT</speaker> Oh, on its back, doctor. No trace of a struggle. No marks.
+            No weapon. The note from <mention ref="dunbar">Miss Dunbar</mention> was clutched in her left hand.</ln>
 
-        <ln><speaker>HOLMES</speaker> Clutched, you say?</ln>
+        <ln pull="#TB-p131"><speaker>HOLMES</speaker> Clutched, you say?</ln>
 
-        <ln><speaker>SERGEANT</speaker> Yes, sir, we could hardly open the fingers to get at
+        <ln pull="#TB-p132"><speaker>SERGEANT</speaker> Yes, <mention ref="holmes">sir</mention>, we could hardly open the fingers to get at
             it.</ln>
 
-        <ln><speaker>HOLMES</speaker> Ah, that's of greatest importance. It excludes the idea that
+        <ln pull="#TB-p133-s1"><speaker>HOLMES</speaker> Ah, that's of greatest importance. It excludes the idea that
             anyone could have placed the note there after death in order to furnish a false clue. </ln>
 
         <ln><speaker>WATSON</speaker> What did the note say, sergeant?</ln>
 
-        <ln><speaker>SERGEANT</speaker> Little enough, doctor. It just said, uh, "I will be at Thor
+        <ln pull="#TB-p133-s2" change="wording interpel"><speaker>SERGEANT</speaker> Little enough, doctor. It just said, uh, "I will be at Thor
             Bridge at nine o'clock" and it was signed "Grace Dunbar."</ln>
 
-        <ln><speaker>HOLMES</speaker> Did Miss Dunbar admit writing it?</ln>
+        <ln pull="#TB-p135"><speaker>HOLMES</speaker> Did <mention ref="dunbar">Miss Dunbar</mention> admit writing it?</ln>
 
-        <ln><speaker>SERGEANT</speaker> Oh, yes, sir.</ln>
+        <ln pull="#TB-p136"><speaker>SERGEANT</speaker> Oh, yes, <mention ref="holmes">sir</mention>.</ln>
 
-        <ln><speaker>HOLMES</speaker> What was her explanation?</ln>
+        <ln pull="#TB-137"><speaker>HOLMES</speaker> What was her explanation?</ln>
 
-        <ln><speaker>SERGEANT</speaker> She wouldn't say nothing. Said she was saving her defence
+        <ln pull="#TB-p138" change="wording interpel"><speaker>SERGEANT</speaker> She wouldn't say nothing. Said she was saving her defence
             for the trial.</ln>
 
         <ln><speaker>HOLMES</speaker> Yes, it seems odd that Mrs. Gibson was still clutching that
@@ -543,13 +543,13 @@
 
         <ln><speaker>WATSON</speaker> Seems perfectly natural to me.</ln>
 
-        <ln><speaker>HOLMES</speaker> Oh, come now, old fellow, argue the thing out logically. If
+        <ln pull="#TB-p141" change="wording"><speaker>HOLMES</speaker> Oh, come now, <mention ref="watson">old fellow</mention>, argue the thing out logically. If
             the letter is genuine, it was certainly received some time before the tragedy -- say an
             hour or two. Why, then, was the dead woman still clasping it in her left hand? Why
             should she carry it so carefully? She certainly didn't need to refer to the note at all
             at the interview. Doesn't it strike you as rather strange?</ln>
 
-        <ln><speaker>WATSON</speaker> Well, now, you put it that way, it does seem a little
+        <ln pull="#TB-p142" change="interpel"><speaker>WATSON</speaker> Well, now, you put it that way, it does seem a little
             peculiar.</ln>
 
         <ln><speaker>HOLMES</speaker> Hello!</ln>
@@ -561,13 +561,13 @@
         <ln><speaker>HOLMES</speaker>
             <stageDirect>OFF</stageDirect> Did you notice this, sergeant?</ln>
 
-        <ln><speaker>SERGEANT</speaker> Oh, you mean that chip out of that stone on the underside of
-            the parapet of the bridge, sir? Yes, I noticed it. Didn't think nothin' of it, though. </ln>
+        <ln pull="#TB-p145" change="wording"><speaker>SERGEANT</speaker> Oh, you mean that chip out of that stone on the underside of
+            the parapet of the bridge, <mention ref="holmes">sir</mention>? Yes, I noticed it. Didn't think nothin' of it, though. </ln>
 
         <ln><speaker>WATSON</speaker>
             <stageDirect>OFF</stageDirect> Not a very large chip.</ln>
 
-        <ln><speaker>HOLMES</speaker>
+        <ln pull="#TB-p147-s1"><speaker>HOLMES</speaker>
             <stageDirect>OFF</stageDirect> Yes, but it's been done recently. Notice how the
             stonework is white just here. It took some violence to do that. Hand me your cane,
                 <mention ref="watson"> Watson</mention>, will you?</ln>
@@ -582,41 +582,41 @@
             <sound>HOLMES RAPIDLY WHACKS STONE WITH WOODEN CANE HALF A DOZEN TIMES</sound>
         </ln>
 
-        <ln><speaker>HOLMES</speaker>
+        <ln pull="#TB-p147-s2"><speaker>HOLMES</speaker>
             <stageDirect>OFF</stageDirect> Yes, it was a hard knock.
                 <stageDirect>CLOSER</stageDirect> And in a curious place, too.</ln>
 
-        <ln><speaker>SERGEANT</speaker> But it's fifteen feet from where we found the body, Mr.
+        <ln pull="#TB-p148"><speaker>SERGEANT</speaker> But it's fifteen feet from where we found the body, Mr.
             'Olmes.</ln>
 
-        <ln><speaker>WATSON</speaker> Yes,<mention ref="holmes"> Holmes</mention>, I don't see how
+        <ln pull="#TB-p148" change="wording"><speaker>WATSON</speaker> Yes,<mention ref="holmes"> Holmes</mention>, I don't see how
             it could have any connection with Mrs. Gibson's murder.</ln>
 
-        <ln><speaker>HOLMES</speaker> Well, perhaps it hasn't. But it's a point worth noting. There
+        <ln pull="#TB-p149" change="wording"><speaker>HOLMES</speaker> Well, perhaps it hasn't. But it's a point worth noting. There
             were no footprints, you say, sergeant?</ln>
 
-        <ln><speaker>SERGEANT</speaker> None, Mr. 'Olmes. The ground was as hard as iron. It's been
+        <ln pull="#TB-p150" change="wording"><speaker>SERGEANT</speaker> None, <mention ref="holmes">Mr. 'Olmes</mention>. The ground was as hard as iron. It's been
             a very dry summer and we haven't had any rain to speak of.</ln>
 
-        <ln><speaker>HOLMES</speaker> That's a pity. Hmm. Well, sergeant, I'm much obliged to you
+        <ln pull="#TB-p151-s1" change="wording"><speaker>HOLMES</speaker> That's a pity. Hmm. Well, sergeant, I'm much obliged to you
             and now I think we'll go back to the house.</ln>
 
-        <ln><speaker>SERGEANT</speaker> Right. Cesar'll show you where the firearms are, sir.</ln>
+        <ln type="unmatched" change="interpel sig"><speaker>SERGEANT</speaker> Right. Cesar'll show you where the firearms are, <mention ref="holmes">sir</mention>.</ln>
 
-        <ln><speaker>HOLMES</speaker> Oh, uh, who is Cesar?</ln>
+        <ln type="unmatched" change="interpel sig"><speaker>HOLMES</speaker> Oh, uh, who is Cesar?</ln>
 
-        <ln><speaker>SERGEANT</speaker> Oh, a funny kind of a bloke. Brazilian, I guess.</ln>
+        <ln type="unmatched" change="interpel sig"><speaker>SERGEANT</speaker> Oh, a funny kind of a bloke. Brazilian, I guess.</ln>
 
-        <ln><speaker>HOLMES</speaker> Brazilian, eh? Like Mrs. Gibson?</ln>
+        <ln type="unmatched" change="interpel sig"><speaker>HOLMES</speaker> Brazilian, eh? Like Mrs. Gibson?</ln>
 
-        <ln><speaker>SERGEANT</speaker> Yes, Mr. 'Olmes. Comes from the same town as she does, as a
+        <ln type="unmatched" change="interpel sig"><speaker>SERGEANT</speaker> Yes, <mention ref="holmes">Mr. 'Olmes</mention>. Comes from the same town as she does, as a
             matter of fact. Something very fishy about 'im, if you ask me. Now, if you'll excuse me,
             gentlemen, I'm going to take a little stroll around the grounds. You've started me on a
-            new train of thought in this case, Mr. 'Olmes.</ln>
+            new train of thought in this case, <mention ref="holmes">Mr. 'Olmes</mention>.</ln>
 
-        <ln><speaker>HOLMES</speaker>
+        <ln type="unmatched" change="interpel sig"><speaker>HOLMES</speaker>
             <stageDirect>LAUGHS</stageDirect> I'm delighted, sergeant. [Come,<mention ref="watson">
-                Watson</mention>, let's] get back to the house.</ln>
+                Watson</mention>, let's get back to the house.</ln>
 
         <ln>
             <music>BRIDGE</music>
@@ -631,36 +631,36 @@
         <ln><speaker>WATSON</speaker> I've never seen such a collection of guns and revolvers in my
             life.</ln>
 
-        <ln><speaker>CESAR</speaker> Mr. Gibson have many enemies, señor. He always sleep with a
+        <ln pull="#TB-p153" change="wording sig"><speaker>CESAR</speaker> Mr. Gibson have many enemies, <mention ref="holmes">señor</mention>. He always sleep with a
             loaded pistol beside his bed. He is a man of great violence. There have been times when
             all of us were afraid of him. </ln>
 
-        <ln><speaker>HOLMES</speaker> Did you ever witness physical violence towards Mrs.
+        <ln pull="#TB-p155"><speaker>HOLMES</speaker> Did you ever witness physical violence towards Mrs.
             Gibson?</ln>
 
-        <ln><speaker>CESAR</speaker> No, señor, I cannot say that I have. But I have heard him say
+        <ln pull="#TB-p155"><speaker>CESAR</speaker> No, <mention ref="holmes">señor</mention>, I cannot say that I have. But I have heard him say
             many terrible things to her. He would taunt her in front of we servants. I have heard
             him do it many times.</ln>
 
         <ln><speaker>HOLMES</speaker> Thank you, Cesar, that will be all.</ln>
 
-        <ln><speaker>CESAR</speaker> Muy bueno, señor.</ln>
+        <ln><speaker>CESAR</speaker> Muy bueno, <mention ref="holmes">señor</mention>.</ln>
 
         <ln>
             <sound>CESAR'S FOOTSTEPS AWAY</sound>
         </ln>
 
-        <ln><speaker>WATSON</speaker> You know,<mention ref="holmes"> Holmes</mention>, I still
-            think the case against Miss Dunbar looks very black.</ln>
+        <ln pull="#TB-p156-s1" change="wording"><speaker>WATSON</speaker> You know,<mention ref="holmes"> Holmes</mention>, I still
+            think the case against <mention ref="dunbar">Miss Dunbar</mention> looks very black.</ln>
 
-        <ln><speaker>HOLMES</speaker> I should agree with you if it were not for one fact -- the
+        <ln pull="#TB-p158" change="wording"><speaker>HOLMES</speaker> I should agree with you if it were not for one fact -- the
             finding of the revolver in her wardrobe.</ln>
 
-        <ln><speaker>WATSON</speaker>
+        <ln pull="#TB-p159" change="wording"><speaker>WATSON</speaker>
             <stageDirect>TAKEN ABACK</stageDirect> Upon my soul,<mention ref="holmes">
                 Holmes</mention>. That seems to me the strongest evidence of all.</ln>
 
-        <ln><speaker>HOLMES</speaker> I think not, <mention>old chap</mention></ln>
+        <ln pull="#TB-p160-s1"><speaker>HOLMES</speaker> I think not, <mention ref="watson">old chap</mention></ln>
 
         <ln><speaker>WATSON</speaker> Huh?</ln>
 
@@ -669,7 +669,7 @@
 
         <ln><speaker>WATSON</speaker> I don't quite follow you.</ln>
 
-        <ln><speaker>HOLMES</speaker> Suppose for a moment that we visualize you in the character of
+        <ln pull="#TB-p162-s1"><speaker>HOLMES</speaker> Suppose for a moment that we visualize you in the character of
             a woman who, in cold, premeditated fashion, is about to murder a rival. You've planned
             it. A note has been written. The victim has come. You have a weapon. The crime is well
             done. It has been workmanlike and complete. Do you mean to tell me that after carrying
@@ -678,13 +678,13 @@
             Would you carefully carry it home and put it in the first place that would be searched?
             Your wardrobe?</ln>
 
-        <ln><speaker>WATSON</speaker> Well, perhaps in the excitement of the moment--</ln>
+        <ln pull="#TB-p163"><speaker>WATSON</speaker> Well, perhaps in the excitement of the moment--</ln>
 
-        <ln><speaker>HOLMES</speaker> No, no, my dear chap, I won't admit that's even possible. When
+        <ln pull="#TB-p164-s1"><speaker>HOLMES</speaker> No, no, <mention ref="watson">my dear chap</mention>, I won't admit that's even possible. When
             a crime is coolly premeditated, then the means of covering it are coolly premeditated
             also. </ln>
 
-        <ln><speaker>WATSON</speaker> Well then, if Miss Dunbar didn't shoot Mrs. Gibson, who the
+        <ln><speaker>WATSON</speaker> Well then, if <mention ref="dunbar">Miss Dunbar</mention> didn't shoot Mrs. Gibson, who the
             devil did?</ln>
 
         <ln><speaker>HOLMES</speaker> I hope I can give you the answer to that question,<mention
@@ -693,11 +693,11 @@
         <ln><speaker>WATSON</speaker>
             <stageDirect>WEARILY</stageDirect> Oh, Lord. Where are we going now?</ln>
 
-        <ln><speaker>HOLMES</speaker> To prison, <mention>old chap</mention></ln>
+        <ln><speaker>HOLMES</speaker> To prison, <mention ref="watson">old chap</mention></ln>
 
         <ln><speaker>WATSON</speaker> Prison?</ln>
 
-        <ln><speaker>HOLMES</speaker> Yes, we're going to Winchester Prison to call on Miss Dunbar.
+        <ln><speaker>HOLMES</speaker> Yes, we're going to Winchester Prison to call on <mention ref="dunbar">Miss Dunbar</mention>.
             I'm certain that the key to this strange mystery lies in her hands.</ln>
 
         <ln>
@@ -722,35 +722,35 @@
             Thor Bridge." [X] Well, uh, doctor, did you go to Winchester Prison and see Miss
             Dunbar?</ln>
 
-        <ln><speaker>WATSON</speaker> We did, Mr. Bartell. An hour later found the two of us sitting
+        <ln pull="#TB-p167-s1" change="wording interpel"><speaker>WATSON</speaker> We did, Mr. Bartell. An hour later found the two of us sitting
             in a dank and gloomy cell talking to one of the most beautiful girls that I've ever
             seen. Her bright, flashing eyes and her air of quiet confidence seemed sadly out of
             place in such a setting.<mention ref="holmes"> Holmes</mention> spoke to her, quietly
             soothing her.</ln>
 
-        <ln><speaker>HOLMES</speaker> Miss Dunbar, tell us of your true relations with the dead
+        <ln pull="#TB-p173"><speaker>HOLMES</speaker> <mention ref="dunbar">Miss Dunbar</mention>, tell us of your true relations with the dead
             woman.</ln>
 
-        <ln><speaker>DUNBAR</speaker> She hated me, <mention ref="holmes">Mr. Holmes</mention>. She
+        <ln pull="#TB-p174-s1"><speaker>DUNBAR</speaker> She hated me, <mention ref="holmes">Mr. Holmes</mention>. She
             hated me with all the passion of her distorted mind.</ln>
 
-        <ln><speaker>HOLMES</speaker> Please tell us exactly what happened on the evening of Mrs.
+        <ln pull="#TB-p175"><speaker>HOLMES</speaker> Please tell us exactly what happened on the evening of Mrs.
             Gibson's death.</ln>
 
-        <ln><speaker>DUNBAR</speaker> Well, I - I received a note from her in the morning, a note
+        <ln pull="#TB-p178-s1 TB-p178-s2" change="wording"><speaker>DUNBAR</speaker> Well, I - I received a note from her in the morning, a note
             imploring me to meet her at the bridge after dinner that night. She said she had
             something important to say to me.</ln>
 
-        <ln><speaker>WATSON</speaker> Did you keep that note, Miss Dunbar?</ln>
+        <ln><speaker>WATSON</speaker> Did you keep that note, <mention ref="dunbar">Miss Dunbar</mention>?</ln>
 
-        <ln><speaker>DUNBAR</speaker> No, doctor. She-- Well, she asked me to destroy the note, so I
+        <ln pull="#TB-p178-s3"><speaker>DUNBAR</speaker> No, <mention ref="watson">doctor</mention>. She-- Well, she asked me to destroy the note, so I
             burned it in the schoolroom grate. I saw no reason for such secrecy but-- Well, I - I
             did as she asked.</ln>
 
-        <ln><speaker>HOLMES</speaker> Hmm. And yet she kept your reply very carefully. That's
+        <ln pull="#TB-p179"><speaker>HOLMES</speaker> Hmm. And yet she kept your reply very carefully. That's
             interesting. Tell me what happened when you met her that night.</ln>
 
-        <ln><speaker>DUNBAR</speaker> When I reached the bridge, she was waiting for me. I - I won't
+        <ln pull="#TB-p182" change="wording"><speaker>DUNBAR</speaker> When I reached the bridge, she was waiting for me. I - I won't
             tell you what she said. But she poured out her whole, wild fury in burning, horrible
             words. I did not [even answer] -- I couldn't. It was dreadful even to look at her. She
             was like an insane woman, standing there screaming disgusting insults at me. I - I put
@@ -758,76 +758,76 @@
 
         <ln><speaker>WATSON</speaker> Where was she standing when you left her? </ln>
 
-        <ln><speaker>DUNBAR</speaker> Within a few yards of the spot where her body was found
+        <ln pull="#TB-p184"><speaker>DUNBAR</speaker> Within a few yards of the spot where her body was found
             later.</ln>
 
-        <ln><speaker>HOLMES</speaker> And yet, presuming she met her death shortly after you left
+        <ln pull="#TB-p185"><speaker>HOLMES</speaker> And yet, presuming she met her death shortly after you left
             her, you heard no shot?</ln>
 
         <ln><speaker>DUNBAR</speaker> No. No, I heard nothing. But I was so upset, <mention
                 ref="holmes">Mr. Holmes</mention>, that I rushed straight back to my room.</ln>
 
-        <ln><speaker>HOLMES</speaker> Did you leave it again that night?</ln>
+        <ln pull="#TB-p187-s1"><speaker>HOLMES</speaker> Did you leave it again that night?</ln>
 
-        <ln><speaker>DUNBAR</speaker> Yes. When the alarm came that Mrs. Gibson was dead, I ran out
+        <ln pull="#TB-p188" change="interpel"><speaker>DUNBAR</speaker> Yes. When the alarm came that Mrs. Gibson was dead, I ran out
             with the others.</ln>
 
-        <ln><speaker>WATSON</speaker> Did you see Mr. Gibson?</ln>
+        <ln pull="#TB-p189"><speaker>WATSON</speaker> Did you see Mr. Gibson?</ln>
 
-        <ln><speaker>DUNBAR</speaker> Yes, doctor. He had just returned from the bridge when I saw
+        <ln pull="#TB-p190"><speaker>DUNBAR</speaker> Yes, <mention ref="watson">doctor</mention>. He had just returned from the bridge when I saw
             him. He had sent for the doctor and the police.</ln>
 
-        <ln><speaker>HOLMES</speaker> This pistol that [was] found in your room. Had you ever seen
+        <ln pull="#TB-p193-s1"><speaker>HOLMES</speaker> This pistol that [was] found in your room. Had you ever seen
             it before?</ln>
 
-        <ln><speaker>DUNBAR</speaker> Never, <mention ref="holmes">Mr. Holmes</mention>, I swear
+        <ln pull="#TB-p194"><speaker>DUNBAR</speaker> Never, <mention ref="holmes">Mr. Holmes</mention>, I swear
             it.</ln>
 
-        <ln><speaker>WATSON</speaker> When was it found, Miss Dunbar?</ln>
+        <ln pull="#TB-p195" change="interpel"><speaker>WATSON</speaker> When was it found, <mention ref="dunbar">Miss Dunbar</mention>?</ln>
 
-        <ln><speaker>DUNBAR</speaker> Next morning, when the police made their search. It was on the
+        <ln pull="#TB-p196 TB-p197 TB-p198" change="wording"><speaker>DUNBAR</speaker> Next morning, when the police made their search. It was on the
             floor of my wardrobe where I keep my shoes.</ln>
 
-        <ln><speaker>HOLMES</speaker> Hm. You've no idea how long it had been there?</ln>
+        <ln pull="#TB-p199"><speaker>HOLMES</speaker> Hm. You've no idea how long it had been there?</ln>
 
-        <ln><speaker>DUNBAR</speaker> Well, it hadn't been there the morning before.</ln>
+        <ln pull="#TB-p200"><speaker>DUNBAR</speaker> Well, it hadn't been there the morning before.</ln>
 
-        <ln><speaker>HOLMES</speaker> How do you know?</ln>
+        <ln pull="#TB-p201"><speaker>HOLMES</speaker> How do you know?</ln>
 
-        <ln><speaker>DUNBAR</speaker> Because I tidied up the wardrobe that day.</ln>
+        <ln pull="#TB-p202"><speaker>DUNBAR</speaker> Because I tidied up the wardrobe that day.</ln>
 
-        <ln><speaker>HOLMES</speaker> I see. Then someone must have come into your room and placed
+        <ln pull="#TB-p203" change="wording"><speaker>HOLMES</speaker> I see. Then someone must have come into your room and placed
             the pistol there in order to incriminate you.</ln>
 
-        <ln><speaker>DUNBAR</speaker> I'm certain of it.</ln>
+        <ln pull="#TB-p204" change="wording"><speaker>DUNBAR</speaker> I'm certain of it.</ln>
 
-        <ln><speaker>WATSON</speaker> Well, when - when could they have done that?</ln>
+        <ln pull="#TB-p205" change="wording"><speaker>WATSON</speaker> Well, when - when could they have done that?</ln>
 
-        <ln><speaker>DUNBAR</speaker> Well, it - it could have been at meal-time, or when I was in
+        <ln pull="#TB-p206"><speaker>DUNBAR</speaker> Well, it - it could have been at meal-time, or when I was in
             the schoolroom with the children.</ln>
 
-        <ln><speaker>HOLMES</speaker> Yes. Miss Dunbar, on examining the scene of Mrs. Gibson's
+        <ln pull="#TB-p211" change="wording"><speaker>HOLMES</speaker> Yes. <mention ref="dunbar">Miss Dunbar</mention>, on examining the scene of Mrs. Gibson's
             death, I noticed that a piece of stonework on the underside of the parapet of the bridge
             had been broken away. Can you suggest any possible explanation for that?</ln>
 
-        <ln><speaker>DUNBAR</speaker> Oh, surely, it must have been a mere coincidence, Mr. <mention
+        <ln pull="#TB-p212"><speaker>DUNBAR</speaker> Oh, surely, it must have been a mere coincidence, Mr. <mention
                 ref="holmes"> Holmes</mention>.</ln>
 
-        <ln><speaker>HOLMES</speaker> Possibly. But why should it appear at the very time of the
+        <ln pull="#TB-p213 TB-p216"><speaker>HOLMES</speaker> Possibly. But why should it appear at the very time of the
             tragedy, and at the very place? Could it possibly be that--?
                 <stageDirect>THUNDERSTRUCK</stageDirect> Why, yes, of course! Idiot! Why didn't I
             think of it before?! Come along,<mention ref="watson"> Watson</mention>!</ln>
 
-        <ln><speaker>WATSON</speaker> Where are we going,<mention ref="holmes">
+        <ln type="unmatched" change="sig"><speaker>WATSON</speaker> Where are we going,<mention ref="holmes">
             Holmes</mention>?</ln>
 
-        <ln><speaker>HOLMES</speaker> Back to Thor Bridge, old fellow, as fast as we can get
+        <ln><speaker>HOLMES</speaker> Back to Thor Bridge, <mention ref="watson">old fellow</mention>, as fast as we can get
             there!</ln>
 
         <ln><speaker>DUNBAR</speaker> What have you found out, <mention ref="holmes">Mr.
                 Holmes</mention>?</ln>
 
-        <ln><speaker>HOLMES</speaker> The answer to this mystery I hope, my dear young lady. You
+        <ln pull="#TB-p218-s1 TB-p218-s2" change="interpel wording"><speaker>HOLMES</speaker> The answer to this mystery I hope, my dear young lady. You
             will get news before the day is out. And meanwhile take my assurance that the clouds are
             lifting and that the light of truth is breaking through!</ln>
 
@@ -839,7 +839,7 @@
             <sound>RUNNING WATER UNDER BRIDGE ... CONTINUES IN BG</sound>
         </ln>
 
-        <ln><speaker>SERGEANT</speaker> Well, Mr. 'Olmes, you're soon back here. What have you found
+        <ln><speaker>SERGEANT</speaker> Well, <mention ref="holmes">Mr. 'Olmes</mention>, you're soon back here. What have you found
             out?</ln>
 
         <ln><speaker>HOLMES</speaker> Tell you in a few moments. You got my message?</ln>
@@ -847,20 +847,20 @@
         <ln><speaker>SERGEANT</speaker> Yes, here you are, a ball of twine. What you want it for, I
             can't imagine.</ln>
 
-        <ln><speaker>HOLMES</speaker> You'll soon see, sergeant. Uh,<mention ref="watson">
+        <ln pull="#TB-p221"><speaker>HOLMES</speaker> You'll soon see, sergeant. Uh,<mention ref="watson">
                 Watson</mention>, I, uh, have some recollection that you usually go armed on these
             excursions of ours.</ln>
 
-        <ln><speaker>WATSON</speaker> Yes, I'm carrying my revolver. Why?</ln>
+        <ln pull="#TB-p223-s1"><speaker>WATSON</speaker> Yes, I'm carrying my revolver. Why?</ln>
 
-        <ln><speaker>HOLMES</speaker> Give it to me, <mention>old chap</mention> will you? Thanks. I believe your
+        <ln pull="#TB-p228-s1"><speaker>HOLMES</speaker> Give it to me, <mention ref="watson">old chap</mention> will you? Thanks. I believe your
             revolver may have a very intimate connection with the mystery we're investigating.</ln>
 
-        <ln><speaker>WATSON</speaker>
+        <ln pull="#TB-p229"><speaker>WATSON</speaker>
             <stageDirect>CHUCKLES</stageDirect> You're joking.</ln>
 
-        <ln><speaker>HOLMES</speaker> No,<mention ref="watson"> Watson</mention>, I'm very serious.
-            We have a test to make. If the test is successful, Miss Dunbar will be free before
+        <ln pull="#TB-p230-s1" change="wording"><speaker>HOLMES</speaker> No,<mention ref="watson"> Watson</mention>, I'm very serious.
+            We have a test to make. If the test is successful, <mention ref="dunbar">Miss Dunbar</mention> will be free before
             nightfall. And the test will depend on the conduct of this revolver of yours. </ln>
 
         <ln>
@@ -870,73 +870,73 @@
         <ln><speaker>HOLMES</speaker> I take the precaution of unloading it. Uh huh. There we are.
             Now, sergeant, ball of twine, please.</ln>
 
-        <ln><speaker>SERGEANT</speaker> Wish I knew what you was up to, sir.</ln>
+        <ln><speaker>SERGEANT</speaker> Wish I knew what you was up to, <mention ref="holmes">sir</mention>.</ln>
 
         <ln><speaker>HOLMES</speaker> I tie one end of the twine -- like this -- to the handle of
             the revolver. So. Sergeant, see if you can find me a heavy stone, will you?</ln>
 
-        <ln><speaker>SERGEANT</speaker> Right you are, sir.</ln>
+        <ln><speaker>SERGEANT</speaker> Right you are, <mention ref="holmes">sir</mention>.</ln>
 
         <ln><speaker>WATSON</speaker><mention ref="holmes"> Holmes</mention>, what are you
             doing?</ln>
 
-        <ln><speaker>HOLMES</speaker> Trying to reconstruct the killing of Mrs. Gibson. But you've
+        <ln pull="TB-p237"><speaker>HOLMES</speaker> Trying to reconstruct the killing of Mrs. Gibson. But you've
             seen me miss the mark before,<mention ref="watson"> Watson</mention>. I have an instinct
             for such things, and yet it has sometimes played me false. It seemed a certainty when it
-            first flashed across my mind in Miss Dunbar's cell, but one drawback of an active mind
+            first flashed across my mind in <mention ref="dunbar">Miss Dunbar</mention>'s cell, but one drawback of an active mind
             is that one can always conceive alternative explanations which would make our scent a
             false one. And yet-- Oh, well. We can but try.</ln>
 
         <ln><speaker>SERGEANT</speaker> Here's a nice stone, <mention ref="holmes">Mr.
                 Holmes</mention>.</ln>
 
-        <ln><speaker>HOLMES</speaker> Thank you, sergeant! Now! I tie the other end of this twine to
+        <ln type="unmatched" change="sig"><speaker>HOLMES</speaker> Thank you, sergeant! Now! I tie the other end of this twine to
             a stone. Wait a minute. Like that. Splendid! Uh, sergeant, will you please take this
             stone and stretch the twine across the parapet of the bridge there -- so that the stone
             will swing just clear of the water on the other side of the bridge?</ln>
 
-        <ln><speaker>SERGEANT</speaker> Right you are, sir.</ln>
+        <ln type="unmatched" change="sig"><speaker>SERGEANT</speaker> Right you are, <mention ref="holmes">sir</mention>.</ln>
 
-        <ln><speaker>HOLMES</speaker> I'll stand on the spot where Mrs. Gibson's body was found.
+        <ln type="unmatched" change="sig"><speaker>HOLMES</speaker> I'll stand on the spot where Mrs. Gibson's body was found.
                 <stageDirect>CALLS</stageDirect> That's it, sergeant. Over the parapet.</ln>
 
-        <ln><speaker>SERGEANT</speaker>
+        <ln type="unmatched" change="sig"><speaker>SERGEANT</speaker>
             <stageDirect>OFF</stageDirect> All set, <mention ref="holmes">Mr. Holmes</mention>. The
             stone's swinging about eight feet above the water.</ln>
 
-        <ln><speaker>HOLMES</speaker> Splendid! Now,<mention ref="watson"> Watson</mention>, watch
+        <ln type="unmatched" change="sig"><speaker>HOLMES</speaker> Splendid! Now,<mention ref="watson"> Watson</mention>, watch
             closely. I raise the revolver to my head.</ln>
 
-        <ln><speaker>WATSON</speaker> Careful,<mention ref="holmes"> Holmes</mention>, careful.</ln>
+        <ln type="unmatched" change="sig"><speaker>WATSON</speaker> Careful,<mention ref="holmes"> Holmes</mention>, careful.</ln>
 
-        <ln><speaker>HOLMES</speaker> Don't worry, <mention>old chap</mention> it's not loaded. Now, let us imagine I
+        <ln type="unmatched" change="sig"><speaker>HOLMES</speaker> Don't worry, <mention ref="watson">old chap</mention> it's not loaded. Now, let us imagine I
             am the late Mrs. Gibson. I raise the revolver to my head and fire it.</ln>
 
         <ln>
             <sound>CLICK OF EMPTY REVOLVER</sound>
         </ln>
 
-        <ln><speaker>HOLMES</speaker> Instantly, my fingers release their grip and--</ln>
+        <ln type="unmatched" change="sig"><speaker>HOLMES</speaker> Instantly, my fingers release their grip and--</ln>
 
         <ln>
             <sound>GUN RATTLES ACROSS BRIDGE ... LOUD CLANG AS METAL GUN HITS STONE PARAPET ...
                 SPLASHES AS STONE AND GUN SINK INTO STREAM</sound>
         </ln>
 
-        <ln><speaker>HOLMES</speaker> There's your answer,<mention ref="watson">
+        <ln type="unmatched" change="sig"><speaker>HOLMES</speaker> There's your answer,<mention ref="watson">
             Watson</mention>!</ln>
 
-        <ln><speaker>WATSON</speaker> Great Scott! The revolver flashed back out of your hand --
+        <ln type="unmatched" change="sig"><speaker>WATSON</speaker> Great Scott! The revolver flashed back out of your hand --
             struck the parapet of the bridge -- and then the weight of the stone flipped it over
             into the water!</ln>
 
-        <ln><speaker>HOLMES</speaker> Was there ever a more exact demonstration? Come on, old
+        <ln pull="#TB-p241-s1"><speaker>HOLMES</speaker> Was there ever a more exact demonstration? Come on, old
             fellow!</ln>
 
-        <ln><speaker>SERGEANT</speaker> You're a bloomin' magician, Mr. 'Olmes! That's what you are,
+        <ln><speaker>SERGEANT</speaker> You're a bloomin' magician, <mention ref="holmes">Mr. 'Olmes</mention>! That's what you are,
             a bloomin' magician!</ln>
 
-        <ln><speaker>HOLMES</speaker> Look at that! There's the second chip on the stonework of the
+        <ln pull="#TB-p241-s2"><speaker>HOLMES</speaker> Look at that! There's the second chip on the stonework of the
             parapet here -- same size as the first! </ln>
 
         <ln><speaker>WATSON</speaker> Then the murder of Mrs. Gibson--?</ln>
@@ -945,20 +945,20 @@
 
         <ln><speaker>WATSON</speaker> What?</ln>
 
-        <ln><speaker>HOLMES</speaker> We can follow the various steps quite clearly. A note was
-            extracted very cleverly from Miss Dunbar. A note which made it appear that she had
+        <ln pull="#TB-p246"><speaker>HOLMES</speaker> We can follow the various steps quite clearly. A note was
+            extracted very cleverly from <mention ref="dunbar">Miss Dunbar</mention>. A note which made it appear that she had
             chosen the scene of the crime. Mrs. Gibson, in her anxiety that the note should be
             discovered, somewhat overdid it by holding it in her hand to the last. That alone should
             have excited my suspicions earlier than it did.</ln>
 
-        <ln><speaker>WATSON</speaker> Then she stole one of her husband's revolvers--! </ln>
+        <ln pull="#TB-p247"><speaker>WATSON</speaker> Then she stole one of her husband's revolvers--! </ln>
 
-        <ln><speaker>SERGEANT</speaker> And planted the other one in Miss Dunbar's wardrobe!</ln>
+        <ln pull="#TB-p247"><speaker>SERGEANT</speaker> And planted the other one in <mention ref="dunbar">Miss Dunbar</mention>'s wardrobe!</ln>
 
-        <ln><speaker>HOLMES</speaker> Exactly! After discharging one of the cartridges, which she
+        <ln pull="#TB-p247"><speaker>HOLMES</speaker> Exactly! After discharging one of the cartridges, which she
             could easily do in the woods without attracting suspicion, she then went down to the
             bridge where she contrived this exceedingly ingenious method of getting rid of her
-            weapon. When Miss Dunbar appeared, she used her last breath in pouring out her hatred,
+            weapon. When <mention ref="dunbar">Miss Dunbar</mention> appeared, she used her last breath in pouring out her hatred,
             and then, when the girl had left, carried out her terrible purpose. </ln>
 
         <ln><speaker>SERGEANT</speaker> Then the missing revolver--?</ln>
@@ -979,12 +979,12 @@
             <stageDirect>CHUCKLES</stageDirect> I must say,<mention ref="holmes"> Holmes</mention>,
             you've solved this case brilliantly. Quite brilliantly.</ln>
 
-        <ln><speaker>HOLMES</speaker> Ah, I disagree, <mention>old chap</mention> And I fear that you will not improve
+        <ln pull="#TB-p244"><speaker>HOLMES</speaker> Ah, I disagree, <mention ref="watson">old chap</mention> And I fear that you will not improve
             my reputation by adding the case of the Thor Bridge mystery to your annals. </ln>
 
         <ln><speaker>WATSON</speaker> Oh, nonsense. But that's ridiculous.</ln>
 
-        <ln><speaker>HOLMES</speaker> Oh, no, it isn't, old boy. I've been sluggish in my mind --
+        <ln pull="#TB-p244"><speaker>HOLMES</speaker> Oh, no, it isn't, old boy. I've been sluggish in my mind --
             and wanting in that mixture of imagination and reality which is the very basis of my
             art. I confess that the chip in the stonework was a sufficient clue to suggest the true
             solution, and I blame myself for not having attained it sooner.</ln>
@@ -992,10 +992,10 @@
         <ln><speaker>WATSON</speaker> Well,<mention ref="holmes"> Holmes</mention>, personally, I
             agree with the sergeant's opinion of you.</ln>
 
-        <ln><speaker>HOLMES</speaker> Oh? What was that, old fellow?</ln>
+        <ln><speaker>HOLMES</speaker> Oh? What was that, <mention ref="watson">old fellow</mention>?</ln>
 
         <ln><speaker>WATSON</speaker>
-            <stageDirect>MIMICS THE SERGEANT</stageDirect> You're a bloomin' magician, Mr. 'Olmes!
+            <stageDirect>MIMICS THE SERGEANT</stageDirect> You're a bloomin' magician, <mention ref="holmes">Mr. 'Olmes</mention>!
             That's what you are, a bloomin' magician! <stageDirect>LAUGHS</stageDirect></ln>
 
         <ln>

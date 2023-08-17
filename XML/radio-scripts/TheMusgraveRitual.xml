@@ -54,7 +54,7 @@
    <music>CHORD</music>
   </ln>
 
-  <ln><speaker>MANNING</speaker>AThe Adventures of <mention ref="holmes">Sherlock Holmes</mention>,"
+  <ln><speaker>MANNING</speaker>The Adventures of <mention ref="holmes">Sherlock Holmes</mention>,"
    starring Basil Rathbone and Nigel Bruce</ln>
 
   <ln>
@@ -62,29 +62,29 @@
      GILBERT AND SULLIVAN.</stageDirect> FADES</music>
   </ln>
 
-  <ln><speaker>MANNING</speaker>The makers or Bromo Quinine Cold Tablets bring you another adventure
+  <ln><speaker>MANNING</speaker><lineGp><line>The makers or Bromo Quinine Cold Tablets bring you another adventure
    of <mention ref="holmes">Sherlock Holmes</mention>, with Basil Rathbone as <mention ref="holmes"
     >Sherlock Holmes</mention> and Nigel Bruce as <mention ref="watson">Doctor
-   Watson</mention>.</ln>
+   Watson</mention>.</line>
 
-  <ln>
+  <line>
    <stageDirect>Pause</stageDirect>
-  </ln>
+  </line>
 
-  <ln> When you are threatened with a cold remember this: Bromo Quinine tablets are made expressly
+  <line> When you are threatened with a cold remember this: Bromo Quinine tablets are made expressly
    for the relief of colds. They are not a cure-all. They are made for one thing and one thing only
    and that is the relief of colds. Isn't it better to take a preparation that has only one use
    rather than one that has half a dozen uses? Insure yourself the advantages of specialized
-   medication. When you feel a cold coming on, take Bromo Quinine tablets.</ln>
+   medication. When you feel a cold coming on, take Bromo Quinine tablets.</line>
 
-  <ln>
+  <line>
    <stageDirect>Pause</stageDirect>
-  </ln>
+  </line>
 
-  <ln>And now, here we are, seated once more in <mention ref="watson">Doctor Watson</mention>'s
+  <line>And now, here we are, seated once more in <mention ref="watson">Doctor Watson</mention>'s
    study. The good doctor is wandering aimlessly about the room - tidying objects on his desk -
    straightening a row of books. Well, Dr. <mention ref="watson"> Watson</mention> - you certainly
-   have a passion for law and order.</ln>
+   have a passion for law and order.</line></lineGp></ln>
 
   <ln><speaker>WATSON</speaker>A place for everything, and everything in it, place, I always say. I
    do hate a mess.<mention ref="holmes"> Holmes</mention> on the contrary was one of the untidiest
@@ -122,7 +122,7 @@
    <music>VIOLIN CONTINUES</music>
   </ln>
 
-  <ln><speaker>WATSON</speaker>Oh -- stop that racket -- why don=t you do something worth while --
+  <ln><speaker>WATSON</speaker>Oh -- stop that racket -- why don't you do something worth while --
    instead of lolling around like that?</ln>
 
   <ln>VIOLIN STOPS</ln>
@@ -132,14 +132,14 @@
   <ln><speaker>WATSON</speaker>Well -- ah - -well you could straighten up this room. It looks more
    like a pig sty every day.</ln>
 
-  <ln><speaker>HOLMES</speaker>Oh, very well - (yawns)</ln>
+  <ln><speaker>HOLMES</speaker>Oh, very well - <stageDirect>yawns</stageDirect></ln>
 
   <ln>
    <sound>FOOTSTEPS FADING </sound>
   </ln>
 
 
-  <ln>WATSON : Now where are you going?</ln>
+  <ln><speaker>WATSON</speaker> Now where are you going?</ln>
 
   <ln>
    <sound>DOOR OPENS AND SLAMS</sound>
@@ -214,7 +214,7 @@
 
   <ln><speaker>WATSON</speaker>Hmph -- I suspected these relics had a history.</ln>
 
-  <ln><speaker>HOLMES</speaker>They are history, my dear<mention ref="watson"> Watson</mention> -
+  <ln><speaker>HOLMES</speaker>They are history, <mention ref="watson">my dear Watson</mention> -
    they are history.</ln>
 
   <ln><speaker>WATSON</speaker>What was it about?</ln>
@@ -227,7 +227,7 @@
   <ln><speaker>WATSON</speaker>Er- - what was the Musgrave Ritual?</ln>
 
   <ln><speaker>HOLMES</speaker>You want to interrupt my labors with a silly story -- dear, dear --
-   and leave all this litter as it is reprehensible, my dear<mention ref="watson"> Watson</mention>
+   and leave all this litter as it is reprehensible, <mention ref="watson">my dear Watson</mention>
    - thoroughly reprehensible.</ln>
 
   <ln><speaker>WATSON</speaker>Oh -- get on with the story.</ln>
@@ -237,7 +237,7 @@
    the oldest families in the Kingdom. Well, I hadn't seen Reginald Musgrave for several years --
    until one morning I received a note from him. Here it is.</ln>
 
-  <ln><speaker>WATSON</speaker><stageDirect>Reads</stageDirect> "My dear Sherlock: I hear that you
+  <ln><speaker>WATSON</speaker><stageDirect>Reads</stageDirect> "<mention ref="sherlock">My dear Sherlock</mention>: I hear that you
    are turning to practical ends these powers with which you used to analyze us. Could you spare
    time to visit us at Hurlstone? I can promise you a problem which will tax even your nimble wits.
    Hopefully yours, Reggie Musgrave."</ln>
@@ -256,7 +256,7 @@
   </ln>
 
   <ln><speaker>MUSGRAVE</speaker>Well,<mention ref="holmes"> Holmes</mention> -- delighted to see
-   you, my dear fellow. It's awfully good of you to come. You've gotten taller and thinner than
+   you, <mention ref="holmes">my dear fellow</mention>. It's awfully good of you to come. You've gotten taller and thinner than
    ever.</ln>
 
   <ln><speaker>HOLMES</speaker>You=re much the same I should say, Musgrave. </ln>
@@ -264,7 +264,7 @@
   <ln><speaker>MUSGRAVE</speaker>Alfred, carry <mention ref="holmes">Mr. Holmes</mention>= bags up
    to his room. </ln>
 
-  <ln><speaker>ALFRED</speaker>Yes sir --</ln>
+  <ln><speaker>ALFRED</speaker>Yes <mention ref="musgrave">sir</mention> --</ln>
 
   <ln><speaker>HOLMES</speaker>Your -- ah - butler is new at his job, isn't he? </ln>
 
@@ -278,6 +278,7 @@
    you. </ln>
 
   <ln><speaker>HOLMES</speaker>What about him?</ln>
+
 
   <ln><speaker>MUSGRAVE</speaker>He's disappeared.</ln>
 
@@ -332,23 +333,23 @@
 
   <ln><speaker>MUSGRAVE</speaker>Don't move -- if you value your life.</ln>
 
-  <ln><speaker>BRUNTON</speaker>Oh, sir --</ln>
+  <ln><speaker>BRUNTON</speaker>Oh, <mention ref="musgrave">sir</mention> --</ln>
 
   <ln><speaker>MUSGRAVE</speaker>Why -- why -- God bless me - it's Brunton! What are you doing down
    here in the middle of the night?</ln>
 
-  <ln><speaker>BRUNTON</speaker>Well, you see sir -- I --</ln>
+  <ln><speaker>BRUNTON</speaker>Well, you see <mention ref="musgrave">sir</mention> -- I --</ln>
 
   <ln><speaker>MUSGRAVE</speaker>And my desk has been broken into - and my private papers strewn on
    the table -- what do you mean by going through my private papers? You scoundrel -- after the
    trust we=ve had in you.</ln>
 
-  <ln><speaker>BRUNTON</speaker>Well, sir -- I meant no harm.</ln>
+  <ln><speaker>BRUNTON</speaker>Well, <mention ref="musgrave">sir</mention> -- I meant no harm.</ln>
 
   <ln><speaker>MUSGRAVE</speaker>The impudence -- the rank impudence. Brunton -- you will leave my
    service tomorrow.</ln>
 
-  <ln><speaker>BRUNTON</speaker>Oh, Mr. Musgrave, sir -- I can't bear the disgrace. I've always been
+  <ln><speaker>BRUNTON</speaker>Oh, Mr. Musgrave, <mention ref="musgrave">sir</mention> -- I can't bear the disgrace. I've always been
    proud about my station in life.</ln>
 
   <ln><speaker>MUSGRAVE</speaker>Yes, and look what it has led you into!</ln>
@@ -426,7 +427,7 @@
    <sound>STEPS UP STAIRS, RECEDING</sound>
   </ln>
 
-  <ln><speaker>HOLMES</speaker>Be careful -- my dear fellow -- be careful. </ln>
+  <ln><speaker>HOLMES</speaker>Be careful -- <mention ref="musgrave">my dear fellow</mention> -- be careful. </ln>
 
   <ln><speaker>MUSGRAVE</speaker><stageDirect>In distance</stageDirect> No -- there's no one
    here.</ln>
@@ -534,11 +535,9 @@
   </ln>
 
   <ln><speaker>MUSGRAVE</speaker>Hello, why it's Rachel! My dear girl -- whatever are you doing up
-   and</ln>
+   and about like this? Where's your nurse?</ln>
 
-  <ln>about like this? Where's your nurse?</ln>
-
-  <ln><speaker>RACHEL</speaker><stageDirect>Whispers feverishly</stageDirect> She -- she'=s sleeping
+  <ln><speaker>RACHEL</speaker><stageDirect>Whispers feverishly</stageDirect> She -- she's sleeping
    -- I fooled her.</ln>
 
   <ln><speaker>MUSGRAVE</speaker>You must go right back to bed.</ln>
@@ -560,7 +559,7 @@
 
   <ln><speaker>HOLMES</speaker>Where is that?</ln>
 
-  <ln><speaker>RACHEL</speaker>To hell -- he's gone to hell - (laughs)</ln>
+  <ln><speaker>RACHEL</speaker>To hell -- he's gone to hell - <stageDirect>laugh</stageDirect></ln>
 
   <ln><speaker>MUSGRAVE</speaker>I say -- she's delirious -- help me to get her upstairs, will you?
    We'll have to postpone our talk I'm afraid.</ln>
@@ -579,21 +578,21 @@
    <music>THEME UP AND PLAY TO END.</music>
   </ln>
 
-  <ln><speaker>MANNING</speaker>In just a moment we will rejoin <mention ref="holmes">Sherlock
-    Holmes</mention> as he endeavors to solve the mystery of the Musgrave Ritual. </ln>
+  <ln><speaker>MANNING</speaker><lineGp><line>In just a moment we will rejoin <mention ref="holmes">Sherlock
+    Holmes</mention> as he endeavors to solve the mystery of the Musgrave Ritual.</line>
 
-  <ln>A cold, even a so-called slight cold, is something to be concerned about. For any cold, as you
+  <line>A cold, even a so-called slight cold, is something to be concerned about. For any cold, as you
    very well know, may quickly take a more serious turn. Be serious in your treatment of a cold. At
-   the very first symptom, take a serious and proven preparation.</ln>
+   the very first symptom, take a serious and proven preparation.</line>
 
-  <ln>Bromo Quinine cold tablets have been on the market for years and their merit fully
+  <line>Bromo Quinine cold tablets have been on the market for years and their merit fully
    established. They really go to work on a cold's misery. They relieve the headaches and other
    pains that go with a cold. They relieve the stuffy and depressed feeling that accompanies a cold.
    They help reduce the fever that goes with a cold. They give you that multiple action you want.
    Don't fool around when you feel a cold coming on. Take warning at the first symptom and take
    Bromo Quinine tablets. Bromo Quinine tablets are sold by all drugstores, a few cents a box. Ask
    clearly and firmly for Bromo - B R O M O--Quinine -- Q U I N I N E -- Bromo Quinine cold
-   tablets!</ln>
+   tablets!</line></lineGp></ln>
 
   <ln>
    <music>THEME UP AND PLAY AS BRIDGE TO SECOND ACT.</music>
@@ -618,7 +617,7 @@
   <ln><speaker>HOLMES</speaker>Nothing -- exactly nothing -- hello, there seems to be some
    excitement now. The drags have caught on something. </ln>
 
-  <ln><speaker>MAN</speaker><stageDirect>In distance</stageDirect> We've got 'er -- sir -- we've got
+  <ln><speaker>MAN</speaker><stageDirect>In distance</stageDirect> We've got 'er -- <mention ref="holmes">sir</mention> -- we've got
    'er this time for sure.</ln>
 
   <ln><speaker>MUSGRAVE</speaker>Pull hard boys --</ln>
@@ -635,7 +634,7 @@
   <ln><speaker>MUSGRAVE</speaker><stageDirect>Fading in</stageDirect> Here, boys -- give it to
    me.</ln>
 
-  <ln><speaker>MAN</speaker>Yes sir. </ln>
+  <ln><speaker>MAN</speaker>Yes <mention ref="musgrave">sir</mention>. </ln>
 
   <ln><speaker>HOLMES</speaker>What's in it?</ln>
 
@@ -693,7 +692,7 @@
   <ln><speaker>MUSGRAVE</speaker>I must say,<mention ref="holmes"> Holmes</mention> that's very
    neat.</ln>
 
-  <ln><speaker>HOLMES</speaker>That's just the beginning -- my dear fellow -- just the beginning --
+  <ln><speaker>HOLMES</speaker>That's just the beginning -- <mention ref="musgrave">my dear fellow</mention> -- just the beginning --
    north ten and ten -- ten steps by each foot I think that means.</ln>
 
   <ln><speaker>MUSGRAVE</speaker>That takes you parallel to the well of the old wing of the
@@ -963,14 +962,14 @@
 
   <ln><speaker>RACHEL</speaker>You are going to marry me, aren't you?</ln>
 
-  <ln><speaker>BRUNTON</speaker>Marry you -- (laughs) What kind of a fool do you take me for? Marry
-   a girl like you that lets a fellow -- (laughs)</ln>
+  <ln><speaker>BRUNTON</speaker>Marry you -- <stageDirect>laugh</stageDirect>What kind of a fool do you take me for? Marry
+   a girl like you that lets a fellow -- <stageDirect>laugh</stageDirect></ln>
 
 
   <ln><speaker>RACHEL</speaker>Don't laugh -- don't laugh --</ln>
 
   <ln><speaker>BRUNTON</speaker>How do I know I'm the only lover you've had! A wench like you --
-   (laughs)</ln>
+   <stageDirect>laugh</stageDirect></ln>
 
   <ln><speaker>RACHEL</speaker>I hate you! I hate you! I hate the sight of you! I don't ever want to
    see you again!</ln>

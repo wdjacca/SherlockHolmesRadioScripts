@@ -66,13 +66,13 @@
 
 <ln><speaker>HOLMES</speaker> Care for a cigar,<mention ref="watson"> Watson</mention>?</ln>
 
-<ln><speaker>WATSON</speaker> No. No, thanks, old fellow; I'll stick to my pipe.</ln>
+<ln><speaker>WATSON</speaker> No. No, thanks, <mention ref="holmes">old fellow</mention>; I'll stick to my pipe.</ln>
 
 <ln><speaker>HOLMES</speaker> Flying Scotsman's living up to its name. We're going splendidly. Our present rate is fifty-three-and-a-half miles an hour.</ln>
 
 <ln><speaker>WATSON</speaker> Oh? I hadn't noticed the quarter mile posts.</ln>
 
-<ln><speaker>HOLMES</speaker> Nor have I, but the telegraph posts on this line are sixty yards apart. With the aid of a watch the calculation is a simple one.<mention ref="watson"> Watson</mention>, my dear fellow, we have several hours ahead of us. Tell me more about Sir Walter Dunbar. I have a feeling that he is in some kind of trouble, and that you haven't wanted to talk about it.</ln>
+<ln><speaker>HOLMES</speaker> Nor have I, but the telegraph posts on this line are sixty yards apart. With the aid of a watch the calculation is a simple one.<mention ref="watson"> Watson</mention>, <mention ref="watson">my dear fellow</mention>, we have several hours ahead of us. Tell me more about Sir Walter Dunbar. I have a feeling that he is in some kind of trouble, and that you haven't wanted to talk about it.</ln>
 
 <ln><speaker>WATSON</speaker> Well, it's not exactly trouble,<mention ref="holmes"> Holmes</mention>, but there's a strange problem that confronts the Dunbars. A problem that'll be settled at midnight tomorrow.</ln>
 
@@ -88,7 +88,7 @@
 
 <ln><speaker>WIFE</speaker> <stageDirect>WEEPS ... THEN IN BG</stageDirect></ln>
 
-<ln><speaker>THOMAS</speaker> There. Dinna grieve, lass. I fetched the baronetcy home from Waterloo, but I fetched a mortal wound as well. <stageDirect>BEAT) Aw, hush, lass. I'm not afraid to die. All that niggles me is that I shall ne'er see the child you bear. Is Sir Walter Scott not comin' yet? Eh, can't he be here at the deathbed of his old friend? (UP</stageDirect> Who's there? Is that you, Sandy Murdock?</ln>
+<ln><speaker>THOMAS</speaker> There. Dinna grieve, lass. I fetched the baronetcy home from Waterloo, but I fetched a mortal wound as well. <stageDirect>BEAT</stageDirect> Aw, hush, lass. I'm not afraid to die. All that niggles me is that I shall ne'er see the child you bear. Is Sir Walter Scott not comin' yet? Eh, can't he be here at the deathbed of his old friend? <stageDirect>UP</stageDirect> Who's there? Is that you, Sandy Murdock?</ln>
 
 <ln><speaker>SANDY</speaker> Aye, Thomas. It's me.</ln>
 
@@ -118,11 +118,11 @@
 
 <ln><speaker>WATSON</speaker> Yes. Old Sandy Murdock is dead now, of course, but he too has a great-grandson, William Murdock, who still handles the Dunbar estate. He'll be at the castle tonight to formally hand over the iron box.</ln>
 
-<ln><speaker>HOLMES</speaker> I'm delighted you accepted the holiday invitation of Sir Walter, my dear fellow. I've needed a rest, but I've always loathed too strict a one. This situation may pose a nice little problem for me.</ln>
+<ln><speaker>HOLMES</speaker> I'm delighted you accepted the holiday invitation of Sir Walter, <mention ref="watson">my dear fellow</mention>. I've needed a rest, but I've always loathed too strict a one. This situation may pose a nice little problem for me.</ln>
 
 <ln><speaker>WATSON</speaker> Problem?</ln>
 
-<ln><speaker>HOLMES</speaker> Yes, I'm reasonably certain that the agèd Sir Walter Dunbar will not get his iron box full of gold on this New Year's Eve, either. But we shall see, old fellow; we shall see.</ln>
+<ln><speaker>HOLMES</speaker> Yes, I'm reasonably certain that the agèd Sir Walter Dunbar will not get his iron box full of gold on this New Year's Eve, either. But we shall see, <mention ref="watson">old fellow</mention>; we shall see.</ln>
 
 <ln><music>BRIDGE ... WITH A SCOTS FLAVOR</music></ln>
 
@@ -192,7 +192,7 @@
 
 <ln><speaker>HOLMES</speaker> How do you do?</ln>
 
-<ln><speaker>WATSON</speaker> How do you do, sir? I believe we have to congratulate you on the engagement of your daughter.</ln>
+<ln><speaker>WATSON</speaker> How do you do, <mention ref="herbert">sir</mention>? I believe we have to congratulate you on the engagement of your daughter.</ln>
 
 <ln><speaker>HERBERT</speaker> <stageDirect>IRRITATED</stageDirect> That was supposed to remain a secret until midnight, when the Dunbar box was finally opened.</ln>
 
@@ -260,7 +260,7 @@
 
 <ln><speaker>IAN</speaker> I think Mr. Small may be right. What do you say, <mention ref="holmes">Mr. Holmes</mention>, do you know?</ln>
 
-<ln><speaker>HOLMES</speaker> Well, I hoped no one would bring up this point, but-- Heh! It's the little problem I referred to on the train, my dear<mention ref="watson"> Watson</mention>.</ln>
+<ln><speaker>HOLMES</speaker> Well, I hoped no one would bring up this point, but-- Heh! It's the little problem I referred to on the train, <mention ref="watson">my dear Watson</mention>.</ln>
 
 <ln><speaker>WATSON</speaker> Yes, I remember.</ln>
 
@@ -298,13 +298,13 @@
 
 <ln><speaker>WALTER</speaker> Aye? What is it, Angus?</ln>
 
-<ln><speaker>ANGUS</speaker> <stageDirect>OFF</stageDirect> Dinner is prepared, Sir Walter. We can serve it as soon as you're ready, sir.</ln>
+<ln><speaker>ANGUS</speaker> <stageDirect>OFF</stageDirect> Dinner is prepared, Sir Walter. We can serve it as soon as you're ready, <mention ref="walter">sir</mention>.</ln>
 
 <ln><music>BRIDGE</music></ln>
 
 <ln><speaker>WATSON</speaker> Oh, what a miserable meal,<mention ref="holmes"> Holmes</mention>. Sir Walter's gone to his room, the young lovers are nearly in tears, and Small and the lawyer Murdock seem to be positively gloating.</ln>
 
-<ln><speaker>HOLMES</speaker> Yes, a most depressing atmosphere in which to welcome the new year. But let us, at least, make the best of it. I think I'll go and have a talk with Sir Walter. And you, my dear chap, why not try and cheer up the young folks? <stageDirect>MOVING OFF</stageDirect> Some of your experiences in India may help them take their minds off their troubles.</ln>
+<ln><speaker>HOLMES</speaker> Yes, a most depressing atmosphere in which to welcome the new year. But let us, at least, make the best of it. I think I'll go and have a talk with Sir Walter. And you, <mention ref="watson">my dear chap</mention>, why not try and cheer up the young folks? <stageDirect>MOVING OFF</stageDirect> Some of your experiences in India may help them take their minds off their troubles.</ln>
 
 <ln><speaker>WATSON</speaker> Yes. Quite an idea. I'll join you in the library. Call me if you want me,<mention ref="holmes"> Holmes</mention>.</ln>
 
@@ -344,7 +344,7 @@
 
 <ln><speaker>WATSON</speaker> <stageDirect>TENSE</stageDirect><mention ref="holmes"> Holmes</mention>? What is it? What's wrong?</ln>
 
-<ln><speaker>HOLMES</speaker> <stageDirect>BRISK, URGENT</stageDirect> The devil's work afoot,<mention ref="watson"> Watson</mention>. Come with me, old fellow; and you, Mr. Dunbar. </ln>
+<ln><speaker>HOLMES</speaker> <stageDirect>BRISK, URGENT</stageDirect> The devil's work afoot,<mention ref="watson"> Watson</mention>. Come with me, <mention ref="watson">old fellow</mention>; and you, Mr. Dunbar. </ln>
 
 <ln><speaker>DOROTHY</speaker> <mention ref="holmes">Mr. Holmes</mention>, what's happened?</ln>
 
@@ -364,7 +364,7 @@
 
 <ln><speaker>IAN</speaker> <stageDirect>OFF, CALLS</stageDirect> Angus! Bring a lantern over here!</ln>
 
-<ln><speaker>ANGUS</speaker> <stageDirect>OFF</stageDirect> Aye, sir!</ln>
+<ln><speaker>ANGUS</speaker> <stageDirect>OFF</stageDirect> Aye, <mention ref="ian">sir</mention>!</ln>
 
 <ln><speaker>IAN</speaker> <stageDirect>OFF</stageDirect> Can you see anything,<mention ref="holmes"> Holmes</mention>?</ln>
 
@@ -372,21 +372,21 @@
 
 <ln><speaker>HERBERT</speaker> I don't see why your friend doesn't call the police, <mention ref="watson">Dr. Watson</mention>. We're accomplishing nothing. </ln>
 
-<ln><speaker>WATSON</speaker> He thought there might be a chance of finding the old man alive, Mr. Small. He wants to avoid a scandal, if possible -- for your sake, sir, as well as the Dunbars. </ln>
+<ln><speaker>WATSON</speaker> He thought there might be a chance of finding the old man alive, Mr. Small. He wants to avoid a scandal, if possible -- for your sake, <mention ref="herbert">sir</mention>, as well as the Dunbars. </ln>
 
 <ln><speaker>HERBERT</speaker> A scandal can't touch me, or Dorothy, over this. Her engagement was never announced, thank heaven. </ln>
 
-<ln><speaker>WATSON</speaker> That's a great pity, sir. I should think some new blood in your family would be a great improvement. </ln>
+<ln><speaker>WATSON</speaker> That's a great pity, <mention ref="herbert">sir</mention>. I should think some new blood in your family would be a great improvement. </ln>
 
 <ln><speaker>HERBERT</speaker> You're being confoundedly impertinent, doctor! </ln>
 
-<ln><speaker>WATSON</speaker> And you're being confoundedly heartless, sir. </ln>
+<ln><speaker>WATSON</speaker> And you're being confoundedly heartless, <mention ref="herbert">sir</mention>. </ln>
 
 <ln><sound> SLOSH OF WATER HAS STOPPED DURING ABOVE ... FIRST HOLMES' AND THEN IAN'S STEPS APPROACH IN AGREEMENT WITH FOLLOWING--</sound></ln>
 
 <ln><speaker>WATSON</speaker> Well,<mention ref="holmes"> Holmes</mention>? Have - have you given up hope?</ln>
 
-<ln><speaker>HOLMES</speaker> <stageDirect>APPROACHES) I'm afraid we'll never find him without dragnets and grappling hooks. Have to call the police. What time is it? (NO ANSWER, CALLS</stageDirect> Sir Ian? Do you know the time?</ln>
+<ln><speaker>HOLMES</speaker> <stageDirect>APPROACHES</stageDirect> I'm afraid we'll never find him without dragnets and grappling hooks. Have to call the police. What time is it? <stageDirect>NO ANSWER, CALLS</stageDirect> Sir Ian? Do you know the time?</ln>
 
 <ln><speaker>IAN</speaker> <stageDirect>APPROACHES</stageDirect> What did you call me, <mention ref="holmes">Mr. Holmes</mention>?</ln>
 
@@ -400,7 +400,7 @@
 
 <ln><speaker>HOLMES</speaker> <stageDirect>PLEASED</stageDirect> A quarter of an hour to the new year. Sir Ian, doesn't that fact suggest something to you?</ln>
 
-<ln><speaker>IAN</speaker> <stageDirect>REALIZES) Yes! Yes, it does. So I'm the new baronet, am I? Very well then. (DELIBERATELY</stageDirect> There'll be no more talk of the police for fifteen minutes. I want all of you to come back to the castle with me. As the last chime of midnight rings out, I shall have a statement to make. A statement that I want you all to hear.</ln>
+<ln><speaker>IAN</speaker> <stageDirect>REALIZES</stageDirect> Yes! Yes, it does. So I'm the new baronet, am I? Very well then. <stageDirect>DELIBERATELY</stageDirect> There'll be no more talk of the police for fifteen minutes. I want all of you to come back to the castle with me. As the last chime of midnight rings out, I shall have a statement to make. A statement that I want you all to hear.</ln>
 
 <ln><music>BRIDGE</music></ln>
 
@@ -498,7 +498,7 @@
 
 <ln><speaker>WATSON</speaker> Upon my soul,<mention ref="holmes"> Holmes</mention>. You seem remarkably calm. </ln>
 
-<ln><speaker>HOLMES</speaker> Do I, my dear<mention ref="watson"> Watson</mention>? I must say, I am absolutely fascinated by listening to three people accusing each other of murder -- and each of them producing perfectly sound motives. It's a remarkable example of the dangers of reasoning from motive alone. We should profit by experience,<mention ref="watson"> Watson</mention>. </ln>
+<ln><speaker>HOLMES</speaker> Do I, <mention ref="watson">my dear Watson</mention>? I must say, I am absolutely fascinated by listening to three people accusing each other of murder -- and each of them producing perfectly sound motives. It's a remarkable example of the dangers of reasoning from motive alone. We should profit by experience,<mention ref="watson"> Watson</mention>. </ln>
 
 <ln><speaker>DOROTHY</speaker> <mention ref="holmes">Mr. Holmes</mention>, how can you be so calm? There's a murderer in this room!</ln>
 
