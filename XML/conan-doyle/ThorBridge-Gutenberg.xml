@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../conon-doyle.rnc" type="application/relax-ng-compact-syntax"?>
+<xml xml:id="TB">
+    <metadata>
+        <title>The Problem of Thor Bridge</title>
+    </metadata>
+    <text>
+        <chapter num="1"><p xml:id="TB-p1">Somewhere in the vaults of the bank of Cox and Co., at
+                Charing Cross, there is a travel-worn and battered tin dispatch-box with my name,
+                John H. Watson, MD, Late Indian Army, painted upon the lid. It is crammed with
+                papers, nearly all of which are records of cases to illustrate the curious problems
+                which Mr Sherlock Holmes had at various times to examine. Some, and not the least
+                interesting, were complete failures, and as such will hardly bear narrating, since
+                no final explanation is forthcoming. A problem without a solution may interest the
+                student, but can hardly fail to annoy the casual reader. Among these unfinished
+                tales is that of Mr James Phillimore, who, stepping back into his own house to get
+                his umbrella, was never more seen in this world. No less remarkable is that of the
+                cutter Alicia which sailed one spring morning into a small patch of mist from where
+                she never again emerged, nor was anything further ever heard of herself and her
+                crew. A third case worthy of note is that of Isadora Persano, the wellknown
+                journalist and duellist, who was found stark staring mad with a matchbox in front of
+                him which contained a remarkable worm, said to be unknown to science. Apart from
+                these unfathomed cases, there are some which involve the secrets of private families
+                to an extent which would mean consternation in many exalted quarters if it were
+                thought possible that they might find their way into print. I need not say that such
+                a breach of confidence is unthinkable, and that these records will be separated and
+                destroyed now that my friend has time to turn his energies to the matter. There
+                remain a considerable residue of cases of greater or less interest which I might
+                have edited before had I not feared to give the public a surfeit which might react
+                upon the reputation of the man whom above all others I revere. In some I was myself
+                concerned and can speak as an eye-witness, while in others I was either not present
+                or played so small a part that they could only be told as by a third person. The
+                following narrative is drawn from my own experience.</p>
+            <p xml:id="TB-p2">It was a wild morning in October, and I observed as I was dressing how
+                the last remaining leaves were being whirled from the solitary plane tree which
+                graces the yard behind our house. I descended to breakfast prepared to find my
+                companion in depressed spirits, for, like all great artists, he was easily impressed
+                by his surroundings. On the contrary, I found that he had nearly finished his meal,
+                and that his mood was particularly bright and joyous, with that somewhat sinister
+                cheerfulness which was characteristic of his lighter moments.</p>
+            <p xml:id="TB-p3">'You have a case, Holmes?' I remarked.</p>
+            <p xml:id="TB-p4">'The faculty of deduction is certainly contagious, Watson,' he
+                answered. 'It has enabled you to probe my secret. Yes, I have a case. After a month
+                of trivialities and stagnation the wheels move once more.'</p>
+            <p xml:id="TB-p5">'Might I share it?'</p>
+            <p xml:id="TB-p6">'There is little to share, but we may discuss it when you have
+                consumed the two hard-boiled eggs with which our new cook has favoured us. Their
+                condition may not be unconnected with the copy of the Family Herald which I observed
+                yesterday upon the hall-table. Even so trivial a matter as cooking an egg demands an
+                attention which is conscious of the passage of time, and incompatible with the love
+                romance in that excellent periodical.'</p>
+            <p xml:id="TB-p7">A quarter of an hour later the table had been cleared and we were face
+                to face. He had drawn a letter from his pocket.</p>
+            <p xml:id="TB-p8">'You have heard of Neil Gibson, the Gold King?' he said.</p>
+            <p xml:id="TB-p9">'You mean the American Senator?'</p>
+            <p xml:id="TB-p10">'Well, he was once Senator for some Western state, but is better
+                known as the greatest gold-mining magnate in the world.'</p>
+            <p xml:id="TB-p11">'Yes, I know of him. He has surely lived in England for some time.
+                His name is very familiar.'</p>
+            <p xml:id="TB-p12">'Yes, he bought a considerable estate in Hampshire some five years
+                ago. Possibly you have already heard of the tragic end of his wife?'</p>
+            <p xml:id="TB-p13">'Of course. I remember it now. That is why the name is familiar. But
+                I really know nothing of the details.'</p>
+            <p xml:id="TB-p14">Holmes waved his hand towards some papers on a chair.</p>
+            <p xml:id="TB-p15">'I had no idea that the case was coming my way or I should have had
+                my extracts ready,' said he. 'The fact is that the problem, though exceedingly
+                sensational, appeared to present no difficulty. The interesting personality of the
+                accused does not obscure the clearness of the evidence. That was the view taken by
+                the coroner's jury and also in the police-court proceedings. It is now referred to
+                the Assizes at Winchester. I fear it is a thankless business. I can discover facts,
+                Watson, but I cannot change them. Unless some entirely new and unexpected ones come
+                to light I do not see what my client can hope for.'</p>
+            <p xml:id="TB-p16">'Your client?'</p>
+            <p xml:id="TB-p17">'Ah, I forgot I had not told you. I am getting into your involved
+                habit, Watson, of telling a story backwards. You had best read this first.'</p>
+            <p xml:id="TB-p18">The letter which he handed to me, written in a bold, masterful hand,
+                ran as follows:</p> CLARIDGE'S HOTEL, October 3rd. DEAR MR SHERLOCK HOLMES, I can't
+            see the best woman God ever made go to her death without doing all that is possible to
+            save her. I can't explain things - I can't even try to explain them, but I know beyond
+            all doubt that Miss Dunbar is innocent. You know the facts - who doesn't? It has been
+            the gossip of the country. And never a voice raised for her! It's the damned injustice
+            of it all that makes me crazy. That woman has a heart that wouldn't let her kill a fly.
+            Well, I'll come at eleven to-morrow and see if you can get some ray of light in the
+            dark. Maybe I have a clue and don't know it. Anyhow, all I know and all I have and all I
+            am are for your use if only you can save her. If ever in your life you showed your
+            powers, put them now into this case. Yours faithfully, J. NEIL GIBSON <p xml:id="TB-p19"
+                >'There you have it,' said Sherlock Holmes, knocking out the ashes of his
+                after-breakfast pipe and slowly refilling it. 'That is the gentleman I await. As to
+                the story, you have hardly time to master all these papers, so I must give it to you
+                in a nutshell if you are to take an intellectual interest in the proceedings. This
+                man is the greatest financial power in the world, and a man, as I understand, of
+                most violent and formidable character. He married a wife, the victim of this
+                tragedy, of whom I know nothing save that she was past her prime, which was the more
+                unfortunate as a very attractive governess superintended the education of two young
+                children. These are the three people concerned, and the scene is a grand old
+                manor-house, the centre of an historical English estate. Then as to the tragedy. The
+                wife was found in the grounds nearly half a mile from the house, late at night, clad
+                in her dinner dress, with a shawl over her shoulders and a revolver bullet through
+                her brain. No weapon was found near her and there was no local clue as to the
+                murder. No weapon near her, Watson - mark that! The crime seems to have been
+                committed late in the evening, and the body was found by a gamekeeper about eleven
+                o'clock, when it was examined by the police and by a doctor before being carried up
+                to the house. Is this too condensed, or can you follow it clearly?'</p>
+            <p xml:id="TB-p20">'It is all very clear. But why suspect the governess?'</p>
+            <p xml:id="TB-p21">'Well, in the first place there is some very direct evidence. A
+                revolver with one discharged chamber and a calibre which corresponded with the
+                bullet was found on the floor of her wardrobe.' His eyes fixed and he repeated in
+                broken words, 'On-the-floor-of-her-wardrobe.' Then he sank into silence, and I saw
+                that some train of thought had been set moving which I should be foolish to
+                interrupt. Suddenly with a start he emerged into brisk life once more. 'Yes, Watson,
+                it was found. Pretty damning, eh? So the two juries thought. Then the dead woman had
+                a note upon her making an appointment at that very place and signed by the
+                governess. How's that? Finally, there is the motive. Senator Gibson is an attractive
+                person. If his wife dies, who more likely to succeed her than the young lady who had
+                already by all accounts received pressing attentions from her employer. Love,
+                fortune, power, all depending upon one middle-aged life. Ugly, Watson - very
+                ugly!'</p>
+            <p xml:id="TB-p22">'Yes, indeed, Holmes.'</p>
+            <p xml:id="TB-p23">'Nor could she prove an alibi. On the contrary, she had to admit that
+                she was down near Thor Bridge - that was the scene of the tragedy - about that hour.
+                She couldn't deny it, for some passing villager had seen her there.'</p>
+            <p xml:id="TB-p24">'That really seems final.'</p>
+            <p xml:id="TB-p25">'And yet, Watson - and yet! This bridge - a single broad span of
+                stone with balustraded sides - carries the drive over the narrowest part of a long,
+                deep, reed-girt sheet of water. Thor Mere it is called. In the mouth of the bridge
+                lay the dead woman. Such are the main facts. But here, if I mistake not, is our
+                client, considerably before his time.'</p>
+            <p xml:id="TB-p26">Billy had opened the door, but the name he announced was an
+                unexpected one. Mr Marlow Bates was a stranger to both of us. He was a thin, nervous
+                wisp of a man with frightened eyes, and a twitching, hesitating manner - a man whom
+                my own professional eye would judge to be on the brink of an absolute nervous
+                breakdown.</p>
+            <p xml:id="TB-p27">'You seem agitated, Mr Bates,' said Holmes. 'Pray sit down. I fear I
+                can only give you a short time, for I have an appointment at eleven.'</p>
+            <p xml:id="TB-p28">'I know you have,' our visitor gasped, shooting out short sentences
+                like a man who is out of breath. 'Mr Gibson is coming. Mr Gibson is my employer. I
+                am manager of his estate. Mr Holmes, he is a villain - an infernal villain.'</p>
+            <p xml:id="TB-p29">'Strong language, Mr Bates.'</p>
+            <p xml:id="TB-p30">'I have to be emphatic, Mr Holmes, for the time is so limited. I
+                would not have him find me here for the world. He is almost due now. But I was so
+                situated that I could not come earlier. His secretary, Mr Ferguson, only told me
+                this morning of his appointment with you.'</p>
+            <p xml:id="TB-p31">'And you are his manager?'</p>
+            <p xml:id="TB-p32">'I have given him notice. In a couple of weeks I shall have shaken
+                off his accursed slavery. A hard man, Mr Holmes, hard to all about him. Those public
+                charities are a screen to cover his private iniquities. But his wife was his chief
+                victim. He was brutal to her — yes, sir, brutal! How she came by her death I do not
+                know, but I am sure that he had made her life a misery to her. She was a creature of
+                the Tropics, a Brazilian by birth, as no doubt you know?'</p>
+            <p xml:id="TB-p33">'No, it had escaped me.'</p>
+            <p xml:id="TB-p34">'Tropical by birth and tropical by nature. A child of the sun and of
+                passion. She had loved him as such women can love, but when her own physical charms
+                had faded — I am told that they once were great - there was nothing to hold him. We
+                all liked her and felt for her and hated him for the way that he treated her. But he
+                is plausible and cunning. That is all I have to say to you. Don't take him at his
+                face value. There is more behind. Now I'll go. No, no, don't detain me! He is almost
+                due.'</p>
+            <p xml:id="TB-p35">With a frightened look at the clock our strange visitor literally ran
+                to the door and disappeared.</p>
+            <p xml:id="TB-p36">'Well! well!' said Holmes, after an interval of silence. 'Mr Gibson
+                seems to have a nice loyal household. But the warning is a useful one, and now we
+                can only wait till the man himself appears.'</p>
+            <p xml:id="TB-p37">Sharp at the hour we heard a heavy step upon the stairs and the
+                famous millionaire was shown into the room. As I looked upon him I understood not
+                only the fears and dislike of his manager, but also the execrations which so many
+                business rivals have heaped upon his head. If I were a sculptor and desired to
+                idealize the successful man of affairs, iron of nerve and leathery of conscience, I
+                should choose Mr Neil Gibson as my model. His tall, gaunt, craggy figure had a
+                suggestion of hunger and rapacity. An Abraham Lincoln keyed to base uses instead of
+                high ones would give some idea of the man. His face might have been chiselled in
+                granite, hard-set, craggy, remorseless, with deep lines upon it, the scars of many a
+                crisis. Cold grey eyes, looking shrewdly out from under bristling brows, surveyed us
+                each in turn. He bowed in perfunctory fashion as Holmes mentioned my name, and then
+                with a masterful air of possession he drew a chair up to my companion and seated
+                himself with his bony knees almost touching him.</p>
+            <p xml:id="TB-p38">'Let me say right here, Mr Holmes,' he began, 'that money is nothing
+                to me in this case. You can burn it if it's any use in lighting you to the truth.
+                This woman is innocent and this woman has to be cleared, and it's up to you to do
+                it. Name your figure!'</p>
+            <p xml:id="TB-p39">'My professional charges are upon a fixed scale,' said Holmes coldly.
+                'I do not vary them, save when I remit them altogether.'</p>
+            <p xml:id="TB-p40">'Well, if dollars make no difference to you, think of the reputation.
+                If you pull this off every paper in England and America will be booming you. You'll
+                be the talk of two continents.'</p>
+            <p xml:id="TB-p41">'Thank you, Mr Gibson, I do not think that I am in need of booming.
+                It may surprise you to know that I prefer to work anonymously, and that it is the
+                problem itself which attracts me. But we are wasting time. Let us get down to the
+                facts.'</p>
+            <p xml:id="TB-p42">'I think that you will find all the main ones in the Press reports. I
+                don't know that I can add anything which will help you. But if there is anything you
+                would wish more light upon - well, I am here to give it.'</p>
+            <p xml:id="TB-p43">'Well, there is just one point.'</p>
+            <p xml:id="TB-p44">'What is it?'</p>
+            <p xml:id="TB-p45">'What were the exact relations between you and Miss Dunbar?'</p>
+            <p xml:id="TB-p46">The Gold King gave a violent start, and half rose from his chair.
+                Then his massive calm came back to him.</p>
+            <p xml:id="TB-p47">'I suppose you are within your rights - and maybe doing your duty -
+                in asking such a question, Mr Holmes.'</p>
+            <p xml:id="TB-p48">'We will agree to suppose so,' said Holmes.</p>
+            <p xml:id="TB-p49">'Then I can assure you that our relations were entirely and always
+                those of an employer towards a young lady whom he never conversed with, or ever saw,
+                save when she was in the company of his children.'</p>
+            <p xml:id="TB-p50">Holmes rose from his chair.</p>
+            <p xml:id="TB-p51">'I am a rather busy man, Mr Gibson,' said he, 'and I have no time or
+                taste for aimless conversations. I wish you good morning.'</p>
+            <p xml:id="TB-p52">Our visitor had risen also and his great loose figure towered above
+                Holmes. There was an angry gleam from under those bristling brows and a tinge of
+                colour in the sallow cheeks.</p>
+            <p xml:id="TB-p53">'What the devil do you mean by this, Mr Holmes? Do you dismiss my
+                case?'</p>
+            <p xml:id="TB-p54">'Well, Mr Gibson, at least I dismiss you. I should have thought my
+                words were plain.'</p>
+            <p xml:id="TB-p55">'Plain enough, but what's at the back of it? Raising the price on me,
+                or afraid to tackle it, or what? I've a right to a plain answer.'</p>
+            <p xml:id="TB-p56">'Well, perhaps you have,' said Holmes. 'I'll give you one. This case
+                is quite sufficiently complicated to start with, without the further difficulty of
+                false information.'</p>
+            <p xml:id="TB-p57">'Meaning that I lie.'</p>
+            <p xml:id="TB-p58">'Well, I was trying to express it as delicately as I could, but if
+                you insist upon the word I will not contradict you.'</p>
+            <p xml:id="TB-p59">I sprang to my feet, for the expression upon the millionaire's face
+                was fiendish in its intensity, and he had raised his great knotted fist. Holmes
+                smiled languidly, and reached his hand out for his pipe.</p>
+            <p xml:id="TB-p60">'Don't be noisy, Mr Gibson. I find that after breakfast even the
+                smallest argument is unsettling. I suggest that a stroll in the morning air and a
+                little quiet thought will be greatly to your advantage.'</p>
+            <p xml:id="TB-p61">With an effort the Gold King mastered his fury. I could not but
+                admire him, for by a supreme self-command he had turned in a minute from a hot flame
+                of anger to a frigid and contemptuous indifference.</p>
+            <p xml:id="TB-p62">'Well, it's your choice. I guess you know how to run your own
+                business. I can't make you touch the case against your will. You've done yourself no
+                good this morning, Mr Holmes, for I have broken stronger men than you. No man ever
+                crossed me and was the better for it.'</p>
+            <p xml:id="TB-p63">'So many have said so, and yet here I am,' said Holmes, smiling.
+                'Well, good morning, Mr Gibson. You have a good deal yet to learn.'</p>
+            <p xml:id="TB-p64">Our visitor made a noisy exit, but Holmes smoked in imperturbable
+                silence with dreamy eyes fixed upon the ceiling.</p>
+            <p xml:id="TB-p65">'Any views, Watson?' he asked at last.</p>
+            <p xml:id="TB-p66">'Well, Holmes, I must confess that when I consider that this is a man
+                who would certainly brush any obstacle from his path, and when I remember that his
+                wife may have been an obstacle and an object of dislike, as that man Bates plainly
+                told us, it seems to me-'</p>
+            <p xml:id="TB-p67">'Exactly. And to me also.'</p>
+            <p xml:id="TB-p68">'But what were his relations with the governess, and how did you
+                discover them?'</p>
+            <p xml:id="TB-p69">'Bluff, Watson, bluff! When I considered the passionate,
+                unconventional, unbusiness-like tone of his letter, and contrasted it with his
+                self-contained manner and appearance, it was pretty clear that there was some deep
+                emotion which centred upon the accused woman rather than upon the victim. We've got
+                to understand the exact relations of those three people if we are to reach the
+                truth. You saw the frontal attack which I made upon him and how imperturbably he
+                received it. Then I bluffed him by giving him the impression that I was absolutely
+                certain, when in reality I was only extremely suspicious.'</p>
+            <p xml:id="TB-p70">'Perhaps he will come back?'</p>
+            <p xml:id="TB-p71">'He is sure to come back. He must come back. He can't leave it where
+                it is. Ha! isn't that a ring? Yes, there is his footstep. Well, Mr Gibson, I was
+                just saying to Dr Watson that you were somewhat overdue.'</p>
+            <p xml:id="TB-p72">The Gold King had re-entered the room in a more chastened mood than
+                he had left it. His wounded pride still showed in his resentful eyes, but his common
+                sense had shown him that he must yield if he would attain his end.</p>
+            <p xml:id="TB-p73">'I've been thinking it over, Mr Holmes, and I feel that I have been
+                hasty in taking your remarks amiss. You are justified in getting down to the facts,
+                whatever they may be, and I think the more of you for it. I can assure you, however,
+                that the relations between Miss Dunbar and me don't really touch this case.'</p>
+            <p xml:id="TB-p74">'That is for me to decide, is it not?'</p>
+            <p xml:id="TB-p75">'Yes, I guess that is so. You're like a surgeon who wants every
+                symptom before he can give his diagnosis.'</p>
+            <p xml:id="TB-p76">'Exactly. That expresses it. And it is only a patient who has an
+                object in deceiving his surgeon who would conceal the facts of his case.'</p>
+            <p xml:id="TB-p77">'That may be so, but you will admit, Mr Holmes, that most men would
+                shy off a bit when they are asked pointblank what their relations with a woman may
+                be — if there is really some serious feeling in the case. I guess most men have a
+                little private reserve of their own in some corner of their souls where they don't
+                welcome intruders. And you burst suddenly into it. But the object excuses you, since
+                it was to try and save her. Well, the stakes are down and the reserve open and you
+                can explore where you will. What is it you want?'</p>
+            <p xml:id="TB-p78">'The truth.'</p>
+            <p xml:id="TB-p79">The Gold King paused for a moment as one who marshals his thoughts.
+                His grim, deep-lined face had become even sadder and more grave.</p>
+            <p xml:id="TB-p80">'I can give it to you in a very few words, Mr Holmes,' said he at
+                last. 'There are some things that are painful as well as difficult to say, so I
+                won't go deeper than is needful. I met my wife when I was gold-hunting in Brazil.
+                Maria Pinto was the daughter of a Government official at Manaos, and she was very
+                beautiful. I was young and ardent in those days, but even now, as I look back with
+                colder blood and a more critical eye, I can see that she was rare and wonderful in
+                her beauty. It was a deep rich nature, too, passionate, wholehearted, tropical,
+                ill-balanced, very different from the American women whom I had known. Well, to make
+                a long story short, I loved her and I married her. It was only when the romance had
+                passed — and it lingered for years — that I realized that we had nothing —
+                absolutely nothing — in common. My love faded. If hers had faded also it might have
+                been easier. But you know the wonderful way of women! Do what I might nothing could
+                turn her from me. If I have been harsh to her, even brutal as some have said, it has
+                been because I knew that if I could kill her love, or if it turned to hate, it would
+                be easier for both of us. But nothing changed her. She adored me in those English
+                woods as she had adored me twenty years ago on the banks of the Amazon. Do what I
+                might, she was devoted as ever.</p>
+            <p xml:id="TB-p81">'Then came Miss Grace Dunbar. She answered our advertisement and
+                became governess to our two children. Perhaps you have seen her portrait in the
+                papers. The whole world has proclaimed that she also is a very beautiful woman. Now,
+                I make no pretence to be more moral than my neighbours, and I will admit to you that
+                I could not live under the same roof with such a woman and in daily contact with her
+                without feeling a passionate regard for her. Do you blame me, Mr Holmes?'</p>
+            <p xml:id="TB-p82">'I do not blame you for feeling it. I should blame you if you
+                expressed it, since this young lady was in a sense under your protection.'</p>
+            <p xml:id="TB-p83">'Well, maybe so,' said the millionaire, though for a moment the
+                reproof had brought the old angry gleam into his eyes. 'I'm not pretending to be any
+                better than I am. I guess all my life I've been a man that reached out his hand for
+                what he wanted, and I never wanted anything more than the love and possession of
+                that woman. I told her so.'</p>
+            <p xml:id="TB-p84">'Oh, you did, did you?'</p>
+            <p xml:id="TB-p85">Holmes could look very formidable when he was moved.</p>
+            <p xml:id="TB-p86">'I said to her that if I could marry her I would, but that it was out
+                of my power. I said that money was no object and that all I could do to make her
+                happy and comfortable would be done.'</p>
+            <p xml:id="TB-p87">'Very generous, I am sure,' said Holmes, with a sneer.</p>
+            <p xml:id="TB-p88">'See here, Mr Holmes. I came to you on a question of evidence, not on
+                a question of morals. I'm not asking for your criticism.'</p>
+            <p xml:id="TB-p89">'It is only for the young lady's sake that I touch your case at all,'
+                said Holmes, sternly. 'I don't know that anything she is accused of is really worse
+                than what you have yourself admitted, that you have tried to ruin a defenceless girl
+                who was under your roof. Some of you rich men have to be taught that all the world
+                cannot be bribed into condoning your offences.'</p>
+            <p xml:id="TB-p90">To my surprise the Gold King took the reproof with equanimity.</p>
+            <p xml:id="TB-p91">'That's how I feel myself about it now. I thank God that my plans did
+                not work out as I intended. She would have none of it, and she wanted to leave the
+                house instantly.'</p>
+            <p xml:id="TB-p92">'Why did she not?'</p>
+            <p xml:id="TB-p93">'Well, in the first place, others were dependent upon her, and it was
+                no light matter for her to let them all down by sacrificing her living. When I had
+                sworn - as I did - that she should never be molested again, she consented to remain.
+                But there was another reason. She knew the influence she had over me, and that it
+                was stronger than any other influence in the world. She wanted to use it for
+                good.'</p>
+            <p xml:id="TB-p94">'How?'</p>
+            <p xml:id="TB-p95">'Well, she knew something of my affairs. They are large, Mr Holmes -
+                large beyond the belief of an ordinary man. I can make or break - and it is usually
+                break. It wasn't individuals only. It was communities, cities, even nations.
+                Business is a hard game, and the weak go to the wall. I played the game for all it
+                was worth. I never squealed myself and I never cared if the other fellow squealed.
+                But she saw it different. I guess she was right. She believed and said that a
+                fortune for one man that was more than he needed should not be built on ten thousand
+                ruined men who were left without the means of life. That was how she saw it, and I
+                guess she could see past the dollars to something that was more lasting. She found
+                that I listened to what she said, and she believed she was serving the world by
+                influencing my actions. So she stayed - and then this came along.'</p>
+            <p xml:id="TB-p96">'Can you throw any light upon that?'</p>
+            <p xml:id="TB-p97">The Gold King paused for a minute or more, his head sunk in his
+                hands, lost in deep thought.</p>
+            <p xml:id="TB-p98">'It's very black against her. I can't deny that. And women lead an
+                inward life and may do things beyond the judgement of a man. At first I was so
+                rattled and taken aback that I was ready to think she had been led away in some
+                extraordinary fashion that was clean against her usual nature. One explanation came
+                into my head. I give it to you, Mr Holmes, for what it is worth. There is no doubt
+                that my wife was bitterly jealous. There is a soul-jealousy that can be as frantic
+                as any body-jealousy, and though my wife had no cause - and I think she understood
+                this - for the latter, she was aware that this English girl exerted an influence
+                upon my mind and my acts that she herself never had. It was an influence for good,
+                but that did not mend the matter. She was crazy with hatred, and the heat of the
+                Amazon was always in her blood. She might have planned to murder Miss Dunbar - or we
+                will say to threaten her with a gun and so frighten her into leaving us. Then there
+                might have been a scuffle and the gun gone off and shot the woman who held it.'</p>
+            <p xml:id="TB-p99">'That possibility had already occurred to me,' said Holmes.</p>
+            <p xml:id="TB-p100">'Indeed, it is the only obvious alternative to deliberate
+                murder.'</p>
+            <p xml:id="TB-p101">'But she utterly denies it.'</p>
+            <p xml:id="TB-p102">'Well, that is not final - is it? One can understand that a woman
+                placed in so awful a position might hurry home still in her bewilderment holding the
+                revolver. She might even throw it down among her clothes, hardly knowing what she
+                was doing, and when it was found she might try to lie her way out by a total denial,
+                since all explanation was impossible. What is against such a supposition?'</p>
+            <p xml:id="TB-p103">'Miss Dunbar herself.'</p>
+            <p xml:id="TB-p104">'Well, perhaps.'</p>
+            <p xml:id="TB-p105">Holmes looked at his watch. 'I have no doubt we can get the
+                necessary permits this morning and reach Winchester by the evening train. When I
+                have seen this young lady, it is very possible that I may be of more use to you in
+                the matter, though I cannot promise that my conclusions will necessarily be such as
+                you desire.'</p>
+            <p xml:id="TB-p106">There was some delay in the official pass, and instead of reaching
+                Winchester that day we went down to Thor Place, the Hampshire estate of Mr Neil
+                Gibson. He did not accompany us himself, but we had the address of Sergeant
+                Coventry, of the local police, who had first examined into the affair. He was a
+                tall, thin, cadaverous man, with a secretive and mysterious manner, which conveyed
+                the idea that he knew or suspected a very great deal more than he dared to say. He
+                had a trick, too, of suddenly sinking his voice to a whisper as if he had come upon
+                something of vital importance, though the information was usually commonplace
+                enough. Behind these tricks of manner he soon showed himself to be a decent, honest
+                fellow who was not too proud to admit that he was out of his depth and would welcome
+                any help.</p>
+            <p xml:id="TB-p107">'Anyhow, I'd rather have you than Scotland Yard, Mr Holmes,' said
+                he. 'If the Yard gets called into a case, then the local loses all credit for
+                success and may be blamed for failure. Now, you play straight, so I've heard.'</p>
+            <p xml:id="TB-p108">'I need not appear in the matter at all,' said Holmes, to the
+                evident relief of our melancholy acquaintance. 'If I can clear it up I don't ask to
+                have my name mentioned.'</p>
+            <p xml:id="TB-p109">'Well, it's very handsome of you, I am sure. And your friend, Dr
+                Watson, can be trusted, I know. Now, Mr Holmes, as we walk down to the place there
+                is one question I should like to ask you. I'd breathe it to no soul but you.' He
+                looked round as though he hardly dare utter the words. 'Don't you think there might
+                be a case against Mr Neil Gibson himself?'</p>
+            <p xml:id="TB-p110">'I have been considering that.'</p>
+            <p xml:id="TB-p111">'You've not seen Miss Dunbar. She is a wonderful fine woman in every
+                way. He may well have wished his wife out of the road. And these Americans are
+                readier with pistols than our folk are. It was his pistol, you know.'</p>
+            <p xml:id="TB-p112">'Was that clearly made out?'</p>
+            <p xml:id="TB-p113">'Yes, sir. It was one of a pair that he had.'</p>
+            <p xml:id="TB-p114">'One of a pair? Where is the other?'</p>
+            <p xml:id="TB-p115">'Well, the gentleman has a lot of fire-arms of one sort and another.
+                We never quite matched that particular pistol - but the box was made for two.'</p>
+            <p xml:id="TB-p116">'If it was one of a pair you should surely be able to match it.'</p>
+            <p xml:id="TB-p117">'Well, we have them all laid out at the house if you would care to
+                look them over.'</p>
+            <p xml:id="TB-p118">'Later, perhaps. I think we will walk down together and have a look
+                at the scene of the tragedy.'</p>
+            <p xml:id="TB-p119">The conversation had taken place in the little front room of
+                Sergeant Coventry's humble cottage, which served as the local police station. A walk
+                of half a mile or so across a wind-swept heath, all gold and bronze with the fading
+                ferns, brought us to a side-gate opening into the grounds of the Thor Place estate.
+                A path led us through the pheasant preserves, and then from a clearing we saw the
+                widespread, half-timbered house, half Tudor and half Georgian, upon the crest of the
+                hill. Beside us there was a long, reedy pool, constricted in the centre where the
+                main carriage drive passed over a stone bridge, but swelling into small lakes on
+                either side. Our guide paused at the mouth of this bridge, and he pointed to the
+                ground.</p>
+            <p xml:id="TB-p120">'That was where Mrs Gibson's body lay. I marked it by that
+                stone.'</p>
+            <p xml:id="TB-p121">'I understand that you were there before it was moved?'</p>
+            <p xml:id="TB-p122">'Yes, they sent for me at once.'</p>
+            <p xml:id="TB-p123">'Who did?'</p>
+            <p xml:id="TB-p124">'Mr Gibson himself. The moment the alarm was given and he had rushed
+                down with others from the house, he insisted that nothing should be moved until the
+                police should arrive.'</p>
+            <p xml:id="TB-p125">'That was sensible. I gathered from the newspaper report that the
+                shot was fired from close quarters.'</p>
+            <p xml:id="TB-p126">'Yes, sir, very close.'</p>
+            <p xml:id="TB-p127">'Near the right temple?'</p>
+            <p xml:id="TB-p128">'Just behind it, sir.'</p>
+            <p xml:id="TB-p129">'How did the body lie?'</p>
+            <p xml:id="TB-p130">'On the back, sir. No trace of a struggle. No marks. No weapon. The
+                short note from Miss Dunbar was clutched in her left hand.'</p>
+            <p xml:id="TB-p131">'Clutched, you say?'</p>
+            <p xml:id="TB-p132">'Yes, sir, we could hardly open the fingers.'</p>
+            <p xml:id="TB-p133">'That is of great importance. It excludes the idea that anyone could
+                have placed the note there after death in order to furnish a false clue. Dear me!
+                The note, as I remember, was quite short. "I will be at Thor Bridge at nine o'clock.
+                - G. Dunbar." Was that not so?'</p>
+            <p xml:id="TB-p134">'Yes, sir.'</p>
+            <p xml:id="TB-p135">'Did Miss Dunbar admit writing it?'</p>
+            <p xml:id="TB-p136">'Yes, sir.'</p>
+            <p xml:id="TB-p137">'What was her explanation?'</p>
+            <p xml:id="TB-p138">'Her defence was reserved for the Assizes. She would say
+                nothing.'</p>
+            <p xml:id="TB-p139">'The problem is certainly a very interesting one. The point of the
+                letter is very obscure, is it not?'</p>
+            <p xml:id="TB-p140">'Well, sir,' said the guide, 'it seemed, if I may be so bold as to
+                say so, the only really clear point in the whole case.' Holmes shook his head.</p>
+            <p xml:id="TB-p141">'Granting that the letter is genuine and was really written, it was
+                certainly received some time before - say one hour or two. Why, then, was this lady
+                still clasping it in her left hand? Why should she carry it so carefully? She did
+                not need to refer to it in the interview. Does it not seem remarkable?'</p>
+            <p xml:id="TB-p142">'Well, sir, as you put it, perhaps it does.'</p>
+            <p xml:id="TB-p143">'I think I should like to sit quietly for a few minutes and think it
+                out.' He seated himself upon the stone ledge of the bridge, and I could see his
+                quick grey eyes darting their questioning glances in every direction. Suddenly he
+                sprang up again and ran across to the opposite parapet, whipped his lens from his
+                pocket, and began to examine the stonework.</p>
+            <p xml:id="TB-p144">'This is curious,' said he.</p>
+            <p xml:id="TB-p145">'Yes, sir, we saw the chip on the ledge. I expect it's been done by
+                some passer-by.'</p>
+            <p xml:id="TB-p146">The stonework was grey, but at this one point it showed white for a
+                space not larger than a sixpence. When examined closely one could see that the
+                surface was chipped as by a sharp blow.</p>
+            <p xml:id="TB-p147">'It took some violence to do that,' said Holmes thoughtfully. With
+                his cane he struck the ledge several times without leaving a mark. 'Yes, it was a
+                hard knock. In a curious place, too. It was not from above but from below, for you
+                see that it is on the lower edge of the parapet.'</p>
+            <p xml:id="TB-p148">'But it is at least fifteen feet from the body.'</p>
+            <p xml:id="TB-p149">'Yes, it is fifteen feet from the body. It may have nothing to do
+                with the matter, but it is a point worth nothing. I do not think we have anything
+                more to learn here. There were no footsteps, you say?'</p>
+            <p xml:id="TB-p150">'The ground was iron hard, sir. There were no traces at all.'</p>
+            <p xml:id="TB-p151">'Then we can go. We will go up to the house first and look over
+                these weapons of which you speak. Then we shall get on to Winchester, for I should
+                desire to see Miss Dunbar before we go farther.'</p>
+            <p xml:id="TB-p152">Mr Neil Gibson had not returned from town, but we saw in the house
+                the neurotic Mr Bates who had called upon us in the morning. He showed us with a
+                sinister relish the formidable array of fire-arms of various shapes and sizes which
+                his employer had accumulated in the course of an adventurous life.</p>
+            <p xml:id="TB-p153">'Mr Gibson has his enemies, as anyone would expect who knew him and
+                his methods,' said he. 'He sleeps with a loaded revolver in the drawer beside his
+                bed. He is a man of violence, sir, and there are times when all of us are afraid of
+                him. I am sure that the poor lady who has passed was often terrified.'</p>
+            <p xml:id="TB-p154">'Did you ever witness physical violence towards her?'</p>
+            <p xml:id="TB-p155">'No, I cannot say that. But I have heard words which were nearly as
+                bad - words of cold, cutting contempt, even before the servants.'</p>
+            <p xml:id="TB-p156">'Our millionaire does not seem to shine in private life,' remarked
+                Holmes, as we made our way to the station. 'Well, Watson, we have come on a good
+                many facts, some of them new ones, and yet I seem some way from my conclusion. In
+                spite of the very evident dislike which Mr Bates has to his employer, I gather from
+                him that when the alarm came he was undoubtedly in his library. Dinner was over at
+                eight-thirty and all was normal up to then. It is true that the alarm was somewhat
+                late in the evening, but the tragedy certainly occurred about the hour named in the
+                note. There is no evidence at all that Mr Gibson had been out of doors since his
+                return from town at five o'clock. On the other hand, Miss Dunbar, as I understand
+                it, admits that she had made an appointment to meet Mrs Gibson at the bridge. Beyond
+                this she would say nothing, as her lawyer had advised her to reserve her defence. We
+                have several very vital questions to ask that young lady, and my mind will not be
+                easy until we have seen her. I must confess that the case would seem to me to be
+                very black against her if it were not for one thing.'</p>
+            <p xml:id="TB-p157">'And what is that, Holmes?'</p>
+            <p xml:id="TB-p158">'The finding of the pistol in her wardrobe.'</p>
+            <p xml:id="TB-p159">'Dear me, Holmes!' I cried, 'that seemed to me to be the most
+                damning incident of all.'</p>
+            <p xml:id="TB-p160">'Not so, Watson. It had struck me even at my first perfunctory
+                reading as very strange, and now that I am in closer touch with the case it is my
+                only firm ground for hope. We must look for consistency. Where there is a want of it
+                we must suspect deception.'</p>
+            <p xml:id="TB-p161">'I hardly follow you.'</p>
+            <p xml:id="TB-p162">'Well, now, Watson, suppose for a moment that we visualize you in
+                the character of a woman who, in a cold, premeditated fashion, is about to get rid
+                of a rival. You have planned it. A note has been written. The victim has come. You
+                have your weapon. The crime is done. It has been workmanlike and complete. Do you
+                tell me that after carrying out so crafty a crime you would now ruin your reputation
+                as a criminal by forgetting to fling your weapon into those adjacent reed-beds which
+                would for ever cover it, but you must needs carry it carefully home and put it in
+                your own wardrobe, the very first place that would be searched? Your best friends
+                would hardly call you a schemer, Watson, and yet I could not picture you doing
+                anything so crude as that.'</p>
+            <p xml:id="TB-p163">'In the excitement of the moment-'</p>
+            <p xml:id="TB-p164">'No, no, Watson, I will not admit that it is possible. Where a crime
+                is coolly premeditated, then the means of covering it are coolly premeditated also.
+                I hope, therefore, that we are in the presence of a serious misconception.'</p>
+            <p xml:id="TB-p165">'But there is so much to explain.'</p>
+            <p xml:id="TB-p166">'Well, we shall set about explaining it. When once your point of
+                view is changed, the very thing which was so damning becomes a clue to the truth.
+                For example, there is the revolver. Miss Dunbar disclaims all knowledge of it. On
+                our new theory she is speaking truth when she says so. Therefore, it was placed in
+                her wardrobe. Who placed it there? Someone who wished to incriminate her. Was not
+                that person the actual criminal? You see how we come at once upon a most fruitful
+                line of inquiry.'</p>
+            <p xml:id="TB-p167">We were compelled to spend the night at Winchester, as the
+                formalities had not yet been completed, but next morning, in the company of Mr Joyce
+                Cummings, the rising barrister who was entrusted with the defence, we were allowed
+                to see the young lady in her cell. I had expected from all that we had heard to see
+                a beautiful woman, but I can never forget the effect which Miss Dunbar produced upon
+                me. It was no wonder that even the masterful millionaire had found in her something
+                more powerful than himself - something which could control and guide him. One felt,
+                too, as one looked at that strong, clear-cut and yet sensitive face, that even
+                should she be capable of some impetuous deed, none the less there was an innate
+                nobility of character which would make her influence always for the good. She was a
+                brunette, tall, with a noble figure and commanding presence, but her dark eyes had
+                in them this appealing, helpless expression of the hunted creature who feels the
+                nets around it, but can see no way out from the toils. Now, as she realized the
+                presence and the help of my famous friend, there came a touch of colour in her wan
+                cheeks and a light of hope began to glimmer in the glance which she turned upon
+                us.</p>
+            <p xml:id="TB-p168">'Perhaps Mr Neil Gibson has told you something of what occurred
+                between us?' she asked, in a low, agitated voice.</p>
+            <p xml:id="TB-p169">'Yes,' Holmes answered, 'you need not pain yourself by entering into
+                that part of the story. After seeing you, I am prepared to accept Mr Gibson's
+                statement both as to the influence which you had over him and as to the innocence of
+                your relations with him. But why was the whole situation not brought out in
+                court?'</p>
+            <p xml:id="TB-p170">'It seemed to me incredible that such a charge could be sustained. I
+                thought that if we waited the whole thing must clear itself up without our being
+                compelled to enter into painful details of the inner life of the family. But I
+                understand that far from clearing it has become even more serious.'</p>
+            <p xml:id="TB-p171">'My dear young lady,' cried Holmes, earnestly, 'I beg you to have no
+                illusions upon the point. Mr Cummings here would assure you that all the cards are
+                at present against us, and that we must do everything that is possible if we are to
+                win clear. It would be a cruel deception to pretend that you are not in very great
+                danger. Give me all the help you can, then, to get at the truth.'</p>
+            <p xml:id="TB-p172">'I will conceal nothing.'</p>
+            <p xml:id="TB-p173">'Tell us, then, of your true relations with Mr Gibson's wife.'</p>
+            <p xml:id="TB-p174">'She hated me, Mr Holmes. She hated me with all the fervour of her
+                tropical nature. She was a woman who would do nothing by halves, and the measure of
+                her love for her husband was the measure also of her hatred for me. It is probable
+                that she misunderstood our relations. I would not wish to wrong her, but she loved
+                so vividly in a physical sense that she could hardly understand the mental, and even
+                spiritual, tie which held her husband to me, or imagine that it was only my desire
+                to influence his power to good ends which kept me under his roof. I can see now that
+                I was wrong. Nothing could justify me in remaining where I was a cause of
+                unhappiness, and yet it is certain that the unhappiness would have remained even if
+                I had left the house.'</p>
+            <p xml:id="TB-p175">'Now, Miss Dunbar,' said Holmes, 'I beg you to tell us exactly what
+                occurred that evening.'</p>
+            <p xml:id="TB-p176">'I can tell you the truth so far as I know it, Mr Holmes, but I am
+                in a position to prove nothing, and there are points - the most vital points - which
+                I can neither explain nor can I imagine any explanation.'</p>
+            <p xml:id="TB-p177">'If you will find the facts, perhaps others may find the
+                explanation.'</p>
+            <p xml:id="TB-p178">'With regard, then, to my presence at Thor Bridge that night, I
+                received a note from Mrs Gibson in the morning. It lay on the table of the
+                schoolroom, and it may have been left there by her own hand. It implored me to see
+                her there after dinner, said she had something important to say to me, and asked me
+                to leave an answer on the sundial in the garden, as she desired no one to be in our
+                confidence. I saw no reason for such secrecy, but I did as she asked, accepting the
+                appointment. She asked me to destroy her note and I burned it in the schoolroom
+                grate. She was very much afraid of her husband, who treated her with a harshness for
+                which I frequently reproached him, and I could only imagine that she acted in this
+                way because she did not wish him to know of our interview.'</p>
+            <p xml:id="TB-p179">'Yet she kept your reply very carefully?'</p>
+            <p xml:id="TB-p180">'Yes. I was surprised to hear that she had it in her hand when she
+                died.'</p>
+            <p xml:id="TB-p181">'Well, what happened then?'</p>
+            <p xml:id="TB-p182">'I went down as I had promised. When I reached the bridge she was
+                waiting for me. Never did I realize till that moment how this poor creature hated
+                me. She was like a mad woman - indeed, I think she was a mad woman, subtly mad with
+                the deep power of deception which insane people may have. How else could she have
+                met me with unconcern every day and yet had so raging a hatred of me in her heart? I
+                will not say what she said. She poured her whole wild fury out in burning and
+                horrible words. I did not even answer - I could not. It was dreadful to see her. I
+                put my hands to my ears and rushed away. When I left her she was standing still
+                shrieking out her curses at me, in the mouth of the bridge.'</p>
+            <p xml:id="TB-p183">'Where she was afterwards found?"</p>
+            <p xml:id="TB-p184">'Within a few yards from the spot.'</p>
+            <p xml:id="TB-p185">'And yet, presuming that she met her death shortly after you left
+                her, you heard no shot?'</p>
+            <p xml:id="TB-p186">'No, I heard nothing. But, indeed, Mr Holmes, I was so agitated and
+                horrified by this terrible outbreak that I rushed to get back to the peace of my own
+                room, and I was incapable of noticing anything which happened.'</p>
+            <p xml:id="TB-p187">'You say that you returned to your room. Did you leave it again
+                before next morning?'</p>
+            <p xml:id="TB-p188">'Yes, when the alarm came that the poor creature had met her death I
+                ran out with the others.'</p>
+            <p xml:id="TB-p189">'Did you see Mr Gibson?'</p>
+            <p xml:id="TB-p190">'Yes, he had just returned from the bridge when I saw him. He had
+                sent for the doctor and the police.'</p>
+            <p xml:id="TB-p191">'Did he seem to you much perturbed?'</p>
+            <p xml:id="TB-p192">'Mr Gibson is a very strong, self-contained man. I do not think that
+                he would ever show his emotions on the surface. But I, who knew him so well, could
+                see that he was deeply concerned.'</p>
+            <p xml:id="TB-p193">'Then we come to the all-important point. This pistol that was found
+                in your room. Had you ever seen it before?'</p>
+            <p xml:id="TB-p194">'Never, I swear it.'</p>
+            <p xml:id="TB-p195">'When was it found?'</p>
+            <p xml:id="TB-p196">'Next morning, when the police made their search.'</p>
+            <p xml:id="TB-p197">'Among your clothes?'</p>
+            <p xml:id="TB-p198">'Yes, on the floor of my wardrobe under my dresses.'</p>
+            <p xml:id="TB-p199">'You could not guess how long it had been there?'</p>
+            <p xml:id="TB-p200">'It had not been there the morning before.'</p>
+            <p xml:id="TB-p201">'How do you know?'</p>
+            <p xml:id="TB-p202">'Because I tidied out the wardrobe.'</p>
+            <p xml:id="TB-p203">'That is final. Then someone came into your room and placed the
+                pistol there in order to inculpate you.'</p>
+            <p xml:id="TB-p204">'It must have been so.'</p>
+            <p xml:id="TB-p205">'And when?'</p>
+            <p xml:id="TB-p206">'It could only have been at meal-time, or else at the hours when I
+                would be in the schoolroom with the children.'</p>
+            <p xml:id="TB-p207">'As you were when you got the note?'</p>
+            <p xml:id="TB-p208">'Yes, from that time onwards for the whole morning.'</p>
+            <p xml:id="TB-p209">'Thank you, Miss Dunbar. Is there any other point which could help
+                me in the investigation?'</p>
+            <p xml:id="TB-p210">'I can think of none.'</p>
+            <p xml:id="TB-p211">'There was some sign of violence on the stonework of the bridge - a
+                perfectly fresh chip just opposite the body. Could you suggest any possible
+                explanation of that?'</p>
+            <p xml:id="TB-p212">'Surely it must be a mere coincidence.'</p>
+            <p xml:id="TB-p213">'Curious, Miss Dunbar, very curious. Why should it appear at the
+                very time of the tragedy and why at the very place?'</p>
+            <p xml:id="TB-p214">'But what could have caused it? Only great violence could have such
+                an effect.'</p>
+            <p xml:id="TB-p215">Holmes did not answer. His pale, eager face had suddenly assumed
+                that tense, far-away expression which I had learned to associate with the supreme
+                manifestations of his genius. So evident was the crisis in his mind that none of us
+                dared to speak, and we sat, barrister, prisoner, and myself, watching him in a
+                concentrated and absorbed silence. Suddenly he sprang from his chair, vibrating with
+                nervous energy and the pressing need for action.</p>
+            <p xml:id="TB-p216">'Come, Watson, come!' he cried.</p>
+            <p xml:id="TB-p217">'What is it, Mr Holmes?'</p>
+            <p xml:id="TB-p218">'Never mind, my dear lady. You will hear from me, Mr Cummings. With
+                the help of the God of justice I will give you a case which will make England ring.
+                You will get news by tomorrow, Miss Dunbar, and meanwhile take my assurance that the
+                clouds are lifting and that I have every hope that the light of truth is breaking
+                through.'</p>
+            <p xml:id="TB-p219">It was not a long journey from Winchester to Thor Place, but it was
+                long to me in my impatience, while for Holmes it was evident that it seemed endless,
+                for, in his nervous restlessness, he could not sit still, but paced the carriage or
+                drummed with his long, sensitive fingers upon the cushions beside him.</p>
+            <p xml:id="TB-p220">Suddenly, however, as we neared our destination he seated himself
+                opposite to me - we had a first-class carriage to ourselves - and laying a hand upon
+                each of my knees he looked into my eyes with the peculiarly mischievous gaze which
+                was characteristic of his more imp-like moods.</p>
+            <p xml:id="TB-p221">'Watson,' said he, 'I have some recollection that you go armed upon
+                these excursions of ours.'</p>
+            <p xml:id="TB-p222">It was as well for him that I did so, for he took little care for
+                his own safety when his mind was once absorbed by a problem, so that more than once
+                my revolver had been a good friend in need. I reminded him of the fact.</p>
+            <p xml:id="TB-p223">'Yes, yes, I am a little absent-minded in such matters. But have you
+                your revolver on you?'</p>
+            <p xml:id="TB-p224">I produced it from my hip-pocket, a short, handy, but very
+                serviceable little weapon. He undid the catch, shook out the cartridges, and
+                examined it with care.</p>
+            <p xml:id="TB-p225">'It's heavy - remarkably heavy,' said he.</p>
+            <p xml:id="TB-p226">'Yes, it is a solid bit of work.'</p>
+            <p xml:id="TB-p227">He mused over it for a minute.</p>
+            <p xml:id="TB-p228">'Do you know, Watson,' said he, 'I believe your revolver is going to
+                have a very intimate connection with the mystery which we are investigating.'</p>
+            <p xml:id="TB-p229">'My dear Holmes, you are joking.'</p>
+            <p xml:id="TB-p230">'No, Watson, I am very serious. There is a test before us. If the
+                test comes off, all will be clear. And the test will depend upon the conduct of this
+                little weapon. One cartridge out. Now we will replace the other five and put on the
+                safety-catch. So! That increases the weight and makes it a better reproduction.'</p>
+            <p xml:id="TB-p231">I had no glimmer of what was in his mind nor did he enlighten me,
+                but sat lost in thought until we pulled up in the little Hampshire station. We
+                secured a ramshackle trap, and in a quarter of an hour were at the house of our
+                confidential friend, the sergeant.</p>
+            <p xml:id="TB-p232">'A clue, Mr Holmes? What is it?'</p>
+            <p xml:id="TB-p233">'It all depends upon the behaviour of Dr Watson's revolver,' said my
+                friend. 'Here it is. Now, officer, can you give me ten yards of string?'</p>
+            <p xml:id="TB-p234">The village shop provided a ball of stout twine.</p>
+            <p xml:id="TB-p235">'I think that this is all we will need,' said Holmes. 'Now, if you
+                please, we will get off on what I hope is the last stage of our journey.'</p>
+            <p xml:id="TB-p236">The sun was setting and turning the rolling Hampshire moor into a
+                wonderful autumnal panorama. The sergeant, with many critical and incredulous
+                glances, which showed his deep doubts of the sanity of my companion, lurched along
+                beside us. As we approached the scene of the crime I could see that my friend under
+                all his habitual coolness was in truth deeply agitated.</p>
+            <p xml:id="TB-p237">'Yes,' he said, in answer to my remark, 'you have seen me miss my
+                mark before, Watson. I have an instinct for such things, and yet it has sometimes
+                played me false. It seemed a certainty when first it flashed across my mind in the
+                cell at Winchester, but one drawback of an active mind is that one can always
+                conceive alternative explanations which would make our scent a false one. And yet -
+                and yet - Well, Watson, we can but try.'</p>
+            <p xml:id="TB-p238">As he walked he had firmly tied one end of the string to the handle
+                of the revolver. We had now reached the scene of the tragedy. With great care he
+                marked out under the guidance of the policeman the exact spot where the body had
+                been stretched. He then hunted among the heather and the ferns until he found a
+                considerable stone. This he secured to the other end of his line of string, and he
+                hung it over the parapet of the bridge so that it swung clear above the water. He
+                then stood on the fatal spot, some distance from the edge of the bridge, with my
+                revolver in his hand, the string being taut between the weapon and the heavy stone
+                on the farther side.</p>
+            <p xml:id="TB-p239">'Now for it!' he cried.</p>
+            <p xml:id="TB-p240">At the words he raised the pistol to his head, and then let go his
+                grip. In an instant it had been whisked away by the weight of the stone, had struck
+                with a sharp crack against the parapet, and had vanished over the side into the
+                water. It had hardly gone before Holmes was kneeling beside the stonework, and a
+                joyous cry showed that he had found what he expected.</p>
+            <p xml:id="TB-p241">'Was there ever a more exact demonstration?' he cried. 'See, Watson,
+                your revolver has solved the problem!' As he spoke he pointed to a second chip of
+                the exact size and shape of the first which had appeared on the under edge of the
+                stone balustrade.</p>
+            <p xml:id="TB-p242">'We'll stay at the inn to-night,' he continued, as he rose and faced
+                the astonished sergeant. 'You will, of course, get a grappling-hook and you will
+                easily restore my friend's revolver. You will also find beside it the revolver,
+                string and weight with which this vindictive woman attempted to disguise her own
+                crime and to fasten a charge of murder upon an innocent victim. You can let Mr
+                Gibson know that I will see him in the morning, when steps can be taken for Miss
+                Dunbar's vindication.'</p>
+            <p xml:id="TB-p243">Late that evening, as we sat together smoking our pipes in the
+                village inn, Holmes gave me a brief review of what had passed.</p>
+            <p xml:id="TB-p244">'I fear, Watson,' said he, 'that you will not improve any reputation
+                which I may have acquired by adding the Case of the Thor Bridge Mystery to your
+                annals. I have been sluggish in mind and wanting in that mixture of imagination and
+                reality which is the basis of my art. I confess that the chip in the stonework was a
+                sufficient clue to suggest the true solution, and that I blame myself for not having
+                attained it sooner.</p>
+            <p xml:id="TB-p245">'It must be admitted that the workings of this unhappy woman's mind
+                were deep and subtle, so that it was no very simple matter to unravel her plot. I do
+                not think that in our adventures we have ever come across a stranger example of what
+                perverted love can bring about. Whether Miss Dunbar was her rival in a physical or
+                in a merely mental sense seems to have been equally unforgivable in her eyes. No
+                doubt she blamed this innocent lady for all those harsh dealings and unkind words
+                with which her husband tried to repel her too demonstrative affection. Her first
+                resolution was to end her own life. Her second was to do it in such a way as to
+                involve her victim in a fate which was worse far than any sudden death could be.</p>
+            <p xml:id="TB-p246">'We can follow the various steps quite clearly, and they show a
+                remarkable subtlety of mind. A note was extracted very cleverly from Miss Dunbar
+                which would make it appear that she had chosen the scene of the crime. In her
+                anxiety that it should be discovered she somewhat overdid it, by holding it in her
+                hand to the last. This alone should have excited my suspicions earlier than it
+                did.</p>
+            <p xml:id="TB-p247">'Then she took one of her husband's revolvers — there was, as you
+                saw, an arsenal in the house - and kept it for her own use. A similar one she
+                concealed that morning in Miss Dunbar's wardrobe after discharging one barrel, which
+                she could easily do in the woods without attracting attention. She then went down to
+                the bridge where she had contrived this exceedingly ingenious method for getting rid
+                of her weapon. When Miss Dunbar appeared she used her last breath in pouring out her
+                hatred, and then, when she was out of hearing, carried out her terrible purpose.
+                Every link is now in its place and the chain is complete. The papers may ask why the
+                mere was not dragged in the first instance, but it is easy to be wise after the
+                event, and in any case the expanse of a reed-filled lake is no easy matter to drag
+                unless you have a clear perception of what you are looking for and where. Well,
+                Watson, we have helped a remarkable woman, and also a formidable man. Should they in
+                the future join their forces, as seems not unlikely, the financial world may find
+                that Mr Neil Gibson has learned something in that schoolroom of Sorrow where our
+                earthly lessons are taught.'</p></chapter>
+    </text>
+</xml>

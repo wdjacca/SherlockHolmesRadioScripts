@@ -29,14 +29,14 @@
             Wine brings you--</ln>
 
         <ln>
-            <music> STING</music>
+            <SFX>/0</SFX>
         </ln>
 
         <ln><speaker>ANNOUNCER</speaker> Basil Rathbone and Nigel Bruce in "The New Adventures of
                 <mention ref="holmes">Sherlock Holmes</mention>."</ln>
 
         <ln>
-            <music> UP AND OUT</music>
+            <SFX>/0</SFX>
         </ln>
 
         <ln><speaker>ANNOUNCER</speaker> The Petri family -- the family that took time to bring you
@@ -54,7 +54,7 @@
             wines.</ln>
 
         <ln>
-            <music> THEME</music>
+            <SFX>/0</SFX>
         </ln>
 
         <ln><speaker>ANNOUNCER</speaker> And now I know <mention ref="watson">Dr. Watson</mention>'s
@@ -431,7 +431,7 @@
             Briony Lodge, Serpentine Avenue, St. John's Wood.</ln>
 
         <ln>
-            <music> BRIDGE </music>
+            <SFX>/0</SFX>
         </ln>
 
         <ln><speaker>WATSON</speaker> Well,<mention ref="holmes"> Holmes</mention>, I guess the
@@ -644,7 +644,7 @@
         </ln>
 
         <ln>
-            <music> CURTAIN</music>
+            <SFX>/0</SFX>
         </ln>
 
         <ln><speaker>ANNOUNCER</speaker> We'll hear the rest of <mention ref="watson">Dr.
@@ -723,7 +723,7 @@
             closer grips with the lady!</ln>
 
         <ln>
-            <music> BRIDGE</music>
+            <SFX>/0</SFX>
         </ln>
 
         <ln><speaker>WATSON</speaker> Well,<mention ref="holmes"> Holmes</mention>, now that we've
@@ -777,7 +777,7 @@
             attire, let's be on our way. There's no time to be lost.</ln>
 
         <ln>
-            <music> BRIDGE </music>
+            <SFX>/0</SFX>
         </ln>
 
         <ln><speaker>WATSON</speaker> It's nearly six-thirty,<mention ref="holmes">
@@ -936,7 +936,7 @@
         </ln>
 
         <ln>
-            <music> BRIDGE </music>
+            <SFX>/0</SFX>
         </ln>
 
         <ln>
@@ -983,7 +983,7 @@
             ended!</ln>
 
         <ln>
-            <music> BRIDGE </music>
+            <SFX>/0</SFX>
         </ln>
 
         <ln>
@@ -1117,7 +1117,7 @@
             forget.</ln>
 
         <ln>
-            <music> CURTAIN </music>
+            <SFX>/0</SFX>
         </ln>
 
         <ln><speaker>ANNOUNCER</speaker> Gee, doctor, what a woman, that Miss Adler. Or should I say
@@ -1175,7 +1175,7 @@
             doing -- a splendid job.</ln>
 
         <ln>
-            <music> THEME ... THEN UNDER--</music>
+            <SFX>/0</SFX>
         </ln>
 
         <ln><speaker>ANNOUNCER</speaker> <lineGp><line>Tonight's <mention ref="holmes">Sherlock Holmes</mention>
@@ -1190,7 +1190,7 @@
             to you from our Hollywood studios.</line></lineGp> </ln>
 
         <ln>
-            <music> OUT</music>
+            <SFX>/0</SFX>
         </ln>
 
         <ln><speaker>ANNOUNCER</speaker> This is Harry Bartell saying "Good night" for the Petri
