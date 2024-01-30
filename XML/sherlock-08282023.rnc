@@ -1,0 +1,36 @@
+start = element xml {metadata, script}
+metadata = element metadata {series,show,date,(author|note|FXlist)*,castList}
+series = element series {text}
+show = element show {text}
+date = element date {when, text}
+when = attribute when {xsd:date}
+castList = element castList {text,cast+}
+cast = element cast {id,text}
+id = attribute xml:id {xsd:ID}
+ref = attribute ref {text}
+script = element script {(music*|ln+|fx*|stageDirect*)*}
+music = element music {mixed{stageDirect*}}
+ln = element ln {ref?, pull?, type?, speaker?, mixed{(mention|sfx|stageDirect|speaker|change|music|sound|lineGp|interpel)*}}
+sfx = element sfx {ref, text}
+
+change = element change {pull,text}
+# ebb: This allows you to use multiple attribute values for the @change attribute, as in 
+# <ln change="interpel wording">...</ln>
+
+orgPub = attribute orgPub {text}
+lineGp= element lineGp {line+} #Note: for separated lines by the same speaker where structure is important
+line = element line {mixed{mention*|interpel*|stageDirect*}}
+mention = element mention {ref,text}
+speaker = element speaker {ref, text}
+special = element special {nt}
+nt = attribute nt {text} #Note: for special / note-worthy mistakes 
+fx = element fx {text}
+stageDirect = element stageDirect {mixed{(mention|sfx)*}}
+author = element author {mixed{person+}}
+note = element note {text}
+FXlist = element FXlist {text,fx+}
+sound = element sound {mixed{stageDirect*|special*}}
+person = element person {id,text}
+pull = attribute pull {text}
+type = attribute type {"unmatched"}
+interpel = element interpel {ref,text}
