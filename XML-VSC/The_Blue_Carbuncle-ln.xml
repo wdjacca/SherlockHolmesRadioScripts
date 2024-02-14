@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?><xml>
+  <metadata>
+    <series>Series: <seriesTitle>Sherlock Holmes</seriesTitle></series>
+    <show>Show: <showTitle>The Blue Carbuncle</showTitle></show>
+    <date when="1954-12-14">Date: Dec 14 1954</date>
+    <castList> CAST: <cast xml:id="ANNOUNCER">ANNOUNCER</cast>
+      <cast xml:id="holmes">SHERLOCK HOLMES</cast>
+      <cast xml:id="watson">DR. WATSON</cast>
+      <cast xml:id="peterson">PETERSON, astonished</cast>
+      <cast xml:id="baker">BAKER, amiable alcoholic</cast>
+      <cast xml:id="breckinridge">BRECKINRIDGE, argumentative</cast>
+      <cast xml:id="ryder">RYDER, anxious</cast>
+      <cast xml:id="onlookers">plus a small crowd of ONLOOKERS</cast>
+      <cast xml:id="children">and caroling CHILDREN</cast></castList>
+  </metadata>
+  <script>
+    <p>
+      <stageDirect>A HANSOM CAB HURRIES BY</stageDirect>
+    </p>
+
+    <p>
+      <stageDirect>THEME ... SOLO VIOLIN ... THEN IN BG</stageDirect>
+    </p>
+
+    <p lncount="3"><speaker>ANNOUNCER</speaker> "The Adventures of Sherlock Holmes," the original and immortal
+      stories of <mention interpel="sig">Sir Arthur Conan Doyle</mention> dramatized anew, with <mention interpel="sig">Sir Ralph Richardson</mention> as <mention ref="watson">Dr. Watson</mention> and
+      <mention interpel="sig">Sir John Gielgud</mention> in the role of <mention ref="holmes">Sherlock Holmes</mention>.</p>
+
+    <p>
+      <stageDirect>SOLO VIOLIN ... UP TO FILL A PAUSE ... THEN OUT ... CHILDREN SING FIRST TWO LINES
+        OF "THE FIRST NOËL" ... THEN IN BG--</stageDirect>
+    </p>
+
+    <p>
+      <stageDirect>CITY TRAFFIC ... HORSES AND CABS AND PEOPLE HURRY BY ... IN BG</stageDirect>
+    </p>
+
+    <p lncount="6"><speaker>WATSON</speaker>
+      <voiceDirect>NARRATES, CONTEMPLATIVE</voiceDirect> Christmas. Christmas in our <location ref="london">London</location> of the
+      1880s ... with the sparkle 'round the gaslights and the glow on the hurrying passersby laden
+      with mysterious parcels ... with candled shop windows heaped with toys ... with tinkling
+      hansoms hastening past ... with a million tall trees in a million tall drawing-rooms.
+      Christmas. And in the glow and glory of it, I called at Baker Street to see my old friend
+      Sherlock Holmes. <voiceDirect>APPROACHES, FROM OFF</voiceDirect> Compliments of the season,
+      <mention ref="holmes">Holmes</mention>!</p>
+
+    <p lncount="7"><speaker>HOLMES</speaker>
+      <voiceDirect>PREOCCUPIED</voiceDirect> Eh? Who? What? Who's that?</p>
+
+    <p lncount="8"><speaker>WATSON</speaker>
+      <voiceDirect>ON</voiceDirect> Compliments of the season, <mention ref="holmes">Holmes</mention>.</p>
+
+    <p lncount="9"><speaker>HOLMES</speaker>
+      <voiceDirect>ABSENTLY CURT</voiceDirect> Oh, <mention ref="watson">Watson</mention>, it's you. Good evening, how do you
+      do?</p>
+
+    <p lncount="10"><speaker>WATSON</speaker> Ah, I say that's a deuced cold greeting for the time of year. Or
+      don't you believe in the Christmas spirit?</p>
+
+    <p lncount="11"><speaker>HOLMES</speaker>
+      <voiceDirect>CHUCKLES</voiceDirect> Yes, yes, of course I do, <mention ref="watson">my dear fellow</mention>. It's only that
+      I'm profoundly engaged. My mind was elsewhere. Er, close the door, <mention ref="watson">Watson</mention>. Come in. There's a
+      confounded din from the street.</p>
+
+    <p>
+      <stageDirect>DOOR CLOSES, CUTTING OFF CITY BACKGROUND AND CAROLING CHILDREN</stageDirect>
+    </p>
+
+    <p lncount="13"><speaker>HOLMES</speaker> Yes, that's much better. Sit down, won't you?</p>
+
+    <p lncount="14"><speaker>WATSON</speaker> Of course, if you're engaged, <mention ref="holmes">Holmes</mention>, I'd better not stay. I've
+      still some visits to make to my patients.</p>
+
+    <p lncount="15"><speaker>HOLMES</speaker> No, no, no, no. Of course! You know how glad I always am to have
+      you, <mention ref="watson">old friend</mention>, to discuss my problems with. Now, help yourself to a whiskey and soda,
+      <mention ref="watson">Watson</mention>.</p>
+
+    <p lncount="16"><speaker>WATSON</speaker> Oh, thank you.</p>
+
+    <p lncount="17"><speaker>HOLMES</speaker>
+      <voiceDirect>SLOWLY</voiceDirect> And just tell me what you think of that.</p>
+
+    <p lncount="18"><speaker>WATSON</speaker> Think of what?</p>
+
+    <p lncount="19"><speaker>HOLMES</speaker> That. Hanging on the back of the chair there. I've been
+      contemplating it for the last half hour.</p>
+
+    <p lncount="20"><speaker>WATSON</speaker>
+      <voiceDirect>PUZZLED</voiceDirect> It's, er-- It's only a hat. Er, a simple hard black
+      hat.</p>
+
+    <p lncount="21"><speaker>HOLMES</speaker> Just so.</p>
+
+    <p lncount="22"><speaker>WATSON</speaker> You'd best sit down with me by the fire and tell me all about it,
+      and I'll brew some punch.</p>
+
+    <p>
+      <stageDirect>WATSON PUTTERS WITH GLASSES AND UTENSILS, IN BG, IN AGREEMENT WITH
+        FOLLOWING--</stageDirect>
+    </p>
+
+    <p lncount="24"><speaker>HOLMES</speaker> Excellent. Excellent, <mention ref="watson">Watson</mention>. You know where everything is, of
+      course. And meanwhile I'll tell you the tale of this hat -- and I ask you to consider it,
+      Watson, not as a battered old billycock, but as an intellectual problem.</p>
+
+    <p lncount="25"><speaker>WATSON</speaker> Well, let me find the nutmeg grater first and I'm ready. Where--?
+      Er, yes. Ah, here it is.</p>
+
+    <p lncount="26"><speaker>HOLMES</speaker> Well, then. You know <mention ref="peterson">Peterson, the commissionaire at the hotel on
+      the corner</mention>?</p>
+
+    <p lncount="27"><speaker>WATSON</speaker> But of course. Why? Is it his hat?</p>
+
+    <p lncount="28"><speaker>HOLMES</speaker> No, his trophy.</p>
+
+    <p lncount="29"><speaker>WATSON</speaker> Huh? Trophy?</p>
+
+    <p lncount="30"><speaker>HOLMES</speaker> Well, he found it. The owner is unknown. It arrived here, <mention ref="watson">Watson</mention>,
+      in company with a fine fat goose, which I have no doubt at this moment is roasting merrily in
+      front of the Petersons' fire.</p>
+
+    <p lncount="31"><speaker>WATSON</speaker>
+      <voiceDirect>AMUSED</voiceDirect> Oh ho. Well! A goose and a hat. No doubt the connection's
+      obvious, but, er-- But, er-- <voiceDirect>PUZZLED</voiceDirect> Where - where - where do you
+      put the lemons, my dear fella?</p>
+
+    <p lncount="32"><speaker>HOLMES</speaker> Lemons? Oh, try the gasogene stand.</p>
+
+    <p>
+      <stageDirect>WATSON TRIES THE GASOGENE STAND</stageDirect>
+    </p>
+
+    <p lncount="34"><speaker>WATSON</speaker> No.</p>
+
+    <p lncount="35"><speaker>HOLMES</speaker>
+      <voiceDirect>LIGHTLY</voiceDirect> Oh, well, then that hideous bamboo smoking companion that
+      Mrs. Hudson will insist on setting down beside the sofa every afternoon.</p>
+
+    <p lncount="36"><speaker>WATSON</speaker> Ah, yes! Here we are.</p>
+
+    <p lncount="37"><speaker>HOLMES</speaker>
+      <voiceDirect>CHUCKLES</voiceDirect> Well now, the facts are these, Watson: Peterson -- who is
+      a very honest fellow, as you know -- was returning about four o'clock this morning from some
+      small seasonal jollification and walking homewards down the Tottenham Court Road.</p>
+
+    <p lncount="38"><speaker>WATSON</speaker> Oh, ah, stir the fire a bit, will you? My hands are full.</p>
+
+    <p lncount="39"><speaker>HOLMES</speaker> Certainly, Watson. Heh! Of course.</p>
+
+    <p>
+      <stageDirect>HOLMES STIRS THE FIRE</stageDirect>
+    </p>
+
+    <p lncount="41"><speaker>HOLMES</speaker> In front of him, there in the gaslight, Peterson suddenly saw a
+      tallish man with a stick, walking with a slight stagger and carrying a white goose over his
+      shoulder.</p>
+
+    <p lncount="42"><speaker>WATSON</speaker> Uh-huh.</p>
+
+    <p lncount="43"><speaker>HOLMES</speaker> As he reached the corner of Warren Street, this man was suddenly
+      set upon by a crowd of roughs. One of them knocked his hat off and as he raised his stick to
+      defend himself, he accidentally swung it against a shop window and smashed the glass.</p>
+
+    <p lncount="44"><speaker>WATSON</speaker>
+      <voiceDirect>AMUSED</voiceDirect> Oh ho! Well, what happened next, Holmes?</p>
+
+    <p lncount="45"><speaker>HOLMES</speaker> Well, Peterson, who was still wearing his commissionaire's uniform,
+      rushed to the man's assistance. But the fellow, shocked at breaking a window and seeing a man
+      in uniform running up to him, dropped his goose and took to his heels.</p>
+
+    <p lncount="46"><speaker>WATSON</speaker> Huh.</p>
+
+    <p lncount="47"><speaker>HOLMES</speaker> The roughs did the same, leaving Peterson master of the field of
+      battle. He brought both bird and hat to me. There was a card on the bird's leg with "For Mrs.
+      Henry Baker" written on it and the initials "H. B." are written on the label inside the
+      hat.</p>
+
+    <p lncount="48"><speaker>WATSON</speaker> Ah ha.</p>
+
+    <p lncount="49"><speaker>HOLMES</speaker> But of course there are some thousands of people named Baker in
+      this great city of ours, so it has been my little occupation for this last hour or so to try
+      and deduce the exact identity of this one.</p>
+
+    <p lncount="50"><speaker>WATSON</speaker> From his hat?</p>
+
+    <p lncount="51"><speaker>HOLMES</speaker> Yes, Watson. <voiceDirect>THOUGHTFUL</voiceDirect> The owner of
+      this hat, Watson-- <stageDirect>DRINK POURED</stageDirect> --highly intellectual, fairly
+      well-to-do, but in the space of the last three years seems to have fallen on evil days. He
+      used to have foresight, but he has less now than formerly. I suspect he's taken to drink,
+      which would also perhaps account for the fact that his wife no longer loves him.</p>
+
+    <p lncount="52"><speaker>WATSON</speaker>
+      <voiceDirect>LAUGHS HEARTILY</voiceDirect> Oh, my dear Holmes.</p>
+
+    <p lncount="53"><speaker>HOLMES</speaker>
+      <voiceDirect>CONTINUES</voiceDirect> Middle-aged, goes out little, has grizzled hair -- which
+      he anoints with lime-cream -- and has been to the barber's lately. It is also extremely
+      improbable that he has gas laid on in his house.</p>
+
+    <p lncount="54"><speaker>WATSON</speaker>
+      <voiceDirect>CHUCKLES, SKEPTICAL</voiceDirect> Ah, come, Holmes. Now you're surely joking.</p>
+
+    <p lncount="55"><speaker>HOLMES</speaker> Not at all.</p>
+
+    <p lncount="56"><speaker>WATSON</speaker> Now, I've seen you at this kind of thing before, of course, but
+      this is going too far. His wife, Holmes--</p>
+
+    <p lncount="57"><speaker>HOLMES</speaker> Ah?</p>
+
+    <p lncount="58"><speaker>WATSON</speaker> You said she'd stopped loving him.</p>
+
+    <p lncount="59"><speaker>HOLMES</speaker>
+      <voiceDirect>SIMPLY</voiceDirect> The hat hasn't been brushed for weeks, my dear fellow.</p>
+
+    <p lncount="60"><speaker>WATSON</speaker>
+      <voiceDirect>CONFUSED</voiceDirect> What?</p>
+
+    <p lncount="61"><speaker>HOLMES</speaker> Well, when I see you, Watson, with such an accumulation of dust on
+      your respectable headgear, I shall expect you to be returning to your old quarters here within
+      the next day or two.</p>
+
+    <p lncount="62"><speaker>WATSON</speaker>
+      <voiceDirect>LAUGHS</voiceDirect> Oh, Holmes, Holmes -- you have an answer for everything.
+      Wonderful, wonderful. <voiceDirect>MORE SERIOUS</voiceDirect> Except the gas. The fact that
+      there's no gas laid on in his house, now that really is impossible.</p>
+
+    <p lncount="63"><speaker>HOLMES</speaker> Not at all. One tallow stain, or even two, might come by chance,
+      but when I see no less than five, I think there can be little doubt that the owner must be
+      brought in frequent contact with burning tallow. Yes, he probably walks upstairs at night with
+      his hat in one hand and a guttering candle in the other. Anyhow, he never got tallow stains
+      from a gasjet. Satisfied?</p>
+
+    <p lncount="64"><speaker>WATSON</speaker> Ha! 'Pon my soul, 'pon my soul, it's really, really most - most
+      ingenious.</p>
+
+    <p lncount="65"><speaker>HOLMES</speaker> Elementary, my dear Watson.</p>
+
+    <p lncount="66"><speaker>WATSON</speaker>
+      <voiceDirect>LAUGHS</voiceDirect> Well, actually, it seems rather a waste of your talents, for
+      there's been no crime committed. Nothing but the loss of a Christmas goose.</p>
+
+    <p lncount="67"><speaker>HOLMES</speaker> That goose, my dear fellow--</p>
+
+    <p>
+      <stageDirect>SHARP KNOCKING AT DOOR</stageDirect>
+    </p>
+
+    <p lncount="69"><speaker>PETERSON</speaker>
+      <voiceDirect>BEHIND DOOR, URGENT</voiceDirect> Mr. Holmes?</p>
+
+    <p>
+      <stageDirect>MORE KNOCKING</stageDirect>
+    </p>
+
+    <p lncount="71"><speaker>PETERSON</speaker>
+      <voiceDirect>BEHIND DOOR</voiceDirect> Mr. Holmes, sir, are you in?</p>
+
+    <p lncount="72"><speaker>HOLMES</speaker> Hello, hello, what's this? Who is it?
+        <voiceDirect>CALLS</voiceDirect> Yes? Come in!</p>
+
+    <p>
+      <stageDirect>DOOR OPENS</stageDirect>
+    </p>
+
+    <p lncount="74"><speaker>PETERSON</speaker>
+      <voiceDirect>AGITATED</voiceDirect> Mr. Holmes?</p>
+
+    <p lncount="75"><speaker>HOLMES</speaker> My dear Peterson!</p>
+
+    <p lncount="76"><speaker>PETERSON</speaker>
+      <voiceDirect>BREATHLESS</voiceDirect> Oh-- It's - it's the goose, sir.</p>
+
+    <p lncount="77"><speaker>HOLMES</speaker>
+      <voiceDirect>LIGHTLY</voiceDirect> Well, has it returned to life and flapped off through the
+      kitchen window? You're as white as a sheet.</p>
+
+    <p lncount="78"><speaker>PETERSON</speaker> Oh, well-- See here, sir. Here. Look what my wife found inside
+      its crop.</p>
+
+    <p lncount="79"><speaker>HOLMES</speaker>
+      <voiceDirect>BEAT, ASTONISHED</voiceDirect> Watson! Look.</p>
+
+    <p lncount="80"><speaker>WATSON</speaker>
+      <voiceDirect>AMAZED</voiceDirect> This - this is a treasure trove indeed, Peterson. Yes, a
+      precious stone. One of the biggest I've ever seen.</p>
+
+    <p lncount="81"><speaker>HOLMES</speaker> It's more than a precious stone, Watson. It's the precious stone.
+      The blue carbuncle.</p>
+
+    <p lncount="82"><speaker>WATSON</speaker> Great heavens! The - the Countess of Morcar's?</p>
+
+    <p lncount="83"><speaker>HOLMES</speaker> Precisely. Missing for five days and with a descriptive
+      advertisement every morning in The Times about it. And a reward of a thousand pounds for its
+      recovery.</p>
+
+    <p lncount="84"><speaker>PETERSON</speaker>
+      <voiceDirect>STUNNED</voiceDirect> Thousand pounds? Cor, love a duck.</p>
+
+    <p lncount="85"><speaker>WATSON</speaker> A goose, Peterson.</p>
+
+    <p lncount="86"><speaker>PETERSON</speaker> A blue carbuncle?</p>
+
+    <p lncount="87"><speaker>WATSON</speaker> Yes, yes, I remember now. Lost at the Hotel Cosmopolitan.</p>
+
+    <p lncount="88"><speaker>HOLMES</speaker> That's it, and they've arrested some plumber fellow who's supposed
+      to have taken it from the countess's jewel case.</p>
+
+    <p lncount="89"><speaker>PETERSON</speaker>
+      <voiceDirect>DISBELIEF</voiceDirect> A thousand pounds reward. Oh, cor.</p>
+
+    <p lncount="90"><speaker>WATSON</speaker> I was reading about it only just now. <stageDirect>RUSTLE OF
+        NEWSPAPER</stageDirect> Yes. Here we are, here we are. <voiceDirect>READS</voiceDirect> "The
+      Hotel Cosmopolitan Jewel Robbery. John Horner, plumber, twenty-six, was brought up on the
+      charge of having abstracted from the jewel-case of the Countess of Morcar the valuable gem
+      known as the blue carbuncle."</p>
+
+    <p lncount="91"><speaker>HOLMES</speaker> What else, Watson?</p>
+
+    <p lncount="92"><speaker>WATSON</speaker> Well, it seems that this fellow Horner was taken up to the
+      countess's room by her maid -- a girl called Catherine Cusack -- to do some kind of
+      repair.</p>
+
+    <p lncount="93"><speaker>HOLMES</speaker> Hmm.</p>
+
+    <p lncount="94"><speaker>WATSON</speaker> When the head attendant of the hotel went in -- a fellow called
+      James Ryder -- to see if the work was finished, he found the jewel case was lying empty and
+      that Horner had gone. Then he gave the alarm and Horner was found by the police and they
+      arrested him. The case has been referred to the Assizes.</p>
+
+    <p lncount="95"><speaker>HOLMES</speaker> Hmm. Well, then the only problem remaining to be solved is the
+      sequence of events leading from an empty jewel-case in a hotel room at one end, to the crop of
+      a goose in the Tottenham Court Road at the other. Er, just give me a pencil and that slip of
+      paper, will you, Peterson?</p>
+
+    <p lncount="96"><speaker>PETERSON</speaker> Huh? Oh-- Oh, yes, sir. <voiceDirect>TO HIMSELF</voiceDirect>
+      Thousand pounds. Oh, blow me down. <voiceDirect>TO HOLMES</voiceDirect> Here, sir.</p>
+
+    <p lncount="97"><speaker>WATSON</speaker> What are you going to do, Holmes?</p>
+
+    <p lncount="98"><speaker>HOLMES</speaker> Find the owner of this hat. <voiceDirect>AS HE WRITES</voiceDirect>
+      "H. B., Henry Baker." <voiceDirect>TO WATSON</voiceDirect> Yes, he began as a joke and now
+      he's become a mystery. We'll try the simplest method first -- an advertisement. How's this,
+      Watson? Read it.</p>
+
+    <p lncount="99"><speaker>WATSON</speaker>
+      <voiceDirect>READS</voiceDirect> "Found at the corner of [Tottenham Court Road and] Warren
+      Street: a goose and a black felt hat. Mr. Henry Baker can have the same by applying at
+      six-thirty this evening at Two-Two-One Baker Street."</p>
+
+    <p lncount="100"><speaker>HOLMES</speaker> Clear and concise, I think. Yes, if you've quite recovered from
+      your astonishment, Peterson--</p>
+
+    <p lncount="101"><speaker>PETERSON</speaker>
+      <voiceDirect>HE HASN'T</voiceDirect> Sir?</p>
+
+    <p lncount="102"><speaker>HOLMES</speaker>
+      <voiceDirect>AMUSED</voiceDirect> Just run down to the advertisement office and have this put
+      in all the evening papers, will you?</p>
+
+    <p lncount="103"><speaker>PETERSON</speaker> All of them, sir?</p>
+
+    <p lncount="104"><speaker>HOLMES</speaker> All of them. Oh, and by the way, Peterson--?</p>
+
+    <p lncount="105"><speaker>PETERSON</speaker> Sir?</p>
+
+    <p lncount="106"><speaker>HOLMES</speaker> On your way back, just see if you can buy another goose.</p>
+
+    <p lncount="107"><speaker>PETERSON</speaker> Another goose, sir?</p>
+
+    <p lncount="108"><speaker>HOLMES</speaker> Yes, as near as possible the same size as that one that your family
+      is about to devour.</p>
+
+    <p lncount="109"><speaker>PETERSON</speaker> Oh. Oh! Oh, yes, sir. <voiceDirect>CONCERNED</voiceDirect> Um,
+      you're going to keep the stone, sir?</p>
+
+    <p lncount="110"><speaker>HOLMES</speaker> Yes, here in my strong-box. And I'll just drop a note to the
+      Countess to say we found it. Hurry up, Peterson.</p>
+
+    <p lncount="111"><speaker>PETERSON</speaker> Oh, yes, sir! <voiceDirect>MOVING OFF, TO HIMSELF</voiceDirect>
+      Thousand pounds. Cor! Cor, stone the crows.</p>
+
+    <p lncount="112"><speaker>WATSON</speaker> No, no -- the geese, Peterson.</p>
+
+    <p lncount="113">
+      <speaker>HOLMES</speaker>
+      <voiceDirect>CHUCKLES</voiceDirect>
+    </p>
+
+    <p>
+      <stageDirect>DOOR CLOSES</stageDirect>
+    </p>
+
+    <p>
+      <stageDirect>BRIDGE</stageDirect>
+    </p>
+
+    <p lncount="116"><speaker>HOLMES</speaker> Ah, Mr. Henry Baker, if I am not mistaken. Do come in, Mr.
+      Baker.</p>
+
+    <p lncount="117"><speaker>BAKER</speaker> Oh, thank you, sir.</p>
+
+    <p lncount="118"><speaker>HOLMES</speaker> Sit down, won't you? Pray, sit down.</p>
+
+    <p lncount="119"><speaker>BAKER</speaker>
+      <voiceDirect>SITS</voiceDirect> Thank you.</p>
+
+    <p lncount="120"><speaker>HOLMES</speaker> This is my good friend, Dr. Watson.</p>
+
+    <p lncount="121"><speaker>BAKER</speaker> How do you do, sir?</p>
+
+    <p lncount="122"><speaker>WATSON</speaker> How do you do?</p>
+
+    <p lncount="123"><speaker>HOLMES</speaker> Mayn't I help you to a whiskey and soda, Mr. Baker?</p>
+
+    <p lncount="124"><speaker>BAKER</speaker>
+      <voiceDirect>VERY PLEASED</voiceDirect> Oh - oh - oh, thank you. I'll, er-- I'll leave out the
+      soda if I may, Mr. Holmes.</p>
+
+    <p lncount="125"><speaker>HOLMES</speaker>
+      <voiceDirect>WITH A CHUCKLE</voiceDirect> Oh, of course.</p>
+
+    <p>
+      <stageDirect>DRINK POURED</stageDirect>
+    </p>
+
+    <p lncount="127"><speaker>HOLMES</speaker>
+      <voiceDirect>PLEASED</voiceDirect> You see, Watson?</p>
+
+    <p lncount="128"><speaker>WATSON</speaker> Congratulations, Holmes. The very man as you described him.</p>
+
+    <p lncount="129"><speaker>BAKER</speaker> I beg your pardon?</p>
+
+    <p lncount="130"><speaker>WATSON</speaker> Oh, nothing, sir. Forgive us; a private matter.</p>
+
+    <p lncount="131"><speaker>HOLMES</speaker> Now, Mr. Baker, you've come, haven't you, in answer to my
+      advertisement? Er, is this your hat?</p>
+
+    <p lncount="132"><speaker>BAKER</speaker> This? Oh, yes, sir, undoubtedly.</p>
+
+    <p lncount="133"><speaker>HOLMES</speaker> Then pray allow me to return it to you with my compliments. The
+      bird, I am afraid, we've been compelled to eat.</p>
+
+    <p lncount="134"><speaker>BAKER</speaker>
+      <voiceDirect>SHAKEN</voiceDirect> What? Oh, dear.</p>
+
+    <p lncount="135"><speaker>WATSON</speaker> Careful - careful, Mr. Baker. You'll - you'll spill your drink.</p>
+
+    <p lncount="136"><speaker>HOLMES</speaker> It was quite a necessity, I'm afraid, since in these modern days we
+      seem to have lost the art of refrigeration in which our Elizabethan ancestors were so adept.
+      However, there's this other bird here on the sideboard to which you're extremely welcome as a
+      replacement.</p>
+
+    <p lncount="137"><speaker>BAKER</speaker>
+      <voiceDirect>RELIEVED</voiceDirect> That's uncommonly kind of you, sir.</p>
+
+    <p lncount="138"><speaker>HOLMES</speaker> Not at all. <voiceDirect>CAREFULLY</voiceDirect> Of course, er, we
+      still have the feathers and the crop of your own bird, if you'd like to take them, too.</p>
+
+    <p lncount="139"><speaker>BAKER</speaker>
+      <voiceDirect>LAUGHS</voiceDirect> Oh, you're an honest man, sir, but the Disjecta membra of my
+      late acquaintance are hardly likely to be of much use to me.
+        <voiceDirect>CHUCKLES</voiceDirect></p>
+
+    <p lncount="140">
+      <speaker>HOLMES</speaker>
+      <voiceDirect>CHUCKLES</voiceDirect>
+    </p>
+
+    <p lncount="141"><speaker>BAKER</speaker> But - but I will have one more drink, if I may. Very small.</p>
+
+    <p>
+      <stageDirect>DRINK POURED BEHIND--</stageDirect>
+    </p>
+
+    <p lncount="143"><speaker>HOLMES</speaker> Most certainly. Would it trouble you, Mr. Baker, to tell me where
+      you got that uncommonly fine bird of yours?</p>
+
+    <p lncount="144"><speaker>BAKER</speaker> Not at all, sir. I'm a member of a Christmas goose club run by the
+      landlord at the Alpha Inn near the Museum.</p>
+
+    <p lncount="145"><speaker>HOLMES</speaker> The Alpha Inn, Watson.</p>
+
+    <p lncount="146"><speaker>WATSON</speaker>
+      <voiceDirect>POLITELY INTERESTED</voiceDirect> Ah ha.</p>
+
+    <p lncount="147"><speaker>BAKER</speaker> I got it there in exchange for my weekly four pences, which I've
+      been paying since last April.</p>
+
+    <p lncount="148"><speaker>WATSON</speaker> Well, that's good value for twelve shillings, Mr. Baker, eh?
+        <voiceDirect>CHUCKLES</voiceDirect></p>
+
+    <p lncount="149"><speaker>BAKER</speaker> Yes, yes. I really am most grateful to you for your kindness, sir. I
+      was set on by some roughs in the street and I - I lost it.</p>
+
+    <p lncount="150"><speaker>HOLMES</speaker> All's well that ends well, Mr. Baker. We were fortunate enough to
+      find it, so-- Here's your hat.</p>
+
+    <p lncount="151"><speaker>BAKER</speaker> Thank you.</p>
+
+    <p lncount="152"><speaker>HOLMES</speaker> And here is your new bird. Oh, I've put the old ticket onto it --
+      the one that was tied to the other goose's leg -- marked "To Mrs. Henry Baker."</p>
+
+    <p lncount="153"><speaker>BAKER</speaker>
+      <voiceDirect>VERY PLEASED</voiceDirect> Oh, how nice of you. I - I'm much obliged, sir.</p>
+
+    <p lncount="154"><speaker>HOLMES</speaker> Well, not at all. A peace offering, Mr. Baker?</p>
+
+    <p lncount="155"><speaker>BAKER</speaker>
+      <voiceDirect>YES</voiceDirect> A peace offering, sir, in point of fact -- to my better
+      half.</p>
+
+    <p lncount="156"><speaker>HOLMES</speaker> Ah, quite.</p>
+
+    <p lncount="157"><speaker>BAKER</speaker> Good night, sir, and thank you again.</p>
+
+    <p lncount="158"><speaker>WATSON</speaker> Good night.</p>
+
+    <p lncount="159"><speaker>HOLMES</speaker> Good night, Mr. Baker.</p>
+
+    <p lncount="160"><speaker>BAKER</speaker> Good night, sir.</p>
+
+    <p>
+      <stageDirect>DOOR OPENS AND CLOSES AS BAKER EXITS</stageDirect>
+    </p>
+
+    <p>
+      <stageDirect>CHILDREN SING "O COME, ALL YE FAITHFUL" ... FADES IN DURING FOLLOWING ... THEN IN
+        BG--</stageDirect>
+    </p>
+
+    <p lncount="163"><speaker>HOLMES</speaker> Well, well, well. So much for Mr. Henry Baker, Watson.</p>
+
+    <p lncount="164"><speaker>WATSON</speaker> It's quite evident that he was innocent, of course, from the trap
+      you laid -- I mean, about the feathers and the crop.</p>
+
+    <p lncount="165"><speaker>HOLMES</speaker> Yes, evident. I suggest, Watson, that we turn that proposed dinner
+      of ours into a late supper. I'll tell Mrs. Hudson -- she'll forgive us -- and in the meanwhile
+      let's follow up the clew of the Alpha Inn.</p>
+
+    <p lncount="166"><speaker>WATSON</speaker> By all means, Holmes. I confess I'm most intrigued.</p>
+
+    <p lncount="167"><speaker>HOLMES</speaker> Yes, I'm afraid we shall have to battle our way out through those
+      infernal waifs who are making night so hideous on our humble doorstep. Come, Watson -- we've
+      work to do this Christmas Eve.</p>
+
+    <p>
+      <stageDirect>CHILDREN SING "O COME, ALL YE FAITHFUL" ... UP TO FILL A PAUSE ... THEN FADE OUT
+        ... THEN SOLO VIOLIN FOR TRANSITION</stageDirect>
+    </p>
+
+    <p>
+      <stageDirect>NOCTURNAL CITY BACKGROUND</stageDirect>
+    </p>
+
+    <p lncount="170"><speaker>WATSON</speaker>
+      <voiceDirect>NARRATES</voiceDirect> It was a bitter night and so we drew on our Ulsters and
+      wrapped our mufflers about our throats. We swung through the doctors' quarter of Wimpole
+      Street and Harley Street, and so along the great thoroughfare of Oxford Street, where the
+      crowds were thinning now, to Bloomsbury. And there, in a forgotten corner, we found the Alpha
+      Inn -- and from the rosy landlord learnt that the geese for his Christmas club had come from a
+      dealer named Breckinridge in Covent Garden.</p>
+
+    <p>
+      <stageDirect>MARKET BACKGROUND <voiceDirect>HORSES, CABS, PEOPLE, ET CETERA</voiceDirect> ...
+        HOLMES AND WATSON'S STEPS APPROACH AND STOP</stageDirect>
+    </p>
+
+    <p lncount="172"><speaker>WATSON</speaker> Yes! Here's the market, Holmes. What was the name of the goose
+      dealer?</p>
+
+    <p lncount="173"><speaker>HOLMES</speaker> Breckinridge, Watson. Here, there it is -- you see? The largest
+      stall of the lot. There's the name written up over it.</p>
+
+    <p lncount="174"><speaker>WATSON</speaker> Yes! Just in time: they're closing up. Hmmm! Horsy-looking fella,
+      isn't he?</p>
+
+    <p lncount="175"><speaker>HOLMES</speaker> What's that you say? Horsy? <voiceDirect>PLEASED</voiceDirect> Good
+      for you, Watson. That fact might come in useful. <voiceDirect>BEAT, WINNINGLY</voiceDirect>
+      Ah, good evening, Mr. Breckinridge. Mm, it's a cold night.</p>
+
+    <p lncount="176"><speaker>BRECKINRIDGE</speaker>
+      <voiceDirect>CURT</voiceDirect> Yeah, cold enough, I reckon. Glad to get finished.</p>
+
+    <p lncount="177"><speaker>HOLMES</speaker> Sold out of geese, I see.</p>
+
+    <p lncount="178"><speaker>BRECKINRIDGE</speaker> Let you have five hundred tomorrow morning.</p>
+
+    <p lncount="179"><speaker>HOLMES</speaker> Ah, that's no good, I'm afraid. We want one tonight.</p>
+
+    <p lncount="180"><speaker>BRECKINRIDGE</speaker> Here, there's some on that stall over there with the
+      gas-flare. Now, excuse me, sir.</p>
+
+    <p lncount="181"><speaker>WATSON</speaker> Well, we were recommended to you particularly, Mr.
+      Breckinridge.</p>
+
+    <p lncount="182"><speaker>BRECKINRIDGE</speaker> Oh? Who by?</p>
+
+    <p lncount="183"><speaker>WATSON</speaker> By the landlord of the Alpha Inn in Bloomsbury.</p>
+
+    <p lncount="184"><speaker>HOLMES</speaker> Yes, you supplied him with some incomparable birds, he told us.
+      Where did you get them from, by the way?</p>
+
+    <p lncount="185"><speaker>BRECKINRIDGE</speaker>
+      <voiceDirect>ANNOYED</voiceDirect> Now look here! What exactly are you drivin' at, mister?</p>
+
+    <p lncount="186"><speaker>HOLMES</speaker> Why, nothing, only that I wanted to know who sold you those
+      geese.</p>
+
+    <p lncount="187"><speaker>BRECKINRIDGE</speaker>
+      <voiceDirect>DEFIANT</voiceDirect> I'm dashed if I'll tell you, then! You're another one to
+      pester me, are ya?</p>
+
+    <p lncount="188"><speaker>HOLMES</speaker> Another one? What do you mean?</p>
+
+    <p lncount="189"><speaker>BRECKINRIDGE</speaker>
+      <voiceDirect>EXPLODES</voiceDirect> When I pay good money for a thing, that should be the end
+      of it I say. But it's "where are those geese?" and "who did you sell those geese to?" till I'm
+      sick of it! You'd think that lot were the only geese in the world the way some folk keep on at
+      me about 'em!</p>
+
+    <p lncount="190"><speaker>HOLMES</speaker>
+      <voiceDirect>LIGHTLY</voiceDirect> Well, I can assure you that we've nothing to do with any
+      other people who've been making inquiries, Mr. Breckinridge. In fact, all I'm concerned with--
+        <voiceDirect>CHUCKLE</voiceDirect> --is a little bet I've made.</p>
+
+    <p lncount="191"><speaker>BRECKINRIDGE</speaker>
+      <voiceDirect>INTERESTED</voiceDirect> A bet?</p>
+
+    <p lncount="192"><speaker>HOLMES</speaker> Just so. I'm always ready to back my opinion and I bet a fiver with
+      my friend the doctor here that the bird we et from the Alpha Inn was country bred.</p>
+
+    <p lncount="193"><speaker>BRECKINRIDGE</speaker> You've lost your fiver then, 'cause it was town bred.</p>
+
+    <p lncount="194"><speaker>HOLMES</speaker> No-no-no, it was nothing of the kind.</p>
+
+    <p lncount="195"><speaker>BRECKINRIDGE</speaker>
+      <voiceDirect>EXPLODES</voiceDirect> It was, I tell you! Cor, do you think you know more about
+      fowls than I do when I've been in the trade, man and boy, for--?</p>
+
+    <p lncount="196"><speaker>HOLMES</speaker>
+      <voiceDirect>INTERRUPTS</voiceDirect> I tell you, it's country bred.</p>
+
+    <p lncount="197"><speaker>BRECKINRIDGE</speaker> It's town! Here, will you take a bet with me, too?</p>
+
+    <p lncount="198"><speaker>HOLMES</speaker> With pleasure. A sovereign. Every penny of it.</p>
+
+    <p lncount="199"><speaker>BRECKINRIDGE</speaker> Right! It's on now! Where's that ruddy book of mine? Haha!
+      Here it is. Here. Just look in here, Mr. Cocksure!</p>
+
+    <p>
+      <stageDirect>BOOK OPENED, PAGES FLIPPED</stageDirect>
+    </p>
+
+    <p lncount="201"><speaker>HOLMES</speaker> Well, what's this?</p>
+
+    <p lncount="202"><speaker>BRECKINRIDGE</speaker> That's the list of the folk I buy from, see? And what I do
+      with the stuff when I've bought it. Now then, look at that line there. Do you see?</p>
+
+    <p lncount="203"><speaker>HOLMES</speaker> Can you see it, Watson, in this light?</p>
+
+    <p lncount="204"><speaker>WATSON</speaker> Yes, yes. "Mrs. Oakshott," isn't it?</p>
+
+    <p lncount="205"><speaker>BRECKINRIDGE</speaker> That's right, Mrs. Oakshott. And what's the address, eh?</p>
+
+    <p lncount="206"><speaker>WATSON</speaker>
+      <voiceDirect>READS</voiceDirect> "A Hundred-and-Seventeen Brixton Road, egg and poultry
+      supplier."</p>
+
+    <p lncount="207"><speaker>BRECKINRIDGE</speaker>
+      <voiceDirect>TRIUMPHANT, TO HOLMES</voiceDirect> Brixton Road, Mr. High and Mighty!
+        <voiceDirect>TO WATSON</voiceDirect> And what's the last entry under it, eh?</p>
+
+    <p lncount="208"><speaker>WATSON</speaker>
+      <voiceDirect>READS</voiceDirect> "December the twenty-second. Twenty-four geese at seven and
+      six."</p>
+
+    <p lncount="209"><speaker>BRECKINRIDGE</speaker> And who were they sold to, eh?</p>
+
+    <p lncount="210"><speaker>WATSON</speaker>
+      <voiceDirect>READS</voiceDirect> "Sold to Mr. Windigate of the Alpha at twelve shillings."</p>
+
+    <p lncount="211"><speaker>BRECKINRIDGE</speaker> Right! <voiceDirect>TO HOLMES</voiceDirect> And so what do
+      you say now, Mr. Bloomin' Poultry Fancier?!</p>
+
+    <p lncount="212"><speaker>HOLMES</speaker>
+      <voiceDirect>CHUCKLES RUEFULLY</voiceDirect> Well, I must say, I could have sworn it was
+      country bred. All right, you win, Mr. Breckinridge.</p>
+
+    <p lncount="213">
+      <speaker>BRECKINRIDGE</speaker>
+      <voiceDirect>CACKLES HAPPILY</voiceDirect>
+    </p>
+
+    <p lncount="214"><speaker>HOLMES</speaker> There's your sovereign.</p>
+
+    <p lncount="215"><speaker>BRECKINRIDGE</speaker> Thank you.</p>
+
+    <p lncount="216"><speaker>HOLMES</speaker> Come along, doctor. I owe you five, I think.</p>
+
+    <p lncount="217"><speaker>WATSON</speaker>
+      <voiceDirect>PLEASED</voiceDirect> Yes, you do!</p>
+
+    <p lncount="218"><speaker>BRECKINRIDGE</speaker> Easy money, that's what I say! Haha! Well, good evening,
+      gents! A merry Christmas to ye!</p>
+
+    <p lncount="219"><speaker>HOLMES</speaker>
+      <voiceDirect>MOVING OFF, CHEERFUL</voiceDirect> Good evening, Mr. Breckinridge.
+        <voiceDirect>BEAT, ON MIKE, THOUGHTFUL</voiceDirect> Well, Watson, let's stand here by the
+      gas lamp for a moment. I want to think.</p>
+
+    <p>
+      <stageDirect>VOICES OF BRECKINRIDGE AND RYDER ARGUE VIOLENTLY, SLIGHTLY OFF</stageDirect>
+    </p>
+
+    <p lncount="221"><speaker>BRECKINRIDGE</speaker> I tell you, I don't know nothin' about it!</p>
+
+    <p lncount="222"><speaker>RYDER</speaker> Well, you ruddy well ought to, then!</p>
+
+    <p lncount="223"><speaker>BRECKINRIDGE</speaker> You get of out of here, I say!</p>
+
+    <p lncount="224"><speaker>RYDER</speaker> I'll stay where I want to!</p>
+
+    <p lncount="225"><speaker>BRECKINRIDGE</speaker> You'll what?</p>
+
+    <p>
+      <stageDirect>ARGUMENT CONTINUES, INDECIPHERABLY, IN BG</stageDirect>
+    </p>
+
+    <p lncount="227"><speaker>HOLMES</speaker> Hello, what's going on?</p>
+
+    <p lncount="228"><speaker>WATSON</speaker> There's some kind of a quarrel, Holmes, back there at
+      Breckinridge's stall.</p>
+
+    <p lncount="229"><speaker>HOLMES</speaker>
+      <voiceDirect>PLEASED</voiceDirect> Oh, yes. So there is. Let's see what's the matter.</p>
+
+    <p lncount="230"><speaker>WATSON</speaker> Look. Look, that little rat-faced fellow -- do you see?
+      Breckinridge is threatening him.</p>
+
+    <p>
+      <stageDirect>ARGUING VOICES OF BRECKINRIDGE AND RYDER GROW LOUDER ... MURMUR OF ONLOOKERS
+        HOPING FOR A FIGHT, IN BG</stageDirect>
+    </p>
+
+    <p lncount="232"><speaker>BRECKINRIDGE</speaker> Now, I tell you, I've had enough of you -- and your bloomin'
+      geese!</p>
+
+    <p lncount="233"><speaker>RYDER</speaker> I was only asking ye.</p>
+
+    <p lncount="234"><speaker>BRECKINRIDGE</speaker> Yeah, well, you've asked the same before and you got the same
+      ruddy answer! You and anybody else!</p>
+
+    <p lncount="235"><speaker>RYDER</speaker> One of them geese was mine, I say.</p>
+
+    <p lncount="236"><speaker>BRECKINRIDGE</speaker> Well, you can ask Mrs. Bloomin' Oakshott for it.</p>
+
+    <p lncount="237"><speaker>RYDER</speaker> She told me to ask you!</p>
+
+    <p lncount="238"><speaker>BRECKINRIDGE</speaker> Yeah? Then you can ask the King of Prussia for all I care!
+      You get off now. Go on, or I'll knock your teeth out, mind ye.</p>
+
+    <p lncount="239"><speaker>ONLOOKERS</speaker> "Here, here!" "He's goin'!" "Give it to them teeth, honey
+      boy!</p>
+
+    <p lncount="240"><speaker>BRECKINRIDGE</speaker> Go on, ya bloomin' nosy parker, ye!</p>
+
+    <p>
+      <stageDirect>ONLOOKERS LAUGH AND FADE OUT DURING FOLLOWING, REPLACED BY CITY TRAFFIC
+        BACKGROUND--</stageDirect>
+    </p>
+
+    <p lncount="242"><speaker>HOLMES</speaker>
+      <voiceDirect>QUIETLY DELIGHTED</voiceDirect> The little fellow's coming this way, Watson. It
+      looks as if we've saved our trip to Brixton.</p>
+
+    <p lncount="243"><speaker>WATSON</speaker> You want me to collar him?</p>
+
+    <p lncount="244"><speaker>HOLMES</speaker> Stand by if he gets nasty. He looks a bit of a shrimp, though; not
+      much trouble. <voiceDirect>CALLS, TO RYDER</voiceDirect> Here, my man! Not so fast. I'd just
+      like a word with you.</p>
+
+    <p lncount="245"><speaker>RYDER</speaker>
+      <voiceDirect>STARTLED</voiceDirect> What? Here, who are you? What do you want?</p>
+
+    <p lncount="246"><speaker>HOLMES</speaker> I couldn't help overhearing your little disagreement with the good
+      salesman over there, and I think I might be able to assist you.</p>
+
+    <p lncount="247"><speaker>RYDER</speaker> How do you mean? How could you know anything? Who are you, eh?</p>
+
+    <p lncount="248"><speaker>HOLMES</speaker> My name is Sherlock Holmes, and it's my business to know what other
+      people don't know.</p>
+
+    <p lncount="249"><speaker>RYDER</speaker>
+      <voiceDirect>DISMISSIVE</voiceDirect> Well, you can't know anything about this.</p>
+
+    <p lncount="250"><speaker>HOLMES</speaker> On the contrary. You're trying to trace some geese, which were sold
+      by a Mrs. Oakshott, to that man there, who sold them to the landlord of the Alpha Inn, who got
+      rid of them through his goose club, of which Mr. Henry Baker is a member.</p>
+
+    <p lncount="251"><speaker>RYDER</speaker>
+      <voiceDirect>ASTONISHED</voiceDirect> What?! Why, you're the very man I've been looking for,
+      Mr. Holmes. Oh, I can hardly tell you how much it means to me.</p>
+
+    <p lncount="252"><speaker>HOLMES</speaker> Watson, be good enough to signal for a four-wheeler, will you?</p>
+
+    <p lncount="253"><speaker>WATSON</speaker> Yes, certainly. <voiceDirect>CALLS</voiceDirect> Cabbie!</p>
+
+    <p lncount="254"><speaker>HOLMES</speaker> I think, my friend, we'd better discuss this whole matter in some
+      cozy place rather than in the crowded street. We'll go to my room, shall we? Oh, what's your
+      name, may I ask?</p>
+
+    <p lncount="255"><speaker>RYDER</speaker>
+      <voiceDirect>UNCONVINCING</voiceDirect> My name's, er, Robinson. John Robinson.</p>
+
+    <p lncount="256"><speaker>HOLMES</speaker> No-no-no, the real name. It's always so awkward doing business with
+      an alias.</p>
+
+    <p lncount="257"><speaker>RYDER</speaker> All right then. James Ryder.</p>
+
+    <p lncount="258"><speaker>HOLMES</speaker> Ah! Head attendant at the Hotel Cosmopolitan, I believe.</p>
+
+    <p lncount="259"><speaker>RYDER</speaker> Yeh.</p>
+
+    <p lncount="260"><speaker>HOLMES</speaker> Quite so. You have the cab, Watson?</p>
+
+    <p lncount="261"><speaker>WATSON</speaker> Just coming over, Holmes.</p>
+
+    <p lncount="262"><speaker>HOLMES</speaker> Splendid, splendid. Now, would you mind just standing on Mr.
+      Ryder's other side and, er-- <voiceDirect>LOWERS HIS VOICE</voiceDirect> --just take him by
+      the arm, will you? He might have a fancy to go for a little walk.</p>
+
+    <p>
+      <stageDirect>SCENE FADES OUT ... TRANSITIONAL PAUSE ... SCENE FADES IN</stageDirect>
+    </p>
+
+    <p lncount="264"><speaker>HOLMES</speaker> Well now, here we are. The fire looks very seasonable in this
+      weather. Do put some more coal on, would you, Watson?</p>
+
+    <p>
+      <stageDirect>COAL ON FIRE</stageDirect>
+    </p>
+
+    <p lncount="266"><speaker>HOLMES</speaker> Now then, pray take the basket-chair, Mr. Ryder. You look
+      chilly.</p>
+
+    <p lncount="267"><speaker>WATSON</speaker> I'll make some more punch I think, Holmes. We could all do with a
+      warming.</p>
+
+    <p lncount="268"><speaker>HOLMES</speaker> Thank you, Watson, if you will! You'll find the lemons behind you
+      on the gasogene stand.</p>
+
+    <p lncount="269"><speaker>WATSON</speaker> And the nutmeg scraper?</p>
+
+    <p lncount="270"><speaker>HOLMES</speaker> There, behind the Persian slipper. Oh, you might hand it to me,
+      will you, dear fellow? I'd like some tobacco.</p>
+
+    <p lncount="271"><speaker>WATSON</speaker> Certainly.</p>
+
+    <p lncount="272"><speaker>HOLMES</speaker> Thank you so much. Well now, Mr. Ryder--</p>
+
+    <p lncount="273"><speaker>RYDER</speaker> Yes, sir?</p>
+
+    <p lncount="274"><speaker>HOLMES</speaker> You, er-- You want to know what became of those geese, Mr. Ryder --
+      or rather of that goose, for I fancy it was only one that you were interested in: a white one
+      with a black bar across its tail.</p>
+
+    <p lncount="275"><speaker>RYDER</speaker>
+      <voiceDirect>ANXIOUS</voiceDirect> Oh, if you could only tell me, sir, I'd be that grateful.
+      It's really mine, you see, sir. It was sold by mistake.</p>
+
+    <p lncount="276"><speaker>HOLMES</speaker>
+      <voiceDirect>LAUGHS BRIEFLY</voiceDirect> And a most remarkable bird, if I may say so, Mr.
+      Ryder. Watson, hand me over my strong-box, if you please.</p>
+
+    <p>
+      <stageDirect>STRONG-BOX HANDED OVER</stageDirect>
+    </p>
+
+    <p lncount="278"><speaker>HOLMES</speaker> Ah, that bird laid an egg after it was dead, Mr. Ryder.</p>
+
+    <p lncount="279"><speaker>RYDER</speaker> What?</p>
+
+    <p lncount="280"><speaker>HOLMES</speaker> The bonniest, brightest little blue egg that ever was seen. I have
+      it here.</p>
+
+    <p>
+      <stageDirect>STRONG-BOX UNLOCKS AND OPENS</stageDirect>
+    </p>
+
+    <p lncount="282"><speaker>RYDER</speaker>
+      <voiceDirect>STAGGERED</voiceDirect> Cor, merciful heaven!</p>
+
+    <p lncount="283"><speaker>HOLMES</speaker> The game's up, Ryder.</p>
+
+    <p lncount="284">
+      <speaker>RYDER</speaker>
+      <voiceDirect>COUGHS, BREATHES HEAVILY, IN BG</voiceDirect>
+    </p>
+
+    <p lncount="285"><speaker>WATSON</speaker> Steady, man, steady -- or you'll be in the fire.</p>
+
+    <p lncount="286"><speaker>HOLMES</speaker> Hang on to him, Watson!</p>
+
+    <p lncount="287"><speaker>WATSON</speaker> It's all right, Holmes, I've got him. Almost fainting, poor devil.
+      I'll get him a brandy.</p>
+
+    <p lncount="288"><speaker>HOLMES</speaker> Poor devil, hey? Heavens, what a worm the fellow is. He's not got
+      blood enough to go in for felony.</p>
+
+    <p>
+      <stageDirect>DRINK HANDED OVER</stageDirect>
+    </p>
+
+    <p lncount="290"><speaker>WATSON</speaker> Well, there you are, my man. Drink it up.</p>
+
+    <p lncount="291"><speaker>RYDER</speaker>
+      <voiceDirect>DRINKS, EXHALES</voiceDirect> Oh, thank you, sir. Thank you, sir. <voiceDirect>IN
+        DESPAIR</voiceDirect> Ohhhh, what have I done? What have I done?</p>
+
+    <p lncount="292"><speaker>HOLMES</speaker> You know perfectly well what you've done, Ryder. It only needs one
+      or two more links, Watson, to make the case complete. Now then, Ryder, who told you of the
+      Countess of Morcar's jewel, the blue carbuncle?</p>
+
+    <p lncount="293"><speaker>RYDER</speaker> It was Catherine Cusack, sir. I swear it was her idea.</p>
+
+    <p lncount="294"><speaker>WATSON</speaker> The countess's waiting-maid, Holmes!</p>
+
+    <p lncount="295"><speaker>HOLMES</speaker> Exactly. And so you invented some excuse to send that unfortunate
+      young Horner into the countess's hotel room -- and after he was gone, you rifled the
+      jewel-case, raised the alarm, and put the blame onto him.</p>
+
+    <p lncount="296"><speaker>RYDER</speaker> Yes, sir, I did, sir.</p>
+
+    <p lncount="297"><speaker>HOLMES</speaker>
+      <voiceDirect>JUST AS HE THOUGHT</voiceDirect> Ah.</p>
+
+    <p lncount="298"><speaker>RYDER</speaker>
+      <voiceDirect>WILDLY</voiceDirect> Oh, for heaven's sake, have mercy, Mr. Holmes. I - I never
+      went wrong before. It was Cathy was to blame! Please, sir--</p>
+
+    <p lncount="299"><speaker>HOLMES</speaker> Get up off the floor, man! It's no good kneeling to me. You didn't
+      show much mercy to Horner, did you?</p>
+
+    <p lncount="300"><speaker>RYDER</speaker> I - I'll leave the country, sir. The charge will break down against
+      him.</p>
+
+    <p lncount="301"><speaker>HOLMES</speaker> Get up. Get up! Watson, help him onto his feet, for heaven's
+      sake.</p>
+
+    <p lncount="302"><speaker>WATSON</speaker> What I want to know is how the stone got into the goose, Ryder.
+      There, man -- take another drink.</p>
+
+    <p lncount="303"><speaker>RYDER</speaker>
+      <voiceDirect>DRINKS, EXHALES, CALMER</voiceDirect> Well, it - it was all a mistake, you see,
+      sir. Once I had it, I wanted to hide it somewhere. It seemed to burn a hole in me pocket. So I
+      went to my sister's, you see, to think things out--</p>
+
+    <p lncount="304"><speaker>HOLMES</speaker>
+      <voiceDirect>INTERRUPTS</voiceDirect> Your sister?</p>
+
+    <p lncount="305"><speaker>RYDER</speaker> Maggie. She married a man called Oakshott.</p>
+
+    <p lncount="306"><speaker>HOLMES</speaker> Aha.</p>
+
+    <p lncount="307"><speaker>RYDER</speaker> She fattens fowls for the market at Brixton.</p>
+
+    <p lncount="308"><speaker>WATSON</speaker> Ah, Oakshott, eh?</p>
+
+    <p lncount="309"><speaker>RYDER</speaker> Well, I was thinking it out in our yard, see -- smokin' a pipe like
+      -- and I remembered that Maggie had promised me a bird for Christmas, so-- Well, I had an
+      idea.</p>
+
+    <p lncount="310"><speaker>HOLMES</speaker> Ah, you forced the stone down the bird's throat.</p>
+
+    <p lncount="311"><speaker>RYDER</speaker>
+      <voiceDirect>EXHALES</voiceDirect> Yes, sir. Well, just then, Maggie come out to see what I
+      was up to and the bird got free for a minute, but I went and caught it again, and Maggie and I
+      killed it. I had a notion to take the stone to a chap I know up in Kilburn that told me once
+      he knew how to get rid of stolen property. And I thought it would be safe from any search in
+      the bird's crop, you see, sir, even if the police did take it into their hands to stop me.
+      They weren't all that certain about Horner, you see.</p>
+
+    <p lncount="312"><speaker>WATSON</speaker> Aha -- and when you got to Kilburn, it wasn't there.</p>
+
+    <p lncount="313"><speaker>RYDER</speaker> No, sir. So I rushed back to Maggie. By that time all the other
+      birds had gone to market, see? There was two of 'em with barred tails, you see, sir. I'd
+      caught the wrong one after it'd got away. I've been at that stall at the Garden ever since,
+      trying to find out where it had gone. <voiceDirect>IN DESPAIR AGAIN</voiceDirect> Oh, Mr.
+      Holmes--!</p>
+
+    <p lncount="314"><speaker>WATSON</speaker> Ah! Well, what are you going to do, Holmes?</p>
+
+    <p lncount="315"><speaker>HOLMES</speaker>
+      <voiceDirect>MOVING TO THE DOOR, SLOW AND THOUGHTFUL</voiceDirect> I'm not quite sure, but I
+      think, all things considered, it might be best to--</p>
+
+    <p>
+      <stageDirect>DOOR OPENS</stageDirect>
+    </p>
+
+    <p lncount="317"><speaker>HOLMES</speaker>
+      <voiceDirect>SHARPLY</voiceDirect> --get out, Ryder!</p>
+
+    <p lncount="318"><speaker>RYDER</speaker>
+      <voiceDirect>CONFUSED</voiceDirect> What? You mean--?</p>
+
+    <p lncount="319"><speaker>HOLMES</speaker> I mean get out, man!</p>
+
+    <p lncount="320"><speaker>RYDER</speaker>
+      <voiceDirect>RELIEVED</voiceDirect> Oh, heaven bless you, Mr. Holmes!</p>
+
+    <p lncount="321"><speaker>HOLMES</speaker> I don't want to hear any more from you; get out.</p>
+
+    <p lncount="322"><speaker>RYDER</speaker> Oh, thank you, Mr. Holmes--</p>
+
+    <p lncount="323"><speaker>HOLMES</speaker> Get out!</p>
+
+    <p lncount="324"><speaker>RYDER</speaker> -- and heaven bless you, sir.</p>
+
+    <p>
+      <stageDirect>DOOR SHUTS AS RYDER EXITS ... HOLMES STEPS TO WATSON</stageDirect>
+    </p>
+
+    <p lncount="326"><speaker>HOLMES</speaker>
+      <voiceDirect>QUIETLY CONTEMPLATIVE</voiceDirect> Well, well! A most singular and whimsical
+      business, my dear Watson.</p>
+
+    <p lncount="327"><speaker>WATSON</speaker> Ah, my dear Holmes, shouldn't you have turned him in?</p>
+
+    <p lncount="328"><speaker>HOLMES</speaker> Well, when all is said and done, Watson, I'm really not retained by
+      the police to supplement their deficiencies. As soon as I send the stone back, the case
+      against Horner will collapse at once. There'll be no witness.</p>
+
+    <p lncount="329"><speaker>WATSON</speaker> But you're committing a felony, you know.</p>
+
+    <p lncount="330"><speaker>HOLMES</speaker>
+      <voiceDirect>LIGHTLY</voiceDirect> Well, it's just possible that I'm also saving a soul. I
+      don't believe he'll go wrong again. <voiceDirect>WITH A CHUCKLE</voiceDirect> He's too scared.
+      Besides, Watson--</p>
+
+    <p>
+      <stageDirect>DISTANT CLOCK STARTS TO CHIME MIDNIGHT, IN BG</stageDirect>
+    </p>
+
+    <p lncount="332"><speaker>WATSON</speaker> What?</p>
+
+    <p lncount="333"><speaker>HOLMES</speaker> Well, this is the season of forgiveness, man.
+        <voiceDirect>BEAT</voiceDirect> Listen. Twelve o'clock! It's Christmas Day.
+        <voiceDirect>BEAT</voiceDirect> Oh, pass me some of that delicious punch of yours, won't
+      you? And tell me you forgive me, too.</p>
+
+    <p lncount="334"><speaker>WATSON</speaker>
+      <voiceDirect>AMUSED</voiceDirect> Forgive you? In heaven's name, for what?</p>
+
+    <p>
+      <stageDirect>MANY JOYOUS RINGING CHURCH BELLS JOIN THE CHIMING ... THEN CONTINUE IN
+        BG</stageDirect>
+    </p>
+
+    <p lncount="336"><speaker>HOLMES</speaker> For being so surly yesterday morning when you offered me the
+      compliments of the season. I return them now with all my heart. And here's your health, old
+      friend, with my glass upraised. A merry Christmas, my dear Watson.</p>
+
+    <p lncount="337"><speaker>WATSON</speaker> A merry Christmas, Holmes!</p>
+
+    <p lncount="338"><speaker>HOLMES</speaker> God save her gracious Majesty.</p>
+
+    <p lncount="339"><speaker>WATSON</speaker> Amen!</p>
+
+    <p>
+      <stageDirect>GLASSES CLINK ... THEN BELLS, UP BIG FOR A CURTAIN ... THEN SLOWLY FADE
+        OUT</stageDirect>
+    </p>
+
+    <p lncount="341"><speaker>ANNOUNCER</speaker> "The Adventures of Sherlock Holmes," based on the original
+      stories of Sir Arthur Conan Doyle, have been dramatized anew, with original music composed by
+      Sidney Torch. Sir Ralph Richardson played the part of Dr. Watson and Sir John Gielgud that of
+      Sherlock Holmes. The program was produced by Harry Alan Towers.</p>
+
+    <p>
+      <stageDirect>THEME ... SOLO VIOLIN ... UNTIL END</stageDirect>
+    </p>
+  </script>
+</xml>

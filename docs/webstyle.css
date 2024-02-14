@@ -19,6 +19,17 @@ li {
     float: left;
 }
 
+ul.contact {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #BD906E;
+}
+
+li.contact {
+    float: left;
+}
 a {
     display: block;
     color:#2C2B2C;
